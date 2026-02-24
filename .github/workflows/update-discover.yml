@@ -2,10 +2,8 @@ name: Update Discover Cache
 
 on:
   schedule:
-    # Every 30 minutes on weekdays
-    - cron: '*/30 * * * 1-5'
-    # Every hour on weekends
-    - cron: '0 * * * 0,6'
+    # Every 5 minutes, all days
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 permissions:
