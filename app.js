@@ -143,7 +143,7 @@
   function cleanTitle(title) {
     if (!title) return '';
     return title
-      .replace(/\s*[–—-]\s*(The\s+)?(Washington Post|New York Times|Wall Street Journal|WSJ|NYT).*$/i, '')
+      .replace(/\s*[\u2013\u2014-]\s*(The\s+)?(Washington Post|New York Times|Wall Street Journal|WSJ|NYT).*$/i, '')
       .replace(/^(Opinion|Editorial|Analysis|Commentary)\s*[|:]\s*/i, '')
       .trim();
   }
@@ -283,6 +283,7 @@
         <div class="card-meta">
           <span class="meta-src">${escapeHtml(story.source || '')}</span>
           ${story.topic ? `<span class="topic-tag tag-${story.topic}">${story.topic === 'tech' ? 'Tech & Science' : story.topic === 'finance' ? 'Finance' : 'Top'}</span>` : ''}
+          ${story.sourceCount ? `<span>${escapeHtml(story.sourceCount)}</span>` : ''}
           <span>${timeAgo(story.pubDate)}</span>
         </div>
         ${story.description ? `<div class="card-desc">${escapeHtml(truncate(story.description, 200))}</div>` : ''}
@@ -302,6 +303,13 @@
 
     if (state.discoverFilter !== 'all') {
       stories = stories.filter(s => s.topic === state.discoverFilter);
+    } else {
+      // "All" shows all 3 topics sorted chronologically (most recent first)
+      stories = [...stories].sort((a, b) => {
+        const da = a.pubDate ? new Date(a.pubDate).getTime() : 0;
+        const db = b.pubDate ? new Date(b.pubDate).getTime() : 0;
+        return db - da;  // descending = most recent first
+      });
     }
 
     document.getElementById('discover-count').textContent = stories.length;
