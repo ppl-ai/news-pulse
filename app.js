@@ -121,12 +121,31 @@
       .filter(w => w.length > 2 && !STOP_WORDS.has(w));
   }
 
-  // ========== OP-ED DETECTION ==========
-  const OPED_PATTERNS = ['opinion', 'editorial', 'commentary', 'review', 'letters to the editor'];
+  // ========== OP-ED / ROUNDUP DETECTION ==========
+  const OPED_PATTERNS = ['opinion', 'editorial', 'commentary', 'analysis', 'letters to the editor', 'review'];
 
   function isOpEd(title) {
     const lower = (title || '').toLowerCase();
-    return OPED_PATTERNS.some(p => lower.includes(p));
+    if (/^(opinion|editorial|analysis|commentary|review)\s*[|:]/i.test(title)) return true;
+    return OPED_PATTERNS.some(p => lower.startsWith(p + ' '));
+  }
+
+  function isRoundup(title) {
+    const lower = (title || '').toLowerCase();
+    return /\bmarket\s*talk\b/i.test(lower)
+      || /\bbriefing\s*[|:]/i.test(lower)
+      || /\bwhat\s+to\s+watch\b/i.test(lower)
+      || /\bwhat('s| is)\s+happening\b/i.test(lower)
+      || /\bmorning\s+(brief|digest|report)\b/i.test(lower);
+  }
+
+  // Strip publisher suffixes and opinion prefixes from titles for cleaner matching
+  function cleanTitle(title) {
+    if (!title) return '';
+    return title
+      .replace(/\s*[–—-]\s*(The\s+)?(Washington Post|New York Times|Wall Street Journal|WSJ|NYT).*$/i, '')
+      .replace(/^(Opinion|Editorial|Analysis|Commentary)\s*[|:]\s*/i, '')
+      .trim();
   }
 
   // ========== PUBLISHER NORMALIZATION ==========
@@ -140,17 +159,20 @@
 
   // ========== GAP ANALYSIS ==========
   function computeGaps() {
+    // Use cleaned titles for keyword extraction so publisher suffixes don't pollute matching
     const perplexityKWs = state.discoverStories.map(s => ({
-      keywords: extractKeywords(s.title),
+      keywords: extractKeywords(cleanTitle(s.title)),
       title: s.title
     }));
 
     const allCompetitor = [];
     for (const [feedId, items] of Object.entries(state.feedData)) {
       (items || []).forEach(item => {
-        if (!isOpEd(item.title)) {
+        // Filter out opinion/editorial AND roundup-style content
+        if (!isOpEd(item.title) && !isRoundup(item.title)) {
           allCompetitor.push({
             ...item,
+            cleanedTitle: cleanTitle(item.title),
             feedId,
             publisher: normalizePublisher(item.source || FEED_CONFIGS[feedId]?.name || feedId)
           });
@@ -160,7 +182,7 @@
 
     const gaps = [];
     allCompetitor.forEach(story => {
-      const storyKWs = extractKeywords(story.title);
+      const storyKWs = extractKeywords(story.cleanedTitle);
       if (storyKWs.length === 0) return;
 
       let isCovered = false;
@@ -176,26 +198,47 @@
       if (!isCovered) gaps.push(story);
     });
 
+    // Group similar stories using cleaned titles for better cross-outlet deduplication
     const grouped = {};
     gaps.forEach(g => {
-      const key = extractKeywords(g.title).sort().join('|');
-      if (!grouped[key]) {
-        grouped[key] = { ...g, publishers: new Set(), allStories: [] };
+      const gKWs = extractKeywords(g.cleanedTitle).sort();
+      const key = gKWs.join('|');
+
+      // Try to merge with an existing group if keywords overlap significantly
+      let merged = false;
+      for (const [existingKey, group] of Object.entries(grouped)) {
+        const existingKWs = existingKey.split('|');
+        const overlap = gKWs.filter(kw => existingKWs.includes(kw));
+        if (overlap.length >= 2 && overlap.length / Math.min(gKWs.length, existingKWs.length) >= 0.4) {
+          group.publishers.add(g.publisher);
+          group.allStories.push(g);
+          merged = true;
+          break;
+        }
       }
-      grouped[key].publishers.add(g.publisher);
-      grouped[key].allStories.push(g);
+
+      if (!merged) {
+        grouped[key] = { ...g, publishers: new Set([g.publisher]), allStories: [g] };
+      }
     });
 
-    const ranked = Object.values(grouped).map(g => ({
-      title: g.title,
-      link: g.link,
-      description: g.description,
-      publishers: [...g.publishers],
-      buzzScore: g.publishers.size,
-      relevanceScore: extractKeywords(g.title).reduce((acc, kw) => {
-        return acc + gaps.filter(s => extractKeywords(s.title).includes(kw)).length;
-      }, 0)
-    }));
+    // Build relevance index once instead of re-extracting per keyword
+    const allGapKWs = gaps.map(g => extractKeywords(g.cleanedTitle));
+
+    const ranked = Object.values(grouped).map(g => {
+      const cleaned = cleanTitle(g.title);
+      const kws = extractKeywords(cleaned);
+      return {
+        title: cleaned,
+        link: g.link,
+        description: g.description,
+        publishers: [...g.publishers],
+        buzzScore: g.publishers.size,
+        relevanceScore: kws.reduce((acc, kw) => {
+          return acc + allGapKWs.filter(gapKWs => gapKWs.includes(kw)).length;
+        }, 0)
+      };
+    });
 
     ranked.sort((a, b) => {
       if (b.buzzScore !== a.buzzScore) return b.buzzScore - a.buzzScore;
@@ -208,11 +251,10 @@
 
   function isStoryAGap(title) {
     if (!state.highlightGaps) return false;
-    // Only highlight stories that appear in the top 10 gap results
-    // This ensures only genuinely important, multi-outlet gaps get red dots
     if (state.gapResults.length === 0) computeGaps();
+    // Only highlight stories that match top 10 multi-outlet gaps
     const topGaps = state.gapResults.slice(0, 10);
-    const titleKWs = extractKeywords(title);
+    const titleKWs = extractKeywords(cleanTitle(title));
     if (titleKWs.length === 0) return false;
 
     for (const gap of topGaps) {
@@ -321,7 +363,7 @@
       <div class="gap-item">
         <div class="gap-rank">${i + 1}.</div>
         <div class="gap-content">
-          <div class="gap-title"><a href="${escapeHtml(gap.link)}" target="_blank" rel="noopener">${escapeHtml(gap.title)}</a></div>
+          <div class="gap-title"><a href="${escapeHtml(gap.link)}" target="_blank" rel="noopener">${escapeHtml(cleanTitle(gap.title))}</a></div>
           <div class="gap-sources">Covered by: ${gap.publishers.join(', ')}</div>
           ${gap.description ? `<div class="gap-desc">${escapeHtml(truncate(gap.description, 180))}</div>` : ''}
         </div>
