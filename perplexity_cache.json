@@ -1,15 +1,288 @@
 {
   "stories": [
     {
-      "title": "Air Force, Northrop Grumman strike $4.5B deal to speed B-21 bomber productionPublished4 minutes agoThe agreement boosts annual output of the next-generation stealth bomber by 25%, with the first aircraft set to reach Ellsworth AFB in 2027.30 sources",
-      "url": "https://www.perplexity.ai/discover/finance/air-force-northrop-grumman-str-wF89KtIqT3aeYlr0q9LokQ",
+      "title": "Venezuela frees nearly 2,200 under new amnesty lawPublished1 hour agoLawmaker Jorge Arreaza said Monday that releases have surged since the legislation took effect Friday, though critics say many political prisoners remain excluded.43 sources",
+      "url": "https://www.perplexity.ai/discover/top/venezuela-frees-nearly-2200-un-l8T7oDQrTpGYcP7kjT9bSg",
       "description": "",
       "source": "Perplexity",
-      "topic": "finance"
+      "topic": "top"
     },
     {
-      "title": "Wall Street banks turn bearish on Treasuries after tariff ruling80 sources",
-      "url": "https://www.perplexity.ai/discover/finance/wall-street-banks-turn-bearish-p9f8FoDBQZWk0pcurG59Mg",
+      "title": "Slovakia cuts emergency power to Ukraine over oil dispute54 sources",
+      "url": "https://www.perplexity.ai/discover/top/slovakia-cuts-emergency-power-ycrW5zqJRvuWdt9j4guSvQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "2026 is deadliest start to a year for Mediterranean migrants, UN says34 sources",
+      "url": "https://www.perplexity.ai/discover/top/2026-is-deadliest-start-to-a-y-mgN7jW5xQcScomdCoUL_SQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Trump weighs new national security tariffs on six industries88 sources",
+      "url": "https://www.perplexity.ai/discover/top/trump-weighs-new-national-secu-cJfhMSXTSBeXYauCjYVB1Q",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Maryland sues to block ICE detention center near WilliamsportPublished3 hours agoAttorney General Anthony Brown alleges DHS spent $102.4 million on a warehouse without required environmental review or public input.34 sources",
+      "url": "https://www.perplexity.ai/discover/top/maryland-sues-to-block-ice-det-FJUFiQ7mQlC7KyZFNQlfjg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Anthropic says Chinese AI labs used 24,000 fake accounts to copy ClaudePublished7 hours agoThe company alleges DeepSeek, Moonshot AI, and MiniMax prompted its chatbot over 16 million times to extract advanced capabilities for their own models.61 sources",
+      "url": "https://www.perplexity.ai/discover/top/anthropic-says-chinese-ai-labs-VeL3lQGVQNK7ymbn.8CzJw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Trump dismisses Pentagon warnings about Iran strike risks39 sources",
+      "url": "https://www.perplexity.ai/discover/top/trump-dismisses-pentagon-warni-uQcH5wO5TAKj5mMEX5d1QQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Nick Reiner pleads not guilty to murdering parents Rob and Michele Reiner37 sources",
+      "url": "https://www.perplexity.ai/discover/top/nick-reiner-pleads-not-guilty-G0C5xTNNSlysXadEIC8ZDg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Peter Mandelson arrested in probe tied to Epstein39 sources",
+      "url": "https://www.perplexity.ai/discover/top/peter-mandelson-arrested-in-pr-w059dfzBQFiloj.P2zY2QQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Johnson says Congress unlikely to codify Trump's tariffs after court rulingPublished3 hours agoThe House speaker said finding legislative consensus on trade policy will be difficult as new 15% tariffs face a July expiration date.73 sources",
+      "url": "https://www.perplexity.ai/discover/top/johnson-says-congress-unlikely-jq4eZSbTQW6lZlYrYFF2Bg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Fired Yosemite ranger sues over trans flag terminationPublished9 hours agoShannon Joslin, a biologist fired for hanging a transgender pride flag on El Capitan, alleges the termination violated their First Amendment rights.112 sources",
+      "url": "https://www.perplexity.ai/discover/top/fired-yosemite-ranger-sues-ove-0ahQfrrwTbKhzYGeyL4elg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Hypothetical AI crisis report sparks broad stock selloff65 sources",
+      "url": "https://www.perplexity.ai/discover/top/hypothetical-ai-crisis-report-xZZHlyPUQ6m9C9y3Gq7yzA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "France bars US envoy Kushner from government access42 sources",
+      "url": "https://www.perplexity.ai/discover/top/france-bars-us-envoy-kushner-f-xCPjMM6hQe6_fH8k6kI4DQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Virginia Senate moves to end $1B data center tax break42 sources",
+      "url": "https://www.perplexity.ai/discover/top/virginia-senate-moves-to-end-1-Lo5067YSTVmbnaKSxwY25w",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Epstein hid computers, photos in secret storage units across the US, report findsPublished10 hours agoThe Telegraph's investigation found the convicted sex offender leased at least six units in Florida and New York that authorities apparently never raided.44 sources",
+      "url": "https://www.perplexity.ai/discover/top/epstein-hid-computers-photos-i-spHeQsnMQdSZvDbgb2jukA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Wall Street slides as Trump's 15% tariff takes effect TuesdayPublished10 hours agoMajor indexes fell Monday as investors digested Trump's new global tariff, announced days after the Supreme Court struck down his earlier levies.64 sources",
+      "url": "https://www.perplexity.ai/discover/top/wall-street-slides-as-trump-s-x7hkzfHZSkmK6OiQPk1qwA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Supreme Court to hear oil firms' bid to block climate lawsuits45 sources",
+      "url": "https://www.perplexity.ai/discover/top/supreme-court-to-hear-oil-firm-1Rq4S.HORYuRGwglxJVBUg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Ukraine marks 4 years of war with nearly 2 million casualties and no peace deal42 sources",
+      "url": "https://www.perplexity.ai/discover/top/ukraine-marks-4-years-of-war-w-XYsh6dIdQ_6vQVIb7hik4w",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Judge permanently blocks Jack Smith classified docs report79 sources",
+      "url": "https://www.perplexity.ai/discover/top/judge-permanently-blocks-jack-9Ish3GckRrGHbh6df4TjGA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "Congo Basin lakes venting thousands-year-old carbon, study findsPublished14 hours agoTwo large lakes in the Democratic Republic of Congo are releasing ancient peat carbon into the atmosphere, challenging assumptions about tropical carbon storage.34 sources",
+      "url": "https://www.perplexity.ai/discover/top/congo-basin-lakes-venting-thou-V432Q7h4QsOrNPaHeDHjDg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "top"
+    },
+    {
+      "title": "EPA criminal cases target wealthier counties, not the most pollutedPublished26 minutes agoA Nature Sustainability study of 732 EPA prosecutions from 2011 to 2020 found no link between criminal enforcement and local pollution levels.61 sources",
+      "url": "https://www.perplexity.ai/discover/tech/epa-criminal-cases-target-weal-PJ6c9glWTVGg4.NA5a1sjg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Musk's xAI signs Pentagon deal for classified military AI55 sources",
+      "url": "https://www.perplexity.ai/discover/tech/musk-s-xai-signs-pentagon-deal-exYCMR.2Ttu3byRabI2Q9A",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Anthropic launches up to $6B employee share sale54 sources",
+      "url": "https://www.perplexity.ai/discover/tech/anthropic-launches-up-to-6b-em-hJ4p1fdoT.GsldELwGN0VA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Tesla sues California DMV to reverse false advertising ruling on self-driving claims42 sources",
+      "url": "https://www.perplexity.ai/discover/tech/tesla-sues-california-dmv-to-r-wF9bxbv7Qf64WcaE_yJCKw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Uber to acquire parking app SpotHeroPublished4 hours agoThe deal will integrate SpotHero's parking reservation network across 400 North American cities directly into the Uber app.36 sources",
+      "url": "https://www.perplexity.ai/discover/tech/uber-to-acquire-parking-app-sp-RSfa0sp6SSard1Ev6YakkQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Newborn hepatitis B vaccination fell sharply before CDC policy change, study findsPublished5 hours agoA JAMA study found birth-dose rates dropped more than 10 percentage points from 2023 to 2025, reversing six years of growth.43 sources",
+      "url": "https://www.perplexity.ai/discover/tech/newborn-hepatitis-b-vaccinatio-Txb2K_FXQwmr7oaQ20C7mA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Study finds proto-writing on Stone Age artifacts in Germany from 40,000 years ago104 sources",
+      "url": "https://www.perplexity.ai/discover/tech/study-finds-proto-writing-on-s-aW0cVPWASIyrx1MFWleQRA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Amazon to invest $12B in Louisiana data centers28 sources",
+      "url": "https://www.perplexity.ai/discover/tech/amazon-to-invest-12b-in-louisi-38LVlY_AT_Wdqokvwz.4_g",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Epstein tried to bring foreign women to SpaceX in 2013, Bloomberg reports75 sources",
+      "url": "https://www.perplexity.ai/discover/tech/epstein-tried-to-bring-foreign-Y76eec6nSaG6lTyWxkPZOg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Meta's AI safety director loses control of rogue OpenClaw agentPublished7 hours agoAn OpenClaw AI agent deleted over 200 emails from Summer Yue's inbox despite explicit instructions to wait for approval before acting.52 sources",
+      "url": "https://www.perplexity.ai/discover/tech/meta-s-ai-safety-director-lose-nCDCvDiDR06CIH.C8sYY.Q",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Court filing reveals Meta survey on teens' exposure to sexual content on InstagramPublished8 hours agoA federal lawsuit filing shows nearly 1 in 5 Instagram users aged 13 to 15 reported seeing unwanted nude or sexual images on the platform.38 sources",
+      "url": "https://www.perplexity.ai/discover/tech/court-filing-reveals-meta-surv-OPf6xlJGT423UDKyHcL0Jw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "FDA proposes faster approval path for rare-disease gene therapies51 sources",
+      "url": "https://www.perplexity.ai/discover/tech/fda-proposes-faster-approval-p-qUFRYqDeRKmCx00G.ZM3fQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Scientists discover horses whistle and sing at once53 sources",
+      "url": "https://www.perplexity.ai/discover/tech/scientists-discover-horses-whi-Rc6vB1L6Q1Ww2A_welRqSA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "ASML says EUV light advance could yield 50% more chips by 203057 sources",
+      "url": "https://www.perplexity.ai/discover/tech/asml-says-euv-light-advance-co-_hZoTPcFSuaO3RtOtODjSg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Google to offer free AI training to all 6M US teachersPublished11 hours agoA three-year partnership with ISTE+ASCD will provide hands-on Gemini and NotebookLM training as demand for AI literacy in schools surges.73 sources",
+      "url": "https://www.perplexity.ai/discover/tech/google-to-offer-free-ai-traini-QfUdMjSTTheBP2k3sau9vQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "AI-driven memory chip shortage pushes up prices for phones, PCsPublished11 hours agoAs Samsung prepares to unveil the Galaxy S26 on Feb. 25, soaring memory costs are forcing electronics makers to raise prices or absorb thinner margins.97 sources",
+      "url": "https://www.perplexity.ai/discover/tech/ai-driven-memory-chip-shortage-ycv5Q5eNR8m8RiRb_QHOaA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "ByteDance delays Seedance 2.0 global launch amid Hollywood copyright backlash58 sources",
+      "url": "https://www.perplexity.ai/discover/tech/bytedance-delays-seedance-2-0-vYSuB.8HRJyPBZ55tdVNVw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Study finds extreme heat in Europe rose tenfold42 sources",
+      "url": "https://www.perplexity.ai/discover/tech/study-finds-extreme-heat-in-eu-BupsfLKKR4WyfifbnAazbg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "OpenAI taps Accenture, BCG, Capgemini, McKinsey to sell Frontier platform57 sources",
+      "url": "https://www.perplexity.ai/discover/tech/openai-taps-accenture-bcg-capg-rLNAe3FzSfqTfHysUoZiiQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "61 privacy regulators worldwide demand AI deepfake safeguardsPublished14 hours agoThe joint declaration, the largest coordinated regulatory response to the Grok deepfake crisis, sets four principles for AI content generation systems.60 sources",
+      "url": "https://www.perplexity.ai/discover/tech/61-privacy-regulators-worldwid-FTkOabyWQoy4IF55QyiQpw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "tech"
+    },
+    {
+      "title": "Asian markets slide as AI fears and new tariffs compound Wall Street selloffPublished4 minutes agoStocks fell across Asia on Tuesday after Trump's 15% universal tariff and a viral AI doomsday report rattled investors worldwide.80 sources",
+      "url": "https://www.perplexity.ai/discover/finance/asian-markets-slide-as-ai-fear-gSbTToJ6SXWe4TZiUoFWJw",
       "description": "",
       "source": "Perplexity",
       "topic": "finance"
@@ -29,21 +302,21 @@
       "topic": "finance"
     },
     {
-      "title": "Dimon says he'll remain JPMorgan CEO for 'a few years'Published59 minutes agoThe 69-year-old made the comments at an investor day event where JPMorgan reaffirmed its $105 billion expense outlook and 17% return target.111 sources",
+      "title": "Dimon says he'll remain JPMorgan CEO for 'a few years'111 sources",
       "url": "https://www.perplexity.ai/discover/finance/dimon-says-he-ll-remain-jpmorg-1_AF0KNXRkmSbxoryHTmww",
       "description": "",
       "source": "Perplexity",
       "topic": "finance"
     },
     {
-      "title": "Software stocks shed $224B as Anthropic AI tools fuel selloffPublished2 hours agoIBM suffered its worst single-day drop since 2000 after Anthropic detailed how its Claude AI can automate costly COBOL system modernization.65 sources",
+      "title": "Software stocks shed $224B as Anthropic AI tools fuel selloffPublished3 hours agoIBM suffered its worst single-day drop since 2000 after Anthropic detailed how its Claude AI can automate costly COBOL system modernization.65 sources",
       "url": "https://www.perplexity.ai/discover/finance/software-stocks-shed-224b-as-a-m9Uz58R2TcC6efER8HNw.Q",
       "description": "",
       "source": "Perplexity",
       "topic": "finance"
     },
     {
-      "title": "FedEx sues US for full tariff refund after IEEPA duties struck down91 sources",
+      "title": "FedEx sues US for full tariff refund after IEEPA duties struck downPublished3 hours agoThe shipping giant filed suit Monday, joining over 1,800 companies seeking refunds from an estimated $175 billion in tariffs the court ruled illegal.91 sources",
       "url": "https://www.perplexity.ai/discover/finance/fedex-sues-us-for-full-tariff-ryc1zXeUQ1ir45RAWTRyXg",
       "description": "",
       "source": "Perplexity",
@@ -64,21 +337,21 @@
       "topic": "finance"
     },
     {
-      "title": "KKR-backed ambulance giant taps banks for $1B IPOPublished3 hours agoGlobal Medical Response, the largest U.S. air and ground emergency medical services provider, selected JPMorgan and Bank of America to lead the offering, Bloomberg reported.68 sources",
+      "title": "KKR-backed ambulance giant taps banks for $1B IPO68 sources",
       "url": "https://www.perplexity.ai/discover/finance/kkr-backed-ambulance-giant-tap-B3kHLt.ZTGmkWRXvZjp0Kw",
       "description": "",
       "source": "Perplexity",
       "topic": "finance"
     },
     {
-      "title": "Exxon seeks compensation from Cuba at Supreme CourtPublished3 hours agoThe energy giant argued Monday that a 1996 law overrides Cuba's sovereign immunity, allowing compensation for assets seized during the 1960 revolution.51 sources",
+      "title": "Exxon seeks compensation from Cuba at Supreme CourtPublished4 hours agoThe energy giant argued Monday that a 1996 law overrides Cuba's sovereign immunity, allowing compensation for assets seized during the 1960 revolution.51 sources",
       "url": "https://www.perplexity.ai/discover/finance/exxon-seeks-compensation-from-XxC.dS1qSnuhLxtDRNx2HA",
       "description": "",
       "source": "Perplexity",
       "topic": "finance"
     },
     {
-      "title": "Keurig Dr Pepper boosts funding plan for JDE Peet's acquisition64 sources",
+      "title": "Keurig Dr Pepper boosts funding plan for JDE Peet's acquisitionPublished4 hours agoThe company upsized its convertible preferred stock investment to $4.5 billion to help finance its acquisition of Dutch coffee company JDE Peet's.64 sources",
       "url": "https://www.perplexity.ai/discover/finance/keurig-dr-pepper-boosts-fundin-R5anuEwMTWyxtbSs9z.xZA",
       "description": "",
       "source": "Perplexity",
@@ -99,7 +372,7 @@
       "topic": "finance"
     },
     {
-      "title": "Nvidia to report earnings Wednesday as options market prices in big swingPublished4 hours agoAnalysts expect earnings of $1.53 per share on revenue of about $65.7 billion, with Polymarket bettors overwhelmingly predicting a beat.70 sources",
+      "title": "Nvidia to report earnings Wednesday as options market prices in big swing70 sources",
       "url": "https://www.perplexity.ai/discover/finance/nvidia-to-report-earnings-wedn-TtWE2jQ3T3GUrFNl9DjppA",
       "description": "",
       "source": "Perplexity",
@@ -113,7 +386,7 @@
       "topic": "finance"
     },
     {
-      "title": "IBM shares tumble after Anthropic launches COBOL AI tool48 sources",
+      "title": "IBM shares tumble after Anthropic launches COBOL AI toolPublished5 hours agoThe selloff marks the third time this month that an Anthropic product launch has rattled tech stocks, with software shares down sharply in 2026.48 sources",
       "url": "https://www.perplexity.ai/discover/finance/ibm-shares-tumble-after-anthro-m3nMCxpzT2SlB3Y_8fOrYA",
       "description": "",
       "source": "Perplexity",
@@ -134,28 +407,310 @@
       "topic": "finance"
     },
     {
-      "title": "Cybersecurity stocks extend sell-off after Anthropic AI tool launchPublished6 hours agoMajor cybersecurity firms lost ground for a second straight day as investors weighed whether AI-native tools could displace established security platforms.69 sources",
+      "title": "Cybersecurity stocks extend sell-off after Anthropic AI tool launch69 sources",
       "url": "https://www.perplexity.ai/discover/finance/cybersecurity-stocks-extend-se-Z8PnMI3yTpelAxkTtSYzvg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance"
+    },
+    {
+      "title": "Citi nears sale of 24% Banamex stake to Blackstone-led groupPublished7 hours agoThe deal would be the second major tranche of shares sold in months as Citigroup accelerates its exit from Mexican consumer banking.32 sources",
+      "url": "https://www.perplexity.ai/discover/finance/citi-nears-sale-of-24-banamex-ZXU99QCWS2qLu4Vl8BrEsA",
       "description": "",
       "source": "Perplexity",
       "topic": "finance"
     }
   ],
-  "cached_at": "2026-02-24T01:03:08Z",
+  "cached_at": "2026-02-24T01:45:52Z",
   "topics": {
-    "top": [],
-    "tech": [],
-    "finance": [
+    "top": [
       {
-        "title": "Air Force, Northrop Grumman strike $4.5B deal to speed B-21 bomber productionPublished4 minutes agoThe agreement boosts annual output of the next-generation stealth bomber by 25%, with the first aircraft set to reach Ellsworth AFB in 2027.30 sources",
-        "url": "https://www.perplexity.ai/discover/finance/air-force-northrop-grumman-str-wF89KtIqT3aeYlr0q9LokQ",
+        "title": "Venezuela frees nearly 2,200 under new amnesty lawPublished1 hour agoLawmaker Jorge Arreaza said Monday that releases have surged since the legislation took effect Friday, though critics say many political prisoners remain excluded.43 sources",
+        "url": "https://www.perplexity.ai/discover/top/venezuela-frees-nearly-2200-un-l8T7oDQrTpGYcP7kjT9bSg",
         "description": "",
         "source": "Perplexity",
-        "topic": "finance"
+        "topic": "top"
       },
       {
-        "title": "Wall Street banks turn bearish on Treasuries after tariff ruling80 sources",
-        "url": "https://www.perplexity.ai/discover/finance/wall-street-banks-turn-bearish-p9f8FoDBQZWk0pcurG59Mg",
+        "title": "Slovakia cuts emergency power to Ukraine over oil dispute54 sources",
+        "url": "https://www.perplexity.ai/discover/top/slovakia-cuts-emergency-power-ycrW5zqJRvuWdt9j4guSvQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "2026 is deadliest start to a year for Mediterranean migrants, UN says34 sources",
+        "url": "https://www.perplexity.ai/discover/top/2026-is-deadliest-start-to-a-y-mgN7jW5xQcScomdCoUL_SQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Trump weighs new national security tariffs on six industries88 sources",
+        "url": "https://www.perplexity.ai/discover/top/trump-weighs-new-national-secu-cJfhMSXTSBeXYauCjYVB1Q",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Maryland sues to block ICE detention center near WilliamsportPublished3 hours agoAttorney General Anthony Brown alleges DHS spent $102.4 million on a warehouse without required environmental review or public input.34 sources",
+        "url": "https://www.perplexity.ai/discover/top/maryland-sues-to-block-ice-det-FJUFiQ7mQlC7KyZFNQlfjg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Anthropic says Chinese AI labs used 24,000 fake accounts to copy ClaudePublished7 hours agoThe company alleges DeepSeek, Moonshot AI, and MiniMax prompted its chatbot over 16 million times to extract advanced capabilities for their own models.61 sources",
+        "url": "https://www.perplexity.ai/discover/top/anthropic-says-chinese-ai-labs-VeL3lQGVQNK7ymbn.8CzJw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Trump dismisses Pentagon warnings about Iran strike risks39 sources",
+        "url": "https://www.perplexity.ai/discover/top/trump-dismisses-pentagon-warni-uQcH5wO5TAKj5mMEX5d1QQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Nick Reiner pleads not guilty to murdering parents Rob and Michele Reiner37 sources",
+        "url": "https://www.perplexity.ai/discover/top/nick-reiner-pleads-not-guilty-G0C5xTNNSlysXadEIC8ZDg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Peter Mandelson arrested in probe tied to Epstein39 sources",
+        "url": "https://www.perplexity.ai/discover/top/peter-mandelson-arrested-in-pr-w059dfzBQFiloj.P2zY2QQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Johnson says Congress unlikely to codify Trump's tariffs after court rulingPublished3 hours agoThe House speaker said finding legislative consensus on trade policy will be difficult as new 15% tariffs face a July expiration date.73 sources",
+        "url": "https://www.perplexity.ai/discover/top/johnson-says-congress-unlikely-jq4eZSbTQW6lZlYrYFF2Bg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Fired Yosemite ranger sues over trans flag terminationPublished9 hours agoShannon Joslin, a biologist fired for hanging a transgender pride flag on El Capitan, alleges the termination violated their First Amendment rights.112 sources",
+        "url": "https://www.perplexity.ai/discover/top/fired-yosemite-ranger-sues-ove-0ahQfrrwTbKhzYGeyL4elg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Hypothetical AI crisis report sparks broad stock selloff65 sources",
+        "url": "https://www.perplexity.ai/discover/top/hypothetical-ai-crisis-report-xZZHlyPUQ6m9C9y3Gq7yzA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "France bars US envoy Kushner from government access42 sources",
+        "url": "https://www.perplexity.ai/discover/top/france-bars-us-envoy-kushner-f-xCPjMM6hQe6_fH8k6kI4DQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Virginia Senate moves to end $1B data center tax break42 sources",
+        "url": "https://www.perplexity.ai/discover/top/virginia-senate-moves-to-end-1-Lo5067YSTVmbnaKSxwY25w",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Epstein hid computers, photos in secret storage units across the US, report findsPublished10 hours agoThe Telegraph's investigation found the convicted sex offender leased at least six units in Florida and New York that authorities apparently never raided.44 sources",
+        "url": "https://www.perplexity.ai/discover/top/epstein-hid-computers-photos-i-spHeQsnMQdSZvDbgb2jukA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Wall Street slides as Trump's 15% tariff takes effect TuesdayPublished10 hours agoMajor indexes fell Monday as investors digested Trump's new global tariff, announced days after the Supreme Court struck down his earlier levies.64 sources",
+        "url": "https://www.perplexity.ai/discover/top/wall-street-slides-as-trump-s-x7hkzfHZSkmK6OiQPk1qwA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Supreme Court to hear oil firms' bid to block climate lawsuits45 sources",
+        "url": "https://www.perplexity.ai/discover/top/supreme-court-to-hear-oil-firm-1Rq4S.HORYuRGwglxJVBUg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Ukraine marks 4 years of war with nearly 2 million casualties and no peace deal42 sources",
+        "url": "https://www.perplexity.ai/discover/top/ukraine-marks-4-years-of-war-w-XYsh6dIdQ_6vQVIb7hik4w",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Judge permanently blocks Jack Smith classified docs report79 sources",
+        "url": "https://www.perplexity.ai/discover/top/judge-permanently-blocks-jack-9Ish3GckRrGHbh6df4TjGA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      },
+      {
+        "title": "Congo Basin lakes venting thousands-year-old carbon, study findsPublished14 hours agoTwo large lakes in the Democratic Republic of Congo are releasing ancient peat carbon into the atmosphere, challenging assumptions about tropical carbon storage.34 sources",
+        "url": "https://www.perplexity.ai/discover/top/congo-basin-lakes-venting-thou-V432Q7h4QsOrNPaHeDHjDg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "top"
+      }
+    ],
+    "tech": [
+      {
+        "title": "EPA criminal cases target wealthier counties, not the most pollutedPublished26 minutes agoA Nature Sustainability study of 732 EPA prosecutions from 2011 to 2020 found no link between criminal enforcement and local pollution levels.61 sources",
+        "url": "https://www.perplexity.ai/discover/tech/epa-criminal-cases-target-weal-PJ6c9glWTVGg4.NA5a1sjg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Musk's xAI signs Pentagon deal for classified military AI55 sources",
+        "url": "https://www.perplexity.ai/discover/tech/musk-s-xai-signs-pentagon-deal-exYCMR.2Ttu3byRabI2Q9A",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Anthropic launches up to $6B employee share sale54 sources",
+        "url": "https://www.perplexity.ai/discover/tech/anthropic-launches-up-to-6b-em-hJ4p1fdoT.GsldELwGN0VA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Tesla sues California DMV to reverse false advertising ruling on self-driving claims42 sources",
+        "url": "https://www.perplexity.ai/discover/tech/tesla-sues-california-dmv-to-r-wF9bxbv7Qf64WcaE_yJCKw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Uber to acquire parking app SpotHeroPublished4 hours agoThe deal will integrate SpotHero's parking reservation network across 400 North American cities directly into the Uber app.36 sources",
+        "url": "https://www.perplexity.ai/discover/tech/uber-to-acquire-parking-app-sp-RSfa0sp6SSard1Ev6YakkQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Newborn hepatitis B vaccination fell sharply before CDC policy change, study findsPublished5 hours agoA JAMA study found birth-dose rates dropped more than 10 percentage points from 2023 to 2025, reversing six years of growth.43 sources",
+        "url": "https://www.perplexity.ai/discover/tech/newborn-hepatitis-b-vaccinatio-Txb2K_FXQwmr7oaQ20C7mA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Study finds proto-writing on Stone Age artifacts in Germany from 40,000 years ago104 sources",
+        "url": "https://www.perplexity.ai/discover/tech/study-finds-proto-writing-on-s-aW0cVPWASIyrx1MFWleQRA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Amazon to invest $12B in Louisiana data centers28 sources",
+        "url": "https://www.perplexity.ai/discover/tech/amazon-to-invest-12b-in-louisi-38LVlY_AT_Wdqokvwz.4_g",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Epstein tried to bring foreign women to SpaceX in 2013, Bloomberg reports75 sources",
+        "url": "https://www.perplexity.ai/discover/tech/epstein-tried-to-bring-foreign-Y76eec6nSaG6lTyWxkPZOg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Meta's AI safety director loses control of rogue OpenClaw agentPublished7 hours agoAn OpenClaw AI agent deleted over 200 emails from Summer Yue's inbox despite explicit instructions to wait for approval before acting.52 sources",
+        "url": "https://www.perplexity.ai/discover/tech/meta-s-ai-safety-director-lose-nCDCvDiDR06CIH.C8sYY.Q",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Court filing reveals Meta survey on teens' exposure to sexual content on InstagramPublished8 hours agoA federal lawsuit filing shows nearly 1 in 5 Instagram users aged 13 to 15 reported seeing unwanted nude or sexual images on the platform.38 sources",
+        "url": "https://www.perplexity.ai/discover/tech/court-filing-reveals-meta-surv-OPf6xlJGT423UDKyHcL0Jw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "FDA proposes faster approval path for rare-disease gene therapies51 sources",
+        "url": "https://www.perplexity.ai/discover/tech/fda-proposes-faster-approval-p-qUFRYqDeRKmCx00G.ZM3fQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Scientists discover horses whistle and sing at once53 sources",
+        "url": "https://www.perplexity.ai/discover/tech/scientists-discover-horses-whi-Rc6vB1L6Q1Ww2A_welRqSA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "ASML says EUV light advance could yield 50% more chips by 203057 sources",
+        "url": "https://www.perplexity.ai/discover/tech/asml-says-euv-light-advance-co-_hZoTPcFSuaO3RtOtODjSg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Google to offer free AI training to all 6M US teachersPublished11 hours agoA three-year partnership with ISTE+ASCD will provide hands-on Gemini and NotebookLM training as demand for AI literacy in schools surges.73 sources",
+        "url": "https://www.perplexity.ai/discover/tech/google-to-offer-free-ai-traini-QfUdMjSTTheBP2k3sau9vQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "AI-driven memory chip shortage pushes up prices for phones, PCsPublished11 hours agoAs Samsung prepares to unveil the Galaxy S26 on Feb. 25, soaring memory costs are forcing electronics makers to raise prices or absorb thinner margins.97 sources",
+        "url": "https://www.perplexity.ai/discover/tech/ai-driven-memory-chip-shortage-ycv5Q5eNR8m8RiRb_QHOaA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "ByteDance delays Seedance 2.0 global launch amid Hollywood copyright backlash58 sources",
+        "url": "https://www.perplexity.ai/discover/tech/bytedance-delays-seedance-2-0-vYSuB.8HRJyPBZ55tdVNVw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "Study finds extreme heat in Europe rose tenfold42 sources",
+        "url": "https://www.perplexity.ai/discover/tech/study-finds-extreme-heat-in-eu-BupsfLKKR4WyfifbnAazbg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "OpenAI taps Accenture, BCG, Capgemini, McKinsey to sell Frontier platform57 sources",
+        "url": "https://www.perplexity.ai/discover/tech/openai-taps-accenture-bcg-capg-rLNAe3FzSfqTfHysUoZiiQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      },
+      {
+        "title": "61 privacy regulators worldwide demand AI deepfake safeguardsPublished14 hours agoThe joint declaration, the largest coordinated regulatory response to the Grok deepfake crisis, sets four principles for AI content generation systems.60 sources",
+        "url": "https://www.perplexity.ai/discover/tech/61-privacy-regulators-worldwid-FTkOabyWQoy4IF55QyiQpw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "tech"
+      }
+    ],
+    "finance": [
+      {
+        "title": "Asian markets slide as AI fears and new tariffs compound Wall Street selloffPublished4 minutes agoStocks fell across Asia on Tuesday after Trump's 15% universal tariff and a viral AI doomsday report rattled investors worldwide.80 sources",
+        "url": "https://www.perplexity.ai/discover/finance/asian-markets-slide-as-ai-fear-gSbTToJ6SXWe4TZiUoFWJw",
         "description": "",
         "source": "Perplexity",
         "topic": "finance"
@@ -175,21 +730,21 @@
         "topic": "finance"
       },
       {
-        "title": "Dimon says he'll remain JPMorgan CEO for 'a few years'Published59 minutes agoThe 69-year-old made the comments at an investor day event where JPMorgan reaffirmed its $105 billion expense outlook and 17% return target.111 sources",
+        "title": "Dimon says he'll remain JPMorgan CEO for 'a few years'111 sources",
         "url": "https://www.perplexity.ai/discover/finance/dimon-says-he-ll-remain-jpmorg-1_AF0KNXRkmSbxoryHTmww",
         "description": "",
         "source": "Perplexity",
         "topic": "finance"
       },
       {
-        "title": "Software stocks shed $224B as Anthropic AI tools fuel selloffPublished2 hours agoIBM suffered its worst single-day drop since 2000 after Anthropic detailed how its Claude AI can automate costly COBOL system modernization.65 sources",
+        "title": "Software stocks shed $224B as Anthropic AI tools fuel selloffPublished3 hours agoIBM suffered its worst single-day drop since 2000 after Anthropic detailed how its Claude AI can automate costly COBOL system modernization.65 sources",
         "url": "https://www.perplexity.ai/discover/finance/software-stocks-shed-224b-as-a-m9Uz58R2TcC6efER8HNw.Q",
         "description": "",
         "source": "Perplexity",
         "topic": "finance"
       },
       {
-        "title": "FedEx sues US for full tariff refund after IEEPA duties struck down91 sources",
+        "title": "FedEx sues US for full tariff refund after IEEPA duties struck downPublished3 hours agoThe shipping giant filed suit Monday, joining over 1,800 companies seeking refunds from an estimated $175 billion in tariffs the court ruled illegal.91 sources",
         "url": "https://www.perplexity.ai/discover/finance/fedex-sues-us-for-full-tariff-ryc1zXeUQ1ir45RAWTRyXg",
         "description": "",
         "source": "Perplexity",
@@ -210,21 +765,21 @@
         "topic": "finance"
       },
       {
-        "title": "KKR-backed ambulance giant taps banks for $1B IPOPublished3 hours agoGlobal Medical Response, the largest U.S. air and ground emergency medical services provider, selected JPMorgan and Bank of America to lead the offering, Bloomberg reported.68 sources",
+        "title": "KKR-backed ambulance giant taps banks for $1B IPO68 sources",
         "url": "https://www.perplexity.ai/discover/finance/kkr-backed-ambulance-giant-tap-B3kHLt.ZTGmkWRXvZjp0Kw",
         "description": "",
         "source": "Perplexity",
         "topic": "finance"
       },
       {
-        "title": "Exxon seeks compensation from Cuba at Supreme CourtPublished3 hours agoThe energy giant argued Monday that a 1996 law overrides Cuba's sovereign immunity, allowing compensation for assets seized during the 1960 revolution.51 sources",
+        "title": "Exxon seeks compensation from Cuba at Supreme CourtPublished4 hours agoThe energy giant argued Monday that a 1996 law overrides Cuba's sovereign immunity, allowing compensation for assets seized during the 1960 revolution.51 sources",
         "url": "https://www.perplexity.ai/discover/finance/exxon-seeks-compensation-from-XxC.dS1qSnuhLxtDRNx2HA",
         "description": "",
         "source": "Perplexity",
         "topic": "finance"
       },
       {
-        "title": "Keurig Dr Pepper boosts funding plan for JDE Peet's acquisition64 sources",
+        "title": "Keurig Dr Pepper boosts funding plan for JDE Peet's acquisitionPublished4 hours agoThe company upsized its convertible preferred stock investment to $4.5 billion to help finance its acquisition of Dutch coffee company JDE Peet's.64 sources",
         "url": "https://www.perplexity.ai/discover/finance/keurig-dr-pepper-boosts-fundin-R5anuEwMTWyxtbSs9z.xZA",
         "description": "",
         "source": "Perplexity",
@@ -245,7 +800,7 @@
         "topic": "finance"
       },
       {
-        "title": "Nvidia to report earnings Wednesday as options market prices in big swingPublished4 hours agoAnalysts expect earnings of $1.53 per share on revenue of about $65.7 billion, with Polymarket bettors overwhelmingly predicting a beat.70 sources",
+        "title": "Nvidia to report earnings Wednesday as options market prices in big swing70 sources",
         "url": "https://www.perplexity.ai/discover/finance/nvidia-to-report-earnings-wedn-TtWE2jQ3T3GUrFNl9DjppA",
         "description": "",
         "source": "Perplexity",
@@ -259,7 +814,7 @@
         "topic": "finance"
       },
       {
-        "title": "IBM shares tumble after Anthropic launches COBOL AI tool48 sources",
+        "title": "IBM shares tumble after Anthropic launches COBOL AI toolPublished5 hours agoThe selloff marks the third time this month that an Anthropic product launch has rattled tech stocks, with software shares down sharply in 2026.48 sources",
         "url": "https://www.perplexity.ai/discover/finance/ibm-shares-tumble-after-anthro-m3nMCxpzT2SlB3Y_8fOrYA",
         "description": "",
         "source": "Perplexity",
@@ -280,8 +835,15 @@
         "topic": "finance"
       },
       {
-        "title": "Cybersecurity stocks extend sell-off after Anthropic AI tool launchPublished6 hours agoMajor cybersecurity firms lost ground for a second straight day as investors weighed whether AI-native tools could displace established security platforms.69 sources",
+        "title": "Cybersecurity stocks extend sell-off after Anthropic AI tool launch69 sources",
         "url": "https://www.perplexity.ai/discover/finance/cybersecurity-stocks-extend-se-Z8PnMI3yTpelAxkTtSYzvg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance"
+      },
+      {
+        "title": "Citi nears sale of 24% Banamex stake to Blackstone-led groupPublished7 hours agoThe deal would be the second major tranche of shares sold in months as Citigroup accelerates its exit from Mexican consumer banking.32 sources",
+        "url": "https://www.perplexity.ai/discover/finance/citi-nears-sale-of-24-banamex-ZXU99QCWS2qLu4Vl8BrEsA",
         "description": "",
         "source": "Perplexity",
         "topic": "finance"
