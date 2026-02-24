@@ -167,7 +167,7 @@
       for (const pStory of perplexityKWs) {
         if (pStory.keywords.length === 0) continue;
         const matching = storyKWs.filter(kw => pStory.keywords.includes(kw));
-        if (matching.length / storyKWs.length >= 0.4) {
+        if (matching.length >= 2 && matching.length / storyKWs.length >= 0.25) {
           isCovered = true;
           break;
         }
@@ -208,17 +208,21 @@
 
   function isStoryAGap(title) {
     if (!state.highlightGaps) return false;
-    const storyKWs = extractKeywords(title);
-    if (storyKWs.length === 0) return false;
+    // Only highlight stories that appear in the top 10 gap results
+    // This ensures only genuinely important, multi-outlet gaps get red dots
+    if (state.gapResults.length === 0) computeGaps();
+    const topGaps = state.gapResults.slice(0, 10);
+    const titleKWs = extractKeywords(title);
+    if (titleKWs.length === 0) return false;
 
-    const perplexityKWs = state.discoverStories.map(s => extractKeywords(s.title));
-
-    for (const pKWs of perplexityKWs) {
-      if (pKWs.length === 0) continue;
-      const matching = storyKWs.filter(kw => pKWs.includes(kw));
-      if (matching.length / storyKWs.length >= 0.4) return false;
+    for (const gap of topGaps) {
+      const gapKWs = extractKeywords(gap.title);
+      const matching = titleKWs.filter(kw => gapKWs.includes(kw));
+      if (matching.length >= 2 && matching.length / titleKWs.length >= 0.25) {
+        return true;
+      }
     }
-    return true;
+    return false;
   }
 
   // ========== RENDERING ==========
@@ -504,6 +508,10 @@
     state.highlightGaps = !state.highlightGaps;
     const btn = document.getElementById('btn-highlight');
     btn.classList.toggle('active', state.highlightGaps);
+    if (state.highlightGaps) {
+      state.gapResults = [];  // Force recompute
+      computeGaps();
+    }
     renderAllFeeds();
   };
 
