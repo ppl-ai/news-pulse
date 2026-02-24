@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News Pulse — Editorial Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ========== RESET & BASE ========== */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg-root: #0a0a0a;
+  --bg-surface: #111111;
+  --bg-card: #161616;
+  --bg-card-hover: #1c1c1c;
+  --bg-overlay: rgba(0,0,0,0.85);
+  --border-subtle: #222222;
+  --border-medium: #333333;
+  --text-primary: #e8e8e8;
+  --text-secondary: #888888;
+  --text-muted: #555555;
+  --accent-teal: #2dd4bf;
+  --accent-purple: #a78bfa;
+  --accent-gold: #f59e0b;
+  --accent-red: #ef4444;
+  --accent-red-dim: rgba(239,68,68,0.15);
+  --accent-blue: #3b82f6;
+  --font-mono: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace;
+  --font-sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --header-h: 48px;
+  --column-w: 340px;
+  --card-radius: 4px;
+  --transition-fast: 120ms ease;
+  --transition-med: 200ms ease;
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg-root);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 13px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+/* ========== SCROLLBAR ========== */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #2a2a2a; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #3a3a3a; }
+
+/* ========== HEADER ========== */
+.header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--header-h);
+  background: #050505;
+  border-bottom: 1px solid var(--border-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  z-index: 1000;
+  user-select: none;
+}
+
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-brand h1 {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--text-primary);
+}
+
+.header-brand .subtitle {
+  font-family: var(--font-sans);
+  font-size: 10px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  padding-left: 10px;
+  border-left: 1px solid var(--border-subtle);
+}
+
+.pulse-dot {
+  width: 6px; height: 6px;
+  background: var(--accent-teal);
+  border-radius: 50%;
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 1; box-shadow: 0 0 4px var(--accent-teal); }
+  50% { opacity: 0.4; box-shadow: none; }
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.hdr-btn {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  padding: 5px 10px;
+  background: transparent;
+  color: var(--text-secondary);
+  border: 1px solid var(--border-subtle);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.hdr-btn:hover {
+  background: var(--bg-card);
+  color: var(--text-primary);
+  border-color: var(--border-medium);
+}
+
+.hdr-btn.active {
+  background: var(--accent-red-dim);
+  color: var(--accent-red);
+  border-color: rgba(239,68,68,0.3);
+}
+
+.hdr-btn .shortcut {
+  display: inline-block;
+  margin-left: 4px;
+  padding: 1px 4px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 2px;
+  font-size: 9px;
+  color: var(--text-muted);
+}
+
+/* ========== MAIN GRID ========== */
+.main-container {
+  position: fixed;
+  top: var(--header-h);
+  left: 0; right: 0; bottom: 0;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  gap: 1px;
+  background: var(--border-subtle);
+  min-width: 0;
+}
+
+.column {
+  min-width: var(--column-w);
+  width: var(--column-w);
+  flex: 0 0 var(--column-w);
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-root);
+  height: 100%;
+}
+
+@media (min-width: 1800px) {
+  .column { flex: 1 0 var(--column-w); max-width: 420px; }
+}
+
+.column-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--border-subtle);
+  padding: 10px 12px;
+  flex-shrink: 0;
+}
+
+.column-title {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.column-title .count-badge {
+  font-size: 10px;
+  font-weight: 400;
+  color: var(--text-muted);
+  padding: 1px 6px;
+  background: rgba(255,255,255,0.03);
+  border-radius: 2px;
+}
+
+.column-title .source-dot {
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.filter-pills {
+  display: flex;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.filter-pill {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  padding: 3px 8px;
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+  border-radius: 2px;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.filter-pill:hover { color: var(--text-secondary); border-color: var(--border-medium); }
+.filter-pill.active { color: var(--text-primary); border-color: var(--border-medium); background: rgba(255,255,255,0.05); }
+
+.column-body {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 8px;
+}
+
+.column-body.embed-body {
+  padding: 0;
+  overflow-y: auto;
+}
+
+/* ========== STORY CARDS ========== */
+.story-card {
+  background: var(--bg-card);
+  border-radius: var(--card-radius);
+  padding: 10px 12px;
+  margin-bottom: 6px;
+  border-left: 2px solid transparent;
+  transition: all var(--transition-fast);
+  position: relative;
+}
+
+.story-card:hover {
+  background: var(--bg-card-hover);
+}
+
+.story-card.topic-top { border-left-color: var(--accent-teal); }
+.story-card.topic-tech { border-left-color: var(--accent-purple); }
+.story-card.topic-finance { border-left-color: var(--accent-gold); }
+
+/* Gap highlight mode */
+.story-card.has-gap {
+  border-left-color: var(--accent-red);
+}
+
+.story-card .gap-dot {
+  display: none;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 7px;
+  height: 7px;
+  background: var(--accent-red);
+  border-radius: 50%;
+  box-shadow: 0 0 4px rgba(239,68,68,0.5);
+}
+
+.story-card.has-gap .gap-dot {
+  display: block;
+}
+
+.story-card .card-title {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+  padding-right: 14px;
+}
+
+.story-card .card-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.story-card .card-title a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--text-muted);
+  text-underline-offset: 2px;
+}
+
+.story-card .card-meta {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.story-card .card-meta .meta-src {
+  color: var(--text-secondary);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 140px;
+  white-space: nowrap;
+}
+
+.story-card .card-desc {
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.topic-tag {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  padding: 1px 5px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.topic-tag.tag-top { color: var(--accent-teal); background: rgba(45,212,191,0.1); }
+.topic-tag.tag-tech { color: var(--accent-purple); background: rgba(167,139,250,0.1); }
+.topic-tag.tag-finance { color: var(--accent-gold); background: rgba(245,158,11,0.1); }
+
+/* ========== LOAD MORE ========== */
+.load-more-btn {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 8px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-muted);
+  background: rgba(255,255,255,0.02);
+  border: 1px dashed var(--border-subtle);
+  border-radius: var(--card-radius);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.load-more-btn:hover {
+  color: var(--text-secondary);
+  border-color: var(--border-medium);
+  background: rgba(255,255,255,0.04);
+}
+
+/* ========== LOADING / EMPTY ========== */
+.column-status {
+  text-align: center;
+  padding: 40px 16px;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: 11px;
+}
+
+.spinner {
+  width: 20px; height: 20px;
+  border: 2px solid var(--border-subtle);
+  border-top-color: var(--text-muted);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin: 0 auto 12px;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ========== OVERLAYS ========== */
+.overlay-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: var(--bg-overlay);
+  z-index: 2000;
+  backdrop-filter: blur(4px);
+}
+
+.overlay-backdrop.visible {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+.overlay-panel {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  width: 90%;
+  max-width: 800px;
+  max-height: 80vh;
+  overflow-y: auto;
+  animation: overlay-in 0.15s ease-out;
+}
+
+.overlay-panel.wide {
+  max-width: 1000px;
+}
+
+@keyframes overlay-in {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.overlay-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--border-subtle);
+  position: sticky;
+  top: 0;
+  background: var(--bg-surface);
+  z-index: 10;
+}
+
+.overlay-header h2 {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-primary);
+}
+
+.overlay-close {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  padding: 4px 10px;
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.overlay-close:hover { color: var(--text-secondary); border-color: var(--border-medium); }
+
+.overlay-body {
+  padding: 18px;
+}
+
+/* ========== GAP ANALYSIS OVERLAY ========== */
+.gap-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.gap-item:last-child { border-bottom: none; }
+
+.gap-rank {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  min-width: 24px;
+  text-align: right;
+  padding-top: 2px;
+}
+
+.gap-content {
+  flex: 1;
+}
+
+.gap-content .gap-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+.gap-content .gap-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.gap-content .gap-title a:hover {
+  text-decoration: underline;
+}
+
+.gap-content .gap-sources {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+
+.gap-content .gap-desc {
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+.gap-buzz {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--accent-red);
+  background: var(--accent-red-dim);
+  padding: 2px 8px;
+  border-radius: 2px;
+  white-space: nowrap;
+  height: fit-content;
+}
+
+/* ========== SOURCE MANAGER ========== */
+.source-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.source-row:last-child { border-bottom: none; }
+
+.source-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.source-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.source-url {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-muted);
+  word-break: break-all;
+}
+
+.source-toggle {
+  position: relative;
+  width: 36px;
+  height: 20px;
+  background: var(--border-medium);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background var(--transition-med);
+  border: none;
+  flex-shrink: 0;
+}
+
+.source-toggle.on { background: var(--accent-teal); }
+
+.source-toggle::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 16px;
+  height: 16px;
+  background: var(--text-primary);
+  border-radius: 50%;
+  transition: transform var(--transition-med);
+}
+
+.source-toggle.on::after { transform: translateX(16px); }
+
+.add-custom-feed {
+  margin-top: 16px;
+  display: flex;
+  gap: 8px;
+}
+
+.add-custom-feed input {
+  flex: 1;
+  padding: 8px 10px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 3px;
+  color: var(--text-primary);
+  outline: none;
+}
+
+.add-custom-feed input:focus { border-color: var(--border-medium); }
+.add-custom-feed input::placeholder { color: var(--text-muted); }
+
+.add-custom-feed button {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 600;
+  padding: 8px 14px;
+  background: var(--accent-teal);
+  color: #000;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+}
+
+.add-custom-feed button:hover { opacity: 0.9; }
+
+/* ========== GUIDE OVERLAY ========== */
+.guide-section {
+  margin-bottom: 20px;
+}
+
+.guide-section h3 {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--accent-teal);
+  margin-bottom: 8px;
+}
+
+.guide-section p, .guide-section li {
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 4px;
+}
+
+.guide-section ul { padding-left: 16px; }
+
+.guide-kbd {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  padding: 1px 6px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 2px;
+  color: var(--text-primary);
+  margin: 0 2px;
+}
+
+/* ========== SOCIAL PULSE ========== */
+.social-embed-container {
+  background: var(--bg-card);
+  border-radius: 4px;
+  overflow: hidden;
+  min-height: 500px;
+}
+
+.social-links-row {
+  margin-top: 16px;
+  padding: 12px;
+  background: var(--bg-card);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.social-links-row a {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--accent-teal);
+  text-decoration: none;
+}
+
+.social-links-row a:hover { text-decoration: underline; }
+
+.social-links-row .label {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* ========== X EMBED COLUMN ========== */
+.x-embed-wrapper {
+  padding: 0;
+  height: 100%;
+}
+
+.x-embed-wrapper .twitter-timeline {
+  min-height: 100%;
+}
+
+/* ========== QUICK PASTE (P shortcut) ========== */
+.paste-area {
+  width: 100%;
+  min-height: 120px;
+  padding: 10px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 3px;
+  color: var(--text-primary);
+  resize: vertical;
+  outline: none;
+}
+
+.paste-area:focus { border-color: var(--border-medium); }
+
+.paste-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.paste-actions button {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+}
+
+.paste-actions .btn-add {
+  background: var(--accent-teal);
+  color: #000;
+}
+
+.paste-actions .btn-cancel {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 1200px) {
+  .header-brand .subtitle { display: none; }
+}
+
+@media (max-width: 768px) {
+  .hdr-btn span.btn-label { display: none; }
+  .hdr-btn .shortcut { margin-left: 0; }
+  :root { --column-w: 300px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ========== HEADER ========== -->
+<header class="header">
+  <div class="header-brand">
+    <div class="pulse-dot"></div>
+    <h1>NEWS PULSE</h1>
+    <span class="subtitle">Editorial Intelligence</span>
+  </div>
+  <div class="header-actions">
+    <button class="hdr-btn" onclick="refreshAll()" title="Refresh All (R)">
+      <span class="btn-label">REFRESH ALL</span><span class="shortcut">R</span>
+    </button>
+    <button class="hdr-btn" id="btn-highlight" onclick="toggleHighlightGaps()" title="Highlight Gaps (H)">
+      <span class="btn-label">HIGHLIGHT GAPS</span><span class="shortcut">H</span>
+    </button>
+    <button class="hdr-btn" onclick="openOverlay('gap-analysis')" title="Gap Analysis (G)">
+      <span class="btn-label">GAP ANALYSIS</span><span class="shortcut">G</span>
+    </button>
+    <button class="hdr-btn" onclick="openOverlay('social-pulse')" title="Social Pulse (S)">
+      <span class="btn-label">SOCIAL PULSE</span><span class="shortcut">S</span>
+    </button>
+    <button class="hdr-btn" onclick="openOverlay('add-sources')" title="Add Sources (A)">
+      <span class="btn-label">ADD SOURCES</span><span class="shortcut">A</span>
+    </button>
+    <button class="hdr-btn" onclick="openOverlay('guide')" title="Guide (I)">
+      <span class="btn-label">GUIDE</span><span class="shortcut">I</span>
+    </button>
+  </div>
+</header>
+
+<!-- ========== MAIN COLUMNS ========== -->
+<main class="main-container">
+
+  <!-- Column 1: Perplexity Discover -->
+  <div class="column" id="col-discover">
+    <div class="column-header">
+      <div class="column-title">
+        <span class="source-dot" style="background:var(--accent-teal)"></span>
+        Perplexity Discover
+        <span class="count-badge" id="discover-count">0</span>
+      </div>
+      <div class="filter-pills" id="discover-filters">
+        <button class="filter-pill active" data-filter="all" onclick="setDiscoverFilter('all',this)">All</button>
+        <button class="filter-pill" data-filter="top" onclick="setDiscoverFilter('top',this)">Top</button>
+        <button class="filter-pill" data-filter="tech" onclick="setDiscoverFilter('tech',this)">Tech &amp; Science</button>
+        <button class="filter-pill" data-filter="finance" onclick="setDiscoverFilter('finance',this)">Finance</button>
+      </div>
+    </div>
+    <div class="column-body" id="discover-body">
+      <div class="column-status"><div class="spinner"></div>Loading Discover…</div>
+    </div>
+  </div>
+
+  <!-- Column 2: NYT Homepage -->
+  <div class="column" id="col-nyt">
+    <div class="column-header">
+      <div class="column-title">
+        <span class="source-dot" style="background:#aaa"></span>
+        NYT Homepage
+        <span class="count-badge" id="nyt-count">0</span>
+      </div>
+    </div>
+    <div class="column-body" id="nyt-body">
+      <div class="column-status"><div class="spinner"></div>Loading NYT…</div>
+    </div>
+  </div>
+
+  <!-- Column 3: WSJ Consolidated -->
+  <div class="column" id="col-wsj">
+    <div class="column-header">
+      <div class="column-title">
+        <span class="source-dot" style="background:#f5b77d"></span>
+        WSJ (Consolidated)
+        <span class="count-badge" id="wsj-count">0</span>
+      </div>
+      <div class="filter-pills" id="wsj-filters">
+        <button class="filter-pill active" data-filter="all" onclick="setWsjFilter('all',this)">All</button>
+        <button class="filter-pill" data-filter="home" onclick="setWsjFilter('home',this)">Home</button>
+        <button class="filter-pill" data-filter="business" onclick="setWsjFilter('business',this)">Business</button>
+        <button class="filter-pill" data-filter="markets" onclick="setWsjFilter('markets',this)">Markets</button>
+      </div>
+    </div>
+    <div class="column-body" id="wsj-body">
+      <div class="column-status"><div class="spinner"></div>Loading WSJ…</div>
+    </div>
+  </div>
+
+  <!-- Column 4: Washington Post -->
+  <div class="column" id="col-wapo">
+    <div class="column-header">
+      <div class="column-title">
+        <span class="source-dot" style="background:#ccc"></span>
+        Washington Post
+        <span class="count-badge" id="wapo-count">0</span>
+      </div>
+    </div>
+    <div class="column-body" id="wapo-body">
+      <div class="column-status"><div class="spinner"></div>Loading WaPo…</div>
+    </div>
+  </div>
+
+</main>
+
+<!-- ========== OVERLAYS ========== -->
+
+<!-- Gap Analysis -->
+<div class="overlay-backdrop" id="overlay-gap-analysis" onclick="closeOverlayBackdrop(event)">
+  <div class="overlay-panel wide">
+    <div class="overlay-header">
+      <h2>Gap Analysis — Coverage Blind Spots</h2>
+      <button class="overlay-close" onclick="closeOverlay('gap-analysis')">ESC</button>
+    </div>
+    <div class="overlay-body" id="gap-analysis-body">
+      <div class="column-status">Analyzing coverage gaps…</div>
+    </div>
+  </div>
+</div>
+
+<!-- Social Pulse -->
+<div class="overlay-backdrop" id="overlay-social-pulse" onclick="closeOverlayBackdrop(event)">
+  <div class="overlay-panel wide">
+    <div class="overlay-header">
+      <h2>Social Pulse — Real-Time Signals</h2>
+      <button class="overlay-close" onclick="closeOverlay('social-pulse')">ESC</button>
+    </div>
+    <div class="overlay-body">
+      <div class="social-embed-container" id="social-x-embed">
+        <a class="twitter-timeline"
+           href="https://x.com/i/lists/1998468781493072124"
+           data-theme="dark"
+           data-chrome="noheader nofooter noborders transparent"
+           data-height="500">
+          Loading X timeline…
+        </a>
+      </div>
+      <div class="social-links-row">
+        <span class="label">Discover:</span>
+        <a href="https://www.tiktok.com/discover" target="_blank" rel="noopener">TikTok Discover →</a>
+        <a href="https://trends.google.com/trending" target="_blank" rel="noopener">Google Trends →</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Add Sources -->
+<div class="overlay-backdrop" id="overlay-add-sources" onclick="closeOverlayBackdrop(event)">
+  <div class="overlay-panel">
+    <div class="overlay-header">
+      <h2>Source Manager</h2>
+      <button class="overlay-close" onclick="closeOverlay('add-sources')">ESC</button>
+    </div>
+    <div class="overlay-body" id="sources-body"></div>
+  </div>
+</div>
+
+<!-- Guide -->
+<div class="overlay-backdrop" id="overlay-guide" onclick="closeOverlayBackdrop(event)">
+  <div class="overlay-panel">
+    <div class="overlay-header">
+      <h2>Reference Guide</h2>
+      <button class="overlay-close" onclick="closeOverlay('guide')">ESC</button>
+    </div>
+    <div class="overlay-body">
+      <div class="guide-section">
+        <h3>Columns</h3>
+        <p>The dashboard shows five columns, each displaying stories from a different source. Columns are independently scrollable. Each competitor column (NYT, WSJ, WaPo) fetches via RSS feeds.</p>
+        <ul>
+          <li><strong>Perplexity Discover</strong> — Stories from Perplexity's Discover feeds (Top, Tech & Science, Finance). Filter by topic using the pills at the top. Cards are color-coded: <span style="color:var(--accent-teal)">teal</span> for Top, <span style="color:var(--accent-purple)">purple</span> for Tech & Science, <span style="color:var(--accent-gold)">gold</span> for Finance.</li>
+          <li><strong>NYT Homepage</strong> — Live RSS feed from The New York Times homepage.</li>
+          <li><strong>WSJ (Consolidated)</strong> — Merges three WSJ feeds (World News, US Business, Markets) into one deduplicated column. Filter by section using the pills at the top.</li>
+          <li><strong>Washington Post</strong> — Via Google News RSS proxy for washingtonpost.com.</li>
+        </ul>
+      </div>
+      <div class="guide-section">
+        <h3>Gap Indicators</h3>
+        <p>When <strong>HIGHLIGHT GAPS</strong> is active, competitor stories that Perplexity isn't covering get a <span style="color:var(--accent-red)">red dot</span> badge and a red left border. These are stories present in competitor feeds but absent from Perplexity Discover.</p>
+      </div>
+      <div class="guide-section">
+        <h3>Gap Analysis Logic</h3>
+        <ul>
+          <li>Client-side keyword extraction from titles</li>
+          <li>A competitor story is "missing" if &lt;40% of its significant words match any Perplexity story</li>
+          <li>Op-eds are excluded (titles containing "Opinion", "Editorial", "Commentary", "Review", "Letters to the Editor")</li>
+          <li>Publisher normalization: All WSJ feeds count as 1 source, all NYT feeds as "NYT", etc.</li>
+          <li>Gaps are ranked by "buzz score" — stories mentioned by more publishers rank higher</li>
+        </ul>
+      </div>
+      <div class="guide-section">
+        <h3>Keyboard Shortcuts</h3>
+        <ul>
+          <li><span class="guide-kbd">R</span> — Refresh All feeds</li>
+          <li><span class="guide-kbd">H</span> — Toggle Highlight Gaps</li>
+          <li><span class="guide-kbd">G</span> — Open/close Gap Analysis overlay</li>
+          <li><span class="guide-kbd">S</span> — Open/close Social Pulse overlay</li>
+          <li><span class="guide-kbd">A</span> — Open/close Add Sources overlay</li>
+          <li><span class="guide-kbd">I</span> — Open/close Guide overlay</li>
+          <li><span class="guide-kbd">P</span> — Quick Paste (manually add Perplexity stories)</li>
+          <li><span class="guide-kbd">Esc</span> — Close any open overlay</li>
+        </ul>
+      </div>
+      <div class="guide-section">
+        <h3>Adding Custom Sources</h3>
+        <p>Open Add Sources (A) to toggle existing sources on/off or add a custom RSS feed URL. Custom sources appear as additional columns.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Quick Paste Overlay -->
+<div class="overlay-backdrop" id="overlay-quick-paste" onclick="closeOverlayBackdrop(event)">
+  <div class="overlay-panel">
+    <div class="overlay-header">
+      <h2>Quick Paste — Add Perplexity Stories</h2>
+      <button class="overlay-close" onclick="closeOverlay('quick-paste')">ESC</button>
+    </div>
+    <div class="overlay-body">
+      <p style="font-size:12px;color:var(--text-secondary);margin-bottom:12px;">
+        Paste story titles (one per line) to add them to the Perplexity Discover column. Select a topic category below.
+      </p>
+      <div class="filter-pills" style="margin-bottom:12px">
+        <button class="filter-pill active" id="paste-topic-top" onclick="setPasteTopic('top')">Top</button>
+        <button class="filter-pill" id="paste-topic-tech" onclick="setPasteTopic('tech')">Tech & Science</button>
+        <button class="filter-pill" id="paste-topic-finance" onclick="setPasteTopic('finance')">Finance</button>
+      </div>
+      <textarea class="paste-area" id="paste-input" placeholder="Paste story titles here, one per line…"></textarea>
+      <div class="paste-actions">
+        <button class="btn-add" onclick="submitPaste()">ADD STORIES</button>
+        <button class="btn-cancel" onclick="closeOverlay('quick-paste')">CANCEL</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+<script async src="https://platform.twitter.com/widgets.js"></script>
+
+</body>
+</html>
