@@ -8,7 +8,13 @@
   let FEED_CONFIGS = {
     nyt: {
       name: 'NYT Homepage',
-      urls: ['https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml'],
+      urls: [
+        'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+        'https://rss.nytimes.com/services/xml/rss/nyt/US.xml',
+        'https://rss.nytimes.com/services/xml/rss/nyt/World.xml',
+        'https://rss.nytimes.com/services/xml/rss/nyt/Business.xml'
+      ],
+      subLabels: ['home', 'us', 'world', 'business'],
       enabled: true
     },
     wsj: {
@@ -23,7 +29,12 @@
     },
     wapo: {
       name: 'Washington Post',
-      urls: ['https://news.google.com/rss/search?q=site:washingtonpost.com&hl=en-US&gl=US&ceid=US:en'],
+      urls: [
+        'https://news.google.com/rss/search?q=site:washingtonpost.com&hl=en-US&gl=US&ceid=US:en',
+        'https://news.google.com/rss/search?q=site:washingtonpost.com+politics&hl=en-US&gl=US&ceid=US:en',
+        'https://news.google.com/rss/search?q=site:washingtonpost.com+business&hl=en-US&gl=US&ceid=US:en'
+      ],
+      subLabels: ['home', 'politics', 'business'],
       enabled: true
     }
   };
