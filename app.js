@@ -297,16 +297,24 @@
 
   // ========== RENDERING ==========
   function renderStoryCard(story, opts = {}) {
-    const gap = opts.checkGap && !isOpEd(story.title) && isStoryAGap(story.title);
+    const gap = opts.checkGap && !isOpEd(story.title) && !isRoundup(story.title) && isStoryAGap(story.title);
     const topicClass = opts.topicClass || '';
     const gapClass = gap ? ' has-gap' : '';
     const href = story.link || story.url || '';
+
+    // Suppress description if it just repeats the title (with optional publisher suffix)
+    const descRaw = (story.description || '').replace(/<[^>]*>/g, '').trim();
+    const descCleaned = cleanTitle(descRaw);
+    const titleCleaned = cleanTitle(story.title);
+    const showDesc = descCleaned.length > 20
+      && descCleaned.toLowerCase() !== titleCleaned.toLowerCase()
+      && !titleCleaned.toLowerCase().startsWith(descCleaned.toLowerCase().slice(0, 30));
 
     return `
       <div class="story-card${topicClass ? ' ' + topicClass : ''}${gapClass}">
         <div class="gap-dot"></div>
         <div class="card-title">
-          <a href="${escapeHtml(href)}" target="_blank" rel="noopener">${escapeHtml(story.title)}</a>
+          <a href="${escapeHtml(href)}" target="_blank" rel="noopener">${escapeHtml(cleanTitle(story.title))}</a>
         </div>
         <div class="card-meta">
           <span class="meta-src">${escapeHtml(story.source || '')}</span>
@@ -314,7 +322,7 @@
           ${story.sourceCount ? `<span>${escapeHtml(story.sourceCount)}</span>` : ''}
           <span>${timeAgo(story.pubDate)}</span>
         </div>
-        ${story.description ? `<div class="card-desc">${escapeHtml(truncate(story.description, 200))}</div>` : ''}
+        ${showDesc ? `<div class="card-desc">${escapeHtml(truncate(descCleaned, 200))}</div>` : ''}
       </div>
     `;
   }
