@@ -117,9 +117,13 @@
     const lower = (title || '').toLowerCase();
     return /\bmarket\s*talk\b/i.test(lower)
       || /\bbriefing\s*[|:]/i.test(lower)
+      || /\bstocks?\s+to\s+watch\b/i.test(lower)
       || /\bwhat\s+to\s+watch\b/i.test(lower)
       || /\bwhat('s| is)\s+happening\b/i.test(lower)
-      || /\bmorning\s+(brief|digest|report)\b/i.test(lower);
+      || /\bmorning\s+(brief|digest|report)\b/i.test(lower)
+      || /\blive\s+updates?\b/i.test(lower)
+      || /\bstock\s+market\s+(news|today)\b/i.test(lower)
+      || /\bmonday\s+recap\b|\btuesday\s+recap\b|\bwednesday\s+recap\b|\bthursday\s+recap\b|\bfriday\s+recap\b/i.test(lower);
   }
 
   // Strip publisher suffixes and opinion prefixes from titles for cleaner matching
@@ -141,21 +145,59 @@
   }
 
   // ========== GAP ANALYSIS ==========
+
+  // Extract distinctive terms (proper nouns, numbers, multi-word entities)
+  // These are far better for cross-outlet story matching than generic keywords
+  function extractEntities(title) {
+    if (!title) return [];
+    const entities = [];
+    // Numbers with context (e.g., "$500", "150", "800")
+    const nums = title.match(/\$?\d[\d,.]*\s*(?:billion|million|trillion|percent|%)?/gi) || [];
+    nums.forEach(n => entities.push(n.toLowerCase().replace(/\s+/g, '')));
+    // Proper nouns — capitalized words not at start of sentence, excluding common words
+    const commonCaps = new Set(['the','a','an','in','on','at','to','for','of','with','by','as','is','are','and','but','or','after','live','updates','update','monday','tuesday','wednesday','thursday','friday']);
+    const words = title.split(/\s+/);
+    words.forEach((w, i) => {
+      const clean = w.replace(/[^a-zA-Z'-]/g, '');
+      if (clean.length > 2 && /^[A-Z]/.test(clean) && !commonCaps.has(clean.toLowerCase())) {
+        entities.push(clean.toLowerCase());
+      }
+    });
+    return entities;
+  }
+
+  function storiesMatch(kw1, ent1, kw2, ent2) {
+    // Entity match: 2+ shared proper nouns/numbers = same story
+    const entOverlap = ent1.filter(e => ent2.includes(e));
+    if (entOverlap.length >= 2) return true;
+    // Keyword match: need both entity and keyword overlap
+    const kwOverlap = kw1.filter(kw => kw2.includes(kw));
+    if (entOverlap.length >= 1 && kwOverlap.length >= 2) return true;
+    // Strict keyword only: at least 3 shared keywords
+    if (kwOverlap.length >= 3 && kwOverlap.length / Math.min(kw1.length, kw2.length) >= 0.3) return true;
+    return false;
+  }
+
   function computeGaps() {
-    // Use cleaned titles for keyword extraction so publisher suffixes don't pollute matching
-    const perplexityKWs = state.discoverStories.map(s => ({
-      keywords: extractKeywords(cleanTitle(s.title)),
-      title: s.title
-    }));
+    const perplexityProcessed = state.discoverStories.map(s => {
+      const cleaned = cleanTitle(s.title);
+      return {
+        keywords: extractKeywords(cleaned),
+        entities: extractEntities(cleaned),
+        title: s.title
+      };
+    });
 
     const allCompetitor = [];
     for (const [feedId, items] of Object.entries(state.feedData)) {
       (items || []).forEach(item => {
-        // Filter out opinion/editorial AND roundup-style content
         if (!isOpEd(item.title) && !isRoundup(item.title)) {
+          const cleaned = cleanTitle(item.title);
           allCompetitor.push({
             ...item,
-            cleanedTitle: cleanTitle(item.title),
+            cleanedTitle: cleaned,
+            keywords: extractKeywords(cleaned),
+            entities: extractEntities(cleaned),
             feedId,
             publisher: normalizePublisher(item.source || FEED_CONFIGS[feedId]?.name || feedId)
           });
@@ -163,16 +205,15 @@
       });
     }
 
+    // Find stories NOT covered by Discover
     const gaps = [];
     allCompetitor.forEach(story => {
-      const storyKWs = extractKeywords(story.cleanedTitle);
-      if (storyKWs.length === 0) return;
+      if (story.keywords.length === 0) return;
 
       let isCovered = false;
-      for (const pStory of perplexityKWs) {
+      for (const pStory of perplexityProcessed) {
         if (pStory.keywords.length === 0) continue;
-        const matching = storyKWs.filter(kw => pStory.keywords.includes(kw));
-        if (matching.length >= 2 && matching.length / storyKWs.length >= 0.25) {
+        if (storiesMatch(story.keywords, story.entities, pStory.keywords, pStory.entities)) {
           isCovered = true;
           break;
         }
@@ -181,18 +222,12 @@
       if (!isCovered) gaps.push(story);
     });
 
-    // Group similar stories using cleaned titles for better cross-outlet deduplication
-    const grouped = {};
+    // Group similar gap stories across outlets using entity matching
+    const groups = [];
     gaps.forEach(g => {
-      const gKWs = extractKeywords(g.cleanedTitle).sort();
-      const key = gKWs.join('|');
-
-      // Try to merge with an existing group if keywords overlap significantly
       let merged = false;
-      for (const [existingKey, group] of Object.entries(grouped)) {
-        const existingKWs = existingKey.split('|');
-        const overlap = gKWs.filter(kw => existingKWs.includes(kw));
-        if (overlap.length >= 2 && overlap.length / Math.min(gKWs.length, existingKWs.length) >= 0.4) {
+      for (const group of groups) {
+        if (storiesMatch(g.keywords, g.entities, group.keywords, group.entities)) {
           group.publishers.add(g.publisher);
           group.allStories.push(g);
           merged = true;
@@ -201,27 +236,27 @@
       }
 
       if (!merged) {
-        grouped[key] = { ...g, publishers: new Set([g.publisher]), allStories: [g] };
+        groups.push({
+          title: g.cleanedTitle,
+          link: g.link,
+          description: g.description,
+          keywords: g.keywords,
+          entities: g.entities,
+          publishers: new Set([g.publisher]),
+          allStories: [g]
+        });
       }
     });
 
-    // Build relevance index once instead of re-extracting per keyword
-    const allGapKWs = gaps.map(g => extractKeywords(g.cleanedTitle));
-
-    const ranked = Object.values(grouped).map(g => {
-      const cleaned = cleanTitle(g.title);
-      const kws = extractKeywords(cleaned);
-      return {
-        title: cleaned,
-        link: g.link,
-        description: g.description,
-        publishers: [...g.publishers],
-        buzzScore: g.publishers.size,
-        relevanceScore: kws.reduce((acc, kw) => {
-          return acc + allGapKWs.filter(gapKWs => gapKWs.includes(kw)).length;
-        }, 0)
-      };
-    });
+    const ranked = groups.map(g => ({
+      title: g.title,
+      link: g.link,
+      description: g.description,
+      publishers: [...g.publishers],
+      buzzScore: g.publishers.size,
+      // Relevance: how many total gap stories relate to this topic
+      relevanceScore: g.allStories.length
+    }));
 
     ranked.sort((a, b) => {
       if (b.buzzScore !== a.buzzScore) return b.buzzScore - a.buzzScore;
@@ -235,17 +270,16 @@
   function isStoryAGap(title) {
     if (!state.highlightGaps) return false;
     if (state.gapResults.length === 0) computeGaps();
-    // Only highlight stories that match top 10 multi-outlet gaps
     const topGaps = state.gapResults.slice(0, 10);
-    const titleKWs = extractKeywords(cleanTitle(title));
+    const cleaned = cleanTitle(title);
+    const titleKWs = extractKeywords(cleaned);
+    const titleEnts = extractEntities(cleaned);
     if (titleKWs.length === 0) return false;
 
     for (const gap of topGaps) {
       const gapKWs = extractKeywords(gap.title);
-      const matching = titleKWs.filter(kw => gapKWs.includes(kw));
-      if (matching.length >= 2 && matching.length / titleKWs.length >= 0.25) {
-        return true;
-      }
+      const gapEnts = extractEntities(gap.title);
+      if (storiesMatch(titleKWs, titleEnts, gapKWs, gapEnts)) return true;
     }
     return false;
   }
@@ -353,17 +387,26 @@
     }
 
     const visible = gaps.slice(0, state.gapVisible);
-    let html = visible.map((gap, i) => `
-      <div class="gap-item">
-        <div class="gap-rank">${i + 1}.</div>
-        <div class="gap-content">
-          <div class="gap-title"><a href="${escapeHtml(gap.link)}" target="_blank" rel="noopener">${escapeHtml(cleanTitle(gap.title))}</a></div>
-          <div class="gap-sources">Covered by: ${gap.publishers.join(', ')}</div>
-          ${gap.description ? `<div class="gap-desc">${escapeHtml(truncate(gap.description, 180))}</div>` : ''}
+    let html = visible.map((gap, i) => {
+      // Only show description if it adds info beyond the title
+      const cleaned = cleanTitle(gap.title);
+      const desc = gap.description || '';
+      const descClean = cleanTitle(desc.replace(/<[^>]*>/g, ''));
+      const showDesc = descClean.length > 30 && descClean.toLowerCase() !== cleaned.toLowerCase()
+        && !cleaned.toLowerCase().startsWith(descClean.toLowerCase().slice(0, 40));
+      const outletLabel = gap.publishers.join(', ');
+
+      return `
+        <div class="gap-item">
+          <div class="gap-rank">${i + 1}.</div>
+          <div class="gap-content">
+            <div class="gap-title"><a href="${escapeHtml(gap.link)}" target="_blank" rel="noopener">${escapeHtml(cleaned)}</a></div>
+            <div class="gap-sources">${outletLabel}${gap.buzzScore > 1 ? ` <span style="color:var(--accent-gold)">(${gap.buzzScore} outlets)</span>` : ''}</div>
+            ${showDesc ? `<div class="gap-desc">${escapeHtml(truncate(descClean, 180))}</div>` : ''}
+          </div>
         </div>
-        <div class="gap-buzz">${gap.buzzScore} src${gap.buzzScore > 1 ? 's' : ''}</div>
-      </div>
-    `).join('');
+      `;
+    }).join('');
 
     const remaining = gaps.length - visible.length;
     if (remaining > 0) {
