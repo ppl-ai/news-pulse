@@ -555,6 +555,7 @@
 
     const seen = new Set();
     const deduped = allItems.filter(item => {
+      if (isOpEd(item.title) || isRoundup(item.title)) return false;
       const key = (item.title || '').toLowerCase().trim();
       if (seen.has(key)) return false;
       seen.add(key);
