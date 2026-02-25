@@ -167,8 +167,18 @@ def fetch_topic(page, topic, max_retries=2):
                     page.wait_for_timeout(3000)
 
             page.wait_for_timeout(2000)
+
+            # Scroll down multiple times to load more stories (target: 50 per topic)
+            for scroll in range(6):
+                items = page.evaluate(JS_EXTRACT, topic)
+                print(f"    After scroll {scroll}: {len(items)} stories")
+                if len(items) >= 50:
+                    break
+                page.mouse.wheel(0, 3000)
+                page.wait_for_timeout(2500)
+
             items = page.evaluate(JS_EXTRACT, topic)
-            print(f"    Found {len(items)} stories")
+            print(f"    Found {len(items)} stories total")
 
             if items:
                 return items
