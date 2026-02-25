@@ -329,7 +329,7 @@
 
   function renderLoadMore(currentCount, totalCount, onClickFn) {
     const remaining = totalCount - currentCount;
-    if (remaining <= 0 || currentCount >= 50) return '';
+    if (remaining <= 0) return '';
     return `<button class="load-more-btn" onclick="${onClickFn}">Show 10 more (${remaining} remaining)</button>`;
   }
 
