@@ -607,6 +607,7 @@
     state.discoverVisible = 10;
     Object.keys(state.feedVisible).forEach(k => { state.feedVisible[k] = 10; });
     state.gapVisible = 10;
+    state.gapResults = [];  // Force gap recompute after refresh
 
     fetchDiscover();
     await fetchAllFeeds();
@@ -756,6 +757,7 @@
     input.value = '';
     closeOverlay('quick-paste');
     state.discoverVisible = 10;
+    state.gapResults = [];  // Force gap recompute with new stories
     renderDiscoverColumn();
     if (state.highlightGaps) renderAllFeeds();
   };
