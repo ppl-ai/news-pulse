@@ -329,8 +329,8 @@
 
   function renderLoadMore(currentCount, totalCount, onClickFn) {
     const remaining = totalCount - currentCount;
-    if (remaining <= 0) return '';
-    return `<button class="load-more-btn" onclick="${onClickFn}">Show 5 more (${remaining} remaining)</button>`;
+    if (remaining <= 0 || currentCount >= 50) return '';
+    return `<button class="load-more-btn" onclick="${onClickFn}">Show 10 more (${remaining} remaining)</button>`;
   }
 
   function renderDiscoverColumn() {
@@ -434,7 +434,7 @@
 
     const remaining = gaps.length - visible.length;
     if (remaining > 0) {
-      html += `<button class="load-more-btn" onclick="showMoreGaps()" style="margin-top:12px">Show 5 more (${remaining} remaining)</button>`;
+      html += `<button class="load-more-btn" onclick="showMoreGaps()" style="margin-top:12px">Show 10 more (${remaining} remaining)</button>`;
     }
 
     body.innerHTML = html;
@@ -655,17 +655,17 @@
   };
 
   window.showMoreDiscover = function() {
-    state.discoverVisible += 5;
+    state.discoverVisible += 10;
     renderDiscoverColumn();
   };
 
   window.showMoreFeed = function(feedId) {
-    state.feedVisible[feedId] = (state.feedVisible[feedId] || 10) + 5;
+    state.feedVisible[feedId] = (state.feedVisible[feedId] || 10) + 10;
     renderFeedColumn(feedId);
   };
 
   window.showMoreGaps = function() {
-    state.gapVisible += 5;
+    state.gapVisible += 10;
     renderGapAnalysis();
   };
 
