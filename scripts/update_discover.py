@@ -44,13 +44,18 @@ def parse_relative_time(text):
 
 # JavaScript extraction code
 JS_EXTRACT = r"""(topic) => {
-    // Primary selector: links containing /discover/<topic>/
-    let selector = `a[href*="/discover/${topic}/"]`;
-    let links = document.querySelectorAll(selector);
-
-    // Fallback: if no topic-specific links found, grab ALL discover story links
-    if (links.length === 0) {
+    // For "top", story links don't contain /discover/top/ so use broad selector directly
+    let links;
+    if (topic === 'top') {
         links = document.querySelectorAll('a[href*="/discover/"]');
+    } else {
+        // Primary selector: links containing /discover/<topic>/
+        let selector = `a[href*="/discover/${topic}/"]`;
+        links = document.querySelectorAll(selector);
+        // Fallback: if no topic-specific links found, grab ALL discover story links
+        if (links.length === 0) {
+            links = document.querySelectorAll('a[href*="/discover/"]');
+        }
     }
 
     const seen = new Set();
@@ -138,25 +143,26 @@ JS_EXTRACT = r"""(topic) => {
 
 def fetch_topic(page, topic, max_retries=2):
     """Fetch stories for a single topic with retries."""
-    url = f"https://www.perplexity.ai/discover/{topic}"
+    # "top" is the main /discover page, not /discover/top
+    url = "https://www.perplexity.ai/discover" if topic == "top" else f"https://www.perplexity.ai/discover/{topic}"
 
     for attempt in range(max_retries + 1):
         try:
             print(f"  Attempt {attempt + 1} for {topic}...")
             page.goto(url, wait_until="networkidle", timeout=45000)
 
+            # For "top", story links don't contain /discover/top/ — use broad selector
+            primary_selector = "a[href*='/discover/'] img[alt]" if topic == "top" else f"a[href*='/discover/{topic}/']"
             try:
-                page.wait_for_selector(
-                    f"a[href*='/discover/{topic}/']", timeout=15000
-                )
+                page.wait_for_selector(primary_selector, timeout=15000)
             except Exception:
-                print(f"    Topic-specific selector failed, trying broad selector...")
+                print(f"    Primary selector failed, trying fallback...")
                 try:
                     page.wait_for_selector(
                         "a[href*='/discover/'] img[alt]", timeout=15000
                     )
                 except Exception:
-                    print(f"    Broad selector also failed, scrolling...")
+                    print(f"    Fallback also failed, scrolling...")
                     page.mouse.wheel(0, 1000)
                     page.wait_for_timeout(3000)
 
@@ -195,7 +201,7 @@ def fetch_discover_stories():
         page = context.new_page()
 
         for topic in ["top", "tech", "finance"]:
-            print(f"Fetching /discover/{topic}...")
+            print(f"Fetching /discover{'/' + topic if topic != 'top' else ''} ({topic})...")
             items = fetch_topic(page, topic)
 
             for i, item in enumerate(items):
