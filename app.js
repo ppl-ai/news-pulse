@@ -388,20 +388,25 @@
 
     const visible = gaps.slice(0, state.gapVisible);
     let html = visible.map((gap, i) => {
-      // Only show description if it adds info beyond the title
       const cleaned = cleanTitle(gap.title);
       const desc = gap.description || '';
       const descClean = cleanTitle(desc.replace(/<[^>]*>/g, ''));
       const showDesc = descClean.length > 30 && descClean.toLowerCase() !== cleaned.toLowerCase()
         && !cleaned.toLowerCase().startsWith(descClean.toLowerCase().slice(0, 40));
-      const outletLabel = gap.publishers.join(', ');
+      const isMulti = gap.buzzScore > 1;
+
+      // Build colored outlet tags
+      const outletTags = gap.publishers.map(p => {
+        const cls = p === 'NYT' ? 'nyt' : p === 'WSJ' ? 'wsj' : p === 'WaPo' ? 'wapo' : 'other';
+        return `<span class="gap-outlet-tag ${cls}">${escapeHtml(p)}</span>`;
+      }).join('');
 
       return `
-        <div class="gap-item">
+        <div class="gap-item${isMulti ? ' multi-outlet' : ''}">
           <div class="gap-rank">${i + 1}.</div>
           <div class="gap-content">
             <div class="gap-title"><a href="${escapeHtml(gap.link)}" target="_blank" rel="noopener">${escapeHtml(cleaned)}</a></div>
-            <div class="gap-sources">${outletLabel}${gap.buzzScore > 1 ? ` <span style="color:var(--accent-gold)">(${gap.buzzScore} outlets)</span>` : ''}</div>
+            <div class="gap-sources">${outletTags}</div>
             ${showDesc ? `<div class="gap-desc">${escapeHtml(truncate(descClean, 180))}</div>` : ''}
           </div>
         </div>

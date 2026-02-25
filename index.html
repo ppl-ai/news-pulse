@@ -474,32 +474,57 @@ html, body {
 .gap-item {
   display: flex;
   align-items: flex-start;
-  gap: 12px;
-  padding: 12px 0;
-  border-bottom: 1px solid var(--border-subtle);
+  gap: 14px;
+  padding: 14px 16px;
+  margin: 0 -16px;
+  border-radius: 6px;
+  border-left: 3px solid transparent;
+  transition: background var(--transition-fast);
 }
 
-.gap-item:last-child { border-bottom: none; }
+.gap-item:hover {
+  background: var(--bg-card-hover);
+}
+
+.gap-item + .gap-item {
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* Multi-outlet stories get a colored left border */
+.gap-item.multi-outlet {
+  border-left-color: var(--accent-gold);
+  background: rgba(245, 158, 11, 0.04);
+}
+
+.gap-item.multi-outlet:hover {
+  background: rgba(245, 158, 11, 0.08);
+}
 
 .gap-rank {
   font-family: var(--font-mono);
   font-size: 11px;
-  font-weight: 600;
-  color: var(--text-muted);
-  min-width: 24px;
-  text-align: right;
+  font-weight: 700;
+  min-width: 26px;
+  text-align: center;
   padding-top: 2px;
+  color: var(--text-muted);
+}
+
+.gap-item.multi-outlet .gap-rank {
+  color: var(--accent-gold);
 }
 
 .gap-content {
   flex: 1;
+  min-width: 0;
 }
 
 .gap-content .gap-title {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 600;
   color: var(--text-primary);
-  margin-bottom: 4px;
+  margin-bottom: 6px;
+  line-height: 1.4;
 }
 
 .gap-content .gap-title a {
@@ -508,32 +533,39 @@ html, body {
 }
 
 .gap-content .gap-title a:hover {
+  color: var(--accent-teal);
   text-decoration: underline;
 }
 
 .gap-content .gap-sources {
   font-family: var(--font-mono);
   font-size: 10px;
-  color: var(--text-muted);
-  margin-bottom: 4px;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
 }
+
+.gap-outlet-tag {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 9px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.gap-outlet-tag.nyt { background: rgba(43, 130, 246, 0.15); color: #60a5fa; }
+.gap-outlet-tag.wsj { background: rgba(245, 158, 11, 0.15); color: #fbbf24; }
+.gap-outlet-tag.wapo { background: rgba(139, 92, 246, 0.15); color: #a78bfa; }
+.gap-outlet-tag.other { background: rgba(45, 212, 191, 0.15); color: var(--accent-teal); }
 
 .gap-content .gap-desc {
   font-size: 12px;
   color: var(--text-secondary);
-  line-height: 1.4;
-}
-
-.gap-buzz {
-  font-family: var(--font-mono);
-  font-size: 10px;
-  font-weight: 600;
-  color: var(--accent-red);
-  background: var(--accent-red-dim);
-  padding: 2px 8px;
-  border-radius: 2px;
-  white-space: nowrap;
-  height: fit-content;
+  line-height: 1.5;
 }
 
 /* ========== SOURCE MANAGER ========== */
@@ -933,45 +965,50 @@ html, body {
     </div>
     <div class="overlay-body">
       <div class="guide-section">
+        <h3>What is News Pulse?</h3>
+        <p>News Pulse is an editorial dashboard that shows what Perplexity Discover is covering alongside competitor outlets in real time. Use it to spot coverage gaps, track breaking stories, and make sure Discover isn't missing the big stories of the day.</p>
+      </div>
+      <div class="guide-section">
         <h3>Columns</h3>
-        <p>The dashboard shows five columns, each displaying stories from a different source. Columns are independently scrollable. Each competitor column (NYT, WSJ, WaPo) fetches via RSS feeds.</p>
         <ul>
-          <li><strong>Perplexity Discover</strong> — Stories from Perplexity's Discover feeds (Top, Tech & Science, Finance). Filter by topic using the pills at the top. Cards are color-coded: <span style="color:var(--accent-teal)">teal</span> for Top, <span style="color:var(--accent-purple)">purple</span> for Tech & Science, <span style="color:var(--accent-gold)">gold</span> for Finance.</li>
-          <li><strong>NYT Homepage</strong> — Live RSS feed from The New York Times homepage.</li>
-          <li><strong>WSJ (Consolidated)</strong> — Merges three WSJ feeds (World News, US Business, Markets) into one deduplicated column. Filter by section using the pills at the top.</li>
-          <li><strong>Washington Post</strong> — Via Google News RSS proxy for washingtonpost.com.</li>
+          <li><strong>Perplexity Discover</strong> — Auto-refreshed every 5 minutes on weekdays, every 10 on weekends. Filter by topic: <span style="color:var(--accent-teal)">Top</span>, <span style="color:var(--accent-purple)">Tech & Science</span>, <span style="color:var(--accent-gold)">Finance</span>.</li>
+          <li><strong>NYT Homepage</strong> — Live RSS from The New York Times homepage.</li>
+          <li><strong>WSJ (Consolidated)</strong> — Three WSJ feeds (World News, US Business, Markets) merged and deduplicated. Filter by section with the pills.</li>
+          <li><strong>Washington Post</strong> — Via Google News RSS proxy.</li>
+        </ul>
+        <p style="margin-top:8px;color:var(--text-secondary)">All feeds refresh when you open the page or press <span class="guide-kbd">R</span>.</p>
+      </div>
+      <div class="guide-section">
+        <h3>Gap Analysis</h3>
+        <p>Press <span class="guide-kbd">G</span> to open the gap analysis overlay. This shows stories that NYT, WSJ, and/or WaPo are covering but Perplexity Discover is not.</p>
+        <ul>
+          <li>Stories covered by <strong>multiple outlets</strong> appear at the top (the biggest stories we're missing)</li>
+          <li>Each outlet gets a <span style="color:#60a5fa">colored tag</span> so you can see at a glance who's covering what</li>
+          <li>Multi-outlet gaps are highlighted with a <span style="color:var(--accent-gold)">gold</span> left border</li>
+          <li>Opinion, editorial, analysis, live updates, and daily market roundups are automatically excluded</li>
+          <li>Matching uses proper nouns and key terms (not just keywords) so stories about the same event group correctly across outlets</li>
         </ul>
       </div>
       <div class="guide-section">
-        <h3>Gap Indicators</h3>
-        <p>When <strong>HIGHLIGHT GAPS</strong> is active, competitor stories that Perplexity isn't covering get a <span style="color:var(--accent-red)">red dot</span> badge and a red left border. These are stories present in competitor feeds but absent from Perplexity Discover.</p>
-      </div>
-      <div class="guide-section">
-        <h3>Gap Analysis Logic</h3>
-        <ul>
-          <li>Client-side keyword extraction from titles</li>
-          <li>A competitor story is "missing" if &lt;40% of its significant words match any Perplexity story</li>
-          <li>Op-eds are excluded (titles containing "Opinion", "Editorial", "Commentary", "Review", "Letters to the Editor")</li>
-          <li>Publisher normalization: All WSJ feeds count as 1 source, all NYT feeds as "NYT", etc.</li>
-          <li>Gaps are ranked by "buzz score" — stories mentioned by more publishers rank higher</li>
-        </ul>
+        <h3>Gap Highlighting</h3>
+        <p>Press <span class="guide-kbd">H</span> to toggle gap highlights on the main columns. When active, competitor stories that Discover is missing get a <span style="color:var(--accent-red)">red dot</span> and red left border — a quick visual scan of what we're not covering.</p>
       </div>
       <div class="guide-section">
         <h3>Keyboard Shortcuts</h3>
         <ul>
-          <li><span class="guide-kbd">R</span> — Refresh All feeds</li>
-          <li><span class="guide-kbd">H</span> — Toggle Highlight Gaps</li>
-          <li><span class="guide-kbd">G</span> — Open/close Gap Analysis overlay</li>
-          <li><span class="guide-kbd">S</span> — Open/close Social Pulse overlay</li>
-          <li><span class="guide-kbd">A</span> — Open/close Add Sources overlay</li>
-          <li><span class="guide-kbd">I</span> — Open/close Guide overlay</li>
-          <li><span class="guide-kbd">P</span> — Quick Paste (manually add Perplexity stories)</li>
-          <li><span class="guide-kbd">Esc</span> — Close any open overlay</li>
+          <li><span class="guide-kbd">R</span> — Refresh all feeds</li>
+          <li><span class="guide-kbd">H</span> — Toggle gap highlighting on columns</li>
+          <li><span class="guide-kbd">G</span> — Gap Analysis overlay</li>
+          <li><span class="guide-kbd">S</span> — Social Pulse overlay</li>
+          <li><span class="guide-kbd">A</span> — Add/manage sources</li>
+          <li><span class="guide-kbd">I</span> — This guide</li>
+          <li><span class="guide-kbd">P</span> — Quick Paste (manually add Discover stories)</li>
+          <li><span class="guide-kbd">Esc</span> — Close any overlay</li>
         </ul>
       </div>
       <div class="guide-section">
-        <h3>Adding Custom Sources</h3>
-        <p>Open Add Sources (A) to toggle existing sources on/off or add a custom RSS feed URL. Custom sources appear as additional columns.</p>
+        <h3>Custom Sources</h3>
+        <p>Press <span class="guide-kbd">A</span> to toggle built-in sources on/off or paste any RSS feed URL to add a new column. Your preferences are saved in your browser.</p>
       </div>
     </div>
   </div>
