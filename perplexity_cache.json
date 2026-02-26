@@ -1,192 +1,12 @@
 {
   "stories": [
     {
-      "title": "Invasive species, drought threaten water on 3 continents",
-      "url": "https://www.perplexity.ai/discover/top/invasive-species-drought-threa-zxJNp05NSH2xjcXGneW5sg",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T12:19:02Z",
-      "sourceCount": "46 sources"
-    },
-    {
-      "title": "Flinders University scientists develop nano-cage that removes 98% of PFAS from water",
-      "url": "https://www.perplexity.ai/discover/top/flinders-university-scientists-vzwAHRhmQB.LDFZkJEdd2A",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T11:42:57Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "Ivory Coast to slash cocoa farmer prices in historic move",
-      "url": "https://www.perplexity.ai/discover/top/ivory-coast-to-slash-cocoa-far-eW52FRsLSuSEKHRxM0fStw",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T11:27:57Z",
-      "sourceCount": "36 sources"
-    },
-    {
-      "title": "Oil holds near 7-month highs as US-Iran talks open in Geneva",
-      "url": "https://www.perplexity.ai/discover/top/oil-holds-near-7-month-highs-a-zra955vdTzOa2ijK8J1Z2Q",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T11:12:57Z",
-      "sourceCount": "44 sources"
-    },
-    {
-      "title": "Rutgers study challenges theory that melting glaciers could slow climate change",
-      "url": "https://www.perplexity.ai/discover/top/rutgers-study-challenges-theor-DA_xC2tYQ2C2kNrRuK0trQ",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T10:28:02Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Scripps Research finds hidden structure in cell droplets, opening new drug targets",
-      "url": "https://www.perplexity.ai/discover/top/scripps-research-finds-hidden-ssw5MxLAQ0SsCpO71G0.Ww",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T09:28:02Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "US rare earth shortages deepen as suppliers halt production",
-      "url": "https://www.perplexity.ai/discover/top/us-rare-earth-shortages-deepen-cXZEUnGNSrCdVBqwEDLGsw",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T10:27:57Z",
-      "sourceCount": "47 sources"
-    },
-    {
-      "title": "UN issues first carbon credits under Paris Agreement",
-      "url": "https://www.perplexity.ai/discover/top/un-issues-first-carbon-credits-1OdPy57lSBShEHRzEI8y4Q",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T10:12:57Z",
-      "sourceCount": "35 sources"
-    },
-    {
-      "title": "Space Force halts Vulcan rocket launches over booster anomaly",
-      "url": "https://www.perplexity.ai/discover/top/space-force-halts-vulcan-rocke-vz9rPDDiTKqF.UN1aXOJOg",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T09:57:57Z",
-      "sourceCount": "35 sources"
-    },
-    {
-      "title": "Nvidia's record Q4 earnings send Asian markets to new highs",
-      "url": "https://www.perplexity.ai/discover/top/nvidia-s-record-q4-earnings-se-GIfuMWK9QOGuHQrT_vxlNg",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T07:28:02Z",
-      "sourceCount": "54 sources"
-    },
-    {
-      "title": "DARPA awards RTX contract for kilometer-range X-ray vision",
-      "url": "https://www.perplexity.ai/discover/top/darpa-awards-rtx-contract-for-T4iL07ZYQyuuwk.TobLuvg",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T07:28:02Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Patel fires FBI staff tied to Trump probe, says phone records seized",
-      "url": "https://www.perplexity.ai/discover/top/patel-fires-fbi-staff-tied-to-uCEoKMAHQLWWCBO5OhWWuw",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T09:12:57Z",
-      "sourceCount": "33 sources"
-    },
-    {
-      "title": "Nearly blind refugee found dead in Buffalo after Border Patrol left him",
-      "url": "https://www.perplexity.ai/discover/top/nearly-blind-refugee-found-dea-pMpUI5tiTtam.IwLN6172g",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T08:57:57Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Thune says GOP lacks votes for talking filibuster on SAVE Act",
-      "url": "https://www.perplexity.ai/discover/top/thune-says-gop-lacks-votes-for-nboSAyV3Qgqi10FLuvx8GA",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T08:42:57Z",
-      "sourceCount": "55 sources"
-    },
-    {
-      "title": "Trump advisers prefer Israel strike Iran first, Politico reports",
-      "url": "https://www.perplexity.ai/discover/top/trump-advisers-prefer-israel-s-eX0y0glyQUyz1Whus3nY4A",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T01:28:02Z",
-      "sourceCount": "94 sources"
-    },
-    {
-      "title": "US to allow resale of Venezuelan oil to Cuba",
-      "url": "https://www.perplexity.ai/discover/top/us-to-allow-resale-of-venezuel-fPQeuHuuSRKUYyKeXVw4Fw",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T18:28:02Z",
-      "sourceCount": "51 sources"
-    },
-    {
-      "title": "Casey Means faces Senate hearing for surgeon general nomination",
-      "url": "https://www.perplexity.ai/discover/top/casey-means-faces-senate-heari-whM_SPlTTwuvNSWEqN0vHQ",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T07:57:57Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump says Omar and Tlaib should be 'sent back' after State of the Union clash",
-      "url": "https://www.perplexity.ai/discover/top/trump-says-omar-and-tlaib-shou-Q98evvEQQFC9gWy1LgTDNA",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T07:42:57Z",
-      "sourceCount": "52 sources"
-    },
-    {
-      "title": "NASA's Fincke says he was behind historic ISS medical evacuation",
-      "url": "https://www.perplexity.ai/discover/top/nasa-s-fincke-says-he-was-behi-MXGqPrr5QcG6X39xH8pf5Q",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T07:27:57Z",
-      "sourceCount": "34 sources"
-    },
-    {
-      "title": "Witkoff says U.S. demands any Iran nuclear deal last indefinitely",
-      "url": "https://www.perplexity.ai/discover/top/witkoff-says-u-s-demands-any-i-lbO8anuRR7mC4cCizlLOYg",
-      "description": "",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T18:28:02Z",
-      "sourceCount": "98 sources"
-    },
-    {
       "title": "NYT investigation finds AI-generated videos flooding kids' YouTube feeds",
       "url": "https://www.perplexity.ai/discover/tech/nyt-investigation-finds-ai-gen-ixpZAb0PS4ydQZ88i1YERg",
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T11:46:30Z",
+      "pubDate": "2026-02-26T11:55:24Z",
       "sourceCount": "97 sources"
     },
     {
@@ -195,7 +15,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T11:42:57Z",
+      "pubDate": "2026-02-26T12:07:56Z",
       "sourceCount": "26 sources"
     },
     {
@@ -204,7 +24,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T11:27:57Z",
+      "pubDate": "2026-02-26T11:52:56Z",
       "sourceCount": "61 sources"
     },
     {
@@ -213,7 +33,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T11:12:57Z",
+      "pubDate": "2026-02-26T11:37:56Z",
       "sourceCount": "38 sources"
     },
     {
@@ -222,7 +42,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T11:28:30Z",
+      "pubDate": "2026-02-26T10:55:24Z",
       "sourceCount": "40 sources"
     },
     {
@@ -231,7 +51,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T11:28:30Z",
+      "pubDate": "2026-02-26T10:55:24Z",
       "sourceCount": "43 sources"
     },
     {
@@ -240,7 +60,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T10:27:57Z",
+      "pubDate": "2026-02-26T10:52:56Z",
       "sourceCount": "59 sources"
     },
     {
@@ -249,7 +69,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T10:12:57Z",
+      "pubDate": "2026-02-26T10:37:56Z",
       "sourceCount": "55 sources"
     },
     {
@@ -258,7 +78,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T09:57:57Z",
+      "pubDate": "2026-02-26T10:22:56Z",
       "sourceCount": "23 sources"
     },
     {
@@ -267,7 +87,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T02:28:30Z",
+      "pubDate": "2026-02-26T02:55:24Z",
       "sourceCount": "55 sources"
     },
     {
@@ -276,7 +96,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T02:28:30Z",
+      "pubDate": "2026-02-26T02:55:24Z",
       "sourceCount": "67 sources"
     },
     {
@@ -285,7 +105,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T09:12:57Z",
+      "pubDate": "2026-02-26T09:37:56Z",
       "sourceCount": "82 sources"
     },
     {
@@ -294,7 +114,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T08:57:57Z",
+      "pubDate": "2026-02-26T09:22:56Z",
       "sourceCount": "38 sources"
     },
     {
@@ -303,7 +123,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T08:42:57Z",
+      "pubDate": "2026-02-26T09:07:56Z",
       "sourceCount": "58 sources"
     },
     {
@@ -312,7 +132,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T01:28:30Z",
+      "pubDate": "2026-02-26T01:55:24Z",
       "sourceCount": "65 sources"
     },
     {
@@ -321,7 +141,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T00:28:30Z",
+      "pubDate": "2026-02-26T00:55:24Z",
       "sourceCount": "63 sources"
     },
     {
@@ -330,7 +150,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T07:57:57Z",
+      "pubDate": "2026-02-26T08:22:56Z",
       "sourceCount": "85 sources"
     },
     {
@@ -339,7 +159,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T07:42:57Z",
+      "pubDate": "2026-02-26T08:07:56Z",
       "sourceCount": "28 sources"
     },
     {
@@ -348,7 +168,7 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-26T07:27:57Z",
+      "pubDate": "2026-02-26T07:52:56Z",
       "sourceCount": "49 sources"
     },
     {
@@ -357,194 +177,193 @@
       "description": "",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-02-25T22:28:30Z",
+      "pubDate": "2026-02-25T22:55:24Z",
       "sourceCount": "80 sources"
+    },
+    {
+      "title": "Oil drops as record US inventory build offsets Iran tensions",
+      "url": "https://www.perplexity.ai/discover/finance/oil-drops-as-record-us-invento-qEb5IxbaSLmVEChuOdb6wg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T12:44:28Z",
+      "sourceCount": "54 sources"
+    },
+    {
+      "title": "Lagarde says ECB's inflation fight has worked as prices fall below 2% target",
+      "url": "https://www.perplexity.ai/discover/finance/lagarde-says-ecb-s-inflation-f-ljfMVpXfToKOtTcQqrlppA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T12:07:56Z",
+      "sourceCount": "63 sources"
+    },
+    {
+      "title": "Global stocks hit records as AI disruption fears ease",
+      "url": "https://www.perplexity.ai/discover/finance/global-stocks-hit-records-as-a-NecmFjA1Rs256LTzy0XYrg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T11:52:56Z",
+      "sourceCount": "72 sources"
+    },
+    {
+      "title": "Warner Bros. Discovery narrows Q4 loss amid Netflix-Paramount bidding war",
+      "url": "https://www.perplexity.ai/discover/finance/warner-bros-discovery-narrows-PYhgXzenQNK1AU9W2wTzrg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T11:37:56Z",
+      "sourceCount": "63 sources"
+    },
+    {
+      "title": "Yen strengthens as BOJ officials signal more rate hikes ahead",
+      "url": "https://www.perplexity.ai/discover/finance/yen-strengthens-as-boj-officia-MzPOtlLPRr23ZjZycsINtA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T12:09:28Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "Nvidia stock barely rises despite record earnings beat",
+      "url": "https://www.perplexity.ai/discover/finance/nvidia-stock-barely-rises-desp-ub4fowmHQTmXYAYBxOk9kw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T12:04:28Z",
+      "sourceCount": "56 sources"
+    },
+    {
+      "title": "Emerging-market stocks, currencies hit record highs as dollar weakens",
+      "url": "https://www.perplexity.ai/discover/finance/emerging-market-stocks-currenc-b3F4TqZhQ4y8AM.EIoS45Q",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T10:52:56Z",
+      "sourceCount": "70 sources"
+    },
+    {
+      "title": "Nvidia beats expectations as Wall Street posts two-day rally on easing AI fears",
+      "url": "https://www.perplexity.ai/discover/finance/nvidia-beats-expectations-as-w-hP3Mj0jAR96nNbrnc5Y_SA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T10:37:56Z",
+      "sourceCount": "60 sources"
+    },
+    {
+      "title": "WEF chief Brende resigns over Epstein ties",
+      "url": "https://www.perplexity.ai/discover/finance/wef-chief-brende-resigns-over-uQ5rYVOjRdewiAr_bXtXrw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T10:22:56Z",
+      "sourceCount": "32 sources"
+    },
+    {
+      "title": "ECB sold dollars for yen in early 2025 rebalancing",
+      "url": "https://www.perplexity.ai/discover/finance/ecb-sold-dollars-for-yen-in-ea-l7dm2POUTPuHBs9iUtVQ9w",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T11:55:28Z",
+      "sourceCount": "46 sources"
+    },
+    {
+      "title": "IMF projects US inflation won't hit 2% target until 2027",
+      "url": "https://www.perplexity.ai/discover/finance/imf-projects-us-inflation-won-MQxcJQtJS822U.CEM5NVRw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T11:55:28Z",
+      "sourceCount": "54 sources"
+    },
+    {
+      "title": "Gold nears longest monthly winning streak in history",
+      "url": "https://www.perplexity.ai/discover/finance/gold-nears-longest-monthly-win-SEZBGT2eS6GysQsQrxdynw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T09:37:56Z",
+      "sourceCount": "62 sources"
+    },
+    {
+      "title": "ECB posts third straight annual loss but gap narrows sharply",
+      "url": "https://www.perplexity.ai/discover/finance/ecb-posts-third-straight-annua-3JZVend0SKWTX86ZxmhQtQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T09:22:56Z",
+      "sourceCount": "50 sources"
+    },
+    {
+      "title": "Two Fed officials defend Powell amid political battles",
+      "url": "https://www.perplexity.ai/discover/finance/two-fed-officials-defend-powel-1kQc5NZFQUe7TbD2Sp8dZw",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T09:07:56Z",
+      "sourceCount": "59 sources"
+    },
+    {
+      "title": "Yuan hits near 3-year high on longest winning streak since 2010",
+      "url": "https://www.perplexity.ai/discover/finance/yuan-hits-near-3-year-high-on-gItYfHggR6KhaCI3RSAOlg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T10:55:28Z",
+      "sourceCount": "83 sources"
+    },
+    {
+      "title": "US dollar extends losses as tariff turmoil and Asian currency rallies weigh on greenback",
+      "url": "https://www.perplexity.ai/discover/finance/us-dollar-extends-losses-as-ta-hgQp5MfSRBetci9DgOv5fg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T10:55:28Z",
+      "sourceCount": "73 sources"
+    },
+    {
+      "title": "OCC proposes first federal rules for stablecoin issuers",
+      "url": "https://www.perplexity.ai/discover/finance/occ-proposes-first-federal-rul-TEEK0aqfS6adGBIz7.LveQ",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T08:22:56Z",
+      "sourceCount": "47 sources"
+    },
+    {
+      "title": "Tariff chaos drives companies to abandon single-country sourcing",
+      "url": "https://www.perplexity.ai/discover/finance/tariff-chaos-drives-companies-z_8JchJ6RkOF3q1WGPtCNA",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T08:07:56Z",
+      "sourceCount": "52 sources"
+    },
+    {
+      "title": "Broadcom shares rebound as Nvidia earnings ease AI sector jitters",
+      "url": "https://www.perplexity.ai/discover/finance/broadcom-shares-rebound-as-nvi-oLEzHkT6S8eT2CSnrrBg7w",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T07:52:56Z",
+      "sourceCount": "87 sources"
+    },
+    {
+      "title": "Ecobank CEO says US tariff chaos speeds Africa's shift from dollar",
+      "url": "https://www.perplexity.ai/discover/finance/ecobank-ceo-says-us-tariff-cha-fcucK0gHRgG3vVKtAw12gg",
+      "description": "",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-26T10:55:28Z",
+      "sourceCount": "114 sources"
     }
   ],
-  "cached_at": "2026-02-26T12:30:51Z",
+  "cached_at": "2026-02-26T12:55:28Z",
   "topics": {
-    "top": [
-      {
-        "title": "Invasive species, drought threaten water on 3 continents",
-        "url": "https://www.perplexity.ai/discover/top/invasive-species-drought-threa-zxJNp05NSH2xjcXGneW5sg",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T12:19:02Z",
-        "sourceCount": "46 sources"
-      },
-      {
-        "title": "Flinders University scientists develop nano-cage that removes 98% of PFAS from water",
-        "url": "https://www.perplexity.ai/discover/top/flinders-university-scientists-vzwAHRhmQB.LDFZkJEdd2A",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T11:42:57Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Ivory Coast to slash cocoa farmer prices in historic move",
-        "url": "https://www.perplexity.ai/discover/top/ivory-coast-to-slash-cocoa-far-eW52FRsLSuSEKHRxM0fStw",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T11:27:57Z",
-        "sourceCount": "36 sources"
-      },
-      {
-        "title": "Oil holds near 7-month highs as US-Iran talks open in Geneva",
-        "url": "https://www.perplexity.ai/discover/top/oil-holds-near-7-month-highs-a-zra955vdTzOa2ijK8J1Z2Q",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T11:12:57Z",
-        "sourceCount": "44 sources"
-      },
-      {
-        "title": "Rutgers study challenges theory that melting glaciers could slow climate change",
-        "url": "https://www.perplexity.ai/discover/top/rutgers-study-challenges-theor-DA_xC2tYQ2C2kNrRuK0trQ",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T10:28:02Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Scripps Research finds hidden structure in cell droplets, opening new drug targets",
-        "url": "https://www.perplexity.ai/discover/top/scripps-research-finds-hidden-ssw5MxLAQ0SsCpO71G0.Ww",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T09:28:02Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "US rare earth shortages deepen as suppliers halt production",
-        "url": "https://www.perplexity.ai/discover/top/us-rare-earth-shortages-deepen-cXZEUnGNSrCdVBqwEDLGsw",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T10:27:57Z",
-        "sourceCount": "47 sources"
-      },
-      {
-        "title": "UN issues first carbon credits under Paris Agreement",
-        "url": "https://www.perplexity.ai/discover/top/un-issues-first-carbon-credits-1OdPy57lSBShEHRzEI8y4Q",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T10:12:57Z",
-        "sourceCount": "35 sources"
-      },
-      {
-        "title": "Space Force halts Vulcan rocket launches over booster anomaly",
-        "url": "https://www.perplexity.ai/discover/top/space-force-halts-vulcan-rocke-vz9rPDDiTKqF.UN1aXOJOg",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T09:57:57Z",
-        "sourceCount": "35 sources"
-      },
-      {
-        "title": "Nvidia's record Q4 earnings send Asian markets to new highs",
-        "url": "https://www.perplexity.ai/discover/top/nvidia-s-record-q4-earnings-se-GIfuMWK9QOGuHQrT_vxlNg",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T07:28:02Z",
-        "sourceCount": "54 sources"
-      },
-      {
-        "title": "DARPA awards RTX contract for kilometer-range X-ray vision",
-        "url": "https://www.perplexity.ai/discover/top/darpa-awards-rtx-contract-for-T4iL07ZYQyuuwk.TobLuvg",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T07:28:02Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Patel fires FBI staff tied to Trump probe, says phone records seized",
-        "url": "https://www.perplexity.ai/discover/top/patel-fires-fbi-staff-tied-to-uCEoKMAHQLWWCBO5OhWWuw",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T09:12:57Z",
-        "sourceCount": "33 sources"
-      },
-      {
-        "title": "Nearly blind refugee found dead in Buffalo after Border Patrol left him",
-        "url": "https://www.perplexity.ai/discover/top/nearly-blind-refugee-found-dea-pMpUI5tiTtam.IwLN6172g",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T08:57:57Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Thune says GOP lacks votes for talking filibuster on SAVE Act",
-        "url": "https://www.perplexity.ai/discover/top/thune-says-gop-lacks-votes-for-nboSAyV3Qgqi10FLuvx8GA",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T08:42:57Z",
-        "sourceCount": "55 sources"
-      },
-      {
-        "title": "Trump advisers prefer Israel strike Iran first, Politico reports",
-        "url": "https://www.perplexity.ai/discover/top/trump-advisers-prefer-israel-s-eX0y0glyQUyz1Whus3nY4A",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T01:28:02Z",
-        "sourceCount": "94 sources"
-      },
-      {
-        "title": "US to allow resale of Venezuelan oil to Cuba",
-        "url": "https://www.perplexity.ai/discover/top/us-to-allow-resale-of-venezuel-fPQeuHuuSRKUYyKeXVw4Fw",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T18:28:02Z",
-        "sourceCount": "51 sources"
-      },
-      {
-        "title": "Casey Means faces Senate hearing for surgeon general nomination",
-        "url": "https://www.perplexity.ai/discover/top/casey-means-faces-senate-heari-whM_SPlTTwuvNSWEqN0vHQ",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T07:57:57Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump says Omar and Tlaib should be 'sent back' after State of the Union clash",
-        "url": "https://www.perplexity.ai/discover/top/trump-says-omar-and-tlaib-shou-Q98evvEQQFC9gWy1LgTDNA",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T07:42:57Z",
-        "sourceCount": "52 sources"
-      },
-      {
-        "title": "NASA's Fincke says he was behind historic ISS medical evacuation",
-        "url": "https://www.perplexity.ai/discover/top/nasa-s-fincke-says-he-was-behi-MXGqPrr5QcG6X39xH8pf5Q",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T07:27:57Z",
-        "sourceCount": "34 sources"
-      },
-      {
-        "title": "Witkoff says U.S. demands any Iran nuclear deal last indefinitely",
-        "url": "https://www.perplexity.ai/discover/top/witkoff-says-u-s-demands-any-i-lbO8anuRR7mC4cCizlLOYg",
-        "description": "",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T18:28:02Z",
-        "sourceCount": "98 sources"
-      }
-    ],
+    "top": [],
     "tech": [
       {
         "title": "NYT investigation finds AI-generated videos flooding kids' YouTube feeds",
@@ -552,7 +371,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T11:46:30Z",
+        "pubDate": "2026-02-26T11:55:24Z",
         "sourceCount": "97 sources"
       },
       {
@@ -561,7 +380,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T11:42:57Z",
+        "pubDate": "2026-02-26T12:07:56Z",
         "sourceCount": "26 sources"
       },
       {
@@ -570,7 +389,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T11:27:57Z",
+        "pubDate": "2026-02-26T11:52:56Z",
         "sourceCount": "61 sources"
       },
       {
@@ -579,7 +398,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T11:12:57Z",
+        "pubDate": "2026-02-26T11:37:56Z",
         "sourceCount": "38 sources"
       },
       {
@@ -588,7 +407,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T11:28:30Z",
+        "pubDate": "2026-02-26T10:55:24Z",
         "sourceCount": "40 sources"
       },
       {
@@ -597,7 +416,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T11:28:30Z",
+        "pubDate": "2026-02-26T10:55:24Z",
         "sourceCount": "43 sources"
       },
       {
@@ -606,7 +425,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T10:27:57Z",
+        "pubDate": "2026-02-26T10:52:56Z",
         "sourceCount": "59 sources"
       },
       {
@@ -615,7 +434,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T10:12:57Z",
+        "pubDate": "2026-02-26T10:37:56Z",
         "sourceCount": "55 sources"
       },
       {
@@ -624,7 +443,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T09:57:57Z",
+        "pubDate": "2026-02-26T10:22:56Z",
         "sourceCount": "23 sources"
       },
       {
@@ -633,7 +452,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T02:28:30Z",
+        "pubDate": "2026-02-26T02:55:24Z",
         "sourceCount": "55 sources"
       },
       {
@@ -642,7 +461,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T02:28:30Z",
+        "pubDate": "2026-02-26T02:55:24Z",
         "sourceCount": "67 sources"
       },
       {
@@ -651,7 +470,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T09:12:57Z",
+        "pubDate": "2026-02-26T09:37:56Z",
         "sourceCount": "82 sources"
       },
       {
@@ -660,7 +479,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T08:57:57Z",
+        "pubDate": "2026-02-26T09:22:56Z",
         "sourceCount": "38 sources"
       },
       {
@@ -669,7 +488,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T08:42:57Z",
+        "pubDate": "2026-02-26T09:07:56Z",
         "sourceCount": "58 sources"
       },
       {
@@ -678,7 +497,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T01:28:30Z",
+        "pubDate": "2026-02-26T01:55:24Z",
         "sourceCount": "65 sources"
       },
       {
@@ -687,7 +506,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T00:28:30Z",
+        "pubDate": "2026-02-26T00:55:24Z",
         "sourceCount": "63 sources"
       },
       {
@@ -696,7 +515,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T07:57:57Z",
+        "pubDate": "2026-02-26T08:22:56Z",
         "sourceCount": "85 sources"
       },
       {
@@ -705,7 +524,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T07:42:57Z",
+        "pubDate": "2026-02-26T08:07:56Z",
         "sourceCount": "28 sources"
       },
       {
@@ -714,7 +533,7 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-26T07:27:57Z",
+        "pubDate": "2026-02-26T07:52:56Z",
         "sourceCount": "49 sources"
       },
       {
@@ -723,10 +542,191 @@
         "description": "",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-02-25T22:28:30Z",
+        "pubDate": "2026-02-25T22:55:24Z",
         "sourceCount": "80 sources"
       }
     ],
-    "finance": []
+    "finance": [
+      {
+        "title": "Oil drops as record US inventory build offsets Iran tensions",
+        "url": "https://www.perplexity.ai/discover/finance/oil-drops-as-record-us-invento-qEb5IxbaSLmVEChuOdb6wg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T12:44:28Z",
+        "sourceCount": "54 sources"
+      },
+      {
+        "title": "Lagarde says ECB's inflation fight has worked as prices fall below 2% target",
+        "url": "https://www.perplexity.ai/discover/finance/lagarde-says-ecb-s-inflation-f-ljfMVpXfToKOtTcQqrlppA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T12:07:56Z",
+        "sourceCount": "63 sources"
+      },
+      {
+        "title": "Global stocks hit records as AI disruption fears ease",
+        "url": "https://www.perplexity.ai/discover/finance/global-stocks-hit-records-as-a-NecmFjA1Rs256LTzy0XYrg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T11:52:56Z",
+        "sourceCount": "72 sources"
+      },
+      {
+        "title": "Warner Bros. Discovery narrows Q4 loss amid Netflix-Paramount bidding war",
+        "url": "https://www.perplexity.ai/discover/finance/warner-bros-discovery-narrows-PYhgXzenQNK1AU9W2wTzrg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T11:37:56Z",
+        "sourceCount": "63 sources"
+      },
+      {
+        "title": "Yen strengthens as BOJ officials signal more rate hikes ahead",
+        "url": "https://www.perplexity.ai/discover/finance/yen-strengthens-as-boj-officia-MzPOtlLPRr23ZjZycsINtA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T12:09:28Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "Nvidia stock barely rises despite record earnings beat",
+        "url": "https://www.perplexity.ai/discover/finance/nvidia-stock-barely-rises-desp-ub4fowmHQTmXYAYBxOk9kw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T12:04:28Z",
+        "sourceCount": "56 sources"
+      },
+      {
+        "title": "Emerging-market stocks, currencies hit record highs as dollar weakens",
+        "url": "https://www.perplexity.ai/discover/finance/emerging-market-stocks-currenc-b3F4TqZhQ4y8AM.EIoS45Q",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T10:52:56Z",
+        "sourceCount": "70 sources"
+      },
+      {
+        "title": "Nvidia beats expectations as Wall Street posts two-day rally on easing AI fears",
+        "url": "https://www.perplexity.ai/discover/finance/nvidia-beats-expectations-as-w-hP3Mj0jAR96nNbrnc5Y_SA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T10:37:56Z",
+        "sourceCount": "60 sources"
+      },
+      {
+        "title": "WEF chief Brende resigns over Epstein ties",
+        "url": "https://www.perplexity.ai/discover/finance/wef-chief-brende-resigns-over-uQ5rYVOjRdewiAr_bXtXrw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T10:22:56Z",
+        "sourceCount": "32 sources"
+      },
+      {
+        "title": "ECB sold dollars for yen in early 2025 rebalancing",
+        "url": "https://www.perplexity.ai/discover/finance/ecb-sold-dollars-for-yen-in-ea-l7dm2POUTPuHBs9iUtVQ9w",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T11:55:28Z",
+        "sourceCount": "46 sources"
+      },
+      {
+        "title": "IMF projects US inflation won't hit 2% target until 2027",
+        "url": "https://www.perplexity.ai/discover/finance/imf-projects-us-inflation-won-MQxcJQtJS822U.CEM5NVRw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T11:55:28Z",
+        "sourceCount": "54 sources"
+      },
+      {
+        "title": "Gold nears longest monthly winning streak in history",
+        "url": "https://www.perplexity.ai/discover/finance/gold-nears-longest-monthly-win-SEZBGT2eS6GysQsQrxdynw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T09:37:56Z",
+        "sourceCount": "62 sources"
+      },
+      {
+        "title": "ECB posts third straight annual loss but gap narrows sharply",
+        "url": "https://www.perplexity.ai/discover/finance/ecb-posts-third-straight-annua-3JZVend0SKWTX86ZxmhQtQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T09:22:56Z",
+        "sourceCount": "50 sources"
+      },
+      {
+        "title": "Two Fed officials defend Powell amid political battles",
+        "url": "https://www.perplexity.ai/discover/finance/two-fed-officials-defend-powel-1kQc5NZFQUe7TbD2Sp8dZw",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T09:07:56Z",
+        "sourceCount": "59 sources"
+      },
+      {
+        "title": "Yuan hits near 3-year high on longest winning streak since 2010",
+        "url": "https://www.perplexity.ai/discover/finance/yuan-hits-near-3-year-high-on-gItYfHggR6KhaCI3RSAOlg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T10:55:28Z",
+        "sourceCount": "83 sources"
+      },
+      {
+        "title": "US dollar extends losses as tariff turmoil and Asian currency rallies weigh on greenback",
+        "url": "https://www.perplexity.ai/discover/finance/us-dollar-extends-losses-as-ta-hgQp5MfSRBetci9DgOv5fg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T10:55:28Z",
+        "sourceCount": "73 sources"
+      },
+      {
+        "title": "OCC proposes first federal rules for stablecoin issuers",
+        "url": "https://www.perplexity.ai/discover/finance/occ-proposes-first-federal-rul-TEEK0aqfS6adGBIz7.LveQ",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T08:22:56Z",
+        "sourceCount": "47 sources"
+      },
+      {
+        "title": "Tariff chaos drives companies to abandon single-country sourcing",
+        "url": "https://www.perplexity.ai/discover/finance/tariff-chaos-drives-companies-z_8JchJ6RkOF3q1WGPtCNA",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T08:07:56Z",
+        "sourceCount": "52 sources"
+      },
+      {
+        "title": "Broadcom shares rebound as Nvidia earnings ease AI sector jitters",
+        "url": "https://www.perplexity.ai/discover/finance/broadcom-shares-rebound-as-nvi-oLEzHkT6S8eT2CSnrrBg7w",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T07:52:56Z",
+        "sourceCount": "87 sources"
+      },
+      {
+        "title": "Ecobank CEO says US tariff chaos speeds Africa's shift from dollar",
+        "url": "https://www.perplexity.ai/discover/finance/ecobank-ceo-says-us-tariff-cha-fcucK0gHRgG3vVKtAw12gg",
+        "description": "",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-26T10:55:28Z",
+        "sourceCount": "114 sources"
+      }
+    ]
   }
 }
