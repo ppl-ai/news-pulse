@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+      "title": "DOJ to drop defense of Trump orders targeting law firms",
+      "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
+      "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-02T18:24:32Z",
-      "sourceCount": "21 sources"
+      "pubDate": "2026-03-02T19:23:15Z",
+      "sourceCount": "68 sources"
     },
     {
       "title": "Qatar shoots down two Iranian jets in Gulf first",
@@ -19,6 +19,24 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Hegseth refuses to rule out ground troops in Iran",
+      "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
+      "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T15:02:32Z",
+      "sourceCount": "22 sources"
+    },
+    {
+      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T18:24:32Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "Supreme Court hears case on gun ban for marijuana users",
       "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
       "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
@@ -26,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-03-02T17:09:57Z",
       "sourceCount": "19 sources"
-    },
-    {
-      "title": "Trump says Iran war likely to last at least a month",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
-      "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T17:44:07Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Putin calls Gulf leaders as Iran conflict widens",
@@ -46,6 +55,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "Trump says Iran war likely to last at least a month",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
+      "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T17:44:07Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Macron offers to station French nuclear weapons in Europe",
       "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
       "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
@@ -55,24 +73,6 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Trump pushes Venezuela model for Iran transition",
-      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T15:58:45Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Hegseth refuses to rule out ground troops in Iran",
-      "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
-      "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T15:02:32Z",
-      "sourceCount": "22 sources"
-    },
-    {
       "title": "Claude AI hit by worldwide outage across all platforms",
       "url": "https://www.perplexity.ai/page/claude-ai-hit-by-worldwide-out-zQYPbIV0RtK35tqc9vzKrQ",
       "description": "Anthropic is investigating after its Claude chatbot went down globally, affecting web, mobile, and API users with errors and timeouts.",
@@ -80,6 +80,15 @@
       "topic": "top",
       "pubDate": "2026-03-02T12:39:54Z",
       "sourceCount": "19 sources"
+    },
+    {
+      "title": "Trump pushes Venezuela model for Iran transition",
+      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
+      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T15:58:45Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Lebanon bans Hezbollah military operations after Israeli strikes kill dozens",
@@ -1342,22 +1351,13 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Fired Yosemite ranger sues over trans flag termination",
-      "url": "https://www.perplexity.ai/page/fired-yosemite-ranger-sues-ove-0ahQfrrwTbKhzYGeyL4elg",
-      "description": "Shannon Joslin, a biologist fired for hanging a transgender pride flag on El Capitan, alleges the termination violated their First Amendment rights.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-23T16:47:55Z",
-      "sourceCount": "112 sources"
-    },
-    {
-      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+      "title": "DOJ to drop defense of Trump orders targeting law firms",
+      "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
+      "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
       "source": "Perplexity",
       "topic": "tech",
-      "pubDate": "2026-03-02T18:24:32Z",
-      "sourceCount": "21 sources"
+      "pubDate": "2026-03-02T19:23:15Z",
+      "sourceCount": "68 sources"
     },
     {
       "title": "Qatar shoots down two Iranian jets in Gulf first",
@@ -1369,6 +1369,24 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Hegseth refuses to rule out ground troops in Iran",
+      "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
+      "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
+      "source": "Perplexity",
+      "topic": "tech",
+      "pubDate": "2026-03-02T15:02:32Z",
+      "sourceCount": "22 sources"
+    },
+    {
+      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+      "source": "Perplexity",
+      "topic": "tech",
+      "pubDate": "2026-03-02T18:24:32Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "Supreme Court hears case on gun ban for marijuana users",
       "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
       "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
@@ -1376,15 +1394,6 @@
       "topic": "tech",
       "pubDate": "2026-03-02T17:09:57Z",
       "sourceCount": "19 sources"
-    },
-    {
-      "title": "Trump says Iran war likely to last at least a month",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
-      "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-03-02T17:44:07Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Putin calls Gulf leaders as Iran conflict widens",
@@ -1396,6 +1405,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "Trump says Iran war likely to last at least a month",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
+      "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
+      "source": "Perplexity",
+      "topic": "tech",
+      "pubDate": "2026-03-02T17:44:07Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Macron offers to station French nuclear weapons in Europe",
       "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
       "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
@@ -1405,24 +1423,6 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Trump pushes Venezuela model for Iran transition",
-      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-03-02T15:58:45Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Hegseth refuses to rule out ground troops in Iran",
-      "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
-      "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-03-02T15:02:32Z",
-      "sourceCount": "22 sources"
-    },
-    {
       "title": "Claude AI hit by worldwide outage across all platforms",
       "url": "https://www.perplexity.ai/page/claude-ai-hit-by-worldwide-out-zQYPbIV0RtK35tqc9vzKrQ",
       "description": "Anthropic is investigating after its Claude chatbot went down globally, affecting web, mobile, and API users with errors and timeouts.",
@@ -1430,6 +1430,15 @@
       "topic": "tech",
       "pubDate": "2026-03-02T12:39:54Z",
       "sourceCount": "19 sources"
+    },
+    {
+      "title": "Trump pushes Venezuela model for Iran transition",
+      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
+      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
+      "source": "Perplexity",
+      "topic": "tech",
+      "pubDate": "2026-03-02T15:58:45Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Lebanon bans Hezbollah military operations after Israeli strikes kill dozens",
@@ -1792,22 +1801,13 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Bill Clinton tells Congress he 'did nothing wrong' in Epstein deposition",
-      "url": "https://www.perplexity.ai/page/bill-clinton-tells-congress-he-.A0risqrSVO2_EGDJsPyzg",
-      "description": "The former president's closed-door testimony marks the first time a former president has been compelled to testify before Congress.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-02-27T17:18:11Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+      "title": "DOJ to drop defense of Trump orders targeting law firms",
+      "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
+      "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
       "source": "Perplexity",
       "topic": "finance",
-      "pubDate": "2026-03-02T18:24:32Z",
-      "sourceCount": "21 sources"
+      "pubDate": "2026-03-02T19:23:15Z",
+      "sourceCount": "68 sources"
     },
     {
       "title": "Qatar shoots down two Iranian jets in Gulf first",
@@ -1819,6 +1819,24 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Hegseth refuses to rule out ground troops in Iran",
+      "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
+      "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-03-02T15:02:32Z",
+      "sourceCount": "22 sources"
+    },
+    {
+      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-03-02T18:24:32Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "Supreme Court hears case on gun ban for marijuana users",
       "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
       "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
@@ -1826,15 +1844,6 @@
       "topic": "finance",
       "pubDate": "2026-03-02T17:09:57Z",
       "sourceCount": "19 sources"
-    },
-    {
-      "title": "Trump says Iran war likely to last at least a month",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
-      "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-03-02T17:44:07Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Putin calls Gulf leaders as Iran conflict widens",
@@ -1846,6 +1855,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "Trump says Iran war likely to last at least a month",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
+      "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-03-02T17:44:07Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Macron offers to station French nuclear weapons in Europe",
       "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
       "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
@@ -1855,24 +1873,6 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Trump pushes Venezuela model for Iran transition",
-      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-03-02T15:58:45Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Hegseth refuses to rule out ground troops in Iran",
-      "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
-      "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-03-02T15:02:32Z",
-      "sourceCount": "22 sources"
-    },
-    {
       "title": "Claude AI hit by worldwide outage across all platforms",
       "url": "https://www.perplexity.ai/page/claude-ai-hit-by-worldwide-out-zQYPbIV0RtK35tqc9vzKrQ",
       "description": "Anthropic is investigating after its Claude chatbot went down globally, affecting web, mobile, and API users with errors and timeouts.",
@@ -1880,6 +1880,15 @@
       "topic": "finance",
       "pubDate": "2026-03-02T12:39:54Z",
       "sourceCount": "19 sources"
+    },
+    {
+      "title": "Trump pushes Venezuela model for Iran transition",
+      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
+      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-03-02T15:58:45Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Lebanon bans Hezbollah military operations after Israeli strikes kill dozens",
@@ -2240,28 +2249,19 @@
       "topic": "finance",
       "pubDate": "2026-02-28T12:02:59Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Bill Clinton tells Congress he 'did nothing wrong' in Epstein deposition",
-      "url": "https://www.perplexity.ai/page/bill-clinton-tells-congress-he-.A0risqrSVO2_EGDJsPyzg",
-      "description": "The former president's closed-door testimony marks the first time a former president has been compelled to testify before Congress.",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-02-27T17:18:11Z",
-      "sourceCount": "38 sources"
     }
   ],
-  "cached_at": "2026-03-02T19:26:13Z",
+  "cached_at": "2026-03-02T19:36:18Z",
   "topics": {
     "top": [
       {
-        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+        "title": "DOJ to drop defense of Trump orders targeting law firms",
+        "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
+        "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-02T18:24:32Z",
-        "sourceCount": "21 sources"
+        "pubDate": "2026-03-02T19:23:15Z",
+        "sourceCount": "68 sources"
       },
       {
         "title": "Qatar shoots down two Iranian jets in Gulf first",
@@ -2273,6 +2273,24 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Hegseth refuses to rule out ground troops in Iran",
+        "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
+        "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T15:02:32Z",
+        "sourceCount": "22 sources"
+      },
+      {
+        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T18:24:32Z",
+        "sourceCount": "21 sources"
+      },
+      {
         "title": "Supreme Court hears case on gun ban for marijuana users",
         "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
         "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
@@ -2280,15 +2298,6 @@
         "topic": "top",
         "pubDate": "2026-03-02T17:09:57Z",
         "sourceCount": "19 sources"
-      },
-      {
-        "title": "Trump says Iran war likely to last at least a month",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
-        "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T17:44:07Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Putin calls Gulf leaders as Iran conflict widens",
@@ -2300,6 +2309,15 @@
         "sourceCount": "25 sources"
       },
       {
+        "title": "Trump says Iran war likely to last at least a month",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
+        "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T17:44:07Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Macron offers to station French nuclear weapons in Europe",
         "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
         "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
@@ -2309,24 +2327,6 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Trump pushes Venezuela model for Iran transition",
-        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T15:58:45Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Hegseth refuses to rule out ground troops in Iran",
-        "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
-        "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T15:02:32Z",
-        "sourceCount": "22 sources"
-      },
-      {
         "title": "Claude AI hit by worldwide outage across all platforms",
         "url": "https://www.perplexity.ai/page/claude-ai-hit-by-worldwide-out-zQYPbIV0RtK35tqc9vzKrQ",
         "description": "Anthropic is investigating after its Claude chatbot went down globally, affecting web, mobile, and API users with errors and timeouts.",
@@ -2334,6 +2334,15 @@
         "topic": "top",
         "pubDate": "2026-03-02T12:39:54Z",
         "sourceCount": "19 sources"
+      },
+      {
+        "title": "Trump pushes Venezuela model for Iran transition",
+        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
+        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T15:58:45Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Lebanon bans Hezbollah military operations after Israeli strikes kill dozens",
@@ -3594,26 +3603,17 @@
         "topic": "top",
         "pubDate": "2026-02-23T17:18:18Z",
         "sourceCount": "39 sources"
-      },
-      {
-        "title": "Fired Yosemite ranger sues over trans flag termination",
-        "url": "https://www.perplexity.ai/page/fired-yosemite-ranger-sues-ove-0ahQfrrwTbKhzYGeyL4elg",
-        "description": "Shannon Joslin, a biologist fired for hanging a transgender pride flag on El Capitan, alleges the termination violated their First Amendment rights.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-23T16:47:55Z",
-        "sourceCount": "112 sources"
       }
     ],
     "tech": [
       {
-        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+        "title": "DOJ to drop defense of Trump orders targeting law firms",
+        "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
+        "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
         "source": "Perplexity",
         "topic": "tech",
-        "pubDate": "2026-03-02T18:24:32Z",
-        "sourceCount": "21 sources"
+        "pubDate": "2026-03-02T19:23:15Z",
+        "sourceCount": "68 sources"
       },
       {
         "title": "Qatar shoots down two Iranian jets in Gulf first",
@@ -3625,6 +3625,24 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Hegseth refuses to rule out ground troops in Iran",
+        "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
+        "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-02T15:02:32Z",
+        "sourceCount": "22 sources"
+      },
+      {
+        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-02T18:24:32Z",
+        "sourceCount": "21 sources"
+      },
+      {
         "title": "Supreme Court hears case on gun ban for marijuana users",
         "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
         "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
@@ -3632,15 +3650,6 @@
         "topic": "tech",
         "pubDate": "2026-03-02T17:09:57Z",
         "sourceCount": "19 sources"
-      },
-      {
-        "title": "Trump says Iran war likely to last at least a month",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
-        "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-03-02T17:44:07Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Putin calls Gulf leaders as Iran conflict widens",
@@ -3652,6 +3661,15 @@
         "sourceCount": "25 sources"
       },
       {
+        "title": "Trump says Iran war likely to last at least a month",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
+        "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-02T17:44:07Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Macron offers to station French nuclear weapons in Europe",
         "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
         "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
@@ -3661,24 +3679,6 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Trump pushes Venezuela model for Iran transition",
-        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-03-02T15:58:45Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Hegseth refuses to rule out ground troops in Iran",
-        "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
-        "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-03-02T15:02:32Z",
-        "sourceCount": "22 sources"
-      },
-      {
         "title": "Claude AI hit by worldwide outage across all platforms",
         "url": "https://www.perplexity.ai/page/claude-ai-hit-by-worldwide-out-zQYPbIV0RtK35tqc9vzKrQ",
         "description": "Anthropic is investigating after its Claude chatbot went down globally, affecting web, mobile, and API users with errors and timeouts.",
@@ -3686,6 +3686,15 @@
         "topic": "tech",
         "pubDate": "2026-03-02T12:39:54Z",
         "sourceCount": "19 sources"
+      },
+      {
+        "title": "Trump pushes Venezuela model for Iran transition",
+        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
+        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-02T15:58:45Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Lebanon bans Hezbollah military operations after Israeli strikes kill dozens",
@@ -4046,26 +4055,17 @@
         "topic": "tech",
         "pubDate": "2026-02-28T12:02:59Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Bill Clinton tells Congress he 'did nothing wrong' in Epstein deposition",
-        "url": "https://www.perplexity.ai/page/bill-clinton-tells-congress-he-.A0risqrSVO2_EGDJsPyzg",
-        "description": "The former president's closed-door testimony marks the first time a former president has been compelled to testify before Congress.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-02-27T17:18:11Z",
-        "sourceCount": "38 sources"
       }
     ],
     "finance": [
       {
-        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+        "title": "DOJ to drop defense of Trump orders targeting law firms",
+        "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
+        "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
         "source": "Perplexity",
         "topic": "finance",
-        "pubDate": "2026-03-02T18:24:32Z",
-        "sourceCount": "21 sources"
+        "pubDate": "2026-03-02T19:23:15Z",
+        "sourceCount": "68 sources"
       },
       {
         "title": "Qatar shoots down two Iranian jets in Gulf first",
@@ -4077,6 +4077,24 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Hegseth refuses to rule out ground troops in Iran",
+        "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
+        "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-03-02T15:02:32Z",
+        "sourceCount": "22 sources"
+      },
+      {
+        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-03-02T18:24:32Z",
+        "sourceCount": "21 sources"
+      },
+      {
         "title": "Supreme Court hears case on gun ban for marijuana users",
         "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
         "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
@@ -4084,15 +4102,6 @@
         "topic": "finance",
         "pubDate": "2026-03-02T17:09:57Z",
         "sourceCount": "19 sources"
-      },
-      {
-        "title": "Trump says Iran war likely to last at least a month",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
-        "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-03-02T17:44:07Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Putin calls Gulf leaders as Iran conflict widens",
@@ -4104,6 +4113,15 @@
         "sourceCount": "25 sources"
       },
       {
+        "title": "Trump says Iran war likely to last at least a month",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-war-likely-to-hvGNerGjQDygO1gwk38tCQ",
+        "description": "Speaking at a White House Medal of Honor ceremony, the president delivered his first live remarks on the conflict as U.S. casualties rose to four.",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-03-02T17:44:07Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Macron offers to station French nuclear weapons in Europe",
         "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
         "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
@@ -4113,24 +4131,6 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "Trump pushes Venezuela model for Iran transition",
-        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-03-02T15:58:45Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Hegseth refuses to rule out ground troops in Iran",
-        "url": "https://www.perplexity.ai/page/hegseth-refuses-to-rule-out-gr-ci1n1RnKR0qh49dyElBNNg",
-        "description": "The defense secretary said there are no U.S. boots on the ground but declined to set limits, saying \"we'll go as far as we need.\"",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-03-02T15:02:32Z",
-        "sourceCount": "22 sources"
-      },
-      {
         "title": "Claude AI hit by worldwide outage across all platforms",
         "url": "https://www.perplexity.ai/page/claude-ai-hit-by-worldwide-out-zQYPbIV0RtK35tqc9vzKrQ",
         "description": "Anthropic is investigating after its Claude chatbot went down globally, affecting web, mobile, and API users with errors and timeouts.",
@@ -4138,6 +4138,15 @@
         "topic": "finance",
         "pubDate": "2026-03-02T12:39:54Z",
         "sourceCount": "19 sources"
+      },
+      {
+        "title": "Trump pushes Venezuela model for Iran transition",
+        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
+        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-03-02T15:58:45Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Lebanon bans Hezbollah military operations after Israeli strikes kill dozens",
@@ -4498,15 +4507,6 @@
         "topic": "finance",
         "pubDate": "2026-02-28T12:02:59Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Bill Clinton tells Congress he 'did nothing wrong' in Epstein deposition",
-        "url": "https://www.perplexity.ai/page/bill-clinton-tells-congress-he-.A0risqrSVO2_EGDJsPyzg",
-        "description": "The former president's closed-door testimony marks the first time a former president has been compelled to testify before Congress.",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-02-27T17:18:11Z",
-        "sourceCount": "38 sources"
       }
     ]
   }
