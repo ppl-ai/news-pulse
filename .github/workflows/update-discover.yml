@@ -12,7 +12,7 @@ permissions:
 jobs:
   update-cache:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
@@ -20,10 +20,34 @@ jobs:
         with:
           python-version: '3.12'
 
-      # No dependencies needed — script uses only Python stdlib
+      - name: Fetch Discover feeds via curl
+        run: |
+          mkdir -p /tmp/discover
+          for tab in top tech finance; do
+            limit=150
+            [ "$tab" != "top" ] && limit=50
+            echo "Fetching $tab (limit=$limit)..."
+            curl -s --max-time 20 \
+              -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+              -H "Accept: application/json, text/plain, */*" \
+              -H "Accept-Language: en-US,en;q=0.9" \
+              -H "Sec-Fetch-Dest: empty" \
+              -H "Sec-Fetch-Mode: cors" \
+              -H "Sec-Fetch-Site: same-origin" \
+              -H "Referer: https://www.perplexity.ai/discover" \
+              "https://www.perplexity.ai/rest/discover/feed?tab=${tab}&limit=${limit}" \
+              -o "/tmp/discover/${tab}.json" || echo "curl failed for $tab"
+            # Check if we got valid JSON
+            if python3 -c "import json; json.load(open('/tmp/discover/${tab}.json'))" 2>/dev/null; then
+              echo "  $tab: valid JSON"
+            else
+              echo "  $tab: invalid response, removing"
+              rm -f "/tmp/discover/${tab}.json"
+            fi
+          done
 
-      - name: Fetch Discover stories
-        run: python scripts/update_discover.py
+      - name: Build cache from fetched data
+        run: python scripts/update_discover.py --from-curl /tmp/discover
         continue-on-error: false
 
       - name: Commit and push if changed

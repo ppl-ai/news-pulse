@@ -2,6 +2,10 @@
 """
 Fetches current Perplexity Discover stories and writes perplexity_cache.json.
 Runs via GitHub Actions on a schedule. Uses the REST API (no browser needed).
+
+Two modes:
+  python update_discover.py                   # fetch directly via urllib
+  python update_discover.py --from-curl DIR   # read pre-fetched JSON files from DIR
 """
 
 import json
@@ -20,11 +24,10 @@ TOPICS = [
 ]
 
 # Minimum stories required to overwrite cache.
-# Prevents bad fetches from clobbering good data.
 MIN_STORIES_TO_WRITE = 30
 
 
-def fetch_topic(tab, limit):
+def fetch_topic_api(tab, limit):
     """Fetch stories for a single topic from the REST API."""
     url = f"{API_BASE}?tab={tab}&limit={limit}"
     print(f"Fetching {url} ...")
@@ -35,7 +38,8 @@ def fetch_topic(tab, limit):
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/124.0.0.0 Safari/537.36"
         ),
-        "Accept": "application/json",
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
     })
 
     try:
@@ -47,6 +51,25 @@ def fetch_topic(tab, limit):
 
     items = data.get("items", [])
     print(f"  Got {len(items)} items for {tab}")
+    return items
+
+
+def fetch_topic_file(tab, curl_dir):
+    """Read pre-fetched JSON file for a topic."""
+    path = Path(curl_dir) / f"{tab}.json"
+    if not path.exists():
+        print(f"  No file for {tab} at {path}")
+        return []
+
+    try:
+        with open(path) as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"  Error reading {path}: {e}", file=sys.stderr)
+        return []
+
+    items = data.get("items", [])
+    print(f"  Got {len(items)} items for {tab} (from file)")
     return items
 
 
@@ -67,7 +90,6 @@ def build_story(item, topic):
     # Parse timestamp
     pub_date = item.get("published_timestamp") or item.get("updated_datetime") or ""
     if pub_date:
-        # Normalize to ISO Z format (strip microseconds, ensure Z suffix)
         pub_date = pub_date.split(".")[0]
         if not pub_date.endswith("Z"):
             pub_date = pub_date.replace("+00:00", "") + "Z"
@@ -94,11 +116,15 @@ def build_story(item, topic):
     }
 
 
-def fetch_discover_stories():
+def fetch_discover_stories(curl_dir=None):
     stories = []
     for topic_cfg in TOPICS:
         tab = topic_cfg["tab"]
-        items = fetch_topic(tab, topic_cfg["limit"])
+
+        if curl_dir:
+            items = fetch_topic_file(tab, curl_dir)
+        else:
+            items = fetch_topic_api(tab, topic_cfg["limit"])
 
         for item in items:
             story = build_story(item, tab)
@@ -114,6 +140,14 @@ def fetch_discover_stories():
 def main():
     cache_path = Path("perplexity_cache.json")
 
+    # Check for --from-curl mode
+    curl_dir = None
+    if "--from-curl" in sys.argv:
+        idx = sys.argv.index("--from-curl")
+        if idx + 1 < len(sys.argv):
+            curl_dir = sys.argv[idx + 1]
+            print(f"Reading pre-fetched data from {curl_dir}")
+
     # Load existing cache to compare
     existing_count = 0
     if cache_path.exists():
@@ -124,7 +158,7 @@ def main():
         except Exception:
             pass
 
-    stories = fetch_discover_stories()
+    stories = fetch_discover_stories(curl_dir)
 
     topic_counts = Counter(s["topic"] for s in stories)
     print(f"Fetched: {len(stories)} stories — {dict(topic_counts)}")
