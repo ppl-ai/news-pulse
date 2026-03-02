@@ -1,7 +1,7 @@
 #!/bin/bash
 # Refresh Perplexity Discover cache and push to GitHub.
 # Runs from launchd every 10 minutes or can be run manually.
-cd "/Users/eleanor.donovan/Downloads/News Pulse" || exit 1
+cd "/Users/eleanor.donovan/Projects/news-pulse" || exit 1
 
 python3 scripts/update_discover.py 2>&1
 
