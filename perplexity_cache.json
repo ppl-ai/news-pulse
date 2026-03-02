@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
+      "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
+      "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T20:09:15Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "DOJ to drop defense of Trump orders targeting law firms",
       "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
       "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
@@ -1342,13 +1351,13 @@
       "sourceCount": "73 sources"
     },
     {
-      "title": "Peter Mandelson arrested in probe tied to Epstein",
-      "url": "https://www.perplexity.ai/page/peter-mandelson-arrested-in-pr-w059dfzBQFiloj.P2zY2QQ",
-      "description": "London police detained the former UK ambassador at his Camden home and searched two properties as part of a misconduct investigation.",
+      "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
+      "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
+      "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
       "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-23T17:18:18Z",
-      "sourceCount": "39 sources"
+      "topic": "tech",
+      "pubDate": "2026-03-02T20:09:15Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "DOJ to drop defense of Trump orders targeting law firms",
@@ -1792,13 +1801,13 @@
       "sourceCount": "63 sources"
     },
     {
-      "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
-      "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
-      "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
+      "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
+      "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
+      "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
       "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-02-28T12:02:59Z",
-      "sourceCount": "23 sources"
+      "topic": "finance",
+      "pubDate": "2026-03-02T20:09:15Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "DOJ to drop defense of Trump orders targeting law firms",
@@ -2240,20 +2249,20 @@
       "topic": "finance",
       "pubDate": "2026-02-27T15:26:28Z",
       "sourceCount": "63 sources"
-    },
-    {
-      "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
-      "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
-      "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-02-28T12:02:59Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-02T20:06:31Z",
+  "cached_at": "2026-03-02T20:16:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
+        "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
+        "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T20:09:15Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "DOJ to drop defense of Trump orders targeting law firms",
         "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
@@ -3594,19 +3603,19 @@
         "topic": "top",
         "pubDate": "2026-02-25T03:15:39Z",
         "sourceCount": "73 sources"
-      },
-      {
-        "title": "Peter Mandelson arrested in probe tied to Epstein",
-        "url": "https://www.perplexity.ai/page/peter-mandelson-arrested-in-pr-w059dfzBQFiloj.P2zY2QQ",
-        "description": "London police detained the former UK ambassador at his Camden home and searched two properties as part of a misconduct investigation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-23T17:18:18Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [
       {
+        "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
+        "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
+        "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-02T20:09:15Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "DOJ to drop defense of Trump orders targeting law firms",
         "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
         "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
@@ -4046,19 +4055,19 @@
         "topic": "tech",
         "pubDate": "2026-02-27T15:26:28Z",
         "sourceCount": "63 sources"
-      },
-      {
-        "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
-        "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
-        "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-02-28T12:02:59Z",
-        "sourceCount": "23 sources"
       }
     ],
     "finance": [
       {
+        "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
+        "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
+        "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-03-02T20:09:15Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "DOJ to drop defense of Trump orders targeting law firms",
         "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
         "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
@@ -4498,15 +4507,6 @@
         "topic": "finance",
         "pubDate": "2026-02-27T15:26:28Z",
         "sourceCount": "63 sources"
-      },
-      {
-        "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
-        "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
-        "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-02-28T12:02:59Z",
-        "sourceCount": "23 sources"
       }
     ]
   }
