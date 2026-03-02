@@ -1,236 +1,114 @@
 #!/usr/bin/env python3
 """
 Fetches current Perplexity Discover stories and writes perplexity_cache.json.
-Runs via GitHub Actions on a schedule. Uses Playwright to render the SPA.
+Runs via GitHub Actions on a schedule. Uses the REST API (no browser needed).
 """
 
 import json
-import re
 import sys
-from datetime import datetime, timezone, timedelta
+import urllib.request
+from collections import Counter
+from datetime import datetime, timezone
 from pathlib import Path
-from playwright.sync_api import sync_playwright
+
+API_BASE = "https://www.perplexity.ai/rest/discover/feed"
+
+TOPICS = [
+    {"tab": "top", "limit": 150},
+    {"tab": "tech", "limit": 50},
+    {"tab": "finance", "limit": 50},
+]
+
+# Minimum stories required to overwrite cache.
+# Prevents bad fetches from clobbering good data.
+MIN_STORIES_TO_WRITE = 30
 
 
-def parse_relative_time(text):
-    """Convert 'X minutes/hours/days ago' to an ISO timestamp."""
-    if not text:
+def fetch_topic(tab, limit):
+    """Fetch stories for a single topic from the REST API."""
+    url = f"{API_BASE}?tab={tab}&limit={limit}"
+    print(f"Fetching {url} ...")
+
+    req = urllib.request.Request(url, headers={
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": "application/json",
+    })
+
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read().decode())
+    except Exception as e:
+        print(f"  Error fetching {tab}: {e}", file=sys.stderr)
+        return []
+
+    items = data.get("items", [])
+    print(f"  Got {len(items)} items for {tab}")
+    return items
+
+
+def build_story(item, topic):
+    """Convert an API item into our cache story format."""
+    title = (item.get("title") or "").strip()
+    if not title:
         return None
-    text = text.strip().lower()
-    now = datetime.now(timezone.utc)
 
-    m = re.search(r'(\d+)\s*(minute|min|hour|hr|day|week|month)', text)
-    if not m:
+    slug = item.get("slug", "")
+    uuid = item.get("uuid", "")
+    url = f"https://www.perplexity.ai/page/{slug}" if slug else ""
+    if not url and uuid:
+        url = f"https://www.perplexity.ai/page/{uuid}"
+    if not url:
         return None
 
-    val = int(m.group(1))
-    unit = m.group(2)
+    # Parse timestamp
+    pub_date = item.get("published_timestamp") or item.get("updated_datetime") or ""
+    if pub_date:
+        # Normalize to ISO Z format (strip microseconds, ensure Z suffix)
+        pub_date = pub_date.split(".")[0]
+        if not pub_date.endswith("Z"):
+            pub_date = pub_date.replace("+00:00", "") + "Z"
 
-    if unit in ('minute', 'min'):
-        dt = now - timedelta(minutes=val)
-    elif unit in ('hour', 'hr'):
-        dt = now - timedelta(hours=val)
-    elif unit == 'day':
-        dt = now - timedelta(days=val)
-    elif unit == 'week':
-        dt = now - timedelta(weeks=val)
-    elif unit == 'month':
-        dt = now - timedelta(days=val * 30)
-    else:
-        return None
+    # Source count from web_results_preview.total_count
+    source_count = ""
+    preview = item.get("web_results_preview")
+    if isinstance(preview, dict):
+        total = preview.get("total_count", 0)
+        if total:
+            source_count = f"{total} sources"
 
-    return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+    # Description from summary or first_answer
+    description = (item.get("summary") or item.get("first_answer") or "").strip()
 
-
-# JavaScript extraction code
-JS_EXTRACT = r"""(topic) => {
-    // For "top", story links don't contain /discover/top/ so use broad selector directly
-    let links;
-    if (topic === 'top') {
-        links = document.querySelectorAll('a[href*="/discover/"]');
-    } else {
-        // Primary selector: links containing /discover/<topic>/
-        let selector = `a[href*="/discover/${topic}/"]`;
-        links = document.querySelectorAll(selector);
-        // Fallback: if no topic-specific links found, grab ALL discover story links
-        if (links.length === 0) {
-            links = document.querySelectorAll('a[href*="/discover/"]');
-        }
+    return {
+        "title": title,
+        "url": url,
+        "description": description,
+        "source": "Perplexity",
+        "topic": topic,
+        "pubDate": pub_date,
+        "sourceCount": source_count,
     }
-
-    const seen = new Set();
-    const results = [];
-
-    for (const link of links) {
-        const href = link.getAttribute('href');
-        if (!href) continue;
-
-        // Skip non-story links (navigation links to topic pages)
-        if (/^(\/|https:\/\/www\.perplexity\.ai)?\/discover\/(top|tech|finance|you|trending)?\/?$/.test(href)) continue;
-
-        const fullUrl = href.startsWith('http')
-            ? href
-            : 'https://www.perplexity.ai' + href;
-
-        if (seen.has(fullUrl)) continue;
-        seen.add(fullUrl);
-
-        // --- Extract title ---
-        let title = '';
-        const imgs = link.querySelectorAll('img[alt]');
-        for (const img of imgs) {
-            const alt = (img.alt || '').trim();
-            if (alt.length > 15 && !alt.includes('favicon')) {
-                title = alt;
-                break;
-            }
-        }
-
-        if (!title) {
-            const allDivs = link.querySelectorAll('div');
-            for (const div of allDivs) {
-                if (div.children.length === 0) {
-                    const txt = div.textContent.trim();
-                    if (txt.length > 20
-                        && !/^\d+ sources?$/.test(txt)
-                        && txt !== 'Published') {
-                        title = txt;
-                        break;
-                    }
-                }
-            }
-        }
-
-        if (!title) {
-            const raw = link.textContent.trim();
-            const cleaned = raw.split(/Published|\d+ sources/)[0].trim();
-            if (cleaned.length > 15) title = cleaned;
-        }
-
-        // --- Extract timestamp ---
-        let timeAgo = '';
-        const divs2 = link.querySelectorAll('div');
-        for (const div of divs2) {
-            const txt = div.textContent.trim();
-            if (/^\d+\s*(minute|min|hour|hr|day|week|month)s?\s*ago$/i.test(txt)) {
-                timeAgo = txt;
-                break;
-            }
-        }
-
-        // --- Extract source count ---
-        let sourceCount = '';
-        for (const div of divs2) {
-            const txt = div.textContent.trim();
-            if (/^\d+ sources?$/.test(txt)) {
-                sourceCount = txt;
-                break;
-            }
-        }
-
-        if (title && title.length > 10) {
-            results.push({
-                title,
-                url: fullUrl,
-                timeAgo: timeAgo,
-                sourceCount: sourceCount
-            });
-        }
-    }
-    return results;
-}"""
-
-
-def fetch_topic(page, topic, max_retries=2):
-    """Fetch stories for a single topic with retries."""
-    # "top" is the main /discover page, not /discover/top
-    url = "https://www.perplexity.ai/discover" if topic == "top" else f"https://www.perplexity.ai/discover/{topic}"
-
-    for attempt in range(max_retries + 1):
-        try:
-            print(f"  Attempt {attempt + 1} for {topic}...")
-            page.goto(url, wait_until="networkidle", timeout=45000)
-
-            # For "top", story links don't contain /discover/top/ — use broad selector
-            primary_selector = "a[href*='/discover/'] img[alt]" if topic == "top" else f"a[href*='/discover/{topic}/']"
-            try:
-                page.wait_for_selector(primary_selector, timeout=15000)
-            except Exception:
-                print(f"    Primary selector failed, trying fallback...")
-                try:
-                    page.wait_for_selector(
-                        "a[href*='/discover/'] img[alt]", timeout=15000
-                    )
-                except Exception:
-                    print(f"    Fallback also failed, scrolling...")
-                    page.mouse.wheel(0, 1000)
-                    page.wait_for_timeout(3000)
-
-            page.wait_for_timeout(2000)
-            items = page.evaluate(JS_EXTRACT, topic)
-            print(f"    Found {len(items)} stories")
-
-            if items:
-                return items
-
-            if attempt < max_retries:
-                print(f"    No items found, retrying...")
-                page.wait_for_timeout(2000)
-
-        except Exception as e:
-            print(f"    Error: {e}", file=sys.stderr)
-            if attempt < max_retries:
-                page.wait_for_timeout(3000)
-
-    return []
 
 
 def fetch_discover_stories():
     stories = []
-    now = datetime.now(timezone.utc)
+    for topic_cfg in TOPICS:
+        tab = topic_cfg["tab"]
+        items = fetch_topic(tab, topic_cfg["limit"])
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                       "AppleWebKit/537.36 (KHTML, like Gecko) "
-                       "Chrome/124.0.0.0 Safari/537.36",
-            viewport={"width": 1280, "height": 900},
-            locale="en-US",
-        )
-        page = context.new_page()
+        for item in items:
+            story = build_story(item, tab)
+            if story:
+                stories.append(story)
 
-        for topic in ["top", "tech", "finance"]:
-            print(f"Fetching /discover{'/' + topic if topic != 'top' else ''} ({topic})...")
-            items = fetch_topic(page, topic)
-
-            for i, item in enumerate(items):
-                pub_date = parse_relative_time(item.get("timeAgo", ""))
-                if not pub_date:
-                    offset = 30 + (i * 15)
-                    dt = now - timedelta(minutes=offset)
-                    pub_date = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
-
-                stories.append({
-                    "title": item["title"],
-                    "url": item["url"],
-                    "description": "",
-                    "source": "Perplexity",
-                    "topic": topic,
-                    "pubDate": pub_date,
-                    "sourceCount": item.get("sourceCount", ""),
-                })
-
-            print(f"  Total for {topic}: {len([s for s in stories if s['topic'] == topic])}")
-
-        browser.close()
+        count = len([s for s in stories if s["topic"] == tab])
+        print(f"  Total for {tab}: {count}")
 
     return stories
-
-
-# Minimum stories required to overwrite cache.
-# Prevents bad scrapes from clobbering good data.
-MIN_STORIES_TO_WRITE = 30
 
 
 def main():
@@ -248,16 +126,15 @@ def main():
 
     stories = fetch_discover_stories()
 
-    from collections import Counter
     topic_counts = Counter(s["topic"] for s in stories)
-    print(f"Scraped: {len(stories)} stories — {dict(topic_counts)}")
+    print(f"Fetched: {len(stories)} stories — {dict(topic_counts)}")
     print(f"Existing cache: {existing_count} stories")
 
     if not stories:
         print("No stories fetched. Keeping existing cache.", file=sys.stderr)
         sys.exit(0)
 
-    # SAFETY: Don't overwrite a good cache with a worse scrape
+    # SAFETY: Don't overwrite a good cache with a worse fetch
     if len(stories) < MIN_STORIES_TO_WRITE:
         print(
             f"Only {len(stories)} stories (need {MIN_STORIES_TO_WRITE}+). "
@@ -268,7 +145,7 @@ def main():
 
     if existing_count > 0 and len(stories) < existing_count * 0.5:
         print(
-            f"New scrape ({len(stories)}) is less than half of existing "
+            f"New fetch ({len(stories)}) is less than half of existing "
             f"({existing_count}). Keeping existing cache.",
             file=sys.stderr,
         )
