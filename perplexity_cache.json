@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Asian shares fall as Iran war chokes global oil supply",
+      "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
+      "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T09:55:28Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "India cuts industrial gas supply after Qatar halts LNG production",
       "url": "https://www.perplexity.ai/page/india-cuts-industrial-gas-supp-zParH3jxTaKm_1pC0StaMQ",
       "description": "Indian firms slashed gas deliveries to industries by up to 30% as Qatar's production halt following Iranian drone strikes tightens global supply.",
@@ -1342,13 +1351,13 @@
       "sourceCount": "44 sources"
     },
     {
-      "title": "Iran nears deal to buy supersonic missiles from China",
-      "url": "https://www.perplexity.ai/page/iran-nears-deal-to-buy-superso-ZGJ.F7uLSPSHXIZNoSdPiQ",
-      "description": "Reuters reports Iran is close to purchasing CM-302 anti-ship cruise missiles from China as the U.S. masses naval forces near Iranian waters.",
+      "title": "Asian shares fall as Iran war chokes global oil supply",
+      "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
+      "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
       "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-24T11:01:35Z",
-      "sourceCount": "41 sources"
+      "topic": "tech",
+      "pubDate": "2026-03-03T09:55:28Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "India cuts industrial gas supply after Qatar halts LNG production",
@@ -1792,13 +1801,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Ghana says 55 citizens killed fighting for Russia in Ukraine",
-      "url": "https://www.perplexity.ai/page/ghana-says-55-citizens-killed-gBUP5OjYTp.P43al4Zz_Ag",
-      "description": "Foreign Minister Ablakwa said 272 Ghanaians were lured into the conflict since 2022 through criminal trafficking networks, with two held as POWs.",
+      "title": "Asian shares fall as Iran war chokes global oil supply",
+      "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
+      "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
       "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-02-27T22:29:20Z",
-      "sourceCount": "47 sources"
+      "topic": "finance",
+      "pubDate": "2026-03-03T09:55:28Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "India cuts industrial gas supply after Qatar halts LNG production",
@@ -2240,20 +2249,20 @@
       "topic": "finance",
       "pubDate": "2026-02-28T00:57:28Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Ghana says 55 citizens killed fighting for Russia in Ukraine",
-      "url": "https://www.perplexity.ai/page/ghana-says-55-citizens-killed-gBUP5OjYTp.P43al4Zz_Ag",
-      "description": "Foreign Minister Ablakwa said 272 Ghanaians were lured into the conflict since 2022 through criminal trafficking networks, with two held as POWs.",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-02-27T22:29:20Z",
-      "sourceCount": "47 sources"
     }
   ],
-  "cached_at": "2026-03-03T09:49:27Z",
+  "cached_at": "2026-03-03T10:25:11Z",
   "topics": {
     "top": [
+      {
+        "title": "Asian shares fall as Iran war chokes global oil supply",
+        "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
+        "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T09:55:28Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "India cuts industrial gas supply after Qatar halts LNG production",
         "url": "https://www.perplexity.ai/page/india-cuts-industrial-gas-supp-zParH3jxTaKm_1pC0StaMQ",
@@ -3594,19 +3603,19 @@
         "topic": "top",
         "pubDate": "2026-02-24T12:40:17Z",
         "sourceCount": "44 sources"
-      },
-      {
-        "title": "Iran nears deal to buy supersonic missiles from China",
-        "url": "https://www.perplexity.ai/page/iran-nears-deal-to-buy-superso-ZGJ.F7uLSPSHXIZNoSdPiQ",
-        "description": "Reuters reports Iran is close to purchasing CM-302 anti-ship cruise missiles from China as the U.S. masses naval forces near Iranian waters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-24T11:01:35Z",
-        "sourceCount": "41 sources"
       }
     ],
     "tech": [
       {
+        "title": "Asian shares fall as Iran war chokes global oil supply",
+        "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
+        "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-03T09:55:28Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "India cuts industrial gas supply after Qatar halts LNG production",
         "url": "https://www.perplexity.ai/page/india-cuts-industrial-gas-supp-zParH3jxTaKm_1pC0StaMQ",
         "description": "Indian firms slashed gas deliveries to industries by up to 30% as Qatar's production halt following Iranian drone strikes tightens global supply.",
@@ -4046,19 +4055,19 @@
         "topic": "tech",
         "pubDate": "2026-02-28T00:57:28Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Ghana says 55 citizens killed fighting for Russia in Ukraine",
-        "url": "https://www.perplexity.ai/page/ghana-says-55-citizens-killed-gBUP5OjYTp.P43al4Zz_Ag",
-        "description": "Foreign Minister Ablakwa said 272 Ghanaians were lured into the conflict since 2022 through criminal trafficking networks, with two held as POWs.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-02-27T22:29:20Z",
-        "sourceCount": "47 sources"
       }
     ],
     "finance": [
       {
+        "title": "Asian shares fall as Iran war chokes global oil supply",
+        "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
+        "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-03-03T09:55:28Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "India cuts industrial gas supply after Qatar halts LNG production",
         "url": "https://www.perplexity.ai/page/india-cuts-industrial-gas-supp-zParH3jxTaKm_1pC0StaMQ",
         "description": "Indian firms slashed gas deliveries to industries by up to 30% as Qatar's production halt following Iranian drone strikes tightens global supply.",
@@ -4498,15 +4507,6 @@
         "topic": "finance",
         "pubDate": "2026-02-28T00:57:28Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Ghana says 55 citizens killed fighting for Russia in Ukraine",
-        "url": "https://www.perplexity.ai/page/ghana-says-55-citizens-killed-gBUP5OjYTp.P43al4Zz_Ag",
-        "description": "Foreign Minister Ablakwa said 272 Ghanaians were lured into the conflict since 2022 through criminal trafficking networks, with two held as POWs.",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-02-27T22:29:20Z",
-        "sourceCount": "47 sources"
       }
     ]
   }
