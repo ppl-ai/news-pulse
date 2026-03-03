@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Pentagon identifies four US troops killed in Iranian drone strike",
+      "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
+      "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T23:39:04Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T23:38:43Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "Turkey engaging all sides to end Iran war, foreign minister says",
+      "url": "https://www.perplexity.ai/page/turkey-engaging-all-sides-to-e-bg1FOOnHRFiEvrLFXJfhzA",
+      "description": "Foreign Minister Fidan said Ankara is coordinating with Oman, European nations, and the U.S. to halt the conflict and revive negotiations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T23:38:35Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "Survey finds one in three European women face violence",
       "url": "https://www.perplexity.ai/page/survey-finds-one-in-three-euro-Sp59pO8sREmvCDDNPKZXZA",
       "description": "A sweeping new survey of more than 114,000 women across all 27 EU member states found that most cases of violence go unreported.",
@@ -1234,9 +1261,36 @@
       "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-03T23:38:02Z",
+  "cached_at": "2026-03-03T23:51:19Z",
   "topics": {
     "top": [
+      {
+        "title": "Pentagon identifies four US troops killed in Iranian drone strike",
+        "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
+        "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T23:39:04Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T23:38:43Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "Turkey engaging all sides to end Iran war, foreign minister says",
+        "url": "https://www.perplexity.ai/page/turkey-engaging-all-sides-to-e-bg1FOOnHRFiEvrLFXJfhzA",
+        "description": "Foreign Minister Fidan said Ankara is coordinating with Oman, European nations, and the U.S. to halt the conflict and revive negotiations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T23:38:35Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "Survey finds one in three European women face violence",
         "url": "https://www.perplexity.ai/page/survey-finds-one-in-three-euro-Sp59pO8sREmvCDDNPKZXZA",
