@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Survey finds one in three European women face violence",
+      "url": "https://www.perplexity.ai/page/survey-finds-one-in-three-euro-Sp59pO8sREmvCDDNPKZXZA",
+      "description": "A sweeping new survey of more than 114,000 women across all 27 EU member states found that most cases of violence go unreported.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T23:20:08Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "US sends military, charter flights to evacuate citizens from Middle East",
       "url": "https://www.perplexity.ai/page/us-sends-military-charter-flig-BKZmlX5dTMuwNkgYoArLSw",
       "description": "The State Department said it is securing military aircraft and charter flights after Iranian strikes crippled airports in Dubai, Abu Dhabi, and Doha.",
@@ -379,13 +388,13 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Qatar shoots down two Iranian jets in Gulf first",
-      "url": "https://www.perplexity.ai/page/qatar-shoots-down-two-iranian-jvOYvJWwRRWLfwpi3_M9Fw",
-      "description": "The Gulf state also intercepted seven ballistic missiles and five drones on the third day of Iranian retaliatory strikes across the region.",
+      "title": "Supreme Court hears case on gun ban for marijuana users",
+      "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
+      "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-02T17:45:54Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-02T17:09:57Z",
+      "sourceCount": "19 sources"
     },
     {
       "title": "Trump says he'll attend Correspondents' Dinner for first time as president",
@@ -397,15 +406,6 @@
       "sourceCount": "12 sources"
     },
     {
-      "title": "Supreme Court hears case on gun ban for marijuana users",
-      "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
-      "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T17:09:57Z",
-      "sourceCount": "19 sources"
-    },
-    {
       "title": "Putin calls Gulf leaders as Iran conflict widens",
       "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
       "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
@@ -413,15 +413,6 @@
       "topic": "top",
       "pubDate": "2026-03-02T15:01:40Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T18:24:32Z",
-      "sourceCount": "21 sources"
     },
     {
       "title": "Macron offers to station French nuclear weapons in Europe",
@@ -433,12 +424,30 @@
       "sourceCount": "37 sources"
     },
     {
+      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T18:24:32Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "Three US F-15s shot down by Kuwaiti air defenses in friendly fire incident",
       "url": "https://www.perplexity.ai/page/three-us-f-15s-shot-down-by-ku-Cfzk7z0CSmKBf6BBab4djw",
       "description": "All six crew members ejected safely and are in stable condition, CENTCOM said, as the Iran conflict enters its fourth day.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-02T11:28:14Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Epstein files show DOJ examined accused men but charged none",
+      "url": "https://www.perplexity.ai/page/epstein-files-show-doj-examine-WNyFZE42TuGk30wFt9U9FA",
+      "description": "Newly released documents reveal victims cooperated with investigators after Epstein's 2019 death, but prosecutors cited insufficient evidence to bring cases.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-01T14:09:39Z",
       "sourceCount": "26 sources"
     },
     {
@@ -451,15 +460,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Epstein files show DOJ examined accused men but charged none",
-      "url": "https://www.perplexity.ai/page/epstein-files-show-doj-examine-WNyFZE42TuGk30wFt9U9FA",
-      "description": "Newly released documents reveal victims cooperated with investigators after Epstein's 2019 death, but prosecutors cited insufficient evidence to bring cases.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-01T14:09:39Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "CIA tracked Khamenei for months before Israel struck Tehran",
       "url": "https://www.perplexity.ai/page/cia-tracked-khamenei-for-month-bgFxFDujSkaQtdx5PK85Ig",
       "description": "U.S. intelligence identified a rare gathering of Iran's top leaders, enabling the strike that killed the supreme leader and over 40 senior officials.",
@@ -469,15 +469,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
-      "url": "https://www.perplexity.ai/page/us-confirms-first-combat-use-o-k.L7bw.VR_G0vg.bKSGveA",
-      "description": "The LUCAS kamikaze drone, built by copying a captured Iranian Shahed-136, was deployed in Operation Epic Fury strikes on Iranian military targets.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-28T18:55:56Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Epstein files show doctors shared women's health records with him",
       "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
       "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
@@ -485,6 +476,15 @@
       "topic": "top",
       "pubDate": "2026-03-01T03:54:28Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
+      "url": "https://www.perplexity.ai/page/us-confirms-first-combat-use-o-k.L7bw.VR_G0vg.bKSGveA",
+      "description": "The LUCAS kamikaze drone, built by copying a captured Iranian Shahed-136, was deployed in Operation Epic Fury strikes on Iranian military targets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-02-28T18:55:56Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Iran's foreign minister vows 'no limit' to self-defense after Khamenei killed",
@@ -1234,9 +1234,18 @@
       "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-03T23:22:00Z",
+  "cached_at": "2026-03-03T23:38:02Z",
   "topics": {
     "top": [
+      {
+        "title": "Survey finds one in three European women face violence",
+        "url": "https://www.perplexity.ai/page/survey-finds-one-in-three-euro-Sp59pO8sREmvCDDNPKZXZA",
+        "description": "A sweeping new survey of more than 114,000 women across all 27 EU member states found that most cases of violence go unreported.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T23:20:08Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "US sends military, charter flights to evacuate citizens from Middle East",
         "url": "https://www.perplexity.ai/page/us-sends-military-charter-flig-BKZmlX5dTMuwNkgYoArLSw",
@@ -1616,13 +1625,13 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "Qatar shoots down two Iranian jets in Gulf first",
-        "url": "https://www.perplexity.ai/page/qatar-shoots-down-two-iranian-jvOYvJWwRRWLfwpi3_M9Fw",
-        "description": "The Gulf state also intercepted seven ballistic missiles and five drones on the third day of Iranian retaliatory strikes across the region.",
+        "title": "Supreme Court hears case on gun ban for marijuana users",
+        "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
+        "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-02T17:45:54Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-02T17:09:57Z",
+        "sourceCount": "19 sources"
       },
       {
         "title": "Trump says he'll attend Correspondents' Dinner for first time as president",
@@ -1634,15 +1643,6 @@
         "sourceCount": "12 sources"
       },
       {
-        "title": "Supreme Court hears case on gun ban for marijuana users",
-        "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
-        "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T17:09:57Z",
-        "sourceCount": "19 sources"
-      },
-      {
         "title": "Putin calls Gulf leaders as Iran conflict widens",
         "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
         "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
@@ -1650,15 +1650,6 @@
         "topic": "top",
         "pubDate": "2026-03-02T15:01:40Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T18:24:32Z",
-        "sourceCount": "21 sources"
       },
       {
         "title": "Macron offers to station French nuclear weapons in Europe",
@@ -1670,12 +1661,30 @@
         "sourceCount": "37 sources"
       },
       {
+        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T18:24:32Z",
+        "sourceCount": "21 sources"
+      },
+      {
         "title": "Three US F-15s shot down by Kuwaiti air defenses in friendly fire incident",
         "url": "https://www.perplexity.ai/page/three-us-f-15s-shot-down-by-ku-Cfzk7z0CSmKBf6BBab4djw",
         "description": "All six crew members ejected safely and are in stable condition, CENTCOM said, as the Iran conflict enters its fourth day.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-02T11:28:14Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Epstein files show DOJ examined accused men but charged none",
+        "url": "https://www.perplexity.ai/page/epstein-files-show-doj-examine-WNyFZE42TuGk30wFt9U9FA",
+        "description": "Newly released documents reveal victims cooperated with investigators after Epstein's 2019 death, but prosecutors cited insufficient evidence to bring cases.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-01T14:09:39Z",
         "sourceCount": "26 sources"
       },
       {
@@ -1688,15 +1697,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Epstein files show DOJ examined accused men but charged none",
-        "url": "https://www.perplexity.ai/page/epstein-files-show-doj-examine-WNyFZE42TuGk30wFt9U9FA",
-        "description": "Newly released documents reveal victims cooperated with investigators after Epstein's 2019 death, but prosecutors cited insufficient evidence to bring cases.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-01T14:09:39Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "CIA tracked Khamenei for months before Israel struck Tehran",
         "url": "https://www.perplexity.ai/page/cia-tracked-khamenei-for-month-bgFxFDujSkaQtdx5PK85Ig",
         "description": "U.S. intelligence identified a rare gathering of Iran's top leaders, enabling the strike that killed the supreme leader and over 40 senior officials.",
@@ -1706,15 +1706,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
-        "url": "https://www.perplexity.ai/page/us-confirms-first-combat-use-o-k.L7bw.VR_G0vg.bKSGveA",
-        "description": "The LUCAS kamikaze drone, built by copying a captured Iranian Shahed-136, was deployed in Operation Epic Fury strikes on Iranian military targets.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-28T18:55:56Z",
-        "sourceCount": "24 sources"
-      },
-      {
         "title": "Epstein files show doctors shared women's health records with him",
         "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
         "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
@@ -1722,6 +1713,15 @@
         "topic": "top",
         "pubDate": "2026-03-01T03:54:28Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
+        "url": "https://www.perplexity.ai/page/us-confirms-first-combat-use-o-k.L7bw.VR_G0vg.bKSGveA",
+        "description": "The LUCAS kamikaze drone, built by copying a captured Iranian Shahed-136, was deployed in Operation Epic Fury strikes on Iranian military targets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-02-28T18:55:56Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Iran's foreign minister vows 'no limit' to self-defense after Khamenei killed",
