@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Dr. Oz opens fraud probe into New York's Medicaid program",
+      "url": "https://www.perplexity.ai/page/dr-oz-opens-fraud-probe-into-n-HZ2LAkYNRlaXAt74_VOGAg",
+      "description": "The CMS administrator sent Gov. Hochul 50 questions about cost controls and provider oversight in the state's $124 billion program.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T21:09:04Z",
+      "sourceCount": "22 sources"
+    },
+    {
+      "title": "Top U.S. general details timeline of Iran strikes",
+      "url": "https://www.perplexity.ai/page/top-u-s-general-details-timeli-fss9nYF3RqGzjpQoY8s20A",
+      "description": "General Dan Caine outlined how the coordinated U.S.-Israel assault on Iran unfolded, as the conflict enters its fourth day with four U.S. troops killed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T21:08:50Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Sudan accuses Ethiopia of drone attacks in its civil war",
       "url": "https://www.perplexity.ai/page/sudan-accuses-ethiopia-of-dron-H92U8GKET12yE_tbxn.lSQ",
       "description": "Khartoum says drones launched from Ethiopian territory struck targets inside Sudan, the first time it has directly implicated its neighbor in the conflict.",
@@ -8,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-03-03T21:02:20Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
-      "url": "https://www.perplexity.ai/page/israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
-      "description": "The IDF said it struck a covert underground facility where scientists were developing nuclear weapons components, the first such site revealed since June 2025.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T20:49:54Z",
-      "sourceCount": "24 sources"
     },
     {
       "title": "Macron orders evacuations, deploys forces as Iran conflict strands hundreds of thousands",
@@ -28,6 +37,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
+      "url": "https://www.perplexity.ai/page/israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
+      "description": "The IDF said it struck a covert underground facility where scientists were developing nuclear weapons components, the first such site revealed since June 2025.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T20:49:54Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "Trump says worst outcome in Iran is a new leader 'as bad' as Khamenei",
       "url": "https://www.perplexity.ai/page/trump-says-worst-outcome-in-ir-29RwRsQoTWSEHD1t56A3ew",
       "description": "The president acknowledged most U.S.-identified successors to the slain supreme leader have already been killed in ongoing strikes.",
@@ -35,15 +53,6 @@
       "topic": "top",
       "pubDate": "2026-03-03T20:18:50Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Lutnick volunteers to testify on Epstein ties",
-      "url": "https://www.perplexity.ai/page/lutnick-volunteers-to-testify-x5kv0I0gQ9K09D9TUbQ5Uw",
-      "description": "The commerce secretary's offer comes as lawmakers were preparing a bipartisan subpoena to compel his appearance before the House Oversight Committee.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T20:09:52Z",
-      "sourceCount": "70 sources"
     },
     {
       "title": "Iranian drone strikes US Consulate in Dubai as war widens across Gulf",
@@ -62,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-03-03T20:11:13Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Lutnick volunteers to testify on Epstein ties",
+      "url": "https://www.perplexity.ai/page/lutnick-volunteers-to-testify-x5kv0I0gQ9K09D9TUbQ5Uw",
+      "description": "The commerce secretary's offer comes as lawmakers were preparing a bipartisan subpoena to compel his appearance before the House Oversight Committee.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T20:09:52Z",
+      "sourceCount": "70 sources"
     },
     {
       "title": "Ukraine refuses EU requests to inspect damaged Druzhba pipeline",
@@ -1207,9 +1225,27 @@
       "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-03T21:20:37Z",
+  "cached_at": "2026-03-03T21:39:50Z",
   "topics": {
     "top": [
+      {
+        "title": "Dr. Oz opens fraud probe into New York's Medicaid program",
+        "url": "https://www.perplexity.ai/page/dr-oz-opens-fraud-probe-into-n-HZ2LAkYNRlaXAt74_VOGAg",
+        "description": "The CMS administrator sent Gov. Hochul 50 questions about cost controls and provider oversight in the state's $124 billion program.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T21:09:04Z",
+        "sourceCount": "22 sources"
+      },
+      {
+        "title": "Top U.S. general details timeline of Iran strikes",
+        "url": "https://www.perplexity.ai/page/top-u-s-general-details-timeli-fss9nYF3RqGzjpQoY8s20A",
+        "description": "General Dan Caine outlined how the coordinated U.S.-Israel assault on Iran unfolded, as the conflict enters its fourth day with four U.S. troops killed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T21:08:50Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Sudan accuses Ethiopia of drone attacks in its civil war",
         "url": "https://www.perplexity.ai/page/sudan-accuses-ethiopia-of-dron-H92U8GKET12yE_tbxn.lSQ",
@@ -1218,15 +1254,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T21:02:20Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
-        "url": "https://www.perplexity.ai/page/israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
-        "description": "The IDF said it struck a covert underground facility where scientists were developing nuclear weapons components, the first such site revealed since June 2025.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T20:49:54Z",
-        "sourceCount": "24 sources"
       },
       {
         "title": "Macron orders evacuations, deploys forces as Iran conflict strands hundreds of thousands",
@@ -1238,6 +1265,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
+        "url": "https://www.perplexity.ai/page/israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
+        "description": "The IDF said it struck a covert underground facility where scientists were developing nuclear weapons components, the first such site revealed since June 2025.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T20:49:54Z",
+        "sourceCount": "24 sources"
+      },
+      {
         "title": "Trump says worst outcome in Iran is a new leader 'as bad' as Khamenei",
         "url": "https://www.perplexity.ai/page/trump-says-worst-outcome-in-ir-29RwRsQoTWSEHD1t56A3ew",
         "description": "The president acknowledged most U.S.-identified successors to the slain supreme leader have already been killed in ongoing strikes.",
@@ -1245,15 +1281,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T20:18:50Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Lutnick volunteers to testify on Epstein ties",
-        "url": "https://www.perplexity.ai/page/lutnick-volunteers-to-testify-x5kv0I0gQ9K09D9TUbQ5Uw",
-        "description": "The commerce secretary's offer comes as lawmakers were preparing a bipartisan subpoena to compel his appearance before the House Oversight Committee.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T20:09:52Z",
-        "sourceCount": "70 sources"
       },
       {
         "title": "Iranian drone strikes US Consulate in Dubai as war widens across Gulf",
@@ -1272,6 +1299,15 @@
         "topic": "top",
         "pubDate": "2026-03-03T20:11:13Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Lutnick volunteers to testify on Epstein ties",
+        "url": "https://www.perplexity.ai/page/lutnick-volunteers-to-testify-x5kv0I0gQ9K09D9TUbQ5Uw",
+        "description": "The commerce secretary's offer comes as lawmakers were preparing a bipartisan subpoena to compel his appearance before the House Oversight Committee.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T20:09:52Z",
+        "sourceCount": "70 sources"
       },
       {
         "title": "Ukraine refuses EU requests to inspect damaged Druzhba pipeline",
