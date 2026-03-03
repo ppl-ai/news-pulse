@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "FCC chair says Paramount-WBD merger will be approved 'quickly'",
+      "url": "https://www.perplexity.ai/page/fcc-chair-says-paramount-wbd-m-p_kh8gIRSpuH4d4memYuWw",
+      "description": "FCC Chairman Brendan Carr told CNBC the deal is \"cleaner\" than Netflix's earlier bid, signaling a smoother regulatory path for the $110 billion acquisition.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T18:42:52Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "GOP Sen. Tillis calls for Noem's resignation at hearing",
       "url": "https://www.perplexity.ai/page/gop-sen-tillis-calls-for-noem-_DO2YrFVQpaymZelRzhdjg",
       "description": "The North Carolina Republican invoked Noem's memoir about killing her dog to illustrate what he called a pattern of failed leadership at DHS.",
@@ -1196,20 +1205,20 @@
       "topic": "top",
       "pubDate": "2026-02-25T14:09:56Z",
       "sourceCount": "57 sources"
-    },
-    {
-      "title": "US warned Ukraine over strikes that hit American oil interests",
-      "url": "https://www.perplexity.ai/page/us-warned-ukraine-over-strikes-6gpb2RjPTBSeMmRp7FRQLw",
-      "description": "Ukraine's envoy says the State Department issued a formal complaint after drone attacks on a Russian port disrupted a pipeline carrying Kazakh crude tied to Chevron and ExxonMobil.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-24T21:26:47Z",
-      "sourceCount": "73 sources"
     }
   ],
-  "cached_at": "2026-03-03T18:27:45Z",
+  "cached_at": "2026-03-03T19:14:10Z",
   "topics": {
     "top": [
+      {
+        "title": "FCC chair says Paramount-WBD merger will be approved 'quickly'",
+        "url": "https://www.perplexity.ai/page/fcc-chair-says-paramount-wbd-m-p_kh8gIRSpuH4d4memYuWw",
+        "description": "FCC Chairman Brendan Carr told CNBC the deal is \"cleaner\" than Netflix's earlier bid, signaling a smoother regulatory path for the $110 billion acquisition.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T18:42:52Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "GOP Sen. Tillis calls for Noem's resignation at hearing",
         "url": "https://www.perplexity.ai/page/gop-sen-tillis-calls-for-noem-_DO2YrFVQpaymZelRzhdjg",
@@ -2406,15 +2415,6 @@
         "topic": "top",
         "pubDate": "2026-02-25T14:09:56Z",
         "sourceCount": "57 sources"
-      },
-      {
-        "title": "US warned Ukraine over strikes that hit American oil interests",
-        "url": "https://www.perplexity.ai/page/us-warned-ukraine-over-strikes-6gpb2RjPTBSeMmRp7FRQLw",
-        "description": "Ukraine's envoy says the State Department issued a formal complaint after drone attacks on a Russian port disrupted a pipeline carrying Kazakh crude tied to Chevron and ExxonMobil.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-24T21:26:47Z",
-        "sourceCount": "73 sources"
       }
     ],
     "tech": [],
