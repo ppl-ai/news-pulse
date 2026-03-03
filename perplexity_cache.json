@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Judge rules Trump bid to kill NYC congestion pricing unlawful",
+      "url": "https://www.perplexity.ai/page/judge-rules-trump-bid-to-kill-HeWEFq_PR9K.DKSodj3Y1w",
+      "description": "U.S. District Judge Lewis Liman found the Transportation Department's 2025 move to terminate Manhattan's first-in-the-nation tolling program exceeded its authority.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T17:32:39Z",
+      "sourceCount": "31 sources"
+    },
+    {
       "title": "Apple unveils six devices in two days, more expected",
       "url": "https://www.perplexity.ai/page/apple-unveils-six-devices-in-t-bQTQUU8GSJ.yHkxQzIuVjg",
       "description": "Pre-orders for the M5 MacBook Air, M5 Pro/Max MacBook Pro, new Studio Displays, iPhone 17e, and M4 iPad Air open March 4.",
@@ -1196,29 +1205,20 @@
       "topic": "top",
       "pubDate": "2026-02-24T21:26:47Z",
       "sourceCount": "73 sources"
-    },
-    {
-      "title": "DOJ sues University of California over alleged antisemitism at UCLA",
-      "url": "https://www.perplexity.ai/page/doj-sues-university-of-califor-XiE_8p7PRYOGb87dYFrfgQ",
-      "description": "The lawsuit escalates a year-long battle after the university refused to accept a settlement exceeding $1 billion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-24T19:44:44Z",
-      "sourceCount": "72 sources"
-    },
-    {
-      "title": "White House invokes executive privilege to block Gabbard whistleblower intelligence",
-      "url": "https://www.perplexity.ai/page/white-house-invokes-executive-LPastX.2QjC00QSj12HukQ",
-      "description": "The Trump administration told Congress it will not release classified material behind a complaint alleging Gabbard restricted an NSA intercept mentioning Jared Kushner.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T16:18:17Z",
-      "sourceCount": "84 sources"
     }
   ],
-  "cached_at": "2026-03-03T17:26:14Z",
+  "cached_at": "2026-03-03T17:48:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Judge rules Trump bid to kill NYC congestion pricing unlawful",
+        "url": "https://www.perplexity.ai/page/judge-rules-trump-bid-to-kill-HeWEFq_PR9K.DKSodj3Y1w",
+        "description": "U.S. District Judge Lewis Liman found the Transportation Department's 2025 move to terminate Manhattan's first-in-the-nation tolling program exceeded its authority.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T17:32:39Z",
+        "sourceCount": "31 sources"
+      },
       {
         "title": "Apple unveils six devices in two days, more expected",
         "url": "https://www.perplexity.ai/page/apple-unveils-six-devices-in-t-bQTQUU8GSJ.yHkxQzIuVjg",
@@ -2415,24 +2415,6 @@
         "topic": "top",
         "pubDate": "2026-02-24T21:26:47Z",
         "sourceCount": "73 sources"
-      },
-      {
-        "title": "DOJ sues University of California over alleged antisemitism at UCLA",
-        "url": "https://www.perplexity.ai/page/doj-sues-university-of-califor-XiE_8p7PRYOGb87dYFrfgQ",
-        "description": "The lawsuit escalates a year-long battle after the university refused to accept a settlement exceeding $1 billion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-24T19:44:44Z",
-        "sourceCount": "72 sources"
-      },
-      {
-        "title": "White House invokes executive privilege to block Gabbard whistleblower intelligence",
-        "url": "https://www.perplexity.ai/page/white-house-invokes-executive-LPastX.2QjC00QSj12HukQ",
-        "description": "The Trump administration told Congress it will not release classified material behind a complaint alleging Gabbard restricted an NSA intercept mentioning Jared Kushner.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T16:18:17Z",
-        "sourceCount": "84 sources"
       }
     ],
     "tech": [],
