@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Texas votes in bitter GOP Senate primary without Trump endorsement",
+      "url": "https://www.perplexity.ai/page/texas-votes-in-bitter-gop-sena-5F5pfLEPQWW9NY92mb8lzQ",
+      "description": "Sen. John Cornyn, Attorney General Ken Paxton, and Rep. Wesley Hunt compete in a race that has drawn over $95 million in spending.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T15:57:32Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Trump open to arming militias inside Iran, officials say",
       "url": "https://www.perplexity.ai/page/trump-open-to-arming-militias-Fpw9JDdzSWCXDzs7OMYElw",
       "description": "The president spoke with Kurdish leaders in Iraq on Sunday as the U.S. weighs deepening its involvement beyond airstrikes.",
@@ -1216,31 +1225,13 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "US and NATO launch major Arctic exercises amid rising tensions",
-      "url": "https://www.perplexity.ai/page/us-and-nato-launch-major-arcti-RznbQDWlQxK6epzSnPfSOQ",
-      "description": "NORAD and U.S. Northern Command began Arctic Edge 2026 on Feb. 23, a three-week drill across Alaska and Greenland as NATO consolidates Arctic operations.",
+      "title": "Texas votes in bitter GOP Senate primary without Trump endorsement",
+      "url": "https://www.perplexity.ai/page/texas-votes-in-bitter-gop-sena-5F5pfLEPQWW9NY92mb8lzQ",
+      "description": "Sen. John Cornyn, Attorney General Ken Paxton, and Rep. Wesley Hunt compete in a race that has drawn over $95 million in spending.",
       "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-24T17:39:13Z",
-      "sourceCount": "51 sources"
-    },
-    {
-      "title": "Trump skips Artemis II mention despite crew attending State of the Union",
-      "url": "https://www.perplexity.ai/page/trump-skips-artemis-ii-mention-aX6Te9vtTYugCIBezKbucw",
-      "description": "The four astronauts set to fly around the moon sat in the Capitol gallery as guests of Speaker Johnson, but NASA's program went unmentioned.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T12:58:32Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "House falls one vote short on DC crash safety bill",
-      "url": "https://www.perplexity.ai/page/house-falls-one-vote-short-on-rDvGV_6BR8SiADlij7Qr4w",
-      "description": "The ROTOR Act, which passed the Senate unanimously, failed after the Pentagon reversed its support over national security concerns.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-24T19:33:53Z",
-      "sourceCount": "45 sources"
+      "topic": "tech",
+      "pubDate": "2026-03-03T15:57:32Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Trump open to arming militias inside Iran, officials say",
@@ -1684,13 +1675,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump asks if Supreme Court can rehear tariff case",
-      "url": "https://www.perplexity.ai/page/trump-asks-if-supreme-court-ca-jWs.w7pURpWqwJYV_vCaLA",
-      "description": "The president called the 6-3 ruling \"highly disappointing\" and warned it could force refunds of hundreds of billions to foreign companies.",
+      "title": "Texas votes in bitter GOP Senate primary without Trump endorsement",
+      "url": "https://www.perplexity.ai/page/texas-votes-in-bitter-gop-sena-5F5pfLEPQWW9NY92mb8lzQ",
+      "description": "Sen. John Cornyn, Attorney General Ken Paxton, and Rep. Wesley Hunt compete in a race that has drawn over $95 million in spending.",
       "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-02-28T04:03:33Z",
-      "sourceCount": "29 sources"
+      "topic": "finance",
+      "pubDate": "2026-03-03T15:57:32Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Trump open to arming militias inside Iran, officials say",
@@ -2132,20 +2123,20 @@
       "topic": "finance",
       "pubDate": "2026-02-28T00:57:28Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump asks if Supreme Court can rehear tariff case",
-      "url": "https://www.perplexity.ai/page/trump-asks-if-supreme-court-ca-jWs.w7pURpWqwJYV_vCaLA",
-      "description": "The president called the 6-3 ruling \"highly disappointing\" and warned it could force refunds of hundreds of billions to foreign companies.",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-02-28T04:03:33Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-03T16:18:58Z",
+  "cached_at": "2026-03-03T16:39:22Z",
   "topics": {
     "top": [
+      {
+        "title": "Texas votes in bitter GOP Senate primary without Trump endorsement",
+        "url": "https://www.perplexity.ai/page/texas-votes-in-bitter-gop-sena-5F5pfLEPQWW9NY92mb8lzQ",
+        "description": "Sen. John Cornyn, Attorney General Ken Paxton, and Rep. Wesley Hunt compete in a race that has drawn over $95 million in spending.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T15:57:32Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Trump open to arming militias inside Iran, officials say",
         "url": "https://www.perplexity.ai/page/trump-open-to-arming-militias-Fpw9JDdzSWCXDzs7OMYElw",
@@ -3360,37 +3351,19 @@
         "topic": "top",
         "pubDate": "2026-02-24T18:34:08Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "US and NATO launch major Arctic exercises amid rising tensions",
-        "url": "https://www.perplexity.ai/page/us-and-nato-launch-major-arcti-RznbQDWlQxK6epzSnPfSOQ",
-        "description": "NORAD and U.S. Northern Command began Arctic Edge 2026 on Feb. 23, a three-week drill across Alaska and Greenland as NATO consolidates Arctic operations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-24T17:39:13Z",
-        "sourceCount": "51 sources"
-      },
-      {
-        "title": "Trump skips Artemis II mention despite crew attending State of the Union",
-        "url": "https://www.perplexity.ai/page/trump-skips-artemis-ii-mention-aX6Te9vtTYugCIBezKbucw",
-        "description": "The four astronauts set to fly around the moon sat in the Capitol gallery as guests of Speaker Johnson, but NASA's program went unmentioned.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T12:58:32Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "House falls one vote short on DC crash safety bill",
-        "url": "https://www.perplexity.ai/page/house-falls-one-vote-short-on-rDvGV_6BR8SiADlij7Qr4w",
-        "description": "The ROTOR Act, which passed the Senate unanimously, failed after the Pentagon reversed its support over national security concerns.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-24T19:33:53Z",
-        "sourceCount": "45 sources"
       }
     ],
     "tech": [
       {
+        "title": "Texas votes in bitter GOP Senate primary without Trump endorsement",
+        "url": "https://www.perplexity.ai/page/texas-votes-in-bitter-gop-sena-5F5pfLEPQWW9NY92mb8lzQ",
+        "description": "Sen. John Cornyn, Attorney General Ken Paxton, and Rep. Wesley Hunt compete in a race that has drawn over $95 million in spending.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-03T15:57:32Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "Trump open to arming militias inside Iran, officials say",
         "url": "https://www.perplexity.ai/page/trump-open-to-arming-militias-Fpw9JDdzSWCXDzs7OMYElw",
         "description": "The president spoke with Kurdish leaders in Iraq on Sunday as the U.S. weighs deepening its involvement beyond airstrikes.",
@@ -3830,19 +3803,19 @@
         "topic": "tech",
         "pubDate": "2026-02-28T00:57:28Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump asks if Supreme Court can rehear tariff case",
-        "url": "https://www.perplexity.ai/page/trump-asks-if-supreme-court-ca-jWs.w7pURpWqwJYV_vCaLA",
-        "description": "The president called the 6-3 ruling \"highly disappointing\" and warned it could force refunds of hundreds of billions to foreign companies.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-02-28T04:03:33Z",
-        "sourceCount": "29 sources"
       }
     ],
     "finance": [
       {
+        "title": "Texas votes in bitter GOP Senate primary without Trump endorsement",
+        "url": "https://www.perplexity.ai/page/texas-votes-in-bitter-gop-sena-5F5pfLEPQWW9NY92mb8lzQ",
+        "description": "Sen. John Cornyn, Attorney General Ken Paxton, and Rep. Wesley Hunt compete in a race that has drawn over $95 million in spending.",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-03-03T15:57:32Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "Trump open to arming militias inside Iran, officials say",
         "url": "https://www.perplexity.ai/page/trump-open-to-arming-militias-Fpw9JDdzSWCXDzs7OMYElw",
         "description": "The president spoke with Kurdish leaders in Iraq on Sunday as the U.S. weighs deepening its involvement beyond airstrikes.",
@@ -4282,15 +4255,6 @@
         "topic": "finance",
         "pubDate": "2026-02-28T00:57:28Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump asks if Supreme Court can rehear tariff case",
-        "url": "https://www.perplexity.ai/page/trump-asks-if-supreme-court-ca-jWs.w7pURpWqwJYV_vCaLA",
-        "description": "The president called the 6-3 ruling \"highly disappointing\" and warned it could force refunds of hundreds of billions to foreign companies.",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-02-28T04:03:33Z",
-        "sourceCount": "29 sources"
       }
     ]
   }
