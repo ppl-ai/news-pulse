@@ -10,17 +10,20 @@ permissions:
 
 jobs:
   update-cache:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-python@v5
         with:
-          node-version: '22'
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install curl_cffi
 
       - name: Fetch Discover stories
-        run: node scripts/fetch-feeds.mjs
+        run: python scripts/fetch-feeds-cffi.py
 
       - name: Commit and push if changed
         run: |
