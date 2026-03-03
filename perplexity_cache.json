@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "SpaceX's Starship faces 5-month launch gap as IPO filing nears",
-      "url": "https://www.perplexity.ai/page/spacex-s-starship-faces-5-mont-knzbUgUkQbuKsRxwMsDKig",
-      "description": "The longest pause since Starship's early days coincides with preparations for a confidential IPO filing that could value SpaceX at over $1.75 trillion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T16:59:07Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Apple unveils six devices in two days, more expected",
       "url": "https://www.perplexity.ai/page/apple-unveils-six-devices-in-t-bQTQUU8GSJ.yHkxQzIuVjg",
       "description": "Pre-orders for the M5 MacBook Air, M5 Pro/Max MacBook Pro, new Studio Displays, iPhone 17e, and M4 iPad Air open March 4.",
@@ -253,13 +244,13 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "DOJ to drop defense of Trump orders targeting law firms",
-      "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
-      "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
+      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-02T19:23:15Z",
-      "sourceCount": "68 sources"
+      "pubDate": "2026-03-02T18:24:32Z",
+      "sourceCount": "21 sources"
     },
     {
       "title": "Navy intel chief warns China could strike US from its own waters by 2030s",
@@ -280,15 +271,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T18:24:32Z",
-      "sourceCount": "21 sources"
-    },
-    {
       "title": "Supreme Court hears case on gun ban for marijuana users",
       "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
       "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
@@ -298,15 +280,6 @@
       "sourceCount": "19 sources"
     },
     {
-      "title": "Putin calls Gulf leaders as Iran conflict widens",
-      "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
-      "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T15:01:40Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Trump pushes Venezuela model for Iran transition",
       "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
       "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
@@ -314,6 +287,15 @@
       "topic": "top",
       "pubDate": "2026-03-02T15:58:45Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Putin calls Gulf leaders as Iran conflict widens",
+      "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
+      "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T15:01:40Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Macron offers to station French nuclear weapons in Europe",
@@ -1234,18 +1216,9 @@
       "sourceCount": "84 sources"
     }
   ],
-  "cached_at": "2026-03-03T17:03:41Z",
+  "cached_at": "2026-03-03T17:26:14Z",
   "topics": {
     "top": [
-      {
-        "title": "SpaceX's Starship faces 5-month launch gap as IPO filing nears",
-        "url": "https://www.perplexity.ai/page/spacex-s-starship-faces-5-mont-knzbUgUkQbuKsRxwMsDKig",
-        "description": "The longest pause since Starship's early days coincides with preparations for a confidential IPO filing that could value SpaceX at over $1.75 trillion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T16:59:07Z",
-        "sourceCount": "28 sources"
-      },
       {
         "title": "Apple unveils six devices in two days, more expected",
         "url": "https://www.perplexity.ai/page/apple-unveils-six-devices-in-t-bQTQUU8GSJ.yHkxQzIuVjg",
@@ -1490,13 +1463,13 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "DOJ to drop defense of Trump orders targeting law firms",
-        "url": "https://www.perplexity.ai/page/doj-to-drop-defense-of-trump-o-QUY16Ck6SnKmqSBmjuaJkQ",
-        "description": "The Justice Department plans to abandon appeals of rulings that struck down executive orders sanctioning four firms that refused White House deals.",
+        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
+        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
+        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-02T19:23:15Z",
-        "sourceCount": "68 sources"
+        "pubDate": "2026-03-02T18:24:32Z",
+        "sourceCount": "21 sources"
       },
       {
         "title": "Navy intel chief warns China could strike US from its own waters by 2030s",
@@ -1517,15 +1490,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T18:24:32Z",
-        "sourceCount": "21 sources"
-      },
-      {
         "title": "Supreme Court hears case on gun ban for marijuana users",
         "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
         "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
@@ -1535,15 +1499,6 @@
         "sourceCount": "19 sources"
       },
       {
-        "title": "Putin calls Gulf leaders as Iran conflict widens",
-        "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
-        "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T15:01:40Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Trump pushes Venezuela model for Iran transition",
         "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
         "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
@@ -1551,6 +1506,15 @@
         "topic": "top",
         "pubDate": "2026-03-02T15:58:45Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Putin calls Gulf leaders as Iran conflict widens",
+        "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
+        "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T15:01:40Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Macron offers to station French nuclear weapons in Europe",
