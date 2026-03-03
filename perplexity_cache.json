@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Bank of Japan may delay rate hike as Iran war roils markets",
+      "url": "https://www.perplexity.ai/page/bank-of-japan-may-delay-rate-h-kOTVpBUXRYGkMb2mC20bug",
+      "description": "The conflict's disruption to oil supplies and financial markets has raised the threshold for a March rate increase, sources told Reuters.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T10:49:14Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Oil tops $82 as Iran conflict threatens Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/oil-tops-82-as-iran-conflict-t-1BWQe_.PRKqNHq1CEAJEiQ",
       "description": "Brent crude hit its highest level since January 2025 as the U.S.-Israeli military campaign against Iran disrupted shipping through a vital global oil chokepoint.",
@@ -17,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-03-03T10:26:35Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Asian shares fall as Iran war chokes global oil supply",
-      "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
-      "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T09:55:28Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "India cuts industrial gas supply after Qatar halts LNG production",
@@ -305,15 +305,6 @@
       "topic": "top",
       "pubDate": "2026-03-02T11:46:48Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Satellite images show smoke over Dubai as Iran's Gulf strikes enter third day",
-      "url": "https://www.perplexity.ai/page/satellite-images-show-smoke-ov-9LbC0tlwTZ..JCVUZaNpLQ",
-      "description": "Before-and-after imagery reveals fires at Jebel Ali port and Palm Jumeirah as Iranian drones and missiles continue hitting Gulf states.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T10:53:48Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "Iran's top security chief rejects talks with US as strikes enter third day",
@@ -1351,6 +1342,24 @@
       "sourceCount": "45 sources"
     },
     {
+      "title": "Trump touts drug price deals at State of the Union",
+      "url": "https://www.perplexity.ai/page/trump-touts-drug-price-deals-a-odmxZlzHTtKj8_1iFD.R1g",
+      "description": "The president called on Congress to pass his \"Great Healthcare Plan\" but did not address the ACA subsidy lapse affecting 22 million people.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-02-25T03:26:18Z",
+      "sourceCount": "59 sources"
+    },
+    {
+      "title": "Bank of Japan may delay rate hike as Iran war roils markets",
+      "url": "https://www.perplexity.ai/page/bank-of-japan-may-delay-rate-h-kOTVpBUXRYGkMb2mC20bug",
+      "description": "The conflict's disruption to oil supplies and financial markets has raised the threshold for a March rate increase, sources told Reuters.",
+      "source": "Perplexity",
+      "topic": "tech",
+      "pubDate": "2026-03-03T10:49:14Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Oil tops $82 as Iran conflict threatens Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/oil-tops-82-as-iran-conflict-t-1BWQe_.PRKqNHq1CEAJEiQ",
       "description": "Brent crude hit its highest level since January 2025 as the U.S.-Israeli military campaign against Iran disrupted shipping through a vital global oil chokepoint.",
@@ -1367,15 +1376,6 @@
       "topic": "tech",
       "pubDate": "2026-03-03T10:26:35Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Asian shares fall as Iran war chokes global oil supply",
-      "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
-      "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-03-03T09:55:28Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "India cuts industrial gas supply after Qatar halts LNG production",
@@ -1657,15 +1657,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Satellite images show smoke over Dubai as Iran's Gulf strikes enter third day",
-      "url": "https://www.perplexity.ai/page/satellite-images-show-smoke-ov-9LbC0tlwTZ..JCVUZaNpLQ",
-      "description": "Before-and-after imagery reveals fires at Jebel Ali port and Palm Jumeirah as Iranian drones and missiles continue hitting Gulf states.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-03-02T10:53:48Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Iran's top security chief rejects talks with US as strikes enter third day",
       "url": "https://www.perplexity.ai/page/iran-s-top-security-chief-reje-yUU7DzNQSMufQrBjz3swag",
       "description": "Ali Larijani said Tehran \"will not negotiate\" with Washington, rebuffing Trump's claim that Iran's post-Khamenei leadership wanted dialogue.",
@@ -1801,6 +1792,24 @@
       "sourceCount": "30 sources"
     },
     {
+      "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
+      "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
+      "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
+      "source": "Perplexity",
+      "topic": "tech",
+      "pubDate": "2026-02-28T12:02:59Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "Bank of Japan may delay rate hike as Iran war roils markets",
+      "url": "https://www.perplexity.ai/page/bank-of-japan-may-delay-rate-h-kOTVpBUXRYGkMb2mC20bug",
+      "description": "The conflict's disruption to oil supplies and financial markets has raised the threshold for a March rate increase, sources told Reuters.",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-03-03T10:49:14Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Oil tops $82 as Iran conflict threatens Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/oil-tops-82-as-iran-conflict-t-1BWQe_.PRKqNHq1CEAJEiQ",
       "description": "Brent crude hit its highest level since January 2025 as the U.S.-Israeli military campaign against Iran disrupted shipping through a vital global oil chokepoint.",
@@ -1817,15 +1826,6 @@
       "topic": "finance",
       "pubDate": "2026-03-03T10:26:35Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Asian shares fall as Iran war chokes global oil supply",
-      "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
-      "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-03-03T09:55:28Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "India cuts industrial gas supply after Qatar halts LNG production",
@@ -2107,15 +2107,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Satellite images show smoke over Dubai as Iran's Gulf strikes enter third day",
-      "url": "https://www.perplexity.ai/page/satellite-images-show-smoke-ov-9LbC0tlwTZ..JCVUZaNpLQ",
-      "description": "Before-and-after imagery reveals fires at Jebel Ali port and Palm Jumeirah as Iranian drones and missiles continue hitting Gulf states.",
-      "source": "Perplexity",
-      "topic": "finance",
-      "pubDate": "2026-03-02T10:53:48Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Iran's top security chief rejects talks with US as strikes enter third day",
       "url": "https://www.perplexity.ai/page/iran-s-top-security-chief-reje-yUU7DzNQSMufQrBjz3swag",
       "description": "Ali Larijani said Tehran \"will not negotiate\" with Washington, rebuffing Trump's claim that Iran's post-Khamenei leadership wanted dialogue.",
@@ -2249,11 +2240,29 @@
       "topic": "finance",
       "pubDate": "2026-02-28T16:18:38Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
+      "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
+      "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
+      "source": "Perplexity",
+      "topic": "finance",
+      "pubDate": "2026-02-28T12:02:59Z",
+      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-03T10:46:45Z",
+  "cached_at": "2026-03-03T11:05:09Z",
   "topics": {
     "top": [
+      {
+        "title": "Bank of Japan may delay rate hike as Iran war roils markets",
+        "url": "https://www.perplexity.ai/page/bank-of-japan-may-delay-rate-h-kOTVpBUXRYGkMb2mC20bug",
+        "description": "The conflict's disruption to oil supplies and financial markets has raised the threshold for a March rate increase, sources told Reuters.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T10:49:14Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Oil tops $82 as Iran conflict threatens Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/oil-tops-82-as-iran-conflict-t-1BWQe_.PRKqNHq1CEAJEiQ",
@@ -2271,15 +2280,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T10:26:35Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Asian shares fall as Iran war chokes global oil supply",
-        "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
-        "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T09:55:28Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "India cuts industrial gas supply after Qatar halts LNG production",
@@ -2559,15 +2559,6 @@
         "topic": "top",
         "pubDate": "2026-03-02T11:46:48Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Satellite images show smoke over Dubai as Iran's Gulf strikes enter third day",
-        "url": "https://www.perplexity.ai/page/satellite-images-show-smoke-ov-9LbC0tlwTZ..JCVUZaNpLQ",
-        "description": "Before-and-after imagery reveals fires at Jebel Ali port and Palm Jumeirah as Iranian drones and missiles continue hitting Gulf states.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T10:53:48Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Iran's top security chief rejects talks with US as strikes enter third day",
@@ -3603,10 +3594,28 @@
         "topic": "top",
         "pubDate": "2026-02-24T12:06:58Z",
         "sourceCount": "45 sources"
+      },
+      {
+        "title": "Trump touts drug price deals at State of the Union",
+        "url": "https://www.perplexity.ai/page/trump-touts-drug-price-deals-a-odmxZlzHTtKj8_1iFD.R1g",
+        "description": "The president called on Congress to pass his \"Great Healthcare Plan\" but did not address the ACA subsidy lapse affecting 22 million people.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-02-25T03:26:18Z",
+        "sourceCount": "59 sources"
       }
     ],
     "tech": [
       {
+        "title": "Bank of Japan may delay rate hike as Iran war roils markets",
+        "url": "https://www.perplexity.ai/page/bank-of-japan-may-delay-rate-h-kOTVpBUXRYGkMb2mC20bug",
+        "description": "The conflict's disruption to oil supplies and financial markets has raised the threshold for a March rate increase, sources told Reuters.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-03T10:49:14Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Oil tops $82 as Iran conflict threatens Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/oil-tops-82-as-iran-conflict-t-1BWQe_.PRKqNHq1CEAJEiQ",
         "description": "Brent crude hit its highest level since January 2025 as the U.S.-Israeli military campaign against Iran disrupted shipping through a vital global oil chokepoint.",
@@ -3623,15 +3632,6 @@
         "topic": "tech",
         "pubDate": "2026-03-03T10:26:35Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Asian shares fall as Iran war chokes global oil supply",
-        "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
-        "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-03-03T09:55:28Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "India cuts industrial gas supply after Qatar halts LNG production",
@@ -3913,15 +3913,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Satellite images show smoke over Dubai as Iran's Gulf strikes enter third day",
-        "url": "https://www.perplexity.ai/page/satellite-images-show-smoke-ov-9LbC0tlwTZ..JCVUZaNpLQ",
-        "description": "Before-and-after imagery reveals fires at Jebel Ali port and Palm Jumeirah as Iranian drones and missiles continue hitting Gulf states.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-03-02T10:53:48Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Iran's top security chief rejects talks with US as strikes enter third day",
         "url": "https://www.perplexity.ai/page/iran-s-top-security-chief-reje-yUU7DzNQSMufQrBjz3swag",
         "description": "Ali Larijani said Tehran \"will not negotiate\" with Washington, rebuffing Trump's claim that Iran's post-Khamenei leadership wanted dialogue.",
@@ -4055,10 +4046,28 @@
         "topic": "tech",
         "pubDate": "2026-02-28T16:18:38Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
+        "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
+        "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-02-28T12:02:59Z",
+        "sourceCount": "23 sources"
       }
     ],
     "finance": [
       {
+        "title": "Bank of Japan may delay rate hike as Iran war roils markets",
+        "url": "https://www.perplexity.ai/page/bank-of-japan-may-delay-rate-h-kOTVpBUXRYGkMb2mC20bug",
+        "description": "The conflict's disruption to oil supplies and financial markets has raised the threshold for a March rate increase, sources told Reuters.",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-03-03T10:49:14Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Oil tops $82 as Iran conflict threatens Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/oil-tops-82-as-iran-conflict-t-1BWQe_.PRKqNHq1CEAJEiQ",
         "description": "Brent crude hit its highest level since January 2025 as the U.S.-Israeli military campaign against Iran disrupted shipping through a vital global oil chokepoint.",
@@ -4075,15 +4084,6 @@
         "topic": "finance",
         "pubDate": "2026-03-03T10:26:35Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Asian shares fall as Iran war chokes global oil supply",
-        "url": "https://www.perplexity.ai/page/asian-shares-fall-as-iran-war-k1QyRYm0Sdq25_nCdytNIw",
-        "description": "South Korea's market sank nearly 5% Tuesday as oil prices kept climbing and the Strait of Hormuz remained effectively closed to tanker traffic.",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-03-03T09:55:28Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "India cuts industrial gas supply after Qatar halts LNG production",
@@ -4365,15 +4365,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Satellite images show smoke over Dubai as Iran's Gulf strikes enter third day",
-        "url": "https://www.perplexity.ai/page/satellite-images-show-smoke-ov-9LbC0tlwTZ..JCVUZaNpLQ",
-        "description": "Before-and-after imagery reveals fires at Jebel Ali port and Palm Jumeirah as Iranian drones and missiles continue hitting Gulf states.",
-        "source": "Perplexity",
-        "topic": "finance",
-        "pubDate": "2026-03-02T10:53:48Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Iran's top security chief rejects talks with US as strikes enter third day",
         "url": "https://www.perplexity.ai/page/iran-s-top-security-chief-reje-yUU7DzNQSMufQrBjz3swag",
         "description": "Ali Larijani said Tehran \"will not negotiate\" with Washington, rebuffing Trump's claim that Iran's post-Khamenei leadership wanted dialogue.",
@@ -4507,6 +4498,15 @@
         "topic": "finance",
         "pubDate": "2026-02-28T16:18:38Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
+        "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
+        "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
+        "source": "Perplexity",
+        "topic": "finance",
+        "pubDate": "2026-02-28T12:02:59Z",
+        "sourceCount": "23 sources"
       }
     ]
   }
