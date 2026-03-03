@@ -517,6 +517,14 @@
             });
           });
         }
+        // Deduplicate by URL (API can return same story across topics)
+        const seen = new Set();
+        stories = stories.filter(s => {
+          const key = s.link || s.url || s.title;
+          if (seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        });
         state.discoverStories = stories;
         state.discoverCachedAt = data.cached_at || null;
       }

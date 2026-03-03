@@ -90,12 +90,14 @@ def main():
             pass
 
     stories = []
+    seen_urls = set()
     for topic_cfg in TOPICS:
         tab = topic_cfg["tab"]
         items = fetch_topic(tab, topic_cfg["limit"])
         for item in items:
             story = build_story(item, tab)
-            if story:
+            if story and story["url"] not in seen_urls:
+                seen_urls.add(story["url"])
                 stories.append(story)
         print(f"  Total for {tab}: {len([s for s in stories if s['topic'] == tab])}")
 
