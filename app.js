@@ -54,6 +54,7 @@
     pasteTopic: 'top',
     currentOverlay: null,
     userAddedStories: [],
+    discoverCachedAt: null,
   };
 
   Object.keys(FEED_CONFIGS).forEach(k => { state.feedVisible[k] = 10; });
@@ -353,6 +354,14 @@
 
     document.getElementById('discover-count').textContent = stories.length;
 
+    // Show last-refreshed timestamp
+    const tsEl = document.getElementById('discover-timestamp');
+    if (tsEl && state.discoverCachedAt) {
+      const ago = timeAgo(new Date(state.discoverCachedAt));
+      tsEl.textContent = 'Updated ' + ago;
+      tsEl.title = new Date(state.discoverCachedAt).toLocaleString();
+    }
+
     if (stories.length === 0) {
       body.innerHTML = `<div class="column-status">No Discover stories loaded.<br><br><span style="font-size:10px;color:var(--text-muted)">Use <span class="guide-kbd">P</span> to paste stories manually.</span></div>`;
       return;
@@ -486,7 +495,8 @@
       
       if (!data) {
         // Fallback to fetch (works when served from same origin, e.g. GitHub Pages)
-        const res = await fetch('perplexity_cache.json');
+        // Cache-bust to avoid stale CDN/browser cache
+        const res = await fetch('perplexity_cache.json?t=' + Date.now());
         if (res.ok) {
           data = await res.json();
         }
@@ -508,6 +518,7 @@
           });
         }
         state.discoverStories = stories;
+        state.discoverCachedAt = data.cached_at || null;
       }
     } catch (e) {
       console.warn('Discover cache unavailable:', e.message);
