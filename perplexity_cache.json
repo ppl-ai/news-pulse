@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran begins three-day farewell ceremony for Khamenei in Tehran",
+      "url": "https://www.perplexity.ai/page/iran-begins-three-day-farewell-IA5.FSQWQl.MY.8x3BDOkA",
+      "description": "The public viewing at Tehran's Imam Khomeini Prayer Hall precedes burial at the Imam Reza shrine in Mashhad, his birthplace.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T09:12:22Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "IDF says 300 Iranian missile launchers destroyed in 6 days of strikes",
       "url": "https://www.perplexity.ai/page/idf-says-300-iranian-missile-l-5qCtyq0jRU6GjkAigHqF8A",
       "description": "Iran's missile barrages against Israel have dropped sharply since the U.S.-Israeli campaign began Feb. 28, though attacks continue.",
@@ -1306,9 +1315,18 @@
       "sourceCount": "90 sources"
     }
   ],
-  "cached_at": "2026-03-04T08:58:07Z",
+  "cached_at": "2026-03-04T09:21:19Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran begins three-day farewell ceremony for Khamenei in Tehran",
+        "url": "https://www.perplexity.ai/page/iran-begins-three-day-farewell-IA5.FSQWQl.MY.8x3BDOkA",
+        "description": "The public viewing at Tehran's Imam Khomeini Prayer Hall precedes burial at the Imam Reza shrine in Mashhad, his birthplace.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T09:12:22Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "IDF says 300 Iranian missile launchers destroyed in 6 days of strikes",
         "url": "https://www.perplexity.ai/page/idf-says-300-iranian-missile-l-5qCtyq0jRU6GjkAigHqF8A",
