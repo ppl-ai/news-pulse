@@ -1,22 +1,13 @@
 {
   "stories": [
     {
-      "title": "Pentagon identifies four US troops killed in Iranian drone strike",
-      "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
-      "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
+      "title": "Trump security team briefs Congress ahead of Iran war powers votes",
+      "url": "https://www.perplexity.ai/page/trump-security-team-briefs-con-Atizzop0QQ6qd.IUntYIWA",
+      "description": "The Senate is set to vote Wednesday on a resolution requiring congressional approval for further military action against Iran.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-03T23:39:04Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
-      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
-      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T23:38:43Z",
-      "sourceCount": "40 sources"
+      "pubDate": "2026-03-04T00:14:13Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Turkey engaging all sides to end Iran war, foreign minister says",
@@ -37,13 +28,22 @@
       "sourceCount": "35 sources"
     },
     {
-      "title": "US sends military, charter flights to evacuate citizens from Middle East",
-      "url": "https://www.perplexity.ai/page/us-sends-military-charter-flig-BKZmlX5dTMuwNkgYoArLSw",
-      "description": "The State Department said it is securing military aircraft and charter flights after Iranian strikes crippled airports in Dubai, Abu Dhabi, and Doha.",
+      "title": "Pentagon identifies four US troops killed in Iranian drone strike",
+      "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
+      "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-03T22:59:56Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-03T23:39:04Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T23:38:43Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Moderate House Democrats introduce rival Iran war powers resolution",
@@ -55,6 +55,15 @@
       "sourceCount": "37 sources"
     },
     {
+      "title": "US sends military, charter flights to evacuate citizens from Middle East",
+      "url": "https://www.perplexity.ai/page/us-sends-military-charter-flig-BKZmlX5dTMuwNkgYoArLSw",
+      "description": "The State Department said it is securing military aircraft and charter flights after Iranian strikes crippled airports in Dubai, Abu Dhabi, and Doha.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T22:59:56Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Syria deploys thousands of troops to Lebanon border",
       "url": "https://www.perplexity.ai/page/syria-deploys-thousands-of-tro-wUT3WvxFS5iCoweTXdV2Lg",
       "description": "The buildup, which began in February and accelerated recently, aims to block Hezbollah infiltration, according to Reuters.",
@@ -62,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-03-03T21:42:33Z",
       "sourceCount": "18 sources"
-    },
-    {
-      "title": "CIA working to arm Kurdish forces for Iran uprising",
-      "url": "https://www.perplexity.ai/page/cia-working-to-arm-kurdish-for-awPzQKYHQsyosCyAx.HaGw",
-      "description": "The effort aims to spark an uprising as the U.S.-Israeli military campaign against Iran enters its second week with no clear endgame.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T22:55:13Z",
-      "sourceCount": "24 sources"
     },
     {
       "title": "Iran threatens to attack any ship in Strait of Hormuz as Asia scrambles for energy",
@@ -82,6 +82,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "CIA working to arm Kurdish forces for Iran uprising",
+      "url": "https://www.perplexity.ai/page/cia-working-to-arm-kurdish-for-awPzQKYHQsyosCyAx.HaGw",
+      "description": "The effort aims to spark an uprising as the U.S.-Israeli military campaign against Iran enters its second week with no clear endgame.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T22:55:13Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "Dr. Oz opens fraud probe into New York's Medicaid program",
       "url": "https://www.perplexity.ai/page/dr-oz-opens-fraud-probe-into-n-HZ2LAkYNRlaXAt74_VOGAg",
       "description": "The CMS administrator sent Gov. Hochul 50 questions about cost controls and provider oversight in the state's $124 billion program.",
@@ -89,15 +98,6 @@
       "topic": "top",
       "pubDate": "2026-03-03T21:09:04Z",
       "sourceCount": "22 sources"
-    },
-    {
-      "title": "Iran's Assembly of Experts elects Mojtaba Khamenei as next supreme leader",
-      "url": "https://www.perplexity.ai/page/iran-s-assembly-of-experts-ele-GBo38MpsRRCrmUYo_PIHTg",
-      "description": "The slain leader's son was reportedly chosen under Revolutionary Guard pressure, even as Israeli airstrikes struck the vote site in Qom.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T21:47:27Z",
-      "sourceCount": "33 sources"
     },
     {
       "title": "Sudan accuses Ethiopia of drone attacks in its civil war",
@@ -109,6 +109,15 @@
       "sourceCount": "13 sources"
     },
     {
+      "title": "Iran's Assembly of Experts elects Mojtaba Khamenei as next supreme leader",
+      "url": "https://www.perplexity.ai/page/iran-s-assembly-of-experts-ele-GBo38MpsRRCrmUYo_PIHTg",
+      "description": "The slain leader's son was reportedly chosen under Revolutionary Guard pressure, even as Israeli airstrikes struck the vote site in Qom.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T21:47:27Z",
+      "sourceCount": "33 sources"
+    },
+    {
       "title": "Iranian drone strikes US Consulate in Dubai as war widens across Gulf",
       "url": "https://www.perplexity.ai/page/iranian-drone-strikes-us-consu-LGasKdNZRemwQF5Yq_zGcg",
       "description": "The attack came as Iran targeted American embassies and military bases across the region in retaliation for the killing of Ayatollah Khamenei.",
@@ -118,15 +127,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
-      "url": "https://www.perplexity.ai/page/israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
-      "description": "The IDF said it struck a covert underground facility where scientists were developing nuclear weapons components, the first such site revealed since June 2025.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T20:49:54Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Trump says worst outcome in Iran is a new leader 'as bad' as Khamenei",
       "url": "https://www.perplexity.ai/page/trump-says-worst-outcome-in-ir-29RwRsQoTWSEHD1t56A3ew",
       "description": "The president acknowledged most U.S.-identified successors to the slain supreme leader have already been killed in ongoing strikes.",
@@ -134,6 +134,15 @@
       "topic": "top",
       "pubDate": "2026-03-03T20:18:50Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
+      "url": "https://www.perplexity.ai/page/israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
+      "description": "The IDF said it struck a covert underground facility where scientists were developing nuclear weapons components, the first such site revealed since June 2025.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T20:49:54Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Macron deploys aircraft carrier to Mediterranean amid Middle East crisis",
@@ -1232,55 +1241,19 @@
       "topic": "top",
       "pubDate": "2026-02-25T06:26:26Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "HSBC's 2025 profit beats estimates despite $5B in charges",
-      "url": "https://www.perplexity.ai/page/hsbc-s-2025-profit-beats-estim-M9NmMdJwRDa1fAehCpCw4g",
-      "description": "Europe's largest bank posted $29.9 billion in pretax profit, topping analyst expectations on strength in wealth management and transaction banking.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T05:10:52Z",
-      "sourceCount": "52 sources"
-    },
-    {
-      "title": "Omar's State of the Union guest arrested for standing during Trump's speech",
-      "url": "https://www.perplexity.ai/page/omar-s-state-of-the-union-gues-324lzceoQNmB3Ump.i5k7A",
-      "description": "Aliya Rahman, a disabled Minneapolis woman previously dragged from her car by ICE agents, says Capitol Police arrested her for silently standing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T23:09:33Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Bill Gates apologizes to foundation staff over Epstein ties",
-      "url": "https://www.perplexity.ai/page/bill-gates-apologizes-to-found-9fPhvEW9QAW3IPVxvof9.Q",
-      "description": "Gates called his association with the convicted sex offender \"a huge mistake\" and acknowledged bringing foundation executives into meetings with Epstein.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T05:01:38Z",
-      "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-04T00:01:07Z",
+  "cached_at": "2026-03-04T00:47:41Z",
   "topics": {
     "top": [
       {
-        "title": "Pentagon identifies four US troops killed in Iranian drone strike",
-        "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
-        "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
+        "title": "Trump security team briefs Congress ahead of Iran war powers votes",
+        "url": "https://www.perplexity.ai/page/trump-security-team-briefs-con-Atizzop0QQ6qd.IUntYIWA",
+        "description": "The Senate is set to vote Wednesday on a resolution requiring congressional approval for further military action against Iran.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-03T23:39:04Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
-        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
-        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T23:38:43Z",
-        "sourceCount": "40 sources"
+        "pubDate": "2026-03-04T00:14:13Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Turkey engaging all sides to end Iran war, foreign minister says",
@@ -1301,13 +1274,22 @@
         "sourceCount": "35 sources"
       },
       {
-        "title": "US sends military, charter flights to evacuate citizens from Middle East",
-        "url": "https://www.perplexity.ai/page/us-sends-military-charter-flig-BKZmlX5dTMuwNkgYoArLSw",
-        "description": "The State Department said it is securing military aircraft and charter flights after Iranian strikes crippled airports in Dubai, Abu Dhabi, and Doha.",
+        "title": "Pentagon identifies four US troops killed in Iranian drone strike",
+        "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
+        "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-03T22:59:56Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-03T23:39:04Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T23:38:43Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Moderate House Democrats introduce rival Iran war powers resolution",
@@ -1319,6 +1301,15 @@
         "sourceCount": "37 sources"
       },
       {
+        "title": "US sends military, charter flights to evacuate citizens from Middle East",
+        "url": "https://www.perplexity.ai/page/us-sends-military-charter-flig-BKZmlX5dTMuwNkgYoArLSw",
+        "description": "The State Department said it is securing military aircraft and charter flights after Iranian strikes crippled airports in Dubai, Abu Dhabi, and Doha.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T22:59:56Z",
+        "sourceCount": "15 sources"
+      },
+      {
         "title": "Syria deploys thousands of troops to Lebanon border",
         "url": "https://www.perplexity.ai/page/syria-deploys-thousands-of-tro-wUT3WvxFS5iCoweTXdV2Lg",
         "description": "The buildup, which began in February and accelerated recently, aims to block Hezbollah infiltration, according to Reuters.",
@@ -1326,15 +1317,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T21:42:33Z",
         "sourceCount": "18 sources"
-      },
-      {
-        "title": "CIA working to arm Kurdish forces for Iran uprising",
-        "url": "https://www.perplexity.ai/page/cia-working-to-arm-kurdish-for-awPzQKYHQsyosCyAx.HaGw",
-        "description": "The effort aims to spark an uprising as the U.S.-Israeli military campaign against Iran enters its second week with no clear endgame.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T22:55:13Z",
-        "sourceCount": "24 sources"
       },
       {
         "title": "Iran threatens to attack any ship in Strait of Hormuz as Asia scrambles for energy",
@@ -1346,6 +1328,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "CIA working to arm Kurdish forces for Iran uprising",
+        "url": "https://www.perplexity.ai/page/cia-working-to-arm-kurdish-for-awPzQKYHQsyosCyAx.HaGw",
+        "description": "The effort aims to spark an uprising as the U.S.-Israeli military campaign against Iran enters its second week with no clear endgame.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T22:55:13Z",
+        "sourceCount": "24 sources"
+      },
+      {
         "title": "Dr. Oz opens fraud probe into New York's Medicaid program",
         "url": "https://www.perplexity.ai/page/dr-oz-opens-fraud-probe-into-n-HZ2LAkYNRlaXAt74_VOGAg",
         "description": "The CMS administrator sent Gov. Hochul 50 questions about cost controls and provider oversight in the state's $124 billion program.",
@@ -1353,15 +1344,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T21:09:04Z",
         "sourceCount": "22 sources"
-      },
-      {
-        "title": "Iran's Assembly of Experts elects Mojtaba Khamenei as next supreme leader",
-        "url": "https://www.perplexity.ai/page/iran-s-assembly-of-experts-ele-GBo38MpsRRCrmUYo_PIHTg",
-        "description": "The slain leader's son was reportedly chosen under Revolutionary Guard pressure, even as Israeli airstrikes struck the vote site in Qom.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T21:47:27Z",
-        "sourceCount": "33 sources"
       },
       {
         "title": "Sudan accuses Ethiopia of drone attacks in its civil war",
@@ -1373,6 +1355,15 @@
         "sourceCount": "13 sources"
       },
       {
+        "title": "Iran's Assembly of Experts elects Mojtaba Khamenei as next supreme leader",
+        "url": "https://www.perplexity.ai/page/iran-s-assembly-of-experts-ele-GBo38MpsRRCrmUYo_PIHTg",
+        "description": "The slain leader's son was reportedly chosen under Revolutionary Guard pressure, even as Israeli airstrikes struck the vote site in Qom.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T21:47:27Z",
+        "sourceCount": "33 sources"
+      },
+      {
         "title": "Iranian drone strikes US Consulate in Dubai as war widens across Gulf",
         "url": "https://www.perplexity.ai/page/iranian-drone-strikes-us-consu-LGasKdNZRemwQF5Yq_zGcg",
         "description": "The attack came as Iran targeted American embassies and military bases across the region in retaliation for the killing of Ayatollah Khamenei.",
@@ -1382,15 +1373,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
-        "url": "https://www.perplexity.ai/page/israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
-        "description": "The IDF said it struck a covert underground facility where scientists were developing nuclear weapons components, the first such site revealed since June 2025.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T20:49:54Z",
-        "sourceCount": "24 sources"
-      },
-      {
         "title": "Trump says worst outcome in Iran is a new leader 'as bad' as Khamenei",
         "url": "https://www.perplexity.ai/page/trump-says-worst-outcome-in-ir-29RwRsQoTWSEHD1t56A3ew",
         "description": "The president acknowledged most U.S.-identified successors to the slain supreme leader have already been killed in ongoing strikes.",
@@ -1398,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-03-03T20:18:50Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
+        "url": "https://www.perplexity.ai/page/israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
+        "description": "The IDF said it struck a covert underground facility where scientists were developing nuclear weapons components, the first such site revealed since June 2025.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T20:49:54Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Macron deploys aircraft carrier to Mediterranean amid Middle East crisis",
@@ -2496,33 +2487,6 @@
         "topic": "top",
         "pubDate": "2026-02-25T06:26:26Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "HSBC's 2025 profit beats estimates despite $5B in charges",
-        "url": "https://www.perplexity.ai/page/hsbc-s-2025-profit-beats-estim-M9NmMdJwRDa1fAehCpCw4g",
-        "description": "Europe's largest bank posted $29.9 billion in pretax profit, topping analyst expectations on strength in wealth management and transaction banking.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T05:10:52Z",
-        "sourceCount": "52 sources"
-      },
-      {
-        "title": "Omar's State of the Union guest arrested for standing during Trump's speech",
-        "url": "https://www.perplexity.ai/page/omar-s-state-of-the-union-gues-324lzceoQNmB3Ump.i5k7A",
-        "description": "Aliya Rahman, a disabled Minneapolis woman previously dragged from her car by ICE agents, says Capitol Police arrested her for silently standing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T23:09:33Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Bill Gates apologizes to foundation staff over Epstein ties",
-        "url": "https://www.perplexity.ai/page/bill-gates-apologizes-to-found-9fPhvEW9QAW3IPVxvof9.Q",
-        "description": "Gates called his association with the convicted sex offender \"a huge mistake\" and acknowledged bringing foundation executives into meetings with Epstein.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T05:01:38Z",
-        "sourceCount": "62 sources"
       }
     ],
     "tech": [],
