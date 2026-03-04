@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
+      "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
+      "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T21:41:56Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "House panel subpoenas AG Bondi over Epstein files",
       "url": "https://www.perplexity.ai/page/house-panel-subpoenas-ag-bondi-G_mWPq6ZRo..2ddnYP6apg",
       "description": "Five Republicans joined all Democrats on the Oversight Committee in a 24-19 vote compelling Bondi to testify on withheld Epstein documents.",
@@ -296,15 +305,6 @@
       "topic": "top",
       "pubDate": "2026-03-03T21:42:33Z",
       "sourceCount": "18 sources"
-    },
-    {
-      "title": "Iran threatens to attack any ship in Strait of Hormuz as Asia scrambles for energy",
-      "url": "https://www.perplexity.ai/page/iran-threatens-to-attack-any-s-dx0usnEASMuk8JG2r8vIxw",
-      "description": "Asian governments are racing to secure alternative oil and gas supplies after Iran declared the strait closed, sending LNG prices surging.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T21:14:23Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Dr. Oz opens fraud probe into New York's Medicaid program",
@@ -1205,20 +1205,20 @@
       "topic": "top",
       "pubDate": "2026-02-26T08:41:25Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
-      "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
-      "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-03-04T21:41:56Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-04T21:55:02Z",
+  "cached_at": "2026-03-04T22:09:08Z",
   "topics": {
     "top": [
+      {
+        "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
+        "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
+        "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T21:41:56Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "House panel subpoenas AG Bondi over Epstein files",
         "url": "https://www.perplexity.ai/page/house-panel-subpoenas-ag-bondi-G_mWPq6ZRo..2ddnYP6apg",
@@ -1515,15 +1515,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T21:42:33Z",
         "sourceCount": "18 sources"
-      },
-      {
-        "title": "Iran threatens to attack any ship in Strait of Hormuz as Asia scrambles for energy",
-        "url": "https://www.perplexity.ai/page/iran-threatens-to-attack-any-s-dx0usnEASMuk8JG2r8vIxw",
-        "description": "Asian governments are racing to secure alternative oil and gas supplies after Iran declared the strait closed, sending LNG prices surging.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T21:14:23Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Dr. Oz opens fraud probe into New York's Medicaid program",
@@ -2426,17 +2417,7 @@
         "sourceCount": "35 sources"
       }
     ],
-    "tech": [
-      {
-        "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
-        "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
-        "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-03-04T21:41:56Z",
-        "sourceCount": "28 sources"
-      }
-    ],
+    "tech": [],
     "finance": []
   }
 }
