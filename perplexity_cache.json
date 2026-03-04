@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Greenland's fishermen face a crisis as warming Arctic melts the sea ice they depend on",
+      "url": "https://www.perplexity.ai/page/greenland-s-fishermen-face-a-c-_od5sB4tTTGIj9LKPimDwA",
+      "description": "Fishing accounts for up to 95% of Greenland's exports, but disappearing ice and unpredictable waters are upending livelihoods.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T12:41:34Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Chinese projects in Iran face uncertainty amid US-Israeli strikes",
       "url": "https://www.perplexity.ai/page/chinese-projects-in-iran-face-kTW5X_mXSR2WQIqFxeY3Ww",
       "description": "Reuters found state-backed Chinese firms were pursuing energy, construction, and trade projects in Iran just weeks before the military campaign began.",
@@ -26,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-03-04T10:36:40Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Iran begins three-day farewell ceremony for Khamenei in Tehran",
-      "url": "https://www.perplexity.ai/page/iran-begins-three-day-farewell-IA5.FSQWQl.MY.8x3BDOkA",
-      "description": "The public viewing at Tehran's Imam Khomeini Prayer Hall precedes burial at the Imam Reza shrine in Mashhad, his birthplace.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T09:12:22Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "IDF says 300 Iranian missile launchers destroyed in 6 days of strikes",
@@ -1277,29 +1277,20 @@
       "topic": "top",
       "pubDate": "2026-02-25T17:13:11Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Bipartisan lawmakers press Navy to finalize 15-submarine deal",
-      "url": "https://www.perplexity.ai/page/bipartisan-lawmakers-press-nav-O8N_L5hVTUqdXBrcrIl1vg",
-      "description": "Congress warns that further delays to the multiyear contract for Virginia-class and Columbia-class boats could destabilize the nuclear submarine industrial base.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T16:26:12Z",
-      "sourceCount": "90 sources"
-    },
-    {
-      "title": "Patel fires FBI staff tied to Trump probe, says phone records seized",
-      "url": "https://www.perplexity.ai/page/patel-fires-fbi-staff-tied-to-uCEoKMAHQLWWCBO5OhWWuw",
-      "description": "The FBI director ordered the ouster of at least 10 employees and revealed the bureau had subpoenaed his and Susie Wiles' call records during the Biden era.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T02:14:53Z",
-      "sourceCount": "33 sources"
     }
   ],
-  "cached_at": "2026-03-04T12:22:50Z",
+  "cached_at": "2026-03-04T12:44:44Z",
   "topics": {
     "top": [
+      {
+        "title": "Greenland's fishermen face a crisis as warming Arctic melts the sea ice they depend on",
+        "url": "https://www.perplexity.ai/page/greenland-s-fishermen-face-a-c-_od5sB4tTTGIj9LKPimDwA",
+        "description": "Fishing accounts for up to 95% of Greenland's exports, but disappearing ice and unpredictable waters are upending livelihoods.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T12:41:34Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Chinese projects in Iran face uncertainty amid US-Israeli strikes",
         "url": "https://www.perplexity.ai/page/chinese-projects-in-iran-face-kTW5X_mXSR2WQIqFxeY3Ww",
@@ -1326,15 +1317,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T10:36:40Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Iran begins three-day farewell ceremony for Khamenei in Tehran",
-        "url": "https://www.perplexity.ai/page/iran-begins-three-day-farewell-IA5.FSQWQl.MY.8x3BDOkA",
-        "description": "The public viewing at Tehran's Imam Khomeini Prayer Hall precedes burial at the Imam Reza shrine in Mashhad, his birthplace.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T09:12:22Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "IDF says 300 Iranian missile launchers destroyed in 6 days of strikes",
@@ -2577,24 +2559,6 @@
         "topic": "top",
         "pubDate": "2026-02-25T17:13:11Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Bipartisan lawmakers press Navy to finalize 15-submarine deal",
-        "url": "https://www.perplexity.ai/page/bipartisan-lawmakers-press-nav-O8N_L5hVTUqdXBrcrIl1vg",
-        "description": "Congress warns that further delays to the multiyear contract for Virginia-class and Columbia-class boats could destabilize the nuclear submarine industrial base.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T16:26:12Z",
-        "sourceCount": "90 sources"
-      },
-      {
-        "title": "Patel fires FBI staff tied to Trump probe, says phone records seized",
-        "url": "https://www.perplexity.ai/page/patel-fires-fbi-staff-tied-to-uCEoKMAHQLWWCBO5OhWWuw",
-        "description": "The FBI director ordered the ouster of at least 10 employees and revealed the bureau had subpoenaed his and Susie Wiles' call records during the Biden era.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T02:14:53Z",
-        "sourceCount": "33 sources"
       }
     ],
     "tech": [],
