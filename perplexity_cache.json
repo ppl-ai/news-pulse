@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Senate votes down bid to curb Trump's Iran war powers",
+      "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
+      "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T22:31:51Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "Gulf airports closed for fourth day as Iran conflict strands thousands",
+      "url": "https://www.perplexity.ai/page/gulf-airports-closed-for-fourt-4DA.WEG_T9K68X3HNODtbg",
+      "description": "Over 12,300 flights have been canceled across the region, triggering the worst global air travel disruption since the COVID-19 pandemic.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T22:22:19Z",
+      "sourceCount": "44 sources"
+    },
+    {
+      "title": "Ecuador expels Cuba's entire embassy staff, gives 48 hours to leave",
+      "url": "https://www.perplexity.ai/page/ecuador-expels-cuba-s-entire-e-eTh2cEuTTtu7xB92vaQ9_Q",
+      "description": "President Noboa declared Cuba's ambassador and all 22 diplomatic staff persona non grata, ordering them out of the country.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T22:12:10Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
       "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
       "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
@@ -262,13 +289,22 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Trump security team briefs Congress ahead of Iran war powers votes",
-      "url": "https://www.perplexity.ai/page/trump-security-team-briefs-con-Atizzop0QQ6qd.IUntYIWA",
-      "description": "The Senate is set to vote Wednesday on a resolution requiring congressional approval for further military action against Iran.",
+      "title": "Pentagon identifies four US troops killed in Iranian drone strike",
+      "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
+      "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T00:14:13Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-03T23:39:04Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T23:38:43Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Turkey engaging all sides to end Iran war, foreign minister says",
@@ -287,24 +323,6 @@
       "topic": "top",
       "pubDate": "2026-03-03T23:20:08Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Pentagon identifies four US troops killed in Iranian drone strike",
-      "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
-      "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T23:39:04Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
-      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
-      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T23:38:43Z",
-      "sourceCount": "40 sources"
     },
     {
       "title": "Moderate House Democrats introduce rival Iran war powers resolution",
@@ -1225,9 +1243,36 @@
       "sourceCount": "61 sources"
     }
   ],
-  "cached_at": "2026-03-04T22:24:38Z",
+  "cached_at": "2026-03-04T22:43:45Z",
   "topics": {
     "top": [
+      {
+        "title": "Senate votes down bid to curb Trump's Iran war powers",
+        "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
+        "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T22:31:51Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "Gulf airports closed for fourth day as Iran conflict strands thousands",
+        "url": "https://www.perplexity.ai/page/gulf-airports-closed-for-fourt-4DA.WEG_T9K68X3HNODtbg",
+        "description": "Over 12,300 flights have been canceled across the region, triggering the worst global air travel disruption since the COVID-19 pandemic.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T22:22:19Z",
+        "sourceCount": "44 sources"
+      },
+      {
+        "title": "Ecuador expels Cuba's entire embassy staff, gives 48 hours to leave",
+        "url": "https://www.perplexity.ai/page/ecuador-expels-cuba-s-entire-e-eTh2cEuTTtu7xB92vaQ9_Q",
+        "description": "President Noboa declared Cuba's ambassador and all 22 diplomatic staff persona non grata, ordering them out of the country.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T22:12:10Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
         "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
@@ -1490,13 +1535,22 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Trump security team briefs Congress ahead of Iran war powers votes",
-        "url": "https://www.perplexity.ai/page/trump-security-team-briefs-con-Atizzop0QQ6qd.IUntYIWA",
-        "description": "The Senate is set to vote Wednesday on a resolution requiring congressional approval for further military action against Iran.",
+        "title": "Pentagon identifies four US troops killed in Iranian drone strike",
+        "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
+        "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T00:14:13Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-03T23:39:04Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T23:38:43Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Turkey engaging all sides to end Iran war, foreign minister says",
@@ -1515,24 +1569,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T23:20:08Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "Pentagon identifies four US troops killed in Iranian drone strike",
-        "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
-        "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T23:39:04Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
-        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
-        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T23:38:43Z",
-        "sourceCount": "40 sources"
       },
       {
         "title": "Moderate House Democrats introduce rival Iran war powers resolution",
