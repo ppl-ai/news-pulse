@@ -1205,9 +1205,18 @@
       "topic": "top",
       "pubDate": "2026-02-26T08:41:25Z",
       "sourceCount": "35 sources"
+    },
+    {
+      "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
+      "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
+      "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
+      "source": "Perplexity",
+      "topic": "tech",
+      "pubDate": "2026-03-04T21:41:56Z",
+      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-04T21:39:14Z",
+  "cached_at": "2026-03-04T21:55:02Z",
   "topics": {
     "top": [
       {
@@ -2417,7 +2426,17 @@
         "sourceCount": "35 sources"
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
+        "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
+        "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
+        "source": "Perplexity",
+        "topic": "tech",
+        "pubDate": "2026-03-04T21:41:56Z",
+        "sourceCount": "28 sources"
+      }
+    ],
     "finance": []
   }
 }
