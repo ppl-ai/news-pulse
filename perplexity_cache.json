@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "40 years of data reveal subtle shifts in the Sun's core",
+      "url": "https://www.perplexity.ai/page/40-years-of-data-reveal-subtle-EszxzkEcSNaEBO1uO3EUBw",
+      "description": "Researchers used sound waves trapped inside the Sun to detect structural changes between quiet periods, a first in solar science.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T17:00:34Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Civilian death toll in Iran tops 1,000 as U.S.-Israeli strikes enter fifth day",
       "url": "https://www.perplexity.ai/page/civilian-death-toll-in-iran-to-4CuMu5rQTaKJI8oEKepNSw",
       "description": "A rights group says more than 1,000 Iranian civilians, including 180 children, have been killed since the coordinated military campaign began Feb. 28.",
@@ -323,15 +332,6 @@
       "topic": "top",
       "pubDate": "2026-03-03T20:32:04Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Macron deploys aircraft carrier to Mediterranean amid Middle East crisis",
-      "url": "https://www.perplexity.ai/page/macron-deploys-aircraft-carrie-gSuM_BqNQ7GoynVBIREejg",
-      "description": "France ordered the Charles de Gaulle carrier group to the Mediterranean and deployed air defenses to Cyprus after a drone struck a British base there.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T20:11:13Z",
-      "sourceCount": "25 sources"
     },
     {
       "title": "Ukraine refuses EU requests to inspect damaged Druzhba pipeline",
@@ -1225,9 +1225,18 @@
       "sourceCount": "41 sources"
     }
   ],
-  "cached_at": "2026-03-04T16:45:21Z",
+  "cached_at": "2026-03-04T17:08:36Z",
   "topics": {
     "top": [
+      {
+        "title": "40 years of data reveal subtle shifts in the Sun's core",
+        "url": "https://www.perplexity.ai/page/40-years-of-data-reveal-subtle-EszxzkEcSNaEBO1uO3EUBw",
+        "description": "Researchers used sound waves trapped inside the Sun to detect structural changes between quiet periods, a first in solar science.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T17:00:34Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Civilian death toll in Iran tops 1,000 as U.S.-Israeli strikes enter fifth day",
         "url": "https://www.perplexity.ai/page/civilian-death-toll-in-iran-to-4CuMu5rQTaKJI8oEKepNSw",
@@ -1551,15 +1560,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T20:32:04Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Macron deploys aircraft carrier to Mediterranean amid Middle East crisis",
-        "url": "https://www.perplexity.ai/page/macron-deploys-aircraft-carrie-gSuM_BqNQ7GoynVBIREejg",
-        "description": "France ordered the Charles de Gaulle carrier group to the Mediterranean and deployed air defenses to Cyprus after a drone struck a British base there.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T20:11:13Z",
-        "sourceCount": "25 sources"
       },
       {
         "title": "Ukraine refuses EU requests to inspect damaged Druzhba pipeline",
