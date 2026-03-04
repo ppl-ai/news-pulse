@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Johnson says US 'not at war' with Iran despite Trump's own language",
+      "url": "https://www.perplexity.ai/page/johnson-says-us-not-at-war-wit-wa8fi6l7RYuPr1i_indyrQ",
+      "description": "The House speaker's claim contradicts Trump and Hegseth as Congress prepares to vote on war powers resolutions this week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T20:24:18Z",
+      "sourceCount": "38 sources"
+    },
+    {
       "title": "New study finds sea levels far higher than assumed, raising flood risk for millions",
       "url": "https://www.perplexity.ai/page/new-study-finds-sea-levels-far-Pspq.UEjRfq3FlO0VAaFYg",
       "description": "Lidar satellite data reveals coastal lands are much lower than radar-based models suggested, tripling the population estimated to be at risk.",
@@ -1216,9 +1225,18 @@
       "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-04T20:35:44Z",
+  "cached_at": "2026-03-04T20:51:59Z",
   "topics": {
     "top": [
+      {
+        "title": "Johnson says US 'not at war' with Iran despite Trump's own language",
+        "url": "https://www.perplexity.ai/page/johnson-says-us-not-at-war-wit-wa8fi6l7RYuPr1i_indyrQ",
+        "description": "The House speaker's claim contradicts Trump and Hegseth as Congress prepares to vote on war powers resolutions this week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T20:24:18Z",
+        "sourceCount": "38 sources"
+      },
       {
         "title": "New study finds sea levels far higher than assumed, raising flood risk for millions",
         "url": "https://www.perplexity.ai/page/new-study-finds-sea-levels-far-Pspq.UEjRfq3FlO0VAaFYg",
