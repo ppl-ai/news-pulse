@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US, Israel hit 3,300 targets in Iran but underground missile sites resist airstrikes",
+      "url": "https://www.perplexity.ai/page/us-israel-hit-3300-targets-in-0i_8bJDKRtGrCyVgG6Juxw",
+      "description": "As the joint campaign enters its fifth day, analysts warn that Iran's deeply buried \"missile cities\" and mobile launchers may be beyond the reach of conventional airpower.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T07:10:08Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "South Korea halts trading as Asian markets plunge on Iran war fears",
       "url": "https://www.perplexity.ai/page/south-korea-halts-trading-as-a-A7MFiXkSSIWReFYJk8TFXQ",
       "description": "The Kospi triggered circuit breakers after plunging as much as 11%, leading a region-wide sell-off driven by surging oil prices and escalating Middle East conflict.",
@@ -1297,9 +1306,18 @@
       "sourceCount": "90 sources"
     }
   ],
-  "cached_at": "2026-03-04T07:04:58Z",
+  "cached_at": "2026-03-04T07:25:58Z",
   "topics": {
     "top": [
+      {
+        "title": "US, Israel hit 3,300 targets in Iran but underground missile sites resist airstrikes",
+        "url": "https://www.perplexity.ai/page/us-israel-hit-3300-targets-in-0i_8bJDKRtGrCyVgG6Juxw",
+        "description": "As the joint campaign enters its fifth day, analysts warn that Iran's deeply buried \"missile cities\" and mobile launchers may be beyond the reach of conventional airpower.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T07:10:08Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "South Korea halts trading as Asian markets plunge on Iran war fears",
         "url": "https://www.perplexity.ai/page/south-korea-halts-trading-as-a-A7MFiXkSSIWReFYJk8TFXQ",
