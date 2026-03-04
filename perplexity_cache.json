@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran warns advanced weapons not yet deployed in conflict",
+      "url": "https://www.perplexity.ai/page/iran-warns-advanced-weapons-no-UfagHzW3R9Oms8xmgpPsfQ",
+      "description": "Tehran's Defense Ministry claims it has reserved its most powerful systems, rejecting Trump's assertion that Iran's military has been neutralized.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T01:34:01Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Ship hit near UAE's Fujairah as Gulf attacks escalate",
+      "url": "https://www.perplexity.ai/page/ship-hit-near-uae-s-fujairah-a-I3H4J90qQIKhxToY9085bw",
+      "description": "The latest strike is part of a wave of attacks on commercial shipping since U.S.-Israeli operations against Iran began on Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T01:14:21Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Poll finds half of Americans now support abolishing ICE",
       "url": "https://www.perplexity.ai/page/poll-finds-half-of-americans-n-uMyC95mpR6yBBZhlsnjA2w",
       "description": "Support hit 50% for the first time in YouGov polling, with opposition falling to an all-time low of 39%, amid fallout from deadly shootings.",
@@ -1223,38 +1241,29 @@
       "topic": "top",
       "pubDate": "2026-02-25T09:37:17Z",
       "sourceCount": "47 sources"
-    },
-    {
-      "title": "Study finds 40,000-year-old carvings approach complexity of earliest writing",
-      "url": "https://www.perplexity.ai/page/study-finds-40000-year-old-car-r5StNZqASmeIlvFgC2._Rw",
-      "description": "Computational analysis of Ice Age symbols on tools and figurines found their information density rivals proto-cuneiform, which emerged 37,000 years later.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T06:31:08Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Treasury official exits over Minnesota fraud crackdown",
-      "url": "https://www.perplexity.ai/page/treasury-official-exits-over-m-WivmGE.RTXCy5AM3xIV9zQ",
-      "description": "John Hurley, a Trump donor and decorated veteran, objected to White House plans targeting financial transactions in Minnesota's Somali community.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T23:49:14Z",
-      "sourceCount": "66 sources"
-    },
-    {
-      "title": "Study links Saturn's rings to ancient crash that formed Titan",
-      "url": "https://www.perplexity.ai/page/study-links-saturn-s-rings-to-KM..8y7fQLiYMWLWFVi6MA",
-      "description": "Researchers say a collision between two moons about 400 million years ago may explain Saturn's rings, Titan's formation, and other long-standing mysteries.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-25T06:26:26Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-04T01:22:30Z",
+  "cached_at": "2026-03-04T02:13:10Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran warns advanced weapons not yet deployed in conflict",
+        "url": "https://www.perplexity.ai/page/iran-warns-advanced-weapons-no-UfagHzW3R9Oms8xmgpPsfQ",
+        "description": "Tehran's Defense Ministry claims it has reserved its most powerful systems, rejecting Trump's assertion that Iran's military has been neutralized.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T01:34:01Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Ship hit near UAE's Fujairah as Gulf attacks escalate",
+        "url": "https://www.perplexity.ai/page/ship-hit-near-uae-s-fujairah-a-I3H4J90qQIKhxToY9085bw",
+        "description": "The latest strike is part of a wave of attacks on commercial shipping since U.S.-Israeli operations against Iran began on Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T01:14:21Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Poll finds half of Americans now support abolishing ICE",
         "url": "https://www.perplexity.ai/page/poll-finds-half-of-americans-n-uMyC95mpR6yBBZhlsnjA2w",
@@ -2478,33 +2487,6 @@
         "topic": "top",
         "pubDate": "2026-02-25T09:37:17Z",
         "sourceCount": "47 sources"
-      },
-      {
-        "title": "Study finds 40,000-year-old carvings approach complexity of earliest writing",
-        "url": "https://www.perplexity.ai/page/study-finds-40000-year-old-car-r5StNZqASmeIlvFgC2._Rw",
-        "description": "Computational analysis of Ice Age symbols on tools and figurines found their information density rivals proto-cuneiform, which emerged 37,000 years later.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T06:31:08Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Treasury official exits over Minnesota fraud crackdown",
-        "url": "https://www.perplexity.ai/page/treasury-official-exits-over-m-WivmGE.RTXCy5AM3xIV9zQ",
-        "description": "John Hurley, a Trump donor and decorated veteran, objected to White House plans targeting financial transactions in Minnesota's Somali community.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T23:49:14Z",
-        "sourceCount": "66 sources"
-      },
-      {
-        "title": "Study links Saturn's rings to ancient crash that formed Titan",
-        "url": "https://www.perplexity.ai/page/study-links-saturn-s-rings-to-KM..8y7fQLiYMWLWFVi6MA",
-        "description": "Researchers say a collision between two moons about 400 million years ago may explain Saturn's rings, Titan's formation, and other long-standing mysteries.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-25T06:26:26Z",
-        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
