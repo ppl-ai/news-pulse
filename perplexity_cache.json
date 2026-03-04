@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Tech giants sign Trump pledge to fund their own data center power",
+      "url": "https://www.perplexity.ai/page/tech-giants-sign-trump-pledge-oXdjYIllQwqMsHVLlVIL7g",
+      "description": "Seven major tech companies agreed to build or buy all electricity needed for AI data centers and prevent costs from reaching consumers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T23:17:31Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Death toll tops 870 as US-Iran war spreads across Middle East",
+      "url": "https://www.perplexity.ai/page/death-toll-tops-870-as-us-iran-IITSa7pLQLmC9XMDddIW1Q",
+      "description": "Turkey's foreign minister called Iran's retaliatory strikes on Gulf states an \"incredibly wrong strategy\" as the conflict enters its fifth day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T23:07:42Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "Rubio pledges full US support to Turkey after NATO downs Iranian missile",
       "url": "https://www.perplexity.ai/page/rubio-pledges-full-us-support-Zn.qck_WQcyhMTyb_zh_jg",
       "description": "NATO intercepted a ballistic missile from Iran heading toward Turkish airspace, the first such defense of a member state since the conflict erupted.",
@@ -10,13 +28,22 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "White House won't rule out ground troops in Iran",
-      "url": "https://www.perplexity.ai/page/white-house-won-t-rule-out-gro-BVSlDAL3TgumsBjEh_zg6Q",
-      "description": "Karoline Leavitt said boots on the ground are \"not part of the plan\" but declined to take the option off the table as strikes enter day five.",
+      "title": "Senate votes down bid to curb Trump's Iran war powers",
+      "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
+      "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T22:45:23Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-04T22:31:51Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "Iran conflict threatens to divert US air defense missiles from Ukraine",
+      "url": "https://www.perplexity.ai/page/iran-conflict-threatens-to-div-FjtMuP5rR7GnrcB85ioEvw",
+      "description": "Analysts warn that roughly 600 PAC-3 interceptors produced annually cannot meet demand from both Gulf allies and Ukraine.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T23:03:47Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Gulf airports closed for fourth day as Iran conflict strands thousands",
@@ -37,13 +64,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Senate votes down bid to curb Trump's Iran war powers",
-      "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
-      "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
+      "title": "White House won't rule out ground troops in Iran",
+      "url": "https://www.perplexity.ai/page/white-house-won-t-rule-out-gro-BVSlDAL3TgumsBjEh_zg6Q",
+      "description": "Karoline Leavitt said boots on the ground are \"not part of the plan\" but declined to take the option off the table as strikes enter day five.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T22:31:51Z",
-      "sourceCount": "36 sources"
+      "pubDate": "2026-03-04T22:45:23Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
@@ -136,13 +163,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Pentagon says it killed Iranian commander behind Trump assassination plot",
-      "url": "https://www.perplexity.ai/page/pentagon-says-it-killed-irania-T1zwODWlSj.O8vc6tiFAwg",
-      "description": "The announcement came on day five of Operation Epic Fury, the U.S.-Israeli campaign that has already killed Iran's supreme leader.",
+      "title": "NATO destroys Iranian missile heading toward Turkey",
+      "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
+      "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T14:28:24Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-04T13:25:13Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
@@ -152,15 +179,6 @@
       "topic": "top",
       "pubDate": "2026-03-04T15:19:09Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "NATO destroys Iranian missile heading toward Turkey",
-      "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
-      "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T13:25:13Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "SpaceX launches 600th Starlink satellite of 2026",
@@ -1225,9 +1243,27 @@
       "sourceCount": "61 sources"
     }
   ],
-  "cached_at": "2026-03-04T23:14:42Z",
+  "cached_at": "2026-03-04T23:31:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Tech giants sign Trump pledge to fund their own data center power",
+        "url": "https://www.perplexity.ai/page/tech-giants-sign-trump-pledge-oXdjYIllQwqMsHVLlVIL7g",
+        "description": "Seven major tech companies agreed to build or buy all electricity needed for AI data centers and prevent costs from reaching consumers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T23:17:31Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Death toll tops 870 as US-Iran war spreads across Middle East",
+        "url": "https://www.perplexity.ai/page/death-toll-tops-870-as-us-iran-IITSa7pLQLmC9XMDddIW1Q",
+        "description": "Turkey's foreign minister called Iran's retaliatory strikes on Gulf states an \"incredibly wrong strategy\" as the conflict enters its fifth day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T23:07:42Z",
+        "sourceCount": "43 sources"
+      },
       {
         "title": "Rubio pledges full US support to Turkey after NATO downs Iranian missile",
         "url": "https://www.perplexity.ai/page/rubio-pledges-full-us-support-Zn.qck_WQcyhMTyb_zh_jg",
@@ -1238,13 +1274,22 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "White House won't rule out ground troops in Iran",
-        "url": "https://www.perplexity.ai/page/white-house-won-t-rule-out-gro-BVSlDAL3TgumsBjEh_zg6Q",
-        "description": "Karoline Leavitt said boots on the ground are \"not part of the plan\" but declined to take the option off the table as strikes enter day five.",
+        "title": "Senate votes down bid to curb Trump's Iran war powers",
+        "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
+        "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T22:45:23Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-04T22:31:51Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "Iran conflict threatens to divert US air defense missiles from Ukraine",
+        "url": "https://www.perplexity.ai/page/iran-conflict-threatens-to-div-FjtMuP5rR7GnrcB85ioEvw",
+        "description": "Analysts warn that roughly 600 PAC-3 interceptors produced annually cannot meet demand from both Gulf allies and Ukraine.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T23:03:47Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Gulf airports closed for fourth day as Iran conflict strands thousands",
@@ -1265,13 +1310,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Senate votes down bid to curb Trump's Iran war powers",
-        "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
-        "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
+        "title": "White House won't rule out ground troops in Iran",
+        "url": "https://www.perplexity.ai/page/white-house-won-t-rule-out-gro-BVSlDAL3TgumsBjEh_zg6Q",
+        "description": "Karoline Leavitt said boots on the ground are \"not part of the plan\" but declined to take the option off the table as strikes enter day five.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T22:31:51Z",
-        "sourceCount": "36 sources"
+        "pubDate": "2026-03-04T22:45:23Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
@@ -1364,13 +1409,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Pentagon says it killed Iranian commander behind Trump assassination plot",
-        "url": "https://www.perplexity.ai/page/pentagon-says-it-killed-irania-T1zwODWlSj.O8vc6tiFAwg",
-        "description": "The announcement came on day five of Operation Epic Fury, the U.S.-Israeli campaign that has already killed Iran's supreme leader.",
+        "title": "NATO destroys Iranian missile heading toward Turkey",
+        "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
+        "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T14:28:24Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-04T13:25:13Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
@@ -1380,15 +1425,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T15:19:09Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "NATO destroys Iranian missile heading toward Turkey",
-        "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
-        "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T13:25:13Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "SpaceX launches 600th Starlink satellite of 2026",
