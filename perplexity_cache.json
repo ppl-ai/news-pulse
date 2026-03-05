@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Alibaba forms AI task force after Qwen chief's abrupt exit",
+      "url": "https://www.perplexity.ai/page/alibaba-forms-ai-task-force-af-0aMOMajIR5Cj1YItxJdKGw",
+      "description": "CEO Eddie Wu will lead the effort to accelerate model development after three senior Qwen executives departed in 2026.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T07:18:49Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Russian oil tankers reroute to India as Hormuz crisis chokes supply",
       "url": "https://www.perplexity.ai/page/russian-oil-tankers-reroute-to-YZTo1TNPTyyMfLrzRzluiA",
       "description": "As the Strait of Hormuz remains effectively closed following U.S.-Israeli strikes on Iran, India is turning back to Russian crude it had been avoiding under American pressure.",
@@ -1268,20 +1277,20 @@
       "topic": "top",
       "pubDate": "2026-02-26T20:21:09Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "US saw net negative migration in 2025, a first since the Great Depression",
-      "url": "https://www.perplexity.ai/page/us-saw-net-negative-migration-DWTtS9eNRnuvvDS3DX1W3A",
-      "description": "A Wall Street Journal investigation found at least 180,000 Americans relocated abroad last year as the nation lost more people than it gained.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T14:49:19Z",
-      "sourceCount": "53 sources"
     }
   ],
-  "cached_at": "2026-03-05T07:13:51Z",
+  "cached_at": "2026-03-05T07:32:48Z",
   "topics": {
     "top": [
+      {
+        "title": "Alibaba forms AI task force after Qwen chief's abrupt exit",
+        "url": "https://www.perplexity.ai/page/alibaba-forms-ai-task-force-af-0aMOMajIR5Cj1YItxJdKGw",
+        "description": "CEO Eddie Wu will lead the effort to accelerate model development after three senior Qwen executives departed in 2026.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T07:18:49Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Russian oil tankers reroute to India as Hormuz crisis chokes supply",
         "url": "https://www.perplexity.ai/page/russian-oil-tankers-reroute-to-YZTo1TNPTyyMfLrzRzluiA",
@@ -2550,15 +2559,6 @@
         "topic": "top",
         "pubDate": "2026-02-26T20:21:09Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "US saw net negative migration in 2025, a first since the Great Depression",
-        "url": "https://www.perplexity.ai/page/us-saw-net-negative-migration-DWTtS9eNRnuvvDS3DX1W3A",
-        "description": "A Wall Street Journal investigation found at least 180,000 Americans relocated abroad last year as the nation lost more people than it gained.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T14:49:19Z",
-        "sourceCount": "53 sources"
       }
     ],
     "tech": [],
