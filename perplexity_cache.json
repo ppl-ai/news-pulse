@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
+      "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
+      "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T03:16:48Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
       "url": "https://www.perplexity.ai/page/bloomberg-epstein-used-hoffman-S_W08ftORPyiXsd2G1WRzA",
       "description": "Documents released by the DOJ reveal the LinkedIn co-founder's ties to Epstein went far beyond the fundraising relationship he has claimed.",
@@ -1288,9 +1297,18 @@
       "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-05T03:15:11Z",
+  "cached_at": "2026-03-05T04:04:07Z",
   "topics": {
     "top": [
+      {
+        "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
+        "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
+        "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T03:16:48Z",
+        "sourceCount": "36 sources"
+      },
       {
         "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
         "url": "https://www.perplexity.ai/page/bloomberg-epstein-used-hoffman-S_W08ftORPyiXsd2G1WRzA",
