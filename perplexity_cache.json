@@ -1,6 +1,60 @@
 {
   "stories": [
     {
+      "title": "China sets slowest defense budget growth since 2022 at 7%",
+      "url": "https://www.perplexity.ai/page/china-sets-slowest-defense-bud-6.G9SrbUQm.Sk4A0i8HJEw",
+      "description": "The official military budget rises to 1.91 trillion yuan ($277 billion), even as the U.S. and allies accelerate their own spending.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T00:34:01Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "House advances DHS funding bill in narrow vote amid shutdown standoff",
+      "url": "https://www.perplexity.ai/page/house-advances-dhs-funding-bil-ijbc8h8lT4WkS.2Kgi9FLw",
+      "description": "The 211-209 vote sets up a final passage vote Thursday, but the bill faces a likely filibuster in the Senate from Democrats demanding ICE reforms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T00:10:23Z",
+      "sourceCount": "65 sources"
+    },
+    {
+      "title": "Appeals court blocks Musk deposition in USAID lawsuit",
+      "url": "https://www.perplexity.ai/page/appeals-court-blocks-musk-depo-SpCF9myTR5qoXr5QRhRQAQ",
+      "description": "A federal appeals court ruled 2-1 that Musk does not have to testify under oath about his role in dismantling the foreign aid agency while leading DOGE.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T00:09:19Z",
+      "sourceCount": "34 sources"
+    },
+    {
+      "title": "Zelensky says US asked Ukraine for help against Iranian drones",
+      "url": "https://www.perplexity.ai/page/zelensky-says-us-asked-ukraine-pNqmLzeORuWEkrkSddbqsw",
+      "description": "The Ukrainian president ordered his government to develop support plans for Middle Eastern allies facing Shahed drone attacks from Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T23:49:39Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "UN says 66,000 displaced in Afghanistan-Pakistan war",
+      "url": "https://www.perplexity.ai/page/un-says-66000-displaced-in-afg-8FBK7OvpTJ6YAb1zAexi8w",
+      "description": "The IOM warned that escalating cross-border clashes along the Durand Line are worsening a humanitarian crisis in eastern Afghanistan.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T23:43:30Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Johnson says US 'not at war' with Iran, contradicting Trump",
+      "url": "https://www.perplexity.ai/page/johnson-says-us-not-at-war-wit-prBqaR_qT8GjaN.OEb5BJQ",
+      "description": "The House speaker's claim clashes with the president's and defense secretary's own use of the word \"war\" to describe Operation Epic Fury.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T00:05:00Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Venezuela to reform mining law after Burgum visit",
       "url": "https://www.perplexity.ai/page/venezuela-to-reform-mining-law-EQtj7v3SThe9Nv576pXJWA",
       "description": "Acting President Rodriguez said the legislation, which would open gold, diamonds and rare earths to foreign companies, will be submitted in days.",
@@ -28,6 +82,15 @@
       "sourceCount": "14 sources"
     },
     {
+      "title": "Virginia court clears redistricting vote for second time",
+      "url": "https://www.perplexity.ai/page/virginia-court-clears-redistri-F9JlNQQfQtG6QYDxAck6Dw",
+      "description": "The state Supreme Court again ruled the April 21 referendum can proceed, with early voting set to begin Friday despite ongoing legal challenges.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T23:14:37Z",
+      "sourceCount": "59 sources"
+    },
+    {
       "title": "Iran conflict threatens to divert US air defense missiles from Ukraine",
       "url": "https://www.perplexity.ai/page/iran-conflict-threatens-to-div-FjtMuP5rR7GnrcB85ioEvw",
       "description": "Analysts warn that roughly 600 PAC-3 interceptors produced annually cannot meet demand from both Gulf allies and Ukraine.",
@@ -35,6 +98,15 @@
       "topic": "top",
       "pubDate": "2026-03-04T23:03:47Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Bondi lets DOJ appointees attend partisan events again",
+      "url": "https://www.perplexity.ai/page/bondi-lets-doj-appointees-atte-4obultl.QP2BI7OJKlRhcg",
+      "description": "The attorney general revoked Biden-era rules that barred political appointees from campaign rallies, fundraisers, and other partisan activities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T23:14:33Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Rubio pledges full US support to Turkey after NATO downs Iranian missile",
@@ -46,13 +118,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Senate votes down bid to curb Trump's Iran war powers",
-      "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
-      "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
+      "title": "White House won't rule out ground troops in Iran",
+      "url": "https://www.perplexity.ai/page/white-house-won-t-rule-out-gro-BVSlDAL3TgumsBjEh_zg6Q",
+      "description": "Karoline Leavitt said boots on the ground are \"not part of the plan\" but declined to take the option off the table as strikes enter day five.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T22:31:51Z",
-      "sourceCount": "36 sources"
+      "pubDate": "2026-03-04T22:45:23Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Gulf airports closed for fourth day as Iran conflict strands thousands",
@@ -73,13 +145,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "White House won't rule out ground troops in Iran",
-      "url": "https://www.perplexity.ai/page/white-house-won-t-rule-out-gro-BVSlDAL3TgumsBjEh_zg6Q",
-      "description": "Karoline Leavitt said boots on the ground are \"not part of the plan\" but declined to take the option off the table as strikes enter day five.",
+      "title": "Senate votes down bid to curb Trump's Iran war powers",
+      "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
+      "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T22:45:23Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-04T22:31:51Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
@@ -550,13 +622,13 @@
       "sourceCount": "35 sources"
     },
     {
-      "title": "Supreme Court blocks redrawing of NYC's only GOP district",
-      "url": "https://www.perplexity.ai/page/supreme-court-blocks-redrawing-x6pudLYjQHykvWbLiHhZ9w",
-      "description": "The ruling preserves Rep. Nicole Malliotakis's Staten Island-based seat for 2026, halting a state court order that found the map dilutes minority votes.",
+      "title": "Montana Rep. Zinke won't seek reelection, adding to GOP retirement wave",
+      "url": "https://www.perplexity.ai/page/montana-rep-zinke-won-t-seek-r-UPUFsLUcQ5ejQJ7h5OL_Ng",
+      "description": "The former Navy SEAL and Trump Interior secretary cited lingering military injuries, becoming the latest of more than 30 House Republicans to step aside.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-02T23:26:55Z",
-      "sourceCount": "33 sources"
+      "pubDate": "2026-03-02T21:56:39Z",
+      "sourceCount": "9 sources"
     },
     {
       "title": "Trump open to arming militias inside Iran, officials say",
@@ -568,31 +640,13 @@
       "sourceCount": "50 sources"
     },
     {
-      "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
-      "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
-      "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
+      "title": "Supreme Court hears case on gun ban for marijuana users",
+      "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
+      "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-02T20:09:15Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Navy intel chief warns China could strike US from its own waters by 2030s",
-      "url": "https://www.perplexity.ai/page/navy-intel-chief-warns-china-c-4CIUdZjUQjyrrQxNxS61QQ",
-      "description": "New submarines armed with advanced ballistic missiles will be able to target large portions of the U.S. from Chinese coastal waters, Rear Adm. Brookes told Congress.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T17:51:04Z",
-      "sourceCount": "23 sources"
-    },
-    {
-      "title": "Russia's Medvedev warns of World War III over US strikes on Iran",
-      "url": "https://www.perplexity.ai/page/russia-s-medvedev-warns-of-wor-f3LP1_5MQKKKcN2vL8s2NQ",
-      "description": "The deputy chairman of Russia's Security Council called Trump's regime-change campaign \"a grave mistake\" that has put all Americans at risk.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T11:28:51Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-02T17:09:57Z",
+      "sourceCount": "19 sources"
     },
     {
       "title": "House panel releases Clinton's Epstein deposition videos",
@@ -604,13 +658,31 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Supreme Court hears case on gun ban for marijuana users",
-      "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
-      "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
+      "title": "Russia's Medvedev warns of World War III over US strikes on Iran",
+      "url": "https://www.perplexity.ai/page/russia-s-medvedev-warns-of-wor-f3LP1_5MQKKKcN2vL8s2NQ",
+      "description": "The deputy chairman of Russia's Security Council called Trump's regime-change campaign \"a grave mistake\" that has put all Americans at risk.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-02T17:09:57Z",
-      "sourceCount": "19 sources"
+      "pubDate": "2026-03-03T11:28:51Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Navy intel chief warns China could strike US from its own waters by 2030s",
+      "url": "https://www.perplexity.ai/page/navy-intel-chief-warns-china-c-4CIUdZjUQjyrrQxNxS61QQ",
+      "description": "New submarines armed with advanced ballistic missiles will be able to target large portions of the U.S. from Chinese coastal waters, Rear Adm. Brookes told Congress.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T17:51:04Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
+      "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
+      "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T20:09:15Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Netanyahu lobbied Trump for months to launch Iran war",
@@ -622,15 +694,6 @@
       "sourceCount": "59 sources"
     },
     {
-      "title": "Montana Rep. Zinke won't seek reelection, adding to GOP retirement wave",
-      "url": "https://www.perplexity.ai/page/montana-rep-zinke-won-t-seek-r-UPUFsLUcQ5ejQJ7h5OL_Ng",
-      "description": "The former Navy SEAL and Trump Interior secretary cited lingering military injuries, becoming the latest of more than 30 House Republicans to step aside.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T21:56:39Z",
-      "sourceCount": "9 sources"
-    },
-    {
       "title": "Macron offers to station French nuclear weapons in Europe",
       "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
       "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
@@ -638,6 +701,15 @@
       "topic": "top",
       "pubDate": "2026-03-02T14:52:28Z",
       "sourceCount": "37 sources"
+    },
+    {
+      "title": "Epstein files show DOJ examined accused men but charged none",
+      "url": "https://www.perplexity.ai/page/epstein-files-show-doj-examine-WNyFZE42TuGk30wFt9U9FA",
+      "description": "Newly released documents reveal victims cooperated with investigators after Epstein's 2019 death, but prosecutors cited insufficient evidence to bring cases.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-01T14:09:39Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
@@ -658,13 +730,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Epstein files show DOJ examined accused men but charged none",
-      "url": "https://www.perplexity.ai/page/epstein-files-show-doj-examine-WNyFZE42TuGk30wFt9U9FA",
-      "description": "Newly released documents reveal victims cooperated with investigators after Epstein's 2019 death, but prosecutors cited insufficient evidence to bring cases.",
+      "title": "Epstein files show doctors shared women's health records with him",
+      "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
+      "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-01T14:09:39Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-01T03:54:28Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Trump pushes Venezuela model for Iran transition",
@@ -683,15 +755,6 @@
       "topic": "top",
       "pubDate": "2026-03-01T11:39:22Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Epstein files show doctors shared women's health records with him",
-      "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
-      "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-01T03:54:28Z",
-      "sourceCount": "40 sources"
     },
     {
       "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
@@ -1243,9 +1306,63 @@
       "sourceCount": "61 sources"
     }
   ],
-  "cached_at": "2026-03-04T23:58:12Z",
+  "cached_at": "2026-03-05T00:48:17Z",
   "topics": {
     "top": [
+      {
+        "title": "China sets slowest defense budget growth since 2022 at 7%",
+        "url": "https://www.perplexity.ai/page/china-sets-slowest-defense-bud-6.G9SrbUQm.Sk4A0i8HJEw",
+        "description": "The official military budget rises to 1.91 trillion yuan ($277 billion), even as the U.S. and allies accelerate their own spending.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T00:34:01Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "House advances DHS funding bill in narrow vote amid shutdown standoff",
+        "url": "https://www.perplexity.ai/page/house-advances-dhs-funding-bil-ijbc8h8lT4WkS.2Kgi9FLw",
+        "description": "The 211-209 vote sets up a final passage vote Thursday, but the bill faces a likely filibuster in the Senate from Democrats demanding ICE reforms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T00:10:23Z",
+        "sourceCount": "65 sources"
+      },
+      {
+        "title": "Appeals court blocks Musk deposition in USAID lawsuit",
+        "url": "https://www.perplexity.ai/page/appeals-court-blocks-musk-depo-SpCF9myTR5qoXr5QRhRQAQ",
+        "description": "A federal appeals court ruled 2-1 that Musk does not have to testify under oath about his role in dismantling the foreign aid agency while leading DOGE.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T00:09:19Z",
+        "sourceCount": "34 sources"
+      },
+      {
+        "title": "Zelensky says US asked Ukraine for help against Iranian drones",
+        "url": "https://www.perplexity.ai/page/zelensky-says-us-asked-ukraine-pNqmLzeORuWEkrkSddbqsw",
+        "description": "The Ukrainian president ordered his government to develop support plans for Middle Eastern allies facing Shahed drone attacks from Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T23:49:39Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "UN says 66,000 displaced in Afghanistan-Pakistan war",
+        "url": "https://www.perplexity.ai/page/un-says-66000-displaced-in-afg-8FBK7OvpTJ6YAb1zAexi8w",
+        "description": "The IOM warned that escalating cross-border clashes along the Durand Line are worsening a humanitarian crisis in eastern Afghanistan.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T23:43:30Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Johnson says US 'not at war' with Iran, contradicting Trump",
+        "url": "https://www.perplexity.ai/page/johnson-says-us-not-at-war-wit-prBqaR_qT8GjaN.OEb5BJQ",
+        "description": "The House speaker's claim clashes with the president's and defense secretary's own use of the word \"war\" to describe Operation Epic Fury.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T00:05:00Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Venezuela to reform mining law after Burgum visit",
         "url": "https://www.perplexity.ai/page/venezuela-to-reform-mining-law-EQtj7v3SThe9Nv576pXJWA",
@@ -1274,6 +1391,15 @@
         "sourceCount": "14 sources"
       },
       {
+        "title": "Virginia court clears redistricting vote for second time",
+        "url": "https://www.perplexity.ai/page/virginia-court-clears-redistri-F9JlNQQfQtG6QYDxAck6Dw",
+        "description": "The state Supreme Court again ruled the April 21 referendum can proceed, with early voting set to begin Friday despite ongoing legal challenges.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T23:14:37Z",
+        "sourceCount": "59 sources"
+      },
+      {
         "title": "Iran conflict threatens to divert US air defense missiles from Ukraine",
         "url": "https://www.perplexity.ai/page/iran-conflict-threatens-to-div-FjtMuP5rR7GnrcB85ioEvw",
         "description": "Analysts warn that roughly 600 PAC-3 interceptors produced annually cannot meet demand from both Gulf allies and Ukraine.",
@@ -1281,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-03-04T23:03:47Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Bondi lets DOJ appointees attend partisan events again",
+        "url": "https://www.perplexity.ai/page/bondi-lets-doj-appointees-atte-4obultl.QP2BI7OJKlRhcg",
+        "description": "The attorney general revoked Biden-era rules that barred political appointees from campaign rallies, fundraisers, and other partisan activities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T23:14:33Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Rubio pledges full US support to Turkey after NATO downs Iranian missile",
@@ -1292,13 +1427,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Senate votes down bid to curb Trump's Iran war powers",
-        "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
-        "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
+        "title": "White House won't rule out ground troops in Iran",
+        "url": "https://www.perplexity.ai/page/white-house-won-t-rule-out-gro-BVSlDAL3TgumsBjEh_zg6Q",
+        "description": "Karoline Leavitt said boots on the ground are \"not part of the plan\" but declined to take the option off the table as strikes enter day five.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T22:31:51Z",
-        "sourceCount": "36 sources"
+        "pubDate": "2026-03-04T22:45:23Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Gulf airports closed for fourth day as Iran conflict strands thousands",
@@ -1319,13 +1454,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "White House won't rule out ground troops in Iran",
-        "url": "https://www.perplexity.ai/page/white-house-won-t-rule-out-gro-BVSlDAL3TgumsBjEh_zg6Q",
-        "description": "Karoline Leavitt said boots on the ground are \"not part of the plan\" but declined to take the option off the table as strikes enter day five.",
+        "title": "Senate votes down bid to curb Trump's Iran war powers",
+        "url": "https://www.perplexity.ai/page/senate-votes-down-bid-to-curb-Mg3Betq_RMa0UrgoF3FmCw",
+        "description": "A majority voted against the Democratic-led war powers resolution, as Republicans backed the president's military campaign five days after strikes began.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T22:45:23Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-04T22:31:51Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
@@ -1796,13 +1931,13 @@
         "sourceCount": "35 sources"
       },
       {
-        "title": "Supreme Court blocks redrawing of NYC's only GOP district",
-        "url": "https://www.perplexity.ai/page/supreme-court-blocks-redrawing-x6pudLYjQHykvWbLiHhZ9w",
-        "description": "The ruling preserves Rep. Nicole Malliotakis's Staten Island-based seat for 2026, halting a state court order that found the map dilutes minority votes.",
+        "title": "Montana Rep. Zinke won't seek reelection, adding to GOP retirement wave",
+        "url": "https://www.perplexity.ai/page/montana-rep-zinke-won-t-seek-r-UPUFsLUcQ5ejQJ7h5OL_Ng",
+        "description": "The former Navy SEAL and Trump Interior secretary cited lingering military injuries, becoming the latest of more than 30 House Republicans to step aside.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-02T23:26:55Z",
-        "sourceCount": "33 sources"
+        "pubDate": "2026-03-02T21:56:39Z",
+        "sourceCount": "9 sources"
       },
       {
         "title": "Trump open to arming militias inside Iran, officials say",
@@ -1814,31 +1949,13 @@
         "sourceCount": "50 sources"
       },
       {
-        "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
-        "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
-        "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
+        "title": "Supreme Court hears case on gun ban for marijuana users",
+        "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
+        "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-02T20:09:15Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Navy intel chief warns China could strike US from its own waters by 2030s",
-        "url": "https://www.perplexity.ai/page/navy-intel-chief-warns-china-c-4CIUdZjUQjyrrQxNxS61QQ",
-        "description": "New submarines armed with advanced ballistic missiles will be able to target large portions of the U.S. from Chinese coastal waters, Rear Adm. Brookes told Congress.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T17:51:04Z",
-        "sourceCount": "23 sources"
-      },
-      {
-        "title": "Russia's Medvedev warns of World War III over US strikes on Iran",
-        "url": "https://www.perplexity.ai/page/russia-s-medvedev-warns-of-wor-f3LP1_5MQKKKcN2vL8s2NQ",
-        "description": "The deputy chairman of Russia's Security Council called Trump's regime-change campaign \"a grave mistake\" that has put all Americans at risk.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T11:28:51Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-02T17:09:57Z",
+        "sourceCount": "19 sources"
       },
       {
         "title": "House panel releases Clinton's Epstein deposition videos",
@@ -1850,13 +1967,31 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Supreme Court hears case on gun ban for marijuana users",
-        "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
-        "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
+        "title": "Russia's Medvedev warns of World War III over US strikes on Iran",
+        "url": "https://www.perplexity.ai/page/russia-s-medvedev-warns-of-wor-f3LP1_5MQKKKcN2vL8s2NQ",
+        "description": "The deputy chairman of Russia's Security Council called Trump's regime-change campaign \"a grave mistake\" that has put all Americans at risk.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-02T17:09:57Z",
-        "sourceCount": "19 sources"
+        "pubDate": "2026-03-03T11:28:51Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Navy intel chief warns China could strike US from its own waters by 2030s",
+        "url": "https://www.perplexity.ai/page/navy-intel-chief-warns-china-c-4CIUdZjUQjyrrQxNxS61QQ",
+        "description": "New submarines armed with advanced ballistic missiles will be able to target large portions of the U.S. from Chinese coastal waters, Rear Adm. Brookes told Congress.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T17:51:04Z",
+        "sourceCount": "23 sources"
+      },
+      {
+        "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
+        "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
+        "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T20:09:15Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Netanyahu lobbied Trump for months to launch Iran war",
@@ -1868,15 +2003,6 @@
         "sourceCount": "59 sources"
       },
       {
-        "title": "Montana Rep. Zinke won't seek reelection, adding to GOP retirement wave",
-        "url": "https://www.perplexity.ai/page/montana-rep-zinke-won-t-seek-r-UPUFsLUcQ5ejQJ7h5OL_Ng",
-        "description": "The former Navy SEAL and Trump Interior secretary cited lingering military injuries, becoming the latest of more than 30 House Republicans to step aside.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T21:56:39Z",
-        "sourceCount": "9 sources"
-      },
-      {
         "title": "Macron offers to station French nuclear weapons in Europe",
         "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
         "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
@@ -1884,6 +2010,15 @@
         "topic": "top",
         "pubDate": "2026-03-02T14:52:28Z",
         "sourceCount": "37 sources"
+      },
+      {
+        "title": "Epstein files show DOJ examined accused men but charged none",
+        "url": "https://www.perplexity.ai/page/epstein-files-show-doj-examine-WNyFZE42TuGk30wFt9U9FA",
+        "description": "Newly released documents reveal victims cooperated with investigators after Epstein's 2019 death, but prosecutors cited insufficient evidence to bring cases.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-01T14:09:39Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
@@ -1904,13 +2039,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Epstein files show DOJ examined accused men but charged none",
-        "url": "https://www.perplexity.ai/page/epstein-files-show-doj-examine-WNyFZE42TuGk30wFt9U9FA",
-        "description": "Newly released documents reveal victims cooperated with investigators after Epstein's 2019 death, but prosecutors cited insufficient evidence to bring cases.",
+        "title": "Epstein files show doctors shared women's health records with him",
+        "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
+        "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-01T14:09:39Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-01T03:54:28Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Trump pushes Venezuela model for Iran transition",
@@ -1929,15 +2064,6 @@
         "topic": "top",
         "pubDate": "2026-03-01T11:39:22Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Epstein files show doctors shared women's health records with him",
-        "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
-        "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-01T03:54:28Z",
-        "sourceCount": "40 sources"
       },
       {
         "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
