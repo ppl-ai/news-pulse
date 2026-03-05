@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Pentagon formally tells Anthropic it's a supply chain risk",
+      "url": "https://www.perplexity.ai/page/pentagon-formally-tells-anthro-A6FoPHvdRG.P.oIMRR2K4w",
+      "description": "The designation, typically reserved for foreign adversaries, escalates a standoff over AI guardrails even as the two sides resume negotiations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T18:13:16Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Trump Considers Firing DHS Secretary Kristi Noem After Hearings",
+      "url": "https://www.perplexity.ai/page/trump-considers-firing-dhs-sec-5Z66.zM6TSu27WEX2x.5aQ",
+      "description": "Trump told Reuters he \"never knew anything about\" the $220 million DHS ad blitz that Noem testified he had personally approved.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T18:12:26Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Iranian missile strike sparks fire at Bahrain's BAPCO refinery",
       "url": "https://www.perplexity.ai/page/iranian-missile-strike-sparks-k0D_Ik02RVSLwvv9h_GkpQ",
       "description": "Bahrain says the blaze was quickly contained with no injuries, and operations continue at the country's sole oil refinery.",
@@ -163,15 +181,6 @@
       "sourceCount": "24 sources"
     },
     {
-      "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
-      "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
-      "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T03:16:48Z",
-      "sourceCount": "36 sources"
-    },
-    {
       "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
       "url": "https://www.perplexity.ai/page/bloomberg-epstein-used-hoffman-S_W08ftORPyiXsd2G1WRzA",
       "description": "Documents released by the DOJ reveal the LinkedIn co-founder's ties to Epstein went far beyond the fundraising relationship he has claimed.",
@@ -181,15 +190,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Tanker explosion off Kuwait causes oil spill as Gulf crisis deepens",
-      "url": "https://www.perplexity.ai/page/tanker-explosion-off-kuwait-ca-bhvjdIhPTq.pzbwanfzK7A",
-      "description": "At least 200 vessels remain stranded near the Strait of Hormuz as Iran-related attacks on commercial ships escalate across the Persian Gulf.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T02:09:02Z",
-      "sourceCount": "21 sources"
-    },
-    {
       "title": "Democrats flip 9th state seat since Trump took office",
       "url": "https://www.perplexity.ai/page/democrats-flip-9th-state-seat-l3sVyuQHSiKXtSHUlLw7FQ",
       "description": "Democrat Alex Holladay won an Arkansas House special election Tuesday, extending a streak in which Republicans have flipped zero Democratic-held seats.",
@@ -197,6 +197,15 @@
       "topic": "top",
       "pubDate": "2026-03-05T01:03:42Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Tanker explosion off Kuwait causes oil spill as Gulf crisis deepens",
+      "url": "https://www.perplexity.ai/page/tanker-explosion-off-kuwait-ca-bhvjdIhPTq.pzbwanfzK7A",
+      "description": "At least 200 vessels remain stranded near the Strait of Hormuz as Iran-related attacks on commercial ships escalate across the Persian Gulf.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T02:09:02Z",
+      "sourceCount": "21 sources"
     },
     {
       "title": "US and Venezuela probe secret Maduro-era oil deals",
@@ -712,13 +721,13 @@
       "sourceCount": "33 sources"
     },
     {
-      "title": "Trump open to arming militias inside Iran, officials say",
-      "url": "https://www.perplexity.ai/page/trump-open-to-arming-militias-Fpw9JDdzSWCXDzs7OMYElw",
-      "description": "The president spoke with Kurdish leaders in Iraq on Sunday as the U.S. weighs deepening its involvement beyond airstrikes.",
+      "title": "Russia's Medvedev warns of World War III over US strikes on Iran",
+      "url": "https://www.perplexity.ai/page/russia-s-medvedev-warns-of-wor-f3LP1_5MQKKKcN2vL8s2NQ",
+      "description": "The deputy chairman of Russia's Security Council called Trump's regime-change campaign \"a grave mistake\" that has put all Americans at risk.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-03T15:25:22Z",
-      "sourceCount": "50 sources"
+      "pubDate": "2026-03-03T11:28:51Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
@@ -739,13 +748,13 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Russia's Medvedev warns of World War III over US strikes on Iran",
-      "url": "https://www.perplexity.ai/page/russia-s-medvedev-warns-of-wor-f3LP1_5MQKKKcN2vL8s2NQ",
-      "description": "The deputy chairman of Russia's Security Council called Trump's regime-change campaign \"a grave mistake\" that has put all Americans at risk.",
+      "title": "Netanyahu lobbied Trump for months to launch Iran war",
+      "url": "https://www.perplexity.ai/page/netanyahu-lobbied-trump-for-mo-0LJmtO3sSZm.V8NWxvYdfw",
+      "description": "The detailed account describes the U.S. decision to strike Iran as a major victory for Netanyahu, who first raised the idea in December.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-03T11:28:51Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-03T00:08:46Z",
+      "sourceCount": "59 sources"
     },
     {
       "title": "House panel releases Clinton's Epstein deposition videos",
@@ -766,13 +775,13 @@
       "sourceCount": "19 sources"
     },
     {
-      "title": "Netanyahu lobbied Trump for months to launch Iran war",
-      "url": "https://www.perplexity.ai/page/netanyahu-lobbied-trump-for-mo-0LJmtO3sSZm.V8NWxvYdfw",
-      "description": "The detailed account describes the U.S. decision to strike Iran as a major victory for Netanyahu, who first raised the idea in December.",
+      "title": "Trump pushes Venezuela model for Iran transition",
+      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
+      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-03T00:08:46Z",
-      "sourceCount": "59 sources"
+      "pubDate": "2026-03-02T15:58:45Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Montana Rep. Zinke won't seek reelection, adding to GOP retirement wave",
@@ -784,24 +793,6 @@
       "sourceCount": "9 sources"
     },
     {
-      "title": "Macron offers to station French nuclear weapons in Europe",
-      "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
-      "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T14:52:28Z",
-      "sourceCount": "37 sources"
-    },
-    {
-      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T18:24:32Z",
-      "sourceCount": "21 sources"
-    },
-    {
       "title": "Putin calls Gulf leaders as Iran conflict widens",
       "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
       "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
@@ -809,6 +800,15 @@
       "topic": "top",
       "pubDate": "2026-03-02T15:01:40Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Macron offers to station French nuclear weapons in Europe",
+      "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
+      "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T14:52:28Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Epstein files show DOJ examined accused men but charged none",
@@ -820,15 +820,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Trump pushes Venezuela model for Iran transition",
-      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T15:58:45Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "CIA tracked Khamenei for months before Israel struck Tehran",
       "url": "https://www.perplexity.ai/page/cia-tracked-khamenei-for-month-bgFxFDujSkaQtdx5PK85Ig",
       "description": "U.S. intelligence identified a rare gathering of Iran's top leaders, enabling the strike that killed the supreme leader and over 40 senior officials.",
@@ -838,15 +829,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Epstein files show doctors shared women's health records with him",
-      "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
-      "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-01T03:54:28Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
       "url": "https://www.perplexity.ai/page/us-confirms-first-combat-use-o-k.L7bw.VR_G0vg.bKSGveA",
       "description": "The LUCAS kamikaze drone, built by copying a captured Iranian Shahed-136, was deployed in Operation Epic Fury strikes on Iranian military targets.",
@@ -854,6 +836,15 @@
       "topic": "top",
       "pubDate": "2026-02-28T18:55:56Z",
       "sourceCount": "24 sources"
+    },
+    {
+      "title": "Epstein files show doctors shared women's health records with him",
+      "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
+      "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-01T03:54:28Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "UN Security Council holds emergency session on US-Israel strikes against Iran",
@@ -1115,20 +1106,29 @@
       "topic": "top",
       "pubDate": "2026-02-27T18:21:03Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Asian shares fall as Nvidia slump and Pakistan-Afghanistan war rattle markets",
-      "url": "https://www.perplexity.ai/page/asian-shares-fall-as-nvidia-sl-lYo3XCL9TvWCh7tl95elyA",
-      "description": "Investors fled to safe havens Friday as tech valuations sagged post-Nvidia earnings and Pakistan declared \"open war\" on Afghanistan.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T08:56:49Z",
-      "sourceCount": "44 sources"
     }
   ],
-  "cached_at": "2026-03-05T18:15:18Z",
+  "cached_at": "2026-03-05T18:54:55Z",
   "topics": {
     "top": [
+      {
+        "title": "Pentagon formally tells Anthropic it's a supply chain risk",
+        "url": "https://www.perplexity.ai/page/pentagon-formally-tells-anthro-A6FoPHvdRG.P.oIMRR2K4w",
+        "description": "The designation, typically reserved for foreign adversaries, escalates a standoff over AI guardrails even as the two sides resume negotiations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T18:13:16Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Trump Considers Firing DHS Secretary Kristi Noem After Hearings",
+        "url": "https://www.perplexity.ai/page/trump-considers-firing-dhs-sec-5Z66.zM6TSu27WEX2x.5aQ",
+        "description": "Trump told Reuters he \"never knew anything about\" the $220 million DHS ad blitz that Noem testified he had personally approved.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T18:12:26Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Iranian missile strike sparks fire at Bahrain's BAPCO refinery",
         "url": "https://www.perplexity.ai/page/iranian-missile-strike-sparks-k0D_Ik02RVSLwvv9h_GkpQ",
@@ -1292,15 +1292,6 @@
         "sourceCount": "24 sources"
       },
       {
-        "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
-        "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
-        "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T03:16:48Z",
-        "sourceCount": "36 sources"
-      },
-      {
         "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
         "url": "https://www.perplexity.ai/page/bloomberg-epstein-used-hoffman-S_W08ftORPyiXsd2G1WRzA",
         "description": "Documents released by the DOJ reveal the LinkedIn co-founder's ties to Epstein went far beyond the fundraising relationship he has claimed.",
@@ -1310,15 +1301,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Tanker explosion off Kuwait causes oil spill as Gulf crisis deepens",
-        "url": "https://www.perplexity.ai/page/tanker-explosion-off-kuwait-ca-bhvjdIhPTq.pzbwanfzK7A",
-        "description": "At least 200 vessels remain stranded near the Strait of Hormuz as Iran-related attacks on commercial ships escalate across the Persian Gulf.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T02:09:02Z",
-        "sourceCount": "21 sources"
-      },
-      {
         "title": "Democrats flip 9th state seat since Trump took office",
         "url": "https://www.perplexity.ai/page/democrats-flip-9th-state-seat-l3sVyuQHSiKXtSHUlLw7FQ",
         "description": "Democrat Alex Holladay won an Arkansas House special election Tuesday, extending a streak in which Republicans have flipped zero Democratic-held seats.",
@@ -1326,6 +1308,15 @@
         "topic": "top",
         "pubDate": "2026-03-05T01:03:42Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Tanker explosion off Kuwait causes oil spill as Gulf crisis deepens",
+        "url": "https://www.perplexity.ai/page/tanker-explosion-off-kuwait-ca-bhvjdIhPTq.pzbwanfzK7A",
+        "description": "At least 200 vessels remain stranded near the Strait of Hormuz as Iran-related attacks on commercial ships escalate across the Persian Gulf.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T02:09:02Z",
+        "sourceCount": "21 sources"
       },
       {
         "title": "US and Venezuela probe secret Maduro-era oil deals",
@@ -1841,13 +1832,13 @@
         "sourceCount": "33 sources"
       },
       {
-        "title": "Trump open to arming militias inside Iran, officials say",
-        "url": "https://www.perplexity.ai/page/trump-open-to-arming-militias-Fpw9JDdzSWCXDzs7OMYElw",
-        "description": "The president spoke with Kurdish leaders in Iraq on Sunday as the U.S. weighs deepening its involvement beyond airstrikes.",
+        "title": "Russia's Medvedev warns of World War III over US strikes on Iran",
+        "url": "https://www.perplexity.ai/page/russia-s-medvedev-warns-of-wor-f3LP1_5MQKKKcN2vL8s2NQ",
+        "description": "The deputy chairman of Russia's Security Council called Trump's regime-change campaign \"a grave mistake\" that has put all Americans at risk.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-03T15:25:22Z",
-        "sourceCount": "50 sources"
+        "pubDate": "2026-03-03T11:28:51Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
@@ -1868,13 +1859,13 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "Russia's Medvedev warns of World War III over US strikes on Iran",
-        "url": "https://www.perplexity.ai/page/russia-s-medvedev-warns-of-wor-f3LP1_5MQKKKcN2vL8s2NQ",
-        "description": "The deputy chairman of Russia's Security Council called Trump's regime-change campaign \"a grave mistake\" that has put all Americans at risk.",
+        "title": "Netanyahu lobbied Trump for months to launch Iran war",
+        "url": "https://www.perplexity.ai/page/netanyahu-lobbied-trump-for-mo-0LJmtO3sSZm.V8NWxvYdfw",
+        "description": "The detailed account describes the U.S. decision to strike Iran as a major victory for Netanyahu, who first raised the idea in December.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-03T11:28:51Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-03T00:08:46Z",
+        "sourceCount": "59 sources"
       },
       {
         "title": "House panel releases Clinton's Epstein deposition videos",
@@ -1895,13 +1886,13 @@
         "sourceCount": "19 sources"
       },
       {
-        "title": "Netanyahu lobbied Trump for months to launch Iran war",
-        "url": "https://www.perplexity.ai/page/netanyahu-lobbied-trump-for-mo-0LJmtO3sSZm.V8NWxvYdfw",
-        "description": "The detailed account describes the U.S. decision to strike Iran as a major victory for Netanyahu, who first raised the idea in December.",
+        "title": "Trump pushes Venezuela model for Iran transition",
+        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
+        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-03T00:08:46Z",
-        "sourceCount": "59 sources"
+        "pubDate": "2026-03-02T15:58:45Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Montana Rep. Zinke won't seek reelection, adding to GOP retirement wave",
@@ -1913,24 +1904,6 @@
         "sourceCount": "9 sources"
       },
       {
-        "title": "Macron offers to station French nuclear weapons in Europe",
-        "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
-        "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T14:52:28Z",
-        "sourceCount": "37 sources"
-      },
-      {
-        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T18:24:32Z",
-        "sourceCount": "21 sources"
-      },
-      {
         "title": "Putin calls Gulf leaders as Iran conflict widens",
         "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
         "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
@@ -1938,6 +1911,15 @@
         "topic": "top",
         "pubDate": "2026-03-02T15:01:40Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Macron offers to station French nuclear weapons in Europe",
+        "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
+        "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T14:52:28Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Epstein files show DOJ examined accused men but charged none",
@@ -1949,15 +1931,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Trump pushes Venezuela model for Iran transition",
-        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T15:58:45Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "CIA tracked Khamenei for months before Israel struck Tehran",
         "url": "https://www.perplexity.ai/page/cia-tracked-khamenei-for-month-bgFxFDujSkaQtdx5PK85Ig",
         "description": "U.S. intelligence identified a rare gathering of Iran's top leaders, enabling the strike that killed the supreme leader and over 40 senior officials.",
@@ -1967,15 +1940,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Epstein files show doctors shared women's health records with him",
-        "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
-        "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-01T03:54:28Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
         "url": "https://www.perplexity.ai/page/us-confirms-first-combat-use-o-k.L7bw.VR_G0vg.bKSGveA",
         "description": "The LUCAS kamikaze drone, built by copying a captured Iranian Shahed-136, was deployed in Operation Epic Fury strikes on Iranian military targets.",
@@ -1983,6 +1947,15 @@
         "topic": "top",
         "pubDate": "2026-02-28T18:55:56Z",
         "sourceCount": "24 sources"
+      },
+      {
+        "title": "Epstein files show doctors shared women's health records with him",
+        "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
+        "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-01T03:54:28Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "UN Security Council holds emergency session on US-Israel strikes against Iran",
@@ -2244,15 +2217,6 @@
         "topic": "top",
         "pubDate": "2026-02-27T18:21:03Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Asian shares fall as Nvidia slump and Pakistan-Afghanistan war rattle markets",
-        "url": "https://www.perplexity.ai/page/asian-shares-fall-as-nvidia-sl-lYo3XCL9TvWCh7tl95elyA",
-        "description": "Investors fled to safe havens Friday as tech valuations sagged post-Nvidia earnings and Pakistan declared \"open war\" on Afghanistan.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T08:56:49Z",
-        "sourceCount": "44 sources"
       }
     ],
     "tech": [],
