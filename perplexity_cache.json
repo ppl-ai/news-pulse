@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump removes DHS Secretary Noem, taps Sen. Mullin",
+      "url": "https://www.perplexity.ai/page/trump-removes-dhs-secretary-no-DFQK6WlrSaqBqDtgrNa_nw",
+      "description": "Noem's ouster follows backlash over her congressional testimony claiming Trump approved a $220 million ad campaign featuring herself.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T18:57:29Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Pentagon formally tells Anthropic it's a supply chain risk",
       "url": "https://www.perplexity.ai/page/pentagon-formally-tells-anthro-A6FoPHvdRG.P.oIMRR2K4w",
       "description": "The designation, typically reserved for foreign adversaries, escalates a standoff over AI guardrails even as the two sides resume negotiations.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-05T18:13:16Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Trump Considers Firing DHS Secretary Kristi Noem After Hearings",
-      "url": "https://www.perplexity.ai/page/trump-considers-firing-dhs-sec-5Z66.zM6TSu27WEX2x.5aQ",
-      "description": "Trump told Reuters he \"never knew anything about\" the $220 million DHS ad blitz that Noem testified he had personally approved.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T18:12:26Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "Iranian missile strike sparks fire at Bahrain's BAPCO refinery",
@@ -1108,9 +1108,18 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-05T18:54:55Z",
+  "cached_at": "2026-03-05T19:28:58Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump removes DHS Secretary Noem, taps Sen. Mullin",
+        "url": "https://www.perplexity.ai/page/trump-removes-dhs-secretary-no-DFQK6WlrSaqBqDtgrNa_nw",
+        "description": "Noem's ouster follows backlash over her congressional testimony claiming Trump approved a $220 million ad campaign featuring herself.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T18:57:29Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Pentagon formally tells Anthropic it's a supply chain risk",
         "url": "https://www.perplexity.ai/page/pentagon-formally-tells-anthro-A6FoPHvdRG.P.oIMRR2K4w",
@@ -1119,15 +1128,6 @@
         "topic": "top",
         "pubDate": "2026-03-05T18:13:16Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Trump Considers Firing DHS Secretary Kristi Noem After Hearings",
-        "url": "https://www.perplexity.ai/page/trump-considers-firing-dhs-sec-5Z66.zM6TSu27WEX2x.5aQ",
-        "description": "Trump told Reuters he \"never knew anything about\" the $220 million DHS ad blitz that Noem testified he had personally approved.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T18:12:26Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "Iranian missile strike sparks fire at Bahrain's BAPCO refinery",
