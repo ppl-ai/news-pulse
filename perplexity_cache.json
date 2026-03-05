@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Gold pulls back from record highs as Iran war enters second week",
+      "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
+      "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T09:12:47Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
       "url": "https://www.perplexity.ai/page/bulk-carrier-signals-china-own-87lJFsakQ1WZ5mc1vnWVzg",
       "description": "The Iron Maiden changed its destination tag to broadcast Chinese ownership as it transited the war-zone strait early Thursday.",
@@ -1270,9 +1279,18 @@
       "sourceCount": "52 sources"
     }
   ],
-  "cached_at": "2026-03-05T09:04:49Z",
+  "cached_at": "2026-03-05T09:25:56Z",
   "topics": {
     "top": [
+      {
+        "title": "Gold pulls back from record highs as Iran war enters second week",
+        "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
+        "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T09:12:47Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
         "url": "https://www.perplexity.ai/page/bulk-carrier-signals-china-own-87lJFsakQ1WZ5mc1vnWVzg",
