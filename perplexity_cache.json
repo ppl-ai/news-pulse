@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "OpenAI tops $25B in annualized revenue, report says",
-      "url": "https://www.perplexity.ai/page/openai-tops-25b-in-annualized-1BIqEdfdQwuYYZE2XL7xzw",
-      "description": "The AI company's revenue grew 17% from the end of 2025, according to The Information, as it races toward a potential trillion-dollar IPO.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T05:38:42Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
       "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
       "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
@@ -235,15 +226,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Iran has fired over 500 missiles and 2,000 drones, US military says",
-      "url": "https://www.perplexity.ai/page/iran-has-fired-over-500-missil-37rkpVyuS.KMVbG4ZjTPOw",
-      "description": "Six U.S. service members have been killed and the Strait of Hormuz has effectively shut down as the conflict widens across the Middle East.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T20:29:05Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Israeli strikes kill 72 in Lebanon as diplomats back Hezbollah ban",
       "url": "https://www.perplexity.ai/page/israeli-strikes-kill-72-in-leb-IhXc4ByHQiK7Zzu1GDW1mQ",
       "description": "Lebanon's health ministry says Israeli attacks have killed 72 and displaced over 83,000 since Monday as a five-nation diplomatic group endorsed the government's crackdown on Hezbollah.",
@@ -298,13 +280,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "NATO destroys Iranian missile heading toward Turkey",
-      "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
-      "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
+      "title": "US submarine sinks Iranian warship off Sri Lanka with torpedo",
+      "url": "https://www.perplexity.ai/page/us-submarine-sinks-iranian-war-NhO6EtmMRbqgAwSS1h2Gnw",
+      "description": "Defense Secretary Hegseth confirmed the attack on the IRIS Dena, calling it the first torpedo sinking of an enemy ship since World War II.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T13:25:13Z",
-      "sourceCount": "44 sources"
+      "pubDate": "2026-03-04T15:54:06Z",
+      "sourceCount": "22 sources"
     },
     {
       "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
@@ -325,6 +307,15 @@
       "sourceCount": "30 sources"
     },
     {
+      "title": "NATO destroys Iranian missile heading toward Turkey",
+      "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
+      "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T13:25:13Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "White House to meet defense firms as Iran strikes deplete US munitions",
       "url": "https://www.perplexity.ai/page/white-house-to-meet-defense-fi-dOpSSvHwS_CGr0knslJuaw",
       "description": "The Trump administration plans to convene arms industry leaders Friday to accelerate weapons production as a supplemental budget of around $50 billion takes shape.",
@@ -332,15 +323,6 @@
       "topic": "top",
       "pubDate": "2026-03-04T11:20:35Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Israel vows to assassinate Khamenei's successor as son Mojtaba reportedly chosen",
-      "url": "https://www.perplexity.ai/page/israel-vows-to-assassinate-kha-CB5tR7SHTeyzI2dwsND5wA",
-      "description": "Iran's Assembly of Experts named Mojtaba Khamenei as supreme leader under IRGC pressure, days after his father was killed in a U.S.-Israeli strike.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T09:55:54Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Cooper, Whatley win NC Senate primary showdown",
@@ -352,6 +334,15 @@
       "sourceCount": "12 sources"
     },
     {
+      "title": "Israel vows to assassinate Khamenei's successor as son Mojtaba reportedly chosen",
+      "url": "https://www.perplexity.ai/page/israel-vows-to-assassinate-kha-CB5tR7SHTeyzI2dwsND5wA",
+      "description": "Iran's Assembly of Experts named Mojtaba Khamenei as supreme leader under IRGC pressure, days after his father was killed in a U.S.-Israeli strike.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T09:55:54Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Kuwaiti F/A-18 pilot fired 3 missiles that downed U.S. F-15s, reports say",
       "url": "https://www.perplexity.ai/page/kuwaiti-f-a-18-pilot-fired-3-m-3GW9KndnR7C_R.J4T2QFLA",
       "description": "Initial reports point to a single Kuwaiti fighter jet, not ground-based air defenses, as the source of the friendly fire incident that destroyed three American warplanes.",
@@ -359,15 +350,6 @@
       "topic": "top",
       "pubDate": "2026-03-04T03:43:58Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "IDF says 300 Iranian missile launchers destroyed in 6 days of strikes",
-      "url": "https://www.perplexity.ai/page/idf-says-300-iranian-missile-l-5qCtyq0jRU6GjkAigHqF8A",
-      "description": "Iran's missile barrages against Israel have dropped sharply since the U.S.-Israeli campaign began Feb. 28, though attacks continue.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T08:05:12Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Hinojosa wins Texas Democratic primary, will face Abbott in November",
@@ -379,6 +361,15 @@
       "sourceCount": "34 sources"
     },
     {
+      "title": "IDF says 300 Iranian missile launchers destroyed in 6 days of strikes",
+      "url": "https://www.perplexity.ai/page/idf-says-300-iranian-missile-l-5qCtyq0jRU6GjkAigHqF8A",
+      "description": "Iran's missile barrages against Israel have dropped sharply since the U.S.-Israeli campaign began Feb. 28, though attacks continue.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T08:05:12Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Carney says US-Israel strikes on Iran appear to violate international law",
       "url": "https://www.perplexity.ai/page/carney-says-us-israel-strikes-0ihUe44KS_2x2GaNGDBMKA",
       "description": "Canada's PM shifted his tone, saying the operation was launched without consulting allies and calling for rapid de-escalation.",
@@ -388,12 +379,12 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "US and Ecuador launch joint military strikes on drug cartels",
-      "url": "https://www.perplexity.ai/page/us-and-ecuador-launch-joint-mi-psqIBwyVRmacNiIHpUXfNg",
-      "description": "Ecuadorian and American forces began operations on March 3 targeting narco-terrorist groups, as Ecuador also imposed curfews in its most violent provinces.",
+      "title": "US readying draft indictment of Venezuela's interim leader Rodriguez",
+      "url": "https://www.perplexity.ai/page/us-readying-draft-indictment-o-ijonp5PKSEqZ7JnZzW1IOw",
+      "description": "Federal prosecutors are allegedly preparing corruption and money laundering charges as leverage over Venezuela's interim president, according to Reuters.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T02:39:18Z",
+      "pubDate": "2026-03-04T03:37:27Z",
       "sourceCount": "24 sources"
     },
     {
@@ -415,12 +406,12 @@
       "sourceCount": "60 sources"
     },
     {
-      "title": "US readying draft indictment of Venezuela's interim leader Rodriguez",
-      "url": "https://www.perplexity.ai/page/us-readying-draft-indictment-o-ijonp5PKSEqZ7JnZzW1IOw",
-      "description": "Federal prosecutors are allegedly preparing corruption and money laundering charges as leverage over Venezuela's interim president, according to Reuters.",
+      "title": "US and Ecuador launch joint military strikes on drug cartels",
+      "url": "https://www.perplexity.ai/page/us-and-ecuador-launch-joint-mi-psqIBwyVRmacNiIHpUXfNg",
+      "description": "Ecuadorian and American forces began operations on March 3 targeting narco-terrorist groups, as Ecuador also imposed curfews in its most violent provinces.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T03:37:27Z",
+      "pubDate": "2026-03-04T02:39:18Z",
       "sourceCount": "24 sources"
     },
     {
@@ -433,15 +424,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
-      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
-      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T23:38:43Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Poll finds half of Americans now support abolishing ICE",
       "url": "https://www.perplexity.ai/page/poll-finds-half-of-americans-n-uMyC95mpR6yBBZhlsnjA2w",
       "description": "Support hit 50% for the first time in YouGov polling, with opposition falling to an all-time low of 39%, amid fallout from deadly shootings.",
@@ -449,6 +431,15 @@
       "topic": "top",
       "pubDate": "2026-03-04T00:52:26Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-03T23:38:43Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Survey finds one in three European women face violence",
@@ -1279,18 +1270,9 @@
       "sourceCount": "53 sources"
     }
   ],
-  "cached_at": "2026-03-05T06:01:24Z",
+  "cached_at": "2026-03-05T06:27:56Z",
   "topics": {
     "top": [
-      {
-        "title": "OpenAI tops $25B in annualized revenue, report says",
-        "url": "https://www.perplexity.ai/page/openai-tops-25b-in-annualized-1BIqEdfdQwuYYZE2XL7xzw",
-        "description": "The AI company's revenue grew 17% from the end of 2025, according to The Information, as it races toward a potential trillion-dollar IPO.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T05:38:42Z",
-        "sourceCount": "26 sources"
-      },
       {
         "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
         "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
@@ -1517,15 +1499,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Iran has fired over 500 missiles and 2,000 drones, US military says",
-        "url": "https://www.perplexity.ai/page/iran-has-fired-over-500-missil-37rkpVyuS.KMVbG4ZjTPOw",
-        "description": "Six U.S. service members have been killed and the Strait of Hormuz has effectively shut down as the conflict widens across the Middle East.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T20:29:05Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Israeli strikes kill 72 in Lebanon as diplomats back Hezbollah ban",
         "url": "https://www.perplexity.ai/page/israeli-strikes-kill-72-in-leb-IhXc4ByHQiK7Zzu1GDW1mQ",
         "description": "Lebanon's health ministry says Israeli attacks have killed 72 and displaced over 83,000 since Monday as a five-nation diplomatic group endorsed the government's crackdown on Hezbollah.",
@@ -1580,13 +1553,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "NATO destroys Iranian missile heading toward Turkey",
-        "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
-        "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
+        "title": "US submarine sinks Iranian warship off Sri Lanka with torpedo",
+        "url": "https://www.perplexity.ai/page/us-submarine-sinks-iranian-war-NhO6EtmMRbqgAwSS1h2Gnw",
+        "description": "Defense Secretary Hegseth confirmed the attack on the IRIS Dena, calling it the first torpedo sinking of an enemy ship since World War II.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T13:25:13Z",
-        "sourceCount": "44 sources"
+        "pubDate": "2026-03-04T15:54:06Z",
+        "sourceCount": "22 sources"
       },
       {
         "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
@@ -1607,6 +1580,15 @@
         "sourceCount": "30 sources"
       },
       {
+        "title": "NATO destroys Iranian missile heading toward Turkey",
+        "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
+        "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T13:25:13Z",
+        "sourceCount": "44 sources"
+      },
+      {
         "title": "White House to meet defense firms as Iran strikes deplete US munitions",
         "url": "https://www.perplexity.ai/page/white-house-to-meet-defense-fi-dOpSSvHwS_CGr0knslJuaw",
         "description": "The Trump administration plans to convene arms industry leaders Friday to accelerate weapons production as a supplemental budget of around $50 billion takes shape.",
@@ -1614,15 +1596,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T11:20:35Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Israel vows to assassinate Khamenei's successor as son Mojtaba reportedly chosen",
-        "url": "https://www.perplexity.ai/page/israel-vows-to-assassinate-kha-CB5tR7SHTeyzI2dwsND5wA",
-        "description": "Iran's Assembly of Experts named Mojtaba Khamenei as supreme leader under IRGC pressure, days after his father was killed in a U.S.-Israeli strike.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T09:55:54Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Cooper, Whatley win NC Senate primary showdown",
@@ -1634,6 +1607,15 @@
         "sourceCount": "12 sources"
       },
       {
+        "title": "Israel vows to assassinate Khamenei's successor as son Mojtaba reportedly chosen",
+        "url": "https://www.perplexity.ai/page/israel-vows-to-assassinate-kha-CB5tR7SHTeyzI2dwsND5wA",
+        "description": "Iran's Assembly of Experts named Mojtaba Khamenei as supreme leader under IRGC pressure, days after his father was killed in a U.S.-Israeli strike.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T09:55:54Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Kuwaiti F/A-18 pilot fired 3 missiles that downed U.S. F-15s, reports say",
         "url": "https://www.perplexity.ai/page/kuwaiti-f-a-18-pilot-fired-3-m-3GW9KndnR7C_R.J4T2QFLA",
         "description": "Initial reports point to a single Kuwaiti fighter jet, not ground-based air defenses, as the source of the friendly fire incident that destroyed three American warplanes.",
@@ -1641,15 +1623,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T03:43:58Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "IDF says 300 Iranian missile launchers destroyed in 6 days of strikes",
-        "url": "https://www.perplexity.ai/page/idf-says-300-iranian-missile-l-5qCtyq0jRU6GjkAigHqF8A",
-        "description": "Iran's missile barrages against Israel have dropped sharply since the U.S.-Israeli campaign began Feb. 28, though attacks continue.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T08:05:12Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Hinojosa wins Texas Democratic primary, will face Abbott in November",
@@ -1661,6 +1634,15 @@
         "sourceCount": "34 sources"
       },
       {
+        "title": "IDF says 300 Iranian missile launchers destroyed in 6 days of strikes",
+        "url": "https://www.perplexity.ai/page/idf-says-300-iranian-missile-l-5qCtyq0jRU6GjkAigHqF8A",
+        "description": "Iran's missile barrages against Israel have dropped sharply since the U.S.-Israeli campaign began Feb. 28, though attacks continue.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T08:05:12Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Carney says US-Israel strikes on Iran appear to violate international law",
         "url": "https://www.perplexity.ai/page/carney-says-us-israel-strikes-0ihUe44KS_2x2GaNGDBMKA",
         "description": "Canada's PM shifted his tone, saying the operation was launched without consulting allies and calling for rapid de-escalation.",
@@ -1670,12 +1652,12 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "US and Ecuador launch joint military strikes on drug cartels",
-        "url": "https://www.perplexity.ai/page/us-and-ecuador-launch-joint-mi-psqIBwyVRmacNiIHpUXfNg",
-        "description": "Ecuadorian and American forces began operations on March 3 targeting narco-terrorist groups, as Ecuador also imposed curfews in its most violent provinces.",
+        "title": "US readying draft indictment of Venezuela's interim leader Rodriguez",
+        "url": "https://www.perplexity.ai/page/us-readying-draft-indictment-o-ijonp5PKSEqZ7JnZzW1IOw",
+        "description": "Federal prosecutors are allegedly preparing corruption and money laundering charges as leverage over Venezuela's interim president, according to Reuters.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T02:39:18Z",
+        "pubDate": "2026-03-04T03:37:27Z",
         "sourceCount": "24 sources"
       },
       {
@@ -1697,12 +1679,12 @@
         "sourceCount": "60 sources"
       },
       {
-        "title": "US readying draft indictment of Venezuela's interim leader Rodriguez",
-        "url": "https://www.perplexity.ai/page/us-readying-draft-indictment-o-ijonp5PKSEqZ7JnZzW1IOw",
-        "description": "Federal prosecutors are allegedly preparing corruption and money laundering charges as leverage over Venezuela's interim president, according to Reuters.",
+        "title": "US and Ecuador launch joint military strikes on drug cartels",
+        "url": "https://www.perplexity.ai/page/us-and-ecuador-launch-joint-mi-psqIBwyVRmacNiIHpUXfNg",
+        "description": "Ecuadorian and American forces began operations on March 3 targeting narco-terrorist groups, as Ecuador also imposed curfews in its most violent provinces.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T03:37:27Z",
+        "pubDate": "2026-03-04T02:39:18Z",
         "sourceCount": "24 sources"
       },
       {
@@ -1715,15 +1697,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
-        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
-        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T23:38:43Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Poll finds half of Americans now support abolishing ICE",
         "url": "https://www.perplexity.ai/page/poll-finds-half-of-americans-n-uMyC95mpR6yBBZhlsnjA2w",
         "description": "Support hit 50% for the first time in YouGov polling, with opposition falling to an all-time low of 39%, amid fallout from deadly shootings.",
@@ -1731,6 +1704,15 @@
         "topic": "top",
         "pubDate": "2026-03-04T00:52:26Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-03T23:38:43Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Survey finds one in three European women face violence",
