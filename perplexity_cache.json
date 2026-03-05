@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
+      "url": "https://www.perplexity.ai/page/bloomberg-epstein-used-hoffman-S_W08ftORPyiXsd2G1WRzA",
+      "description": "Documents released by the DOJ reveal the LinkedIn co-founder's ties to Epstein went far beyond the fundraising relationship he has claimed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T02:34:10Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Tanker explosion off Kuwait causes oil spill as Gulf crisis deepens",
+      "url": "https://www.perplexity.ai/page/tanker-explosion-off-kuwait-ca-bhvjdIhPTq.pzbwanfzK7A",
+      "description": "At least 200 vessels remain stranded near the Strait of Hormuz as Iran-related attacks on commercial ships escalate across the Persian Gulf.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T02:09:02Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "Democrats flip 9th state seat since Trump took office",
       "url": "https://www.perplexity.ai/page/democrats-flip-9th-state-seat-l3sVyuQHSiKXtSHUlLw7FQ",
       "description": "Democrat Alex Holladay won an Arkansas House special election Tuesday, extending a streak in which Republicans have flipped zero Democratic-held seats.",
@@ -280,15 +298,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Texas ICE detention camp closed over measles outbreak",
-      "url": "https://www.perplexity.ai/page/texas-ice-detention-camp-close-fZDHkJWGQq.mHXsfnOWstg",
-      "description": "Fourteen active cases and 112 people in isolation have shut Camp East Montana to visitors and lawyers until at least March 19.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T11:34:55Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "SpaceX launches 600th Starlink satellite of 2026",
       "url": "https://www.perplexity.ai/page/spacex-launches-600th-starlink-orUxvHLHQziDA5G.rC5G4Q",
       "description": "The Falcon 9 mission from Cape Canaveral carried 29 satellites, while SpaceX eyes commercial Starship operations as soon as next year.",
@@ -406,13 +415,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Pentagon identifies four US troops killed in Iranian drone strike",
-      "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
-      "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
+      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-03T23:39:04Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-03T23:38:43Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Poll finds half of Americans now support abolishing ICE",
@@ -422,15 +431,6 @@
       "topic": "top",
       "pubDate": "2026-03-04T00:52:26Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
-      "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
-      "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T23:38:43Z",
-      "sourceCount": "40 sources"
     },
     {
       "title": "Survey finds one in three European women face violence",
@@ -1288,9 +1288,27 @@
       "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-05T02:14:33Z",
+  "cached_at": "2026-03-05T03:15:11Z",
   "topics": {
     "top": [
+      {
+        "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
+        "url": "https://www.perplexity.ai/page/bloomberg-epstein-used-hoffman-S_W08ftORPyiXsd2G1WRzA",
+        "description": "Documents released by the DOJ reveal the LinkedIn co-founder's ties to Epstein went far beyond the fundraising relationship he has claimed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T02:34:10Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Tanker explosion off Kuwait causes oil spill as Gulf crisis deepens",
+        "url": "https://www.perplexity.ai/page/tanker-explosion-off-kuwait-ca-bhvjdIhPTq.pzbwanfzK7A",
+        "description": "At least 200 vessels remain stranded near the Strait of Hormuz as Iran-related attacks on commercial ships escalate across the Persian Gulf.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T02:09:02Z",
+        "sourceCount": "21 sources"
+      },
       {
         "title": "Democrats flip 9th state seat since Trump took office",
         "url": "https://www.perplexity.ai/page/democrats-flip-9th-state-seat-l3sVyuQHSiKXtSHUlLw7FQ",
@@ -1571,15 +1589,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Texas ICE detention camp closed over measles outbreak",
-        "url": "https://www.perplexity.ai/page/texas-ice-detention-camp-close-fZDHkJWGQq.mHXsfnOWstg",
-        "description": "Fourteen active cases and 112 people in isolation have shut Camp East Montana to visitors and lawyers until at least March 19.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T11:34:55Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "SpaceX launches 600th Starlink satellite of 2026",
         "url": "https://www.perplexity.ai/page/spacex-launches-600th-starlink-orUxvHLHQziDA5G.rC5G4Q",
         "description": "The Falcon 9 mission from Cape Canaveral carried 29 satellites, while SpaceX eyes commercial Starship operations as soon as next year.",
@@ -1697,13 +1706,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Pentagon identifies four US troops killed in Iranian drone strike",
-        "url": "https://www.perplexity.ai/page/pentagon-identifies-four-us-tr-HD5fUwQeRq6edvIu6TFNlA",
-        "description": "All four Army Reserve soldiers died when a low-flying drone evaded air defenses and hit a makeshift operations center at a Kuwait port.",
+        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
+        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
+        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-03T23:39:04Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-03T23:38:43Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Poll finds half of Americans now support abolishing ICE",
@@ -1713,15 +1722,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T00:52:26Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Merz meets Trump as Germany's military buildup reshapes Europe",
-        "url": "https://www.perplexity.ai/page/merz-meets-trump-as-germany-s-I3VX__hWQxKWUsfvEaWinQ",
-        "description": "Germany's chancellor visited the White House as Berlin's plan to more than double defense spending draws both applause and anxiety from European allies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T23:38:43Z",
-        "sourceCount": "40 sources"
       },
       {
         "title": "Survey finds one in three European women face violence",
