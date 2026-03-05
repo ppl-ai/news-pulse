@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Gold climbs as Middle East conflict and weaker dollar fuel safe-haven demand",
+      "url": "https://www.perplexity.ai/page/gold-climbs-as-middle-east-con-TyToT1ryTXaKdAz7Q16Hxg",
+      "description": "Spot gold rose on Thursday as escalating U.S.-Israeli strikes on Iran and a retreating dollar drove investors toward safe-haven assets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T06:38:13Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
       "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
       "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
@@ -1270,9 +1279,18 @@
       "sourceCount": "53 sources"
     }
   ],
-  "cached_at": "2026-03-05T06:27:56Z",
+  "cached_at": "2026-03-05T06:51:38Z",
   "topics": {
     "top": [
+      {
+        "title": "Gold climbs as Middle East conflict and weaker dollar fuel safe-haven demand",
+        "url": "https://www.perplexity.ai/page/gold-climbs-as-middle-east-con-TyToT1ryTXaKdAz7Q16Hxg",
+        "description": "Spot gold rose on Thursday as escalating U.S.-Israeli strikes on Iran and a retreating dollar drove investors toward safe-haven assets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T06:38:13Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
         "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
