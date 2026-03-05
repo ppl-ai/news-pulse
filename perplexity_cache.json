@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Vast raises $500M to build private space stations",
-      "url": "https://www.perplexity.ai/page/vast-raises-500m-to-build-priv-VY0FSfb6Tdi6jE.3F3fmEQ",
-      "description": "The Long Beach startup's first major funding round will advance its Haven line of orbital outposts as it races to succeed the ISS.",
+      "title": "US stocks waver as Iran diplomacy, earnings collide",
+      "url": "https://www.perplexity.ai/page/us-stocks-waver-as-iran-diplom-iJ5jfrK6QYq3WQ8spmBHSg",
+      "description": "Broadcom surged on record AI revenue while conflicting signals on Iran ceasefire talks and new tariffs kept broader markets directionless.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-05T14:45:24Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-05T14:51:51Z",
+      "sourceCount": "56 sources"
     },
     {
       "title": "House to vote Thursday on ending DHS shutdown amid Iran conflict",
@@ -28,15 +28,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Sierra Space closes $550M round, now valued at $8B",
-      "url": "https://www.perplexity.ai/page/sierra-space-closes-550m-round-em7dWdfmTGinsVB3CSDdJw",
-      "description": "The Colorado defense-tech firm's Series C, led by LuminArx Capital, brings total capital raised since 2021 to over $2 billion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T14:42:29Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "European stocks slip as Iran conflict enters sixth day",
       "url": "https://www.perplexity.ai/page/european-stocks-slip-as-iran-c-0xsA7xFzQSqzMzL6LIM1VQ",
       "description": "Wednesday's relief rally faded as investors reassessed prolonged conflict risks, with oil supply fears and inflation concerns driving renewed selling.",
@@ -46,15 +37,6 @@
       "sourceCount": "45 sources"
     },
     {
-      "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
-      "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
-      "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T11:37:32Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Gold pulls back from record highs as Iran war enters second week",
       "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
       "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
@@ -62,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-05T09:12:47Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
+      "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
+      "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T11:37:32Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "ECB warns Iran war's economic fallout poses risk to euro zone banks",
@@ -341,15 +332,6 @@
       "topic": "top",
       "pubDate": "2026-03-04T17:10:36Z",
       "sourceCount": "117 sources"
-    },
-    {
-      "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
-      "url": "https://www.perplexity.ai/page/us-stocks-rise-after-report-ir-8GO8GzreRd6RU2Oc14YCeQ",
-      "description": "The New York Times reported that Iran indirectly reached out through a third country's intelligence agency to explore terms for a resolution.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T15:19:09Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Pentagon says it killed Iranian commander behind Trump assassination plot",
@@ -1169,28 +1151,19 @@
       "topic": "top",
       "pubDate": "2026-02-27T05:04:39Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "NYC mayor pitches Trump on $21B housing plan in Queens",
-      "url": "https://www.perplexity.ai/page/nyc-mayor-pitches-trump-on-21b-dtcyBAiJSZmWmXltMZWasw",
-      "description": "Mamdani presented a mock Daily News front page reading \"Trump to City: Let's Build\" to sell the proposal, and Trump was \"very enthusiastic,\" his office said.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T02:24:38Z",
-      "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-03-05T14:54:04Z",
+  "cached_at": "2026-03-05T15:17:11Z",
   "topics": {
     "top": [
       {
-        "title": "Vast raises $500M to build private space stations",
-        "url": "https://www.perplexity.ai/page/vast-raises-500m-to-build-priv-VY0FSfb6Tdi6jE.3F3fmEQ",
-        "description": "The Long Beach startup's first major funding round will advance its Haven line of orbital outposts as it races to succeed the ISS.",
+        "title": "US stocks waver as Iran diplomacy, earnings collide",
+        "url": "https://www.perplexity.ai/page/us-stocks-waver-as-iran-diplom-iJ5jfrK6QYq3WQ8spmBHSg",
+        "description": "Broadcom surged on record AI revenue while conflicting signals on Iran ceasefire talks and new tariffs kept broader markets directionless.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-05T14:45:24Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-05T14:51:51Z",
+        "sourceCount": "56 sources"
       },
       {
         "title": "House to vote Thursday on ending DHS shutdown amid Iran conflict",
@@ -1211,15 +1184,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Sierra Space closes $550M round, now valued at $8B",
-        "url": "https://www.perplexity.ai/page/sierra-space-closes-550m-round-em7dWdfmTGinsVB3CSDdJw",
-        "description": "The Colorado defense-tech firm's Series C, led by LuminArx Capital, brings total capital raised since 2021 to over $2 billion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T14:42:29Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "European stocks slip as Iran conflict enters sixth day",
         "url": "https://www.perplexity.ai/page/european-stocks-slip-as-iran-c-0xsA7xFzQSqzMzL6LIM1VQ",
         "description": "Wednesday's relief rally faded as investors reassessed prolonged conflict risks, with oil supply fears and inflation concerns driving renewed selling.",
@@ -1229,15 +1193,6 @@
         "sourceCount": "45 sources"
       },
       {
-        "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
-        "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
-        "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T11:37:32Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Gold pulls back from record highs as Iran war enters second week",
         "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
         "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
@@ -1245,6 +1200,15 @@
         "topic": "top",
         "pubDate": "2026-03-05T09:12:47Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
+        "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
+        "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T11:37:32Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "ECB warns Iran war's economic fallout poses risk to euro zone banks",
@@ -1524,15 +1488,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T17:10:36Z",
         "sourceCount": "117 sources"
-      },
-      {
-        "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
-        "url": "https://www.perplexity.ai/page/us-stocks-rise-after-report-ir-8GO8GzreRd6RU2Oc14YCeQ",
-        "description": "The New York Times reported that Iran indirectly reached out through a third country's intelligence agency to explore terms for a resolution.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T15:19:09Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Pentagon says it killed Iranian commander behind Trump assassination plot",
@@ -2352,15 +2307,6 @@
         "topic": "top",
         "pubDate": "2026-02-27T05:04:39Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "NYC mayor pitches Trump on $21B housing plan in Queens",
-        "url": "https://www.perplexity.ai/page/nyc-mayor-pitches-trump-on-21b-dtcyBAiJSZmWmXltMZWasw",
-        "description": "Mamdani presented a mock Daily News front page reading \"Trump to City: Let's Build\" to sell the proposal, and Trump was \"very enthusiastic,\" his office said.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T02:24:38Z",
-        "sourceCount": "43 sources"
       }
     ],
     "tech": [],
