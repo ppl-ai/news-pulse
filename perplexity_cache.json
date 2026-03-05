@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "India snaps up Russian crude as Iran war chokes off Strait of Hormuz supplies",
+      "url": "https://www.perplexity.ai/page/india-snaps-up-russian-crude-a-PfTLZJQFQr63bSpCXExcwQ",
+      "description": "Weeks after pledging to wind down Russian oil imports, Indian refiners reversed course, buying millions of barrels to offset Middle East disruptions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T19:51:28Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Trump removes DHS Secretary Noem, taps Sen. Mullin",
       "url": "https://www.perplexity.ai/page/trump-removes-dhs-secretary-no-DFQK6WlrSaqBqDtgrNa_nw",
       "description": "Noem's ouster follows backlash over her congressional testimony claiming Trump approved a $220 million ad campaign featuring herself.",
@@ -172,15 +181,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Russian oil tankers reroute to India as Hormuz crisis chokes supply",
-      "url": "https://www.perplexity.ai/page/russian-oil-tankers-reroute-to-YZTo1TNPTyyMfLrzRzluiA",
-      "description": "As the Strait of Hormuz remains effectively closed following U.S.-Israeli strikes on Iran, India is turning back to Russian crude it had been avoiding under American pressure.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T06:09:29Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
       "url": "https://www.perplexity.ai/page/bloomberg-epstein-used-hoffman-S_W08ftORPyiXsd2G1WRzA",
       "description": "Documents released by the DOJ reveal the LinkedIn co-founder's ties to Epstein went far beyond the fundraising relationship he has claimed.",
@@ -190,15 +190,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Democrats flip 9th state seat since Trump took office",
-      "url": "https://www.perplexity.ai/page/democrats-flip-9th-state-seat-l3sVyuQHSiKXtSHUlLw7FQ",
-      "description": "Democrat Alex Holladay won an Arkansas House special election Tuesday, extending a streak in which Republicans have flipped zero Democratic-held seats.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T01:03:42Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Tanker explosion off Kuwait causes oil spill as Gulf crisis deepens",
       "url": "https://www.perplexity.ai/page/tanker-explosion-off-kuwait-ca-bhvjdIhPTq.pzbwanfzK7A",
       "description": "At least 200 vessels remain stranded near the Strait of Hormuz as Iran-related attacks on commercial ships escalate across the Persian Gulf.",
@@ -206,6 +197,15 @@
       "topic": "top",
       "pubDate": "2026-03-05T02:09:02Z",
       "sourceCount": "21 sources"
+    },
+    {
+      "title": "Democrats flip 9th state seat since Trump took office",
+      "url": "https://www.perplexity.ai/page/democrats-flip-9th-state-seat-l3sVyuQHSiKXtSHUlLw7FQ",
+      "description": "Democrat Alex Holladay won an Arkansas House special election Tuesday, extending a streak in which Republicans have flipped zero Democratic-held seats.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T01:03:42Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "US and Venezuela probe secret Maduro-era oil deals",
@@ -1108,9 +1108,18 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-05T19:52:31Z",
+  "cached_at": "2026-03-05T20:07:58Z",
   "topics": {
     "top": [
+      {
+        "title": "India snaps up Russian crude as Iran war chokes off Strait of Hormuz supplies",
+        "url": "https://www.perplexity.ai/page/india-snaps-up-russian-crude-a-PfTLZJQFQr63bSpCXExcwQ",
+        "description": "Weeks after pledging to wind down Russian oil imports, Indian refiners reversed course, buying millions of barrels to offset Middle East disruptions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T19:51:28Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Trump removes DHS Secretary Noem, taps Sen. Mullin",
         "url": "https://www.perplexity.ai/page/trump-removes-dhs-secretary-no-DFQK6WlrSaqBqDtgrNa_nw",
@@ -1283,15 +1292,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Russian oil tankers reroute to India as Hormuz crisis chokes supply",
-        "url": "https://www.perplexity.ai/page/russian-oil-tankers-reroute-to-YZTo1TNPTyyMfLrzRzluiA",
-        "description": "As the Strait of Hormuz remains effectively closed following U.S.-Israeli strikes on Iran, India is turning back to Russian crude it had been avoiding under American pressure.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T06:09:29Z",
-        "sourceCount": "24 sources"
-      },
-      {
         "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
         "url": "https://www.perplexity.ai/page/bloomberg-epstein-used-hoffman-S_W08ftORPyiXsd2G1WRzA",
         "description": "Documents released by the DOJ reveal the LinkedIn co-founder's ties to Epstein went far beyond the fundraising relationship he has claimed.",
@@ -1301,15 +1301,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Democrats flip 9th state seat since Trump took office",
-        "url": "https://www.perplexity.ai/page/democrats-flip-9th-state-seat-l3sVyuQHSiKXtSHUlLw7FQ",
-        "description": "Democrat Alex Holladay won an Arkansas House special election Tuesday, extending a streak in which Republicans have flipped zero Democratic-held seats.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T01:03:42Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Tanker explosion off Kuwait causes oil spill as Gulf crisis deepens",
         "url": "https://www.perplexity.ai/page/tanker-explosion-off-kuwait-ca-bhvjdIhPTq.pzbwanfzK7A",
         "description": "At least 200 vessels remain stranded near the Strait of Hormuz as Iran-related attacks on commercial ships escalate across the Persian Gulf.",
@@ -1317,6 +1308,15 @@
         "topic": "top",
         "pubDate": "2026-03-05T02:09:02Z",
         "sourceCount": "21 sources"
+      },
+      {
+        "title": "Democrats flip 9th state seat since Trump took office",
+        "url": "https://www.perplexity.ai/page/democrats-flip-9th-state-seat-l3sVyuQHSiKXtSHUlLw7FQ",
+        "description": "Democrat Alex Holladay won an Arkansas House special election Tuesday, extending a streak in which Republicans have flipped zero Democratic-held seats.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T01:03:42Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "US and Venezuela probe secret Maduro-era oil deals",
