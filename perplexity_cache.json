@@ -1169,27 +1169,9 @@
       "topic": "top",
       "pubDate": "2026-02-27T01:00:12Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "White House confirms American killed in Cuba speedboat shootout",
-      "url": "https://www.perplexity.ai/page/white-house-confirms-american-rjTo1bVhQ5KDeX8vrr_z.A",
-      "description": "At least one U.S. citizen died and another was arrested after Cuban forces fired on a stolen Florida boat whose occupants allegedly shot first.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T00:44:05Z",
-      "sourceCount": "43 sources"
-    },
-    {
-      "title": "US and Congo sign $1.2B health deal amid African data-sharing concerns",
-      "url": "https://www.perplexity.ai/page/us-and-congo-sign-1-2b-health-nh3bmS3sSo6GgS58PyKfxg",
-      "description": "The DRC became the 19th country to sign a bilateral health agreement under Trump's \"America First Global Health Strategy,\" even as the Africa CDC raised alarm over data provisions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T00:24:39Z",
-      "sourceCount": "52 sources"
     }
   ],
-  "cached_at": "2026-03-05T13:17:36Z",
+  "cached_at": "2026-03-05T13:46:07Z",
   "topics": {
     "top": [
       {
@@ -2361,24 +2343,6 @@
         "topic": "top",
         "pubDate": "2026-02-27T01:00:12Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "White House confirms American killed in Cuba speedboat shootout",
-        "url": "https://www.perplexity.ai/page/white-house-confirms-american-rjTo1bVhQ5KDeX8vrr_z.A",
-        "description": "At least one U.S. citizen died and another was arrested after Cuban forces fired on a stolen Florida boat whose occupants allegedly shot first.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T00:44:05Z",
-        "sourceCount": "43 sources"
-      },
-      {
-        "title": "US and Congo sign $1.2B health deal amid African data-sharing concerns",
-        "url": "https://www.perplexity.ai/page/us-and-congo-sign-1-2b-health-nh3bmS3sSo6GgS58PyKfxg",
-        "description": "The DRC became the 19th country to sign a bilateral health agreement under Trump's \"America First Global Health Strategy,\" even as the Africa CDC raised alarm over data provisions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T00:24:39Z",
-        "sourceCount": "52 sources"
       }
     ],
     "tech": [],
