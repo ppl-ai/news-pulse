@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
+      "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
+      "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T11:37:32Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "European stocks slip as Iran conflict enters sixth day",
       "url": "https://www.perplexity.ai/page/european-stocks-slip-as-iran-c-0xsA7xFzQSqzMzL6LIM1VQ",
       "description": "Wednesday's relief rally faded as investors reassessed prolonged conflict risks, with oil supply fears and inflation concerns driving renewed selling.",
@@ -1223,38 +1232,20 @@
       "topic": "top",
       "pubDate": "2026-02-26T22:29:32Z",
       "sourceCount": "70 sources"
-    },
-    {
-      "title": "ICE struggles to vet recruits amid hiring surge, internal email shows",
-      "url": "https://www.perplexity.ai/page/ice-struggles-to-vet-recruits-nzi_QvrxRjCxY2irdmdmdw",
-      "description": "An internal email warned supervisors that delayed background checks are creating confusion as some recruits were flagged for gang ties and active warrants.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T22:09:29Z",
-      "sourceCount": "47 sources"
-    },
-    {
-      "title": "White House says Trump open to Kim talks 'without preconditions'",
-      "url": "https://www.perplexity.ai/page/white-house-says-trump-open-to-bED3THsVRySVgWuyZKHVNQ",
-      "description": "The response came hours after Kim Jong Un signaled willingness to engage at the close of North Korea's most significant political congress in five years.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T21:48:26Z",
-      "sourceCount": "40 sources"
-    },
-    {
-      "title": "UN denounces Taliban decree expanding executions and curbing rights",
-      "url": "https://www.perplexity.ai/page/un-denounces-taliban-decree-ex-gDhUC9gWRa.HsgB6PSuDFg",
-      "description": "Volker Türk condemned a new Taliban decree expanding the death penalty and legalizing corporal punishment, likening women's treatment to gender apartheid.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T20:40:06Z",
-      "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-05T11:42:05Z",
+  "cached_at": "2026-03-05T12:23:33Z",
   "topics": {
     "top": [
+      {
+        "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
+        "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
+        "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T11:37:32Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "European stocks slip as Iran conflict enters sixth day",
         "url": "https://www.perplexity.ai/page/european-stocks-slip-as-iran-c-0xsA7xFzQSqzMzL6LIM1VQ",
@@ -2478,33 +2469,6 @@
         "topic": "top",
         "pubDate": "2026-02-26T22:29:32Z",
         "sourceCount": "70 sources"
-      },
-      {
-        "title": "ICE struggles to vet recruits amid hiring surge, internal email shows",
-        "url": "https://www.perplexity.ai/page/ice-struggles-to-vet-recruits-nzi_QvrxRjCxY2irdmdmdw",
-        "description": "An internal email warned supervisors that delayed background checks are creating confusion as some recruits were flagged for gang ties and active warrants.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T22:09:29Z",
-        "sourceCount": "47 sources"
-      },
-      {
-        "title": "White House says Trump open to Kim talks 'without preconditions'",
-        "url": "https://www.perplexity.ai/page/white-house-says-trump-open-to-bED3THsVRySVgWuyZKHVNQ",
-        "description": "The response came hours after Kim Jong Un signaled willingness to engage at the close of North Korea's most significant political congress in five years.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T21:48:26Z",
-        "sourceCount": "40 sources"
-      },
-      {
-        "title": "UN denounces Taliban decree expanding executions and curbing rights",
-        "url": "https://www.perplexity.ai/page/un-denounces-taliban-decree-ex-gDhUC9gWRa.HsgB6PSuDFg",
-        "description": "Volker Türk condemned a new Taliban decree expanding the death penalty and legalizing corporal punishment, likening women's treatment to gender apartheid.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T20:40:06Z",
-        "sourceCount": "37 sources"
       }
     ],
     "tech": [],
