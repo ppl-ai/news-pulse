@@ -1268,27 +1268,9 @@
       "topic": "top",
       "pubDate": "2026-02-26T14:49:19Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "Stellantis cuts UAW profit-sharing for first time in 15 years after record loss",
-      "url": "https://www.perplexity.ai/page/stellantis-cuts-uaw-profit-sha-NFg_Ibj6S4KhDt93Dsb8qQ",
-      "description": "The automaker reported a net loss of roughly $26.3 billion for 2025, driven by massive EV writedowns and a sweeping strategic reset.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T13:01:45Z",
-      "sourceCount": "55 sources"
-    },
-    {
-      "title": "Trump admin defers $259M in Medicaid funds from Minnesota",
-      "url": "https://www.perplexity.ai/page/trump-admin-defers-259m-in-med-UE21UolqRWKhR7l_mWdKYQ",
-      "description": "Vice President Vance and CMS Administrator Dr. Oz announced the action as part of a new \"war on fraud\" declared during Trump's State of the Union.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T14:58:11Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-05T04:45:22Z",
+  "cached_at": "2026-03-05T05:15:57Z",
   "topics": {
     "top": [
       {
@@ -2559,24 +2541,6 @@
         "topic": "top",
         "pubDate": "2026-02-26T14:49:19Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "Stellantis cuts UAW profit-sharing for first time in 15 years after record loss",
-        "url": "https://www.perplexity.ai/page/stellantis-cuts-uaw-profit-sha-NFg_Ibj6S4KhDt93Dsb8qQ",
-        "description": "The automaker reported a net loss of roughly $26.3 billion for 2025, driven by massive EV writedowns and a sweeping strategic reset.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T13:01:45Z",
-        "sourceCount": "55 sources"
-      },
-      {
-        "title": "Trump admin defers $259M in Medicaid funds from Minnesota",
-        "url": "https://www.perplexity.ai/page/trump-admin-defers-259m-in-med-UE21UolqRWKhR7l_mWdKYQ",
-        "description": "Vice President Vance and CMS Administrator Dr. Oz announced the action as part of a new \"war on fraud\" declared during Trump's State of the Union.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T14:58:11Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
