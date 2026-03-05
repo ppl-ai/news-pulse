@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "European stocks slip as Iran conflict enters sixth day",
+      "url": "https://www.perplexity.ai/page/european-stocks-slip-as-iran-c-0xsA7xFzQSqzMzL6LIM1VQ",
+      "description": "Wednesday's relief rally faded as investors reassessed prolonged conflict risks, with oil supply fears and inflation concerns driving renewed selling.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T10:19:54Z",
+      "sourceCount": "45 sources"
+    },
+    {
       "title": "Gold pulls back from record highs as Iran war enters second week",
       "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
       "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
@@ -17,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-05T08:39:51Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "ECB warns Iran war's economic fallout poses risk to euro zone banks",
+      "url": "https://www.perplexity.ai/page/ecb-warns-iran-war-s-economic-lfvtCUKJQai4WiWZ0m__Tw",
+      "description": "A senior ECB supervisor said direct bank exposure to the conflict is minimal, but rising energy prices could squeeze borrowers and reignite inflation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T10:17:16Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Sri Lanka recovers 87 bodies from Iranian warship sunk by US submarine",
@@ -316,13 +334,13 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "European stocks post biggest gain since May on Iran diplomacy hopes",
-      "url": "https://www.perplexity.ai/page/european-stocks-post-biggest-g-YU6r_wfGTteaRURc4OxzDQ",
-      "description": "Markets rallied Wednesday after reports that Iran made indirect contact with the U.S. to negotiate an end to the conflict.",
+      "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
+      "url": "https://www.perplexity.ai/page/us-stocks-rise-after-report-ir-8GO8GzreRd6RU2Oc14YCeQ",
+      "description": "The New York Times reported that Iran indirectly reached out through a third country's intelligence agency to explore terms for a resolution.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-04T16:06:16Z",
-      "sourceCount": "57 sources"
+      "pubDate": "2026-03-04T15:19:09Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Talarico wins Texas Democratic Senate nod amid voting chaos",
@@ -334,6 +352,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Pentagon says it killed Iranian commander behind Trump assassination plot",
+      "url": "https://www.perplexity.ai/page/pentagon-says-it-killed-irania-T1zwODWlSj.O8vc6tiFAwg",
+      "description": "The announcement came on day five of Operation Epic Fury, the U.S.-Israeli campaign that has already killed Iran's supreme leader.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T14:28:24Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "NATO destroys Iranian missile heading toward Turkey",
       "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
       "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
@@ -341,15 +368,6 @@
       "topic": "top",
       "pubDate": "2026-03-04T13:25:13Z",
       "sourceCount": "44 sources"
-    },
-    {
-      "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
-      "url": "https://www.perplexity.ai/page/us-stocks-rise-after-report-ir-8GO8GzreRd6RU2Oc14YCeQ",
-      "description": "The New York Times reported that Iran indirectly reached out through a third country's intelligence agency to explore terms for a resolution.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T15:19:09Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "SpaceX launches 600th Starlink satellite of 2026",
@@ -1279,9 +1297,18 @@
       "sourceCount": "52 sources"
     }
   ],
-  "cached_at": "2026-03-05T10:07:25Z",
+  "cached_at": "2026-03-05T10:25:32Z",
   "topics": {
     "top": [
+      {
+        "title": "European stocks slip as Iran conflict enters sixth day",
+        "url": "https://www.perplexity.ai/page/european-stocks-slip-as-iran-c-0xsA7xFzQSqzMzL6LIM1VQ",
+        "description": "Wednesday's relief rally faded as investors reassessed prolonged conflict risks, with oil supply fears and inflation concerns driving renewed selling.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T10:19:54Z",
+        "sourceCount": "45 sources"
+      },
       {
         "title": "Gold pulls back from record highs as Iran war enters second week",
         "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
@@ -1299,6 +1326,15 @@
         "topic": "top",
         "pubDate": "2026-03-05T08:39:51Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "ECB warns Iran war's economic fallout poses risk to euro zone banks",
+        "url": "https://www.perplexity.ai/page/ecb-warns-iran-war-s-economic-lfvtCUKJQai4WiWZ0m__Tw",
+        "description": "A senior ECB supervisor said direct bank exposure to the conflict is minimal, but rising energy prices could squeeze borrowers and reignite inflation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T10:17:16Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Sri Lanka recovers 87 bodies from Iranian warship sunk by US submarine",
@@ -1598,13 +1634,13 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "European stocks post biggest gain since May on Iran diplomacy hopes",
-        "url": "https://www.perplexity.ai/page/european-stocks-post-biggest-g-YU6r_wfGTteaRURc4OxzDQ",
-        "description": "Markets rallied Wednesday after reports that Iran made indirect contact with the U.S. to negotiate an end to the conflict.",
+        "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
+        "url": "https://www.perplexity.ai/page/us-stocks-rise-after-report-ir-8GO8GzreRd6RU2Oc14YCeQ",
+        "description": "The New York Times reported that Iran indirectly reached out through a third country's intelligence agency to explore terms for a resolution.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-04T16:06:16Z",
-        "sourceCount": "57 sources"
+        "pubDate": "2026-03-04T15:19:09Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Talarico wins Texas Democratic Senate nod amid voting chaos",
@@ -1616,6 +1652,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Pentagon says it killed Iranian commander behind Trump assassination plot",
+        "url": "https://www.perplexity.ai/page/pentagon-says-it-killed-irania-T1zwODWlSj.O8vc6tiFAwg",
+        "description": "The announcement came on day five of Operation Epic Fury, the U.S.-Israeli campaign that has already killed Iran's supreme leader.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T14:28:24Z",
+        "sourceCount": "42 sources"
+      },
+      {
         "title": "NATO destroys Iranian missile heading toward Turkey",
         "url": "https://www.perplexity.ai/page/nato-destroys-iranian-missile-.Or1TvLxRpWgpQlANtf9Gg",
         "description": "Turkey says the missile crossed Iraq and Syria before being intercepted over the Mediterranean, with debris falling in Hatay province.",
@@ -1623,15 +1668,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T13:25:13Z",
         "sourceCount": "44 sources"
-      },
-      {
-        "title": "US stocks rise after report Iran contacted CIA to discuss ending war",
-        "url": "https://www.perplexity.ai/page/us-stocks-rise-after-report-ir-8GO8GzreRd6RU2Oc14YCeQ",
-        "description": "The New York Times reported that Iran indirectly reached out through a third country's intelligence agency to explore terms for a resolution.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T15:19:09Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "SpaceX launches 600th Starlink satellite of 2026",
