@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
+      "url": "https://www.perplexity.ai/page/bulk-carrier-signals-china-own-87lJFsakQ1WZ5mc1vnWVzg",
+      "description": "The Iron Maiden changed its destination tag to broadcast Chinese ownership as it transited the war-zone strait early Thursday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T08:39:51Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Sri Lanka recovers 87 bodies from Iranian warship sunk by US submarine",
+      "url": "https://www.perplexity.ai/page/sri-lanka-recovers-87-bodies-f-fvcn11ldTqutTos0xqAFCQ",
+      "description": "The IRIS Dena was hit by a single torpedo off Sri Lanka's coast, marking the first U.S. submarine kill since World War II.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T08:33:42Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Jet fuel hits record as Iran war chokes global supply",
       "url": "https://www.perplexity.ai/page/jet-fuel-hits-record-as-iran-w-sGE7j_iVQOqfw5CfnbH7Gg",
       "description": "Singapore jet fuel prices surged 140% since the U.S.-Israeli strikes on Iran began, as the Strait of Hormuz remains effectively closed to tanker traffic.",
@@ -1250,38 +1268,29 @@
       "topic": "top",
       "pubDate": "2026-02-26T21:50:53Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "Google rolls out Nano Banana 2 as default AI image model across Gemini",
-      "url": "https://www.perplexity.ai/page/google-rolls-out-nano-banana-2-.i9NVBzXTqWMdJKITTCsKw",
-      "description": "The upgrade brings Pro-level image generation to all users at faster speeds, spanning the Gemini app, Google Search, and 141 countries.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T16:11:50Z",
-      "sourceCount": "55 sources"
-    },
-    {
-      "title": "Hillary Clinton's Epstein deposition paused after Boebert leaks photo",
-      "url": "https://www.perplexity.ai/page/hillary-clinton-s-epstein-depo-twYsxDKsR8CuFjae1jOTEg",
-      "description": "Rep. Lauren Boebert allegedly gave an unauthorized photo from the closed-door hearing to commentator Benny Johnson, who posted it online.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T18:18:30Z",
-      "sourceCount": "61 sources"
-    },
-    {
-      "title": "Trump surgeon general pick lacks GOP votes after vaccine grilling",
-      "url": "https://www.perplexity.ai/page/trump-surgeon-general-pick-lac-PeGlSPuvRKCakqO.hOz3.A",
-      "description": "At least two Republican senators remain undecided on Casey Means after she sidestepped vaccine questions at her confirmation hearing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-26T20:21:09Z",
-      "sourceCount": "41 sources"
     }
   ],
-  "cached_at": "2026-03-05T08:23:58Z",
+  "cached_at": "2026-03-05T08:45:33Z",
   "topics": {
     "top": [
+      {
+        "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
+        "url": "https://www.perplexity.ai/page/bulk-carrier-signals-china-own-87lJFsakQ1WZ5mc1vnWVzg",
+        "description": "The Iron Maiden changed its destination tag to broadcast Chinese ownership as it transited the war-zone strait early Thursday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T08:39:51Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Sri Lanka recovers 87 bodies from Iranian warship sunk by US submarine",
+        "url": "https://www.perplexity.ai/page/sri-lanka-recovers-87-bodies-f-fvcn11ldTqutTos0xqAFCQ",
+        "description": "The IRIS Dena was hit by a single torpedo off Sri Lanka's coast, marking the first U.S. submarine kill since World War II.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T08:33:42Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Jet fuel hits record as Iran war chokes global supply",
         "url": "https://www.perplexity.ai/page/jet-fuel-hits-record-as-iran-w-sGE7j_iVQOqfw5CfnbH7Gg",
@@ -2532,33 +2541,6 @@
         "topic": "top",
         "pubDate": "2026-02-26T21:50:53Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "Google rolls out Nano Banana 2 as default AI image model across Gemini",
-        "url": "https://www.perplexity.ai/page/google-rolls-out-nano-banana-2-.i9NVBzXTqWMdJKITTCsKw",
-        "description": "The upgrade brings Pro-level image generation to all users at faster speeds, spanning the Gemini app, Google Search, and 141 countries.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T16:11:50Z",
-        "sourceCount": "55 sources"
-      },
-      {
-        "title": "Hillary Clinton's Epstein deposition paused after Boebert leaks photo",
-        "url": "https://www.perplexity.ai/page/hillary-clinton-s-epstein-depo-twYsxDKsR8CuFjae1jOTEg",
-        "description": "Rep. Lauren Boebert allegedly gave an unauthorized photo from the closed-door hearing to commentator Benny Johnson, who posted it online.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T18:18:30Z",
-        "sourceCount": "61 sources"
-      },
-      {
-        "title": "Trump surgeon general pick lacks GOP votes after vaccine grilling",
-        "url": "https://www.perplexity.ai/page/trump-surgeon-general-pick-lac-PeGlSPuvRKCakqO.hOz3.A",
-        "description": "At least two Republican senators remain undecided on Casey Means after she sidestepped vaccine questions at her confirmation hearing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-26T20:21:09Z",
-        "sourceCount": "41 sources"
       }
     ],
     "tech": [],
