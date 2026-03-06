@@ -1097,54 +1097,9 @@
       "topic": "top",
       "pubDate": "2026-02-28T01:07:52Z",
       "sourceCount": "11 sources"
-    },
-    {
-      "title": "Trump denies knowledge of draft emergency order on midterm elections",
-      "url": "https://www.perplexity.ai/page/trump-denies-knowledge-of-draf-oDZIyzrbREGOmcObvzikbg",
-      "description": "The president said he had \"never heard about\" a proposal to declare a national emergency to reshape voting rules before November's midterms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T23:48:34Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Saudi, UAE leaders unite against Iran after missiles rock Gulf capitals",
-      "url": "https://www.perplexity.ai/page/saudi-uae-leaders-unite-agains-cheq.FAFRPOaAscqQOQ0qg",
-      "description": "Saudi Crown Prince Mohammed bin Salman pledged \"full solidarity\" with UAE President Sheikh Mohammed bin Zayed after Iranian strikes killed one in Abu Dhabi.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-28T16:18:38Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Chile bars Chinese hospital ship from treating locals amid US tensions",
-      "url": "https://www.perplexity.ai/page/chile-bars-chinese-hospital-sh-SB6YAertRDujr3o9DxIR6w",
-      "description": "The decision came as Washington ramps up pressure on Santiago over a proposed Chinese undersea cable project.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-28T00:57:28Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
-      "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
-      "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-28T12:02:59Z",
-      "sourceCount": "23 sources"
-    },
-    {
-      "title": "Houthis to resume Red Sea attacks after U.S.-Israeli strikes on Iran",
-      "url": "https://www.perplexity.ai/page/houthis-to-resume-red-sea-atta-vmihy72BQZ2GZ.56HW1F5w",
-      "description": "Two senior officials told the AP the group's first strike could come as soon as \"tonight,\" ending a ceasefire with Washington.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-28T11:26:52Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-06T09:39:26Z",
+  "cached_at": "2026-03-06T09:57:33Z",
   "topics": {
     "top": [
       {
@@ -2244,51 +2199,6 @@
         "topic": "top",
         "pubDate": "2026-02-28T01:07:52Z",
         "sourceCount": "11 sources"
-      },
-      {
-        "title": "Trump denies knowledge of draft emergency order on midterm elections",
-        "url": "https://www.perplexity.ai/page/trump-denies-knowledge-of-draf-oDZIyzrbREGOmcObvzikbg",
-        "description": "The president said he had \"never heard about\" a proposal to declare a national emergency to reshape voting rules before November's midterms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T23:48:34Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Saudi, UAE leaders unite against Iran after missiles rock Gulf capitals",
-        "url": "https://www.perplexity.ai/page/saudi-uae-leaders-unite-agains-cheq.FAFRPOaAscqQOQ0qg",
-        "description": "Saudi Crown Prince Mohammed bin Salman pledged \"full solidarity\" with UAE President Sheikh Mohammed bin Zayed after Iranian strikes killed one in Abu Dhabi.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-28T16:18:38Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Chile bars Chinese hospital ship from treating locals amid US tensions",
-        "url": "https://www.perplexity.ai/page/chile-bars-chinese-hospital-sh-SB6YAertRDujr3o9DxIR6w",
-        "description": "The decision came as Washington ramps up pressure on Santiago over a proposed Chinese undersea cable project.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-28T00:57:28Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
-        "url": "https://www.perplexity.ai/page/trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
-        "description": "Intelligence sources told Reuters that Trump's claim Iran could \"soon\" hit the U.S. with missiles was unsupported by assessments putting that capability a decade away.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-28T12:02:59Z",
-        "sourceCount": "23 sources"
-      },
-      {
-        "title": "Houthis to resume Red Sea attacks after U.S.-Israeli strikes on Iran",
-        "url": "https://www.perplexity.ai/page/houthis-to-resume-red-sea-atta-vmihy72BQZ2GZ.56HW1F5w",
-        "description": "Two senior officials told the AP the group's first strike could come as soon as \"tonight,\" ending a ceasefire with Washington.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-28T11:26:52Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
