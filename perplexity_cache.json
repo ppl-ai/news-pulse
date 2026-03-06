@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US push for Venezuela mining access threatens environmental crisis",
+      "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
+      "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T16:59:07Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Newly revealed DEA probe linked Epstein to ketamine trade",
       "url": "https://www.perplexity.ai/page/newly-revealed-dea-probe-linke-dqbAOIO5RiauycW33mTtLw",
       "description": "A newly detailed investigation called \"Operation Chain Reaction\" tracked roughly $50 million in suspicious wire transfers tied to drug trafficking and money laundering.",
@@ -1027,9 +1036,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-06T16:59:10Z",
+  "cached_at": "2026-03-06T17:19:19Z",
   "topics": {
     "top": [
+      {
+        "title": "US push for Venezuela mining access threatens environmental crisis",
+        "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
+        "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T16:59:07Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Newly revealed DEA probe linked Epstein to ketamine trade",
         "url": "https://www.perplexity.ai/page/newly-revealed-dea-probe-linke-dqbAOIO5RiauycW33mTtLw",
