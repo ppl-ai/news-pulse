@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran war costs nearly $900M a day as oil hits 2-year high",
+      "url": "https://www.perplexity.ai/page/iran-war-costs-nearly-900m-a-d-YTLe0chLT42Rgslgfe6_9A",
+      "description": "A week into Operation Epic Fury, Tehran faces its heaviest bombardment yet while the Strait of Hormuz closure drives crude prices and market losses higher.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T17:26:02Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Hungary detains Ukrainian bank staff, seizes cash and gold in convoy",
+      "url": "https://www.perplexity.ai/page/hungary-detains-ukrainian-bank-CU75Qsc8QFW6xvhUm1LuTw",
+      "description": "Kyiv accused Budapest of \"state terrorism\" after seven Oschadbank employees were intercepted carrying tens of millions in cash and gold.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T17:03:00Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "US push for Venezuela mining access threatens environmental crisis",
       "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
       "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
@@ -64,6 +82,15 @@
       "sourceCount": "46 sources"
     },
     {
+      "title": "Axel Springer agrees to buy UK's Telegraph for £575M",
+      "url": "https://www.perplexity.ai/page/axel-springer-agrees-to-buy-uk-o4FxpLwCQ8iLNjrD63LU_Q",
+      "description": "The German media giant's deal upends the Daily Mail owner's planned acquisition and places the 168-year-old conservative paper under foreign ownership.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T12:48:30Z",
+      "sourceCount": "46 sources"
+    },
+    {
       "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
       "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
       "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
@@ -71,15 +98,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T12:26:17Z",
       "sourceCount": "44 sources"
-    },
-    {
-      "title": "Hungary seizes Ukrainian bank vehicles amid oil pipeline crisis with Kyiv",
-      "url": "https://www.perplexity.ai/page/hungary-seizes-ukrainian-bank-zbAAGdg7Q4uH.wFPxpvkyQ",
-      "description": "Seven Oschadbank employees and two armored vehicles carrying cash and gold vanished in Budapest as the Druzhba pipeline dispute between Hungary and Ukraine intensified.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T11:23:26Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
@@ -1007,38 +1025,29 @@
       "topic": "top",
       "pubDate": "2026-03-02T15:01:40Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
-      "url": "https://www.perplexity.ai/page/us-confirms-first-combat-use-o-k.L7bw.VR_G0vg.bKSGveA",
-      "description": "The LUCAS kamikaze drone, built by copying a captured Iranian Shahed-136, was deployed in Operation Epic Fury strikes on Iranian military targets.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-28T18:55:56Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "Trump pushes Venezuela model for Iran transition",
-      "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-      "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T15:58:45Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "CIA tracked Khamenei for months before Israel struck Tehran",
-      "url": "https://www.perplexity.ai/page/cia-tracked-khamenei-for-month-bgFxFDujSkaQtdx5PK85Ig",
-      "description": "U.S. intelligence identified a rare gathering of Iran's top leaders, enabling the strike that killed the supreme leader and over 40 senior officials.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-01T11:39:22Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-06T17:19:19Z",
+  "cached_at": "2026-03-06T17:37:54Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran war costs nearly $900M a day as oil hits 2-year high",
+        "url": "https://www.perplexity.ai/page/iran-war-costs-nearly-900m-a-d-YTLe0chLT42Rgslgfe6_9A",
+        "description": "A week into Operation Epic Fury, Tehran faces its heaviest bombardment yet while the Strait of Hormuz closure drives crude prices and market losses higher.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T17:26:02Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Hungary detains Ukrainian bank staff, seizes cash and gold in convoy",
+        "url": "https://www.perplexity.ai/page/hungary-detains-ukrainian-bank-CU75Qsc8QFW6xvhUm1LuTw",
+        "description": "Kyiv accused Budapest of \"state terrorism\" after seven Oschadbank employees were intercepted carrying tens of millions in cash and gold.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T17:03:00Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "US push for Venezuela mining access threatens environmental crisis",
         "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
@@ -1103,6 +1112,15 @@
         "sourceCount": "46 sources"
       },
       {
+        "title": "Axel Springer agrees to buy UK's Telegraph for £575M",
+        "url": "https://www.perplexity.ai/page/axel-springer-agrees-to-buy-uk-o4FxpLwCQ8iLNjrD63LU_Q",
+        "description": "The German media giant's deal upends the Daily Mail owner's planned acquisition and places the 168-year-old conservative paper under foreign ownership.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T12:48:30Z",
+        "sourceCount": "46 sources"
+      },
+      {
         "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
         "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
         "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
@@ -1110,15 +1128,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T12:26:17Z",
         "sourceCount": "44 sources"
-      },
-      {
-        "title": "Hungary seizes Ukrainian bank vehicles amid oil pipeline crisis with Kyiv",
-        "url": "https://www.perplexity.ai/page/hungary-seizes-ukrainian-bank-zbAAGdg7Q4uH.wFPxpvkyQ",
-        "description": "Seven Oschadbank employees and two armored vehicles carrying cash and gold vanished in Budapest as the Druzhba pipeline dispute between Hungary and Ukraine intensified.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T11:23:26Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
@@ -2046,33 +2055,6 @@
         "topic": "top",
         "pubDate": "2026-03-02T15:01:40Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "US confirms first combat use of drone reverse-engineered from Iran's Shahed",
-        "url": "https://www.perplexity.ai/page/us-confirms-first-combat-use-o-k.L7bw.VR_G0vg.bKSGveA",
-        "description": "The LUCAS kamikaze drone, built by copying a captured Iranian Shahed-136, was deployed in Operation Epic Fury strikes on Iranian military targets.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-28T18:55:56Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "Trump pushes Venezuela model for Iran transition",
-        "url": "https://www.perplexity.ai/page/trump-pushes-venezuela-model-f-qGfc2POKT2GwANMZNj.ZpA",
-        "description": "The president told The New York Times he has \"three very good choices\" for Iran's next leader but declined to name them.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T15:58:45Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "CIA tracked Khamenei for months before Israel struck Tehran",
-        "url": "https://www.perplexity.ai/page/cia-tracked-khamenei-for-month-bgFxFDujSkaQtdx5PK85Ig",
-        "description": "U.S. intelligence identified a rare gathering of Iran's top leaders, enabling the strike that killed the supreme leader and over 40 senior officials.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-01T11:39:22Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
