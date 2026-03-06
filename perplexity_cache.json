@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Asian markets mixed as Iran conflict enters 7th day",
+      "url": "https://www.perplexity.ai/page/asian-markets-mixed-as-iran-co-6ytEXQQbRJ6ARow0eo1mAg",
+      "description": "Oil prices eased Friday after hitting their highest levels since summer 2024, while the Dow headed for its worst week since October.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T10:10:27Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
       "url": "https://www.perplexity.ai/page/israel-launches-broad-scale-st-pgVsGqT4RzKZYctI_6QprA",
       "description": "The IDF said it began a new phase of operations against Iran on Friday as the U.S. warned bombardment would \"surge dramatically.\"",
@@ -289,15 +298,6 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "US stocks waver as Iran diplomacy, earnings collide",
-      "url": "https://www.perplexity.ai/page/us-stocks-waver-as-iran-diplom-iJ5jfrK6QYq3WQ8spmBHSg",
-      "description": "Broadcom surged on record AI revenue while conflicting signals on Iran ceasefire talks and new tariffs kept broader markets directionless.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T14:51:51Z",
-      "sourceCount": "56 sources"
-    },
-    {
       "title": "US submarine sinks Iranian warship, first torpedo strike since WWII",
       "url": "https://www.perplexity.ai/page/us-submarine-sinks-iranian-war-AUeAI1dWRgi.OR3C1gtRvw",
       "description": "Sri Lanka recovered 87 bodies and rescued 32 survivors after a Navy sub torpedoed the IRIS Dena in the Indian Ocean amid the widening U.S.-Iran conflict.",
@@ -305,42 +305,6 @@
       "topic": "top",
       "pubDate": "2026-03-05T12:36:41Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump launches 'Shield of the Americas' anti-cartel initiative",
-      "url": "https://www.perplexity.ai/page/trump-launches-shield-of-the-a-JvtFyhjhSumPKiTjt2FaeA",
-      "description": "Noem will leave DHS to lead the new Western Hemisphere security effort as 17 nations signed a joint declaration at a first-ever counter-cartel conference.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T21:03:21Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "European stocks slip as Iran conflict enters sixth day",
-      "url": "https://www.perplexity.ai/page/european-stocks-slip-as-iran-c-0xsA7xFzQSqzMzL6LIM1VQ",
-      "description": "Wednesday's relief rally faded as investors reassessed prolonged conflict risks, with oil supply fears and inflation concerns driving renewed selling.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T10:19:54Z",
-      "sourceCount": "45 sources"
-    },
-    {
-      "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
-      "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
-      "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T11:37:32Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump calls Israeli President Herzog a 'disgrace,' demands Netanyahu pardon",
-      "url": "https://www.perplexity.ai/page/trump-calls-israeli-president-4CRJz.6BQNqBI8x1NPxH1A",
-      "description": "The U.S. president said he wants Netanyahu focused on the Iran war, not his corruption trial, and vowed not to meet Herzog until a pardon is granted.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T18:38:32Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "ECB warns Iran war's economic fallout poses risk to euro zone banks",
@@ -352,6 +316,24 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Trump launches 'Shield of the Americas' anti-cartel initiative",
+      "url": "https://www.perplexity.ai/page/trump-launches-shield-of-the-a-JvtFyhjhSumPKiTjt2FaeA",
+      "description": "Noem will leave DHS to lead the new Western Hemisphere security effort as 17 nations signed a joint declaration at a first-ever counter-cartel conference.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T21:03:21Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
+      "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
+      "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T11:37:32Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Gold pulls back from record highs as Iran war enters second week",
       "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
       "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
@@ -361,13 +343,13 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "Trump backs Kurdish offensive against Iran, says goal is 'to win'",
-      "url": "https://www.perplexity.ai/page/trump-backs-kurdish-offensive-TYuuA0uhQD.4zh.cGMA0MA",
-      "description": "The Washington Post reported Trump offered \"extensive U.S. aircover\" to anti-regime Kurdish groups during calls with their leaders.",
+      "title": "Trump calls Israeli President Herzog a 'disgrace,' demands Netanyahu pardon",
+      "url": "https://www.perplexity.ai/page/trump-calls-israeli-president-4CRJz.6BQNqBI8x1NPxH1A",
+      "description": "The U.S. president said he wants Netanyahu focused on the Iran war, not his corruption trial, and vowed not to meet Herzog until a pardon is granted.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-05T18:48:36Z",
-      "sourceCount": "24 sources"
+      "pubDate": "2026-03-05T18:38:32Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
@@ -388,13 +370,13 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "24 state AGs sue to block Trump's replacement tariffs",
-      "url": "https://www.perplexity.ai/page/24-state-ags-sue-to-block-trum-ChJhh2zsQ2CIwIwO.zc2LA",
-      "description": "New York Attorney General Letitia James leads a coalition challenging the legality of tariffs imposed under a never-before-used 1974 trade law.",
+      "title": "Trump backs Kurdish offensive against Iran, says goal is 'to win'",
+      "url": "https://www.perplexity.ai/page/trump-backs-kurdish-offensive-TYuuA0uhQD.4zh.cGMA0MA",
+      "description": "The Washington Post reported Trump offered \"extensive U.S. aircover\" to anti-regime Kurdish groups during calls with their leaders.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-05T17:29:59Z",
-      "sourceCount": "75 sources"
+      "pubDate": "2026-03-05T18:48:36Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "Alibaba forms AI task force after Qwen chief's abrupt exit",
@@ -415,13 +397,13 @@
       "sourceCount": "24 sources"
     },
     {
-      "title": "Trump says he must help pick Iran's next leader",
-      "url": "https://www.perplexity.ai/page/trump-says-he-must-help-pick-i-C0gimHUPR2egw8X_zuRiJA",
-      "description": "The president called Mojtaba Khamenei, son of the late supreme leader, \"unacceptable\" and likened his approach to U.S. intervention in Venezuela.",
+      "title": "24 state AGs sue to block Trump's replacement tariffs",
+      "url": "https://www.perplexity.ai/page/24-state-ags-sue-to-block-trum-ChJhh2zsQ2CIwIwO.zc2LA",
+      "description": "New York Attorney General Letitia James leads a coalition challenging the legality of tariffs imposed under a never-before-used 1974 trade law.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-05T16:34:39Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-03-05T17:29:59Z",
+      "sourceCount": "75 sources"
     },
     {
       "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
@@ -442,13 +424,13 @@
       "sourceCount": "21 sources"
     },
     {
-      "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
-      "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
-      "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
+      "title": "Trump says he must help pick Iran's next leader",
+      "url": "https://www.perplexity.ai/page/trump-says-he-must-help-pick-i-C0gimHUPR2egw8X_zuRiJA",
+      "description": "The president called Mojtaba Khamenei, son of the late supreme leader, \"unacceptable\" and likened his approach to U.S. intervention in Venezuela.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-05T03:16:48Z",
-      "sourceCount": "36 sources"
+      "pubDate": "2026-03-05T16:34:39Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Democrats flip 9th state seat since Trump took office",
@@ -469,6 +451,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
+      "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
+      "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T03:16:48Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "China sets slowest defense budget growth since 2022 at 7%",
       "url": "https://www.perplexity.ai/page/china-sets-slowest-defense-bud-6.G9SrbUQm.Sk4A0i8HJEw",
       "description": "The official military budget rises to 1.91 trillion yuan ($277 billion), even as the U.S. and allies accelerate their own spending.",
@@ -478,15 +469,6 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Appeals court blocks Musk deposition in USAID lawsuit",
-      "url": "https://www.perplexity.ai/page/appeals-court-blocks-musk-depo-SpCF9myTR5qoXr5QRhRQAQ",
-      "description": "A federal appeals court ruled 2-1 that Musk does not have to testify under oath about his role in dismantling the foreign aid agency while leading DOGE.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T00:09:19Z",
-      "sourceCount": "34 sources"
-    },
-    {
       "title": "UN says 66,000 displaced in Afghanistan-Pakistan war",
       "url": "https://www.perplexity.ai/page/un-says-66000-displaced-in-afg-8FBK7OvpTJ6YAb1zAexi8w",
       "description": "The IOM warned that escalating cross-border clashes along the Durand Line are worsening a humanitarian crisis in eastern Afghanistan.",
@@ -494,6 +476,15 @@
       "topic": "top",
       "pubDate": "2026-03-04T23:43:30Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Appeals court blocks Musk deposition in USAID lawsuit",
+      "url": "https://www.perplexity.ai/page/appeals-court-blocks-musk-depo-SpCF9myTR5qoXr5QRhRQAQ",
+      "description": "A federal appeals court ruled 2-1 that Musk does not have to testify under oath about his role in dismantling the foreign aid agency while leading DOGE.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T00:09:19Z",
+      "sourceCount": "34 sources"
     },
     {
       "title": "Venezuela to reform mining law after Burgum visit",
@@ -1099,9 +1090,18 @@
       "sourceCount": "11 sources"
     }
   ],
-  "cached_at": "2026-03-06T09:57:33Z",
+  "cached_at": "2026-03-06T10:17:39Z",
   "topics": {
     "top": [
+      {
+        "title": "Asian markets mixed as Iran conflict enters 7th day",
+        "url": "https://www.perplexity.ai/page/asian-markets-mixed-as-iran-co-6ytEXQQbRJ6ARow0eo1mAg",
+        "description": "Oil prices eased Friday after hitting their highest levels since summer 2024, while the Dow headed for its worst week since October.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T10:10:27Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
         "url": "https://www.perplexity.ai/page/israel-launches-broad-scale-st-pgVsGqT4RzKZYctI_6QprA",
@@ -1391,15 +1391,6 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "US stocks waver as Iran diplomacy, earnings collide",
-        "url": "https://www.perplexity.ai/page/us-stocks-waver-as-iran-diplom-iJ5jfrK6QYq3WQ8spmBHSg",
-        "description": "Broadcom surged on record AI revenue while conflicting signals on Iran ceasefire talks and new tariffs kept broader markets directionless.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T14:51:51Z",
-        "sourceCount": "56 sources"
-      },
-      {
         "title": "US submarine sinks Iranian warship, first torpedo strike since WWII",
         "url": "https://www.perplexity.ai/page/us-submarine-sinks-iranian-war-AUeAI1dWRgi.OR3C1gtRvw",
         "description": "Sri Lanka recovered 87 bodies and rescued 32 survivors after a Navy sub torpedoed the IRIS Dena in the Indian Ocean amid the widening U.S.-Iran conflict.",
@@ -1407,42 +1398,6 @@
         "topic": "top",
         "pubDate": "2026-03-05T12:36:41Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump launches 'Shield of the Americas' anti-cartel initiative",
-        "url": "https://www.perplexity.ai/page/trump-launches-shield-of-the-a-JvtFyhjhSumPKiTjt2FaeA",
-        "description": "Noem will leave DHS to lead the new Western Hemisphere security effort as 17 nations signed a joint declaration at a first-ever counter-cartel conference.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T21:03:21Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "European stocks slip as Iran conflict enters sixth day",
-        "url": "https://www.perplexity.ai/page/european-stocks-slip-as-iran-c-0xsA7xFzQSqzMzL6LIM1VQ",
-        "description": "Wednesday's relief rally faded as investors reassessed prolonged conflict risks, with oil supply fears and inflation concerns driving renewed selling.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T10:19:54Z",
-        "sourceCount": "45 sources"
-      },
-      {
-        "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
-        "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
-        "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T11:37:32Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump calls Israeli President Herzog a 'disgrace,' demands Netanyahu pardon",
-        "url": "https://www.perplexity.ai/page/trump-calls-israeli-president-4CRJz.6BQNqBI8x1NPxH1A",
-        "description": "The U.S. president said he wants Netanyahu focused on the Iran war, not his corruption trial, and vowed not to meet Herzog until a pardon is granted.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T18:38:32Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "ECB warns Iran war's economic fallout poses risk to euro zone banks",
@@ -1454,6 +1409,24 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Trump launches 'Shield of the Americas' anti-cartel initiative",
+        "url": "https://www.perplexity.ai/page/trump-launches-shield-of-the-a-JvtFyhjhSumPKiTjt2FaeA",
+        "description": "Noem will leave DHS to lead the new Western Hemisphere security effort as 17 nations signed a joint declaration at a first-ever counter-cartel conference.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T21:03:21Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Strait of Hormuz nears full shutdown as Iran war enters second week",
+        "url": "https://www.perplexity.ai/page/strait-of-hormuz-nears-full-sh-.HPwAw_XSNeABaUFGQkvFw",
+        "description": "The U.S.-Israeli military campaign has halted nearly all tanker traffic through the vital waterway, sending oil and gas prices sharply higher worldwide.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T11:37:32Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "Gold pulls back from record highs as Iran war enters second week",
         "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
         "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
@@ -1463,13 +1436,13 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "Trump backs Kurdish offensive against Iran, says goal is 'to win'",
-        "url": "https://www.perplexity.ai/page/trump-backs-kurdish-offensive-TYuuA0uhQD.4zh.cGMA0MA",
-        "description": "The Washington Post reported Trump offered \"extensive U.S. aircover\" to anti-regime Kurdish groups during calls with their leaders.",
+        "title": "Trump calls Israeli President Herzog a 'disgrace,' demands Netanyahu pardon",
+        "url": "https://www.perplexity.ai/page/trump-calls-israeli-president-4CRJz.6BQNqBI8x1NPxH1A",
+        "description": "The U.S. president said he wants Netanyahu focused on the Iran war, not his corruption trial, and vowed not to meet Herzog until a pardon is granted.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-05T18:48:36Z",
-        "sourceCount": "24 sources"
+        "pubDate": "2026-03-05T18:38:32Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
@@ -1490,13 +1463,13 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "24 state AGs sue to block Trump's replacement tariffs",
-        "url": "https://www.perplexity.ai/page/24-state-ags-sue-to-block-trum-ChJhh2zsQ2CIwIwO.zc2LA",
-        "description": "New York Attorney General Letitia James leads a coalition challenging the legality of tariffs imposed under a never-before-used 1974 trade law.",
+        "title": "Trump backs Kurdish offensive against Iran, says goal is 'to win'",
+        "url": "https://www.perplexity.ai/page/trump-backs-kurdish-offensive-TYuuA0uhQD.4zh.cGMA0MA",
+        "description": "The Washington Post reported Trump offered \"extensive U.S. aircover\" to anti-regime Kurdish groups during calls with their leaders.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-05T17:29:59Z",
-        "sourceCount": "75 sources"
+        "pubDate": "2026-03-05T18:48:36Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "Alibaba forms AI task force after Qwen chief's abrupt exit",
@@ -1517,13 +1490,13 @@
         "sourceCount": "24 sources"
       },
       {
-        "title": "Trump says he must help pick Iran's next leader",
-        "url": "https://www.perplexity.ai/page/trump-says-he-must-help-pick-i-C0gimHUPR2egw8X_zuRiJA",
-        "description": "The president called Mojtaba Khamenei, son of the late supreme leader, \"unacceptable\" and likened his approach to U.S. intervention in Venezuela.",
+        "title": "24 state AGs sue to block Trump's replacement tariffs",
+        "url": "https://www.perplexity.ai/page/24-state-ags-sue-to-block-trum-ChJhh2zsQ2CIwIwO.zc2LA",
+        "description": "New York Attorney General Letitia James leads a coalition challenging the legality of tariffs imposed under a never-before-used 1974 trade law.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-05T16:34:39Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-03-05T17:29:59Z",
+        "sourceCount": "75 sources"
       },
       {
         "title": "Bloomberg: Epstein used Hoffman link to reach Big Tech leaders",
@@ -1544,13 +1517,13 @@
         "sourceCount": "21 sources"
       },
       {
-        "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
-        "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
-        "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
+        "title": "Trump says he must help pick Iran's next leader",
+        "url": "https://www.perplexity.ai/page/trump-says-he-must-help-pick-i-C0gimHUPR2egw8X_zuRiJA",
+        "description": "The president called Mojtaba Khamenei, son of the late supreme leader, \"unacceptable\" and likened his approach to U.S. intervention in Venezuela.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-05T03:16:48Z",
-        "sourceCount": "36 sources"
+        "pubDate": "2026-03-05T16:34:39Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Democrats flip 9th state seat since Trump took office",
@@ -1571,6 +1544,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Anthropic CEO resumes Pentagon talks to resolve AI standoff",
+        "url": "https://www.perplexity.ai/page/anthropic-ceo-resumes-pentagon-kGJX7KSVTTGCCcOjY4ElOQ",
+        "description": "Dario Amodei is negotiating a new contract with defense officials after Trump banned agencies from using Anthropic's technology last week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T03:16:48Z",
+        "sourceCount": "36 sources"
+      },
+      {
         "title": "China sets slowest defense budget growth since 2022 at 7%",
         "url": "https://www.perplexity.ai/page/china-sets-slowest-defense-bud-6.G9SrbUQm.Sk4A0i8HJEw",
         "description": "The official military budget rises to 1.91 trillion yuan ($277 billion), even as the U.S. and allies accelerate their own spending.",
@@ -1580,15 +1562,6 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Appeals court blocks Musk deposition in USAID lawsuit",
-        "url": "https://www.perplexity.ai/page/appeals-court-blocks-musk-depo-SpCF9myTR5qoXr5QRhRQAQ",
-        "description": "A federal appeals court ruled 2-1 that Musk does not have to testify under oath about his role in dismantling the foreign aid agency while leading DOGE.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T00:09:19Z",
-        "sourceCount": "34 sources"
-      },
-      {
         "title": "UN says 66,000 displaced in Afghanistan-Pakistan war",
         "url": "https://www.perplexity.ai/page/un-says-66000-displaced-in-afg-8FBK7OvpTJ6YAb1zAexi8w",
         "description": "The IOM warned that escalating cross-border clashes along the Durand Line are worsening a humanitarian crisis in eastern Afghanistan.",
@@ -1596,6 +1569,15 @@
         "topic": "top",
         "pubDate": "2026-03-04T23:43:30Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Appeals court blocks Musk deposition in USAID lawsuit",
+        "url": "https://www.perplexity.ai/page/appeals-court-blocks-musk-depo-SpCF9myTR5qoXr5QRhRQAQ",
+        "description": "A federal appeals court ruled 2-1 that Musk does not have to testify under oath about his role in dismantling the foreign aid agency while leading DOGE.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T00:09:19Z",
+        "sourceCount": "34 sources"
       },
       {
         "title": "Venezuela to reform mining law after Burgum visit",
