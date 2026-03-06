@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
+      "url": "https://www.perplexity.ai/page/israel-launches-broad-scale-st-pgVsGqT4RzKZYctI_6QprA",
+      "description": "The IDF said it began a new phase of operations against Iran on Friday as the U.S. warned bombardment would \"surge dramatically.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T09:17:57Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "U.S. judge holds closed-door talks on $175B tariff refund process",
       "url": "https://www.perplexity.ai/page/u-s-judge-holds-closed-door-ta-zd29_s9QQymMgYGqjrGSkA",
       "description": "A trade court judge is meeting Friday with government lawyers to establish how to reimburse more than 300,000 importers who paid tariffs struck down by the Supreme Court.",
@@ -1133,38 +1142,20 @@
       "topic": "top",
       "pubDate": "2026-02-28T11:26:52Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Pentagon bars troops from Ivy League graduate programs",
-      "url": "https://www.perplexity.ai/page/pentagon-bars-troops-from-ivy-x5SmECGiTfKbh2m0jeYyfA",
-      "description": "Defense Secretary Pete Hegseth ordered the cancellation of all military attendance at Princeton, Columbia, MIT, Brown, Yale, and other elite schools starting next academic year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T23:18:35Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Trump says he's considering Cruz for Supreme Court",
-      "url": "https://www.perplexity.ai/page/trump-says-he-s-considering-cr-I_Z6S7N.SO6LFbEkCvayCw",
-      "description": "The president revived the idea at a Texas rally, despite Cruz rejecting it last month, saying \"hell no\" to any nomination.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T23:59:19Z",
-      "sourceCount": "13 sources"
-    },
-    {
-      "title": "Iran's defense chief, IRGC commander killed in US-Israeli strikes",
-      "url": "https://www.perplexity.ai/page/iran-s-defense-chief-irgc-comm-lvoG7.lVSkit1SZuDRWZMQ",
-      "description": "Joint US-Israeli military operations struck Tehran and other Iranian cities Saturday, killing top military leaders and triggering Iranian missile retaliation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-28T15:04:57Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-06T09:19:57Z",
+  "cached_at": "2026-03-06T09:39:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
+        "url": "https://www.perplexity.ai/page/israel-launches-broad-scale-st-pgVsGqT4RzKZYctI_6QprA",
+        "description": "The IDF said it began a new phase of operations against Iran on Friday as the U.S. warned bombardment would \"surge dramatically.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T09:17:57Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "U.S. judge holds closed-door talks on $175B tariff refund process",
         "url": "https://www.perplexity.ai/page/u-s-judge-holds-closed-door-ta-zd29_s9QQymMgYGqjrGSkA",
@@ -2298,33 +2289,6 @@
         "topic": "top",
         "pubDate": "2026-02-28T11:26:52Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Pentagon bars troops from Ivy League graduate programs",
-        "url": "https://www.perplexity.ai/page/pentagon-bars-troops-from-ivy-x5SmECGiTfKbh2m0jeYyfA",
-        "description": "Defense Secretary Pete Hegseth ordered the cancellation of all military attendance at Princeton, Columbia, MIT, Brown, Yale, and other elite schools starting next academic year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T23:18:35Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Trump says he's considering Cruz for Supreme Court",
-        "url": "https://www.perplexity.ai/page/trump-says-he-s-considering-cr-I_Z6S7N.SO6LFbEkCvayCw",
-        "description": "The president revived the idea at a Texas rally, despite Cruz rejecting it last month, saying \"hell no\" to any nomination.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T23:59:19Z",
-        "sourceCount": "13 sources"
-      },
-      {
-        "title": "Iran's defense chief, IRGC commander killed in US-Israeli strikes",
-        "url": "https://www.perplexity.ai/page/iran-s-defense-chief-irgc-comm-lvoG7.lVSkit1SZuDRWZMQ",
-        "description": "Joint US-Israeli military operations struck Tehran and other Iranian cities Saturday, killing top military leaders and triggering Iranian missile retaliation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-28T15:04:57Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
