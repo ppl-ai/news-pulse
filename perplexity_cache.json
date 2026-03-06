@@ -343,15 +343,6 @@
       "sourceCount": "57 sources"
     },
     {
-      "title": "US submarine sinks Iranian warship, first torpedo strike since WWII",
-      "url": "https://www.perplexity.ai/page/us-submarine-sinks-iranian-war-AUeAI1dWRgi.OR3C1gtRvw",
-      "description": "Sri Lanka recovered 87 bodies and rescued 32 survivors after a Navy sub torpedoed the IRIS Dena in the Indian Ocean amid the widening U.S.-Iran conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T12:36:41Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Gold pulls back from record highs as Iran war enters second week",
       "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
       "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
@@ -359,6 +350,15 @@
       "topic": "top",
       "pubDate": "2026-03-05T09:12:47Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
+      "url": "https://www.perplexity.ai/page/bulk-carrier-signals-china-own-87lJFsakQ1WZ5mc1vnWVzg",
+      "description": "The Iron Maiden changed its destination tag to broadcast Chinese ownership as it transited the war-zone strait early Thursday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T08:39:51Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Federal panel delays Trump ballroom vote after public outcry",
@@ -370,13 +370,13 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
-      "url": "https://www.perplexity.ai/page/bulk-carrier-signals-china-own-87lJFsakQ1WZ5mc1vnWVzg",
-      "description": "The Iron Maiden changed its destination tag to broadcast Chinese ownership as it transited the war-zone strait early Thursday.",
+      "title": "Sri Lanka recovers 87 bodies from Iranian warship sunk by US submarine",
+      "url": "https://www.perplexity.ai/page/sri-lanka-recovers-87-bodies-f-fvcn11ldTqutTos0xqAFCQ",
+      "description": "The IRIS Dena was hit by a single torpedo off Sri Lanka's coast, marking the first U.S. submarine kill since World War II.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-05T08:39:51Z",
-      "sourceCount": "14 sources"
+      "pubDate": "2026-03-05T08:33:42Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Alibaba forms AI task force after Qwen chief's abrupt exit",
@@ -1018,7 +1018,7 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-06T19:19:45Z",
+  "cached_at": "2026-03-06T19:38:09Z",
   "topics": {
     "top": [
       {
@@ -1364,15 +1364,6 @@
         "sourceCount": "57 sources"
       },
       {
-        "title": "US submarine sinks Iranian warship, first torpedo strike since WWII",
-        "url": "https://www.perplexity.ai/page/us-submarine-sinks-iranian-war-AUeAI1dWRgi.OR3C1gtRvw",
-        "description": "Sri Lanka recovered 87 bodies and rescued 32 survivors after a Navy sub torpedoed the IRIS Dena in the Indian Ocean amid the widening U.S.-Iran conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T12:36:41Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Gold pulls back from record highs as Iran war enters second week",
         "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
         "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
@@ -1380,6 +1371,15 @@
         "topic": "top",
         "pubDate": "2026-03-05T09:12:47Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
+        "url": "https://www.perplexity.ai/page/bulk-carrier-signals-china-own-87lJFsakQ1WZ5mc1vnWVzg",
+        "description": "The Iron Maiden changed its destination tag to broadcast Chinese ownership as it transited the war-zone strait early Thursday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T08:39:51Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Federal panel delays Trump ballroom vote after public outcry",
@@ -1391,13 +1391,13 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "Bulk carrier signals 'China owner' to cross Hormuz blockade",
-        "url": "https://www.perplexity.ai/page/bulk-carrier-signals-china-own-87lJFsakQ1WZ5mc1vnWVzg",
-        "description": "The Iron Maiden changed its destination tag to broadcast Chinese ownership as it transited the war-zone strait early Thursday.",
+        "title": "Sri Lanka recovers 87 bodies from Iranian warship sunk by US submarine",
+        "url": "https://www.perplexity.ai/page/sri-lanka-recovers-87-bodies-f-fvcn11ldTqutTos0xqAFCQ",
+        "description": "The IRIS Dena was hit by a single torpedo off Sri Lanka's coast, marking the first U.S. submarine kill since World War II.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-05T08:39:51Z",
-        "sourceCount": "14 sources"
+        "pubDate": "2026-03-05T08:33:42Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Alibaba forms AI task force after Qwen chief's abrupt exit",
