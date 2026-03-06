@@ -1160,36 +1160,9 @@
       "topic": "top",
       "pubDate": "2026-02-28T15:04:57Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Ghana says 55 citizens killed fighting for Russia in Ukraine",
-      "url": "https://www.perplexity.ai/page/ghana-says-55-citizens-killed-gBUP5OjYTp.P43al4Zz_Ag",
-      "description": "Foreign Minister Ablakwa said 272 Ghanaians were lured into the conflict since 2022 through criminal trafficking networks, with two held as POWs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T22:29:20Z",
-      "sourceCount": "47 sources"
-    },
-    {
-      "title": "Judge blocks early end of SAVE student loan plan",
-      "url": "https://www.perplexity.ai/page/judge-blocks-early-end-of-save-I9eDN743QteH.UiX4Q2KaQ",
-      "description": "A federal judge dismissed the Trump administration's bid to eliminate the SAVE repayment plan, keeping the program alive for over 7 million borrowers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T23:34:10Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Russia condemns US-Israeli strikes on Iran, evacuates citizens",
-      "url": "https://www.perplexity.ai/page/russia-condemns-us-israeli-str-5KwxUJNUQDmLb6MiwhwziQ",
-      "description": "Moscow labeled the joint military operation \"unprovoked armed aggression,\" warned of radiological catastrophe, and began evacuating Russians from Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-28T12:53:51Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-06T08:57:45Z",
+  "cached_at": "2026-03-06T09:19:57Z",
   "topics": {
     "top": [
       {
@@ -2352,33 +2325,6 @@
         "topic": "top",
         "pubDate": "2026-02-28T15:04:57Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Ghana says 55 citizens killed fighting for Russia in Ukraine",
-        "url": "https://www.perplexity.ai/page/ghana-says-55-citizens-killed-gBUP5OjYTp.P43al4Zz_Ag",
-        "description": "Foreign Minister Ablakwa said 272 Ghanaians were lured into the conflict since 2022 through criminal trafficking networks, with two held as POWs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T22:29:20Z",
-        "sourceCount": "47 sources"
-      },
-      {
-        "title": "Judge blocks early end of SAVE student loan plan",
-        "url": "https://www.perplexity.ai/page/judge-blocks-early-end-of-save-I9eDN743QteH.UiX4Q2KaQ",
-        "description": "A federal judge dismissed the Trump administration's bid to eliminate the SAVE repayment plan, keeping the program alive for over 7 million borrowers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T23:34:10Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Russia condemns US-Israeli strikes on Iran, evacuates citizens",
-        "url": "https://www.perplexity.ai/page/russia-condemns-us-israeli-str-5KwxUJNUQDmLb6MiwhwziQ",
-        "description": "Moscow labeled the joint military operation \"unprovoked armed aggression,\" warned of radiological catastrophe, and began evacuating Russians from Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-28T12:53:51Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
