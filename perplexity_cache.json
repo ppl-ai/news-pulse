@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Texas Rep. Tony Gonzales ends reelection bid amid ethics probe",
+      "url": "https://www.perplexity.ai/page/texas-rep-tony-gonzales-ends-r-SpoJ5VLZRKmZz78NqZJd0g",
+      "description": "The Texas Republican withdrew hours after House Speaker Mike Johnson and GOP leadership publicly called on him to end his campaign.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T05:13:12Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "SoftBank seeks record $40B loan to fund OpenAI bet",
       "url": "https://www.perplexity.ai/page/softbank-seeks-record-40b-loan-paNyzX95T8.aLHTUt9mnJQ",
       "description": "The Japanese conglomerate is in talks with JPMorgan and three other banks for a 12-month bridge loan, according to Bloomberg.",
@@ -10,13 +19,13 @@
       "sourceCount": "31 sources"
     },
     {
-      "title": "Noem bypassed bidding on $100M ICE contracts, NBC reports",
-      "url": "https://www.perplexity.ai/page/noem-bypassed-bidding-on-100m-MX8ojYLPRPiZJMU0YIqz1g",
-      "description": "The outgoing DHS secretary handpicked the same politically connected firms already under scrutiny for a separate $220 million ad campaign.",
+      "title": "Trump says Cuba is next U.S. target after Iran",
+      "url": "https://www.perplexity.ai/page/trump-says-cuba-is-next-u-s-ta-7cF6mxzxQLKYQBxE5Ojwkw",
+      "description": "At a White House event honoring Inter Miami, the president said Cuba is \"desperate\" for a deal and regime change is \"just a question of time.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T03:58:37Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-03-06T01:54:13Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "US reports 90 percent drop in Iranian ballistic missile attacks",
@@ -37,13 +46,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Paxton offers to exit Texas Senate runoff if voter ID bill passes",
-      "url": "https://www.perplexity.ai/page/paxton-offers-to-exit-texas-se-NWDHboWAQB6jNHJLqWowPg",
-      "description": "After Trump warned that Paxton's refusal to drop out could cost him the endorsement, the attorney general set conditions for a potential withdrawal.",
+      "title": "Noem bypassed bidding on $100M ICE contracts, NBC reports",
+      "url": "https://www.perplexity.ai/page/noem-bypassed-bidding-on-100m-MX8ojYLPRPiZJMU0YIqz1g",
+      "description": "The outgoing DHS secretary handpicked the same politically connected firms already under scrutiny for a separate $220 million ad campaign.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T02:33:28Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-03-06T03:58:37Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Pentagon estimates US war on Iran costs $1 billion a day",
@@ -64,13 +73,13 @@
       "sourceCount": "76 sources"
     },
     {
-      "title": "Florida Bar investigates ex-Trump prosecutor Lindsey Halligan",
-      "url": "https://www.perplexity.ai/page/florida-bar-investigates-ex-tr-FbfsD6ASQsCRdel55UUsKQ",
-      "description": "Halligan, who lacked prosecutorial experience, secured indictments against James Comey and Letitia James before a judge ruled her appointment illegal.",
+      "title": "Paxton offers to exit Texas Senate runoff if voter ID bill passes",
+      "url": "https://www.perplexity.ai/page/paxton-offers-to-exit-texas-se-NWDHboWAQB6jNHJLqWowPg",
+      "description": "After Trump warned that Paxton's refusal to drop out could cost him the endorsement, the attorney general set conditions for a potential withdrawal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T02:13:31Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-06T02:33:28Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Ukraine, Russia swap 200 POWs each as peace talks stall over Iran war",
@@ -91,13 +100,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump says Cuba is next U.S. target after Iran",
-      "url": "https://www.perplexity.ai/page/trump-says-cuba-is-next-u-s-ta-7cF6mxzxQLKYQBxE5Ojwkw",
-      "description": "At a White House event honoring Inter Miami, the president said Cuba is \"desperate\" for a deal and regime change is \"just a question of time.\"",
+      "title": "Florida Bar investigates ex-Trump prosecutor Lindsey Halligan",
+      "url": "https://www.perplexity.ai/page/florida-bar-investigates-ex-tr-FbfsD6ASQsCRdel55UUsKQ",
+      "description": "Halligan, who lacked prosecutorial experience, secured indictments against James Comey and Letitia James before a judge ruled her appointment illegal.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T01:54:13Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-06T02:13:31Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Over 330,000 displaced across Middle East, UNHCR says",
@@ -1225,9 +1234,18 @@
       "sourceCount": "61 sources"
     }
   ],
-  "cached_at": "2026-03-06T05:26:17Z",
+  "cached_at": "2026-03-06T05:48:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Texas Rep. Tony Gonzales ends reelection bid amid ethics probe",
+        "url": "https://www.perplexity.ai/page/texas-rep-tony-gonzales-ends-r-SpoJ5VLZRKmZz78NqZJd0g",
+        "description": "The Texas Republican withdrew hours after House Speaker Mike Johnson and GOP leadership publicly called on him to end his campaign.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T05:13:12Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "SoftBank seeks record $40B loan to fund OpenAI bet",
         "url": "https://www.perplexity.ai/page/softbank-seeks-record-40b-loan-paNyzX95T8.aLHTUt9mnJQ",
@@ -1238,13 +1256,13 @@
         "sourceCount": "31 sources"
       },
       {
-        "title": "Noem bypassed bidding on $100M ICE contracts, NBC reports",
-        "url": "https://www.perplexity.ai/page/noem-bypassed-bidding-on-100m-MX8ojYLPRPiZJMU0YIqz1g",
-        "description": "The outgoing DHS secretary handpicked the same politically connected firms already under scrutiny for a separate $220 million ad campaign.",
+        "title": "Trump says Cuba is next U.S. target after Iran",
+        "url": "https://www.perplexity.ai/page/trump-says-cuba-is-next-u-s-ta-7cF6mxzxQLKYQBxE5Ojwkw",
+        "description": "At a White House event honoring Inter Miami, the president said Cuba is \"desperate\" for a deal and regime change is \"just a question of time.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T03:58:37Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-03-06T01:54:13Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "US reports 90 percent drop in Iranian ballistic missile attacks",
@@ -1265,13 +1283,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Paxton offers to exit Texas Senate runoff if voter ID bill passes",
-        "url": "https://www.perplexity.ai/page/paxton-offers-to-exit-texas-se-NWDHboWAQB6jNHJLqWowPg",
-        "description": "After Trump warned that Paxton's refusal to drop out could cost him the endorsement, the attorney general set conditions for a potential withdrawal.",
+        "title": "Noem bypassed bidding on $100M ICE contracts, NBC reports",
+        "url": "https://www.perplexity.ai/page/noem-bypassed-bidding-on-100m-MX8ojYLPRPiZJMU0YIqz1g",
+        "description": "The outgoing DHS secretary handpicked the same politically connected firms already under scrutiny for a separate $220 million ad campaign.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T02:33:28Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-03-06T03:58:37Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Pentagon estimates US war on Iran costs $1 billion a day",
@@ -1292,13 +1310,13 @@
         "sourceCount": "76 sources"
       },
       {
-        "title": "Florida Bar investigates ex-Trump prosecutor Lindsey Halligan",
-        "url": "https://www.perplexity.ai/page/florida-bar-investigates-ex-tr-FbfsD6ASQsCRdel55UUsKQ",
-        "description": "Halligan, who lacked prosecutorial experience, secured indictments against James Comey and Letitia James before a judge ruled her appointment illegal.",
+        "title": "Paxton offers to exit Texas Senate runoff if voter ID bill passes",
+        "url": "https://www.perplexity.ai/page/paxton-offers-to-exit-texas-se-NWDHboWAQB6jNHJLqWowPg",
+        "description": "After Trump warned that Paxton's refusal to drop out could cost him the endorsement, the attorney general set conditions for a potential withdrawal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T02:13:31Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-06T02:33:28Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Ukraine, Russia swap 200 POWs each as peace talks stall over Iran war",
@@ -1319,13 +1337,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump says Cuba is next U.S. target after Iran",
-        "url": "https://www.perplexity.ai/page/trump-says-cuba-is-next-u-s-ta-7cF6mxzxQLKYQBxE5Ojwkw",
-        "description": "At a White House event honoring Inter Miami, the president said Cuba is \"desperate\" for a deal and regime change is \"just a question of time.\"",
+        "title": "Florida Bar investigates ex-Trump prosecutor Lindsey Halligan",
+        "url": "https://www.perplexity.ai/page/florida-bar-investigates-ex-tr-FbfsD6ASQsCRdel55UUsKQ",
+        "description": "Halligan, who lacked prosecutorial experience, secured indictments against James Comey and Letitia James before a judge ruled her appointment illegal.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T01:54:13Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-06T02:13:31Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Over 330,000 displaced across Middle East, UNHCR says",
