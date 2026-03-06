@@ -1187,27 +1187,9 @@
       "topic": "top",
       "pubDate": "2026-02-28T12:53:51Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "FAA to cut O'Hare flights, citing overscheduling by major airlines",
-      "url": "https://www.perplexity.ai/page/faa-to-cut-o-hare-flights-citi-JQMT0FFDRiCrBUwcbwSEdg",
-      "description": "United Airlines and American Airlines have dramatically ramped up summer schedules at the Chicago hub, prompting federal intervention.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T21:39:56Z",
-      "sourceCount": "86 sources"
-    },
-    {
-      "title": "Court lets Trump end union bargaining for federal workers",
-      "url": "https://www.perplexity.ai/page/court-lets-trump-end-union-bar-xIhWQCXITIKT0aYK77l6_g",
-      "description": "The Ninth Circuit vacated an injunction blocking the president's executive order, which strips collective bargaining rights from hundreds of thousands of employees.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T23:28:48Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-06T08:38:54Z",
+  "cached_at": "2026-03-06T08:57:45Z",
   "topics": {
     "top": [
       {
@@ -2397,24 +2379,6 @@
         "topic": "top",
         "pubDate": "2026-02-28T12:53:51Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "FAA to cut O'Hare flights, citing overscheduling by major airlines",
-        "url": "https://www.perplexity.ai/page/faa-to-cut-o-hare-flights-citi-JQMT0FFDRiCrBUwcbwSEdg",
-        "description": "United Airlines and American Airlines have dramatically ramped up summer schedules at the Chicago hub, prompting federal intervention.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T21:39:56Z",
-        "sourceCount": "86 sources"
-      },
-      {
-        "title": "Court lets Trump end union bargaining for federal workers",
-        "url": "https://www.perplexity.ai/page/court-lets-trump-end-union-bar-xIhWQCXITIKT0aYK77l6_g",
-        "description": "The Ninth Circuit vacated an injunction blocking the president's executive order, which strips collective bargaining rights from hundreds of thousands of employees.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T23:28:48Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
