@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Physicists create first computer model of 'ideal glass'",
+      "url": "https://www.perplexity.ai/page/physicists-create-first-comput-3sI0sqTMQLyGruaEVGp9DA",
+      "description": "University of Oregon researchers used simulations to construct a long-theorized material that behaves like a crystal despite having no crystalline order.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T07:06:00Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
       "url": "https://www.perplexity.ai/page/jimmy-lai-won-t-appeal-20-year-eUrZWPrEQDejdzuPWG_x7w",
       "description": "The 78-year-old Apple Daily founder's legal team confirmed the decision without explanation, closing one of Hong Kong's most prominent national security cases.",
@@ -1216,9 +1225,18 @@
       "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-06T06:52:59Z",
+  "cached_at": "2026-03-06T07:14:12Z",
   "topics": {
     "top": [
+      {
+        "title": "Physicists create first computer model of 'ideal glass'",
+        "url": "https://www.perplexity.ai/page/physicists-create-first-comput-3sI0sqTMQLyGruaEVGp9DA",
+        "description": "University of Oregon researchers used simulations to construct a long-theorized material that behaves like a crystal despite having no crystalline order.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T07:06:00Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
         "url": "https://www.perplexity.ai/page/jimmy-lai-won-t-appeal-20-year-eUrZWPrEQDejdzuPWG_x7w",
