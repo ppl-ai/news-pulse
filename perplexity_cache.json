@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Oil retreats as US weighs futures market action",
+      "url": "https://www.perplexity.ai/page/oil-retreats-as-us-weighs-futu-IzSNjjkOQZCZI_7vpCmiwA",
+      "description": "Crude prices fell for the first time in six days after the White House signaled possible intervention to curb energy costs amid the Iran conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T07:34:34Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "Physicists create first computer model of 'ideal glass'",
       "url": "https://www.perplexity.ai/page/physicists-create-first-comput-3sI0sqTMQLyGruaEVGp9DA",
       "description": "University of Oregon researchers used simulations to construct a long-theorized material that behaves like a crystal despite having no crystalline order.",
@@ -1196,38 +1205,20 @@
       "topic": "top",
       "pubDate": "2026-02-27T23:34:10Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Slovak PM says Ukraine unwilling to restart Druzhba oil flow",
-      "url": "https://www.perplexity.ai/page/slovak-pm-says-ukraine-unwilli-YgMY3JCYQzGNrMOPEvDBDA",
-      "description": "Slovakia's prime minister spoke with Zelenskyy on Friday but said Kyiv rejected a joint inspection proposal, deepening a dispute that has stalled EU sanctions and aid.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T20:56:24Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Pentagon laser accidentally downs a Border Patrol drone in Texas",
-      "url": "https://www.perplexity.ai/page/pentagon-laser-accidentally-do-hjxSMUoARQSIfxlMPUs8bA",
-      "description": "The military mistakenly shot down a CBP drone near Fort Hancock, marking the second border laser incident this month and drawing Democratic accusations of incompetence.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T20:24:57Z",
-      "sourceCount": "39 sources"
-    },
-    {
-      "title": "Court lets Trump end union bargaining for federal workers",
-      "url": "https://www.perplexity.ai/page/court-lets-trump-end-union-bar-xIhWQCXITIKT0aYK77l6_g",
-      "description": "The Ninth Circuit vacated an injunction blocking the president's executive order, which strips collective bargaining rights from hundreds of thousands of employees.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T23:28:48Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-06T07:32:28Z",
+  "cached_at": "2026-03-06T07:51:24Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil retreats as US weighs futures market action",
+        "url": "https://www.perplexity.ai/page/oil-retreats-as-us-weighs-futu-IzSNjjkOQZCZI_7vpCmiwA",
+        "description": "Crude prices fell for the first time in six days after the White House signaled possible intervention to curb energy costs amid the Iran conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T07:34:34Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "Physicists create first computer model of 'ideal glass'",
         "url": "https://www.perplexity.ai/page/physicists-create-first-comput-3sI0sqTMQLyGruaEVGp9DA",
@@ -2423,33 +2414,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-02-27T23:34:10Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Slovak PM says Ukraine unwilling to restart Druzhba oil flow",
-        "url": "https://www.perplexity.ai/page/slovak-pm-says-ukraine-unwilli-YgMY3JCYQzGNrMOPEvDBDA",
-        "description": "Slovakia's prime minister spoke with Zelenskyy on Friday but said Kyiv rejected a joint inspection proposal, deepening a dispute that has stalled EU sanctions and aid.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T20:56:24Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Pentagon laser accidentally downs a Border Patrol drone in Texas",
-        "url": "https://www.perplexity.ai/page/pentagon-laser-accidentally-do-hjxSMUoARQSIfxlMPUs8bA",
-        "description": "The military mistakenly shot down a CBP drone near Fort Hancock, marking the second border laser incident this month and drawing Democratic accusations of incompetence.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T20:24:57Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Court lets Trump end union bargaining for federal workers",
-        "url": "https://www.perplexity.ai/page/court-lets-trump-end-union-bar-xIhWQCXITIKT0aYK77l6_g",
-        "description": "The Ninth Circuit vacated an injunction blocking the president's executive order, which strips collective bargaining rights from hundreds of thousands of employees.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T23:28:48Z",
         "sourceCount": "14 sources"
       }
     ],
