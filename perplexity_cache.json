@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. gas prices jump 27 cents in a week amid Iran war",
+      "url": "https://www.perplexity.ai/page/u-s-gas-prices-jump-27-cents-i-lrRwsVT3RiOsF88bdh2dhA",
+      "description": "The national average hit $3.25 per gallon as the Strait of Hormuz blockade chokes global oil supply, according to AAA.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T18:42:57Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Hungary detains Ukrainian bank staff, seizes cash and gold in convoy",
       "url": "https://www.perplexity.ai/page/hungary-detains-ukrainian-bank-CU75Qsc8QFW6xvhUm1LuTw",
       "description": "Kyiv accused Budapest of \"state terrorism\" after seven Oschadbank employees were intercepted carrying tens of millions in cash and gold.",
@@ -46,13 +55,13 @@
       "sourceCount": "47 sources"
     },
     {
-      "title": "Kuwait cuts oil output as storage fills amid Hormuz blockade",
-      "url": "https://www.perplexity.ai/page/kuwait-cuts-oil-output-as-stor-dMSLuz4hQ66IMnDsVdRKxw",
-      "description": "The OPEC founding member may limit production to domestic-only levels within days as the Gulf storage crisis spreads from Iraq.",
+      "title": "UK arrests four men suspected of spying on Jewish sites for Iran",
+      "url": "https://www.perplexity.ai/page/uk-arrests-four-men-suspected-RL35x1RzQGOD88_GtP1znQ",
+      "description": "Counter-terrorism police detained one Iranian national and three dual British-Iranian citizens in a pre-dawn operation across London.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T14:23:24Z",
-      "sourceCount": "34 sources"
+      "pubDate": "2026-03-06T14:19:12Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Trump demands 'unconditional surrender' as Iran war enters Day 7",
@@ -62,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T14:29:04Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "UK arrests four men suspected of spying on Jewish sites for Iran",
-      "url": "https://www.perplexity.ai/page/uk-arrests-four-men-suspected-RL35x1RzQGOD88_GtP1znQ",
-      "description": "Counter-terrorism police detained one Iranian national and three dual British-Iranian citizens in a pre-dawn operation across London.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T14:19:12Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "US economy sheds 92,000 jobs in February, defying forecasts",
@@ -89,15 +89,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T12:48:30Z",
       "sourceCount": "46 sources"
-    },
-    {
-      "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
-      "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
-      "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T12:26:17Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
@@ -1018,9 +1009,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-06T18:33:21Z",
+  "cached_at": "2026-03-06T18:58:10Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. gas prices jump 27 cents in a week amid Iran war",
+        "url": "https://www.perplexity.ai/page/u-s-gas-prices-jump-27-cents-i-lrRwsVT3RiOsF88bdh2dhA",
+        "description": "The national average hit $3.25 per gallon as the Strait of Hormuz blockade chokes global oil supply, according to AAA.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T18:42:57Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Hungary detains Ukrainian bank staff, seizes cash and gold in convoy",
         "url": "https://www.perplexity.ai/page/hungary-detains-ukrainian-bank-CU75Qsc8QFW6xvhUm1LuTw",
@@ -1067,13 +1067,13 @@
         "sourceCount": "47 sources"
       },
       {
-        "title": "Kuwait cuts oil output as storage fills amid Hormuz blockade",
-        "url": "https://www.perplexity.ai/page/kuwait-cuts-oil-output-as-stor-dMSLuz4hQ66IMnDsVdRKxw",
-        "description": "The OPEC founding member may limit production to domestic-only levels within days as the Gulf storage crisis spreads from Iraq.",
+        "title": "UK arrests four men suspected of spying on Jewish sites for Iran",
+        "url": "https://www.perplexity.ai/page/uk-arrests-four-men-suspected-RL35x1RzQGOD88_GtP1znQ",
+        "description": "Counter-terrorism police detained one Iranian national and three dual British-Iranian citizens in a pre-dawn operation across London.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T14:23:24Z",
-        "sourceCount": "34 sources"
+        "pubDate": "2026-03-06T14:19:12Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Trump demands 'unconditional surrender' as Iran war enters Day 7",
@@ -1083,15 +1083,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T14:29:04Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "UK arrests four men suspected of spying on Jewish sites for Iran",
-        "url": "https://www.perplexity.ai/page/uk-arrests-four-men-suspected-RL35x1RzQGOD88_GtP1znQ",
-        "description": "Counter-terrorism police detained one Iranian national and three dual British-Iranian citizens in a pre-dawn operation across London.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T14:19:12Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "US economy sheds 92,000 jobs in February, defying forecasts",
@@ -1110,15 +1101,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T12:48:30Z",
         "sourceCount": "46 sources"
-      },
-      {
-        "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
-        "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
-        "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T12:26:17Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
