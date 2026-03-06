@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Iran war costs nearly $900M a day as oil hits 2-year high",
-      "url": "https://www.perplexity.ai/page/iran-war-costs-nearly-900m-a-d-YTLe0chLT42Rgslgfe6_9A",
-      "description": "A week into Operation Epic Fury, Tehran faces its heaviest bombardment yet while the Strait of Hormuz closure drives crude prices and market losses higher.",
+      "title": "US Customs says tariff refund system will be ready in 45 days",
+      "url": "https://www.perplexity.ai/page/us-customs-says-tariff-refund-rOgvXrbXQ1KDopi.KoLzLA",
+      "description": "The agency told a trade court judge it is building a system to process up to $175 billion in refunds from tariffs the Supreme Court struck down.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T17:26:02Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-06T17:47:01Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "Hungary detains Ukrainian bank staff, seizes cash and gold in convoy",
@@ -107,15 +107,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T09:17:57Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "US judge to hold closed-door talks on $175B tariff refund process",
-      "url": "https://www.perplexity.ai/page/us-judge-to-hold-closed-door-t-zd29_s9QQymMgYGqjrGSkA",
-      "description": "A trade court judge is meeting Friday with government lawyers to establish how to reimburse more than 300,000 importers who paid tariffs struck down by the Supreme Court.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T08:32:44Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
@@ -631,15 +622,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "White House to meet defense firms as Iran strikes deplete US munitions",
-      "url": "https://www.perplexity.ai/page/white-house-to-meet-defense-fi-dOpSSvHwS_CGr0knslJuaw",
-      "description": "The Trump administration plans to convene arms industry leaders Friday to accelerate weapons production as a supplemental budget of around $50 billion takes shape.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T11:20:35Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Cooper, Whatley win NC Senate primary showdown",
       "url": "https://www.perplexity.ai/page/cooper-whatley-win-nc-senate-p-Xl8T7L17RXGZ6fxTrxqWZg",
       "description": "The former Democratic governor and Trump-backed ex-RNC co-chair will face off in a race that could help decide Senate control.",
@@ -649,15 +631,6 @@
       "sourceCount": "12 sources"
     },
     {
-      "title": "Israel vows to assassinate Khamenei's successor as son Mojtaba reportedly chosen",
-      "url": "https://www.perplexity.ai/page/israel-vows-to-assassinate-kha-CB5tR7SHTeyzI2dwsND5wA",
-      "description": "Iran's Assembly of Experts named Mojtaba Khamenei as supreme leader under IRGC pressure, days after his father was killed in a U.S.-Israeli strike.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T09:55:54Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Kuwaiti F/A-18 pilot fired 3 missiles that downed U.S. F-15s, reports say",
       "url": "https://www.perplexity.ai/page/kuwaiti-f-a-18-pilot-fired-3-m-3GW9KndnR7C_R.J4T2QFLA",
       "description": "Initial reports point to a single Kuwaiti fighter jet, not ground-based air defenses, as the source of the friendly fire incident that destroyed three American warplanes.",
@@ -665,6 +638,15 @@
       "topic": "top",
       "pubDate": "2026-03-04T03:43:58Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Israel vows to assassinate Khamenei's successor as son Mojtaba reportedly chosen",
+      "url": "https://www.perplexity.ai/page/israel-vows-to-assassinate-kha-CB5tR7SHTeyzI2dwsND5wA",
+      "description": "Iran's Assembly of Experts named Mojtaba Khamenei as supreme leader under IRGC pressure, days after his father was killed in a U.S.-Israeli strike.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-04T09:55:54Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Hinojosa wins Texas Democratic primary, will face Abbott in November",
@@ -1027,17 +1009,17 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-06T17:37:54Z",
+  "cached_at": "2026-03-06T17:55:05Z",
   "topics": {
     "top": [
       {
-        "title": "Iran war costs nearly $900M a day as oil hits 2-year high",
-        "url": "https://www.perplexity.ai/page/iran-war-costs-nearly-900m-a-d-YTLe0chLT42Rgslgfe6_9A",
-        "description": "A week into Operation Epic Fury, Tehran faces its heaviest bombardment yet while the Strait of Hormuz closure drives crude prices and market losses higher.",
+        "title": "US Customs says tariff refund system will be ready in 45 days",
+        "url": "https://www.perplexity.ai/page/us-customs-says-tariff-refund-rOgvXrbXQ1KDopi.KoLzLA",
+        "description": "The agency told a trade court judge it is building a system to process up to $175 billion in refunds from tariffs the Supreme Court struck down.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T17:26:02Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-06T17:47:01Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "Hungary detains Ukrainian bank staff, seizes cash and gold in convoy",
@@ -1137,15 +1119,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T09:17:57Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "US judge to hold closed-door talks on $175B tariff refund process",
-        "url": "https://www.perplexity.ai/page/us-judge-to-hold-closed-door-t-zd29_s9QQymMgYGqjrGSkA",
-        "description": "A trade court judge is meeting Friday with government lawyers to establish how to reimburse more than 300,000 importers who paid tariffs struck down by the Supreme Court.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T08:32:44Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
@@ -1661,15 +1634,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "White House to meet defense firms as Iran strikes deplete US munitions",
-        "url": "https://www.perplexity.ai/page/white-house-to-meet-defense-fi-dOpSSvHwS_CGr0knslJuaw",
-        "description": "The Trump administration plans to convene arms industry leaders Friday to accelerate weapons production as a supplemental budget of around $50 billion takes shape.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T11:20:35Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Cooper, Whatley win NC Senate primary showdown",
         "url": "https://www.perplexity.ai/page/cooper-whatley-win-nc-senate-p-Xl8T7L17RXGZ6fxTrxqWZg",
         "description": "The former Democratic governor and Trump-backed ex-RNC co-chair will face off in a race that could help decide Senate control.",
@@ -1679,15 +1643,6 @@
         "sourceCount": "12 sources"
       },
       {
-        "title": "Israel vows to assassinate Khamenei's successor as son Mojtaba reportedly chosen",
-        "url": "https://www.perplexity.ai/page/israel-vows-to-assassinate-kha-CB5tR7SHTeyzI2dwsND5wA",
-        "description": "Iran's Assembly of Experts named Mojtaba Khamenei as supreme leader under IRGC pressure, days after his father was killed in a U.S.-Israeli strike.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T09:55:54Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Kuwaiti F/A-18 pilot fired 3 missiles that downed U.S. F-15s, reports say",
         "url": "https://www.perplexity.ai/page/kuwaiti-f-a-18-pilot-fired-3-m-3GW9KndnR7C_R.J4T2QFLA",
         "description": "Initial reports point to a single Kuwaiti fighter jet, not ground-based air defenses, as the source of the friendly fire incident that destroyed three American warplanes.",
@@ -1695,6 +1650,15 @@
         "topic": "top",
         "pubDate": "2026-03-04T03:43:58Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Israel vows to assassinate Khamenei's successor as son Mojtaba reportedly chosen",
+        "url": "https://www.perplexity.ai/page/israel-vows-to-assassinate-kha-CB5tR7SHTeyzI2dwsND5wA",
+        "description": "Iran's Assembly of Experts named Mojtaba Khamenei as supreme leader under IRGC pressure, days after his father was killed in a U.S.-Israeli strike.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-04T09:55:54Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Hinojosa wins Texas Democratic primary, will face Abbott in November",
