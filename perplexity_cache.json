@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Bessent says US may ease more Russia oil sanctions",
+      "url": "https://www.perplexity.ai/page/bessent-says-us-may-ease-more-AVg3s2j.TwK..e9j19eC3A",
+      "description": "The Treasury secretary's comments came a day after Washington granted India a 30-day waiver to buy sanctioned Russian crude stranded at sea.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T22:30:02Z",
+      "sourceCount": "49 sources"
+    },
+    {
       "title": "White House expects Iran operation to take 4 to 6 weeks",
       "url": "https://www.perplexity.ai/page/white-house-expects-iran-opera-lHnZaukJRiylrTWNet79cA",
       "description": "Spokeswoman Karoline Leavitt said the U.S. has sunk over 30 Iranian vessels and cut retaliatory missile strikes by 90% in seven days.",
@@ -1036,9 +1045,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-06T22:29:14Z",
+  "cached_at": "2026-03-06T22:47:08Z",
   "topics": {
     "top": [
+      {
+        "title": "Bessent says US may ease more Russia oil sanctions",
+        "url": "https://www.perplexity.ai/page/bessent-says-us-may-ease-more-AVg3s2j.TwK..e9j19eC3A",
+        "description": "The Treasury secretary's comments came a day after Washington granted India a 30-day waiver to buy sanctioned Russian crude stranded at sea.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T22:30:02Z",
+        "sourceCount": "49 sources"
+      },
       {
         "title": "White House expects Iran operation to take 4 to 6 weeks",
         "url": "https://www.perplexity.ai/page/white-house-expects-iran-opera-lHnZaukJRiylrTWNet79cA",
