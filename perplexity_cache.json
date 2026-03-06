@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Hungary detains Ukrainian bank staff, seizes cash and gold in convoy",
-      "url": "https://www.perplexity.ai/page/hungary-detains-ukrainian-bank-CU75Qsc8QFW6xvhUm1LuTw",
-      "description": "Kyiv accused Budapest of \"state terrorism\" after seven Oschadbank employees were intercepted carrying tens of millions in cash and gold.",
+      "title": "Lewandowski leaves DHS after Noem's firing as secretary",
+      "url": "https://www.perplexity.ai/page/lewandowski-leaves-dhs-after-n-.4gPuofZTR2RAkqaMOYkGQ",
+      "description": "Trump adviser Corey Lewandowski wielded outsized power as Noem's unofficial chief of staff despite holding unpaid, part-time status.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T17:03:00Z",
-      "sourceCount": "24 sources"
+      "pubDate": "2026-03-06T20:08:28Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "US push for Venezuela mining access threatens environmental crisis",
@@ -989,46 +989,19 @@
       "topic": "top",
       "pubDate": "2026-03-02T14:52:28Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Epstein files show doctors shared women's health records with him",
-      "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
-      "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-01T03:54:28Z",
-      "sourceCount": "40 sources"
-    },
-    {
-      "title": "Trump says he'll attend Correspondents' Dinner for first time as president",
-      "url": "https://www.perplexity.ai/page/trump-says-he-ll-attend-corres-Nt_vw8ZqSGaEgiq3zaZIIw",
-      "description": "The announcement ends a years-long boycott of the annual press dinner, which Trump skipped throughout his entire first term.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T23:58:19Z",
-      "sourceCount": "12 sources"
-    },
-    {
-      "title": "Putin calls Gulf leaders as Iran conflict widens",
-      "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
-      "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T15:01:40Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-06T20:18:11Z",
+  "cached_at": "2026-03-06T20:36:25Z",
   "topics": {
     "top": [
       {
-        "title": "Hungary detains Ukrainian bank staff, seizes cash and gold in convoy",
-        "url": "https://www.perplexity.ai/page/hungary-detains-ukrainian-bank-CU75Qsc8QFW6xvhUm1LuTw",
-        "description": "Kyiv accused Budapest of \"state terrorism\" after seven Oschadbank employees were intercepted carrying tens of millions in cash and gold.",
+        "title": "Lewandowski leaves DHS after Noem's firing as secretary",
+        "url": "https://www.perplexity.ai/page/lewandowski-leaves-dhs-after-n-.4gPuofZTR2RAkqaMOYkGQ",
+        "description": "Trump adviser Corey Lewandowski wielded outsized power as Noem's unofficial chief of staff despite holding unpaid, part-time status.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T17:03:00Z",
-        "sourceCount": "24 sources"
+        "pubDate": "2026-03-06T20:08:28Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "US push for Venezuela mining access threatens environmental crisis",
@@ -2010,33 +1983,6 @@
         "topic": "top",
         "pubDate": "2026-03-02T14:52:28Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Epstein files show doctors shared women's health records with him",
-        "url": "https://www.perplexity.ai/page/epstein-files-show-doctors-sha-_FGf4fPITemetPbgAOOHRg",
-        "description": "More than 15,000 newly released documents reveal how elite physicians bent ethical rules to serve the sex offender and the women he controlled.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-01T03:54:28Z",
-        "sourceCount": "40 sources"
-      },
-      {
-        "title": "Trump says he'll attend Correspondents' Dinner for first time as president",
-        "url": "https://www.perplexity.ai/page/trump-says-he-ll-attend-corres-Nt_vw8ZqSGaEgiq3zaZIIw",
-        "description": "The announcement ends a years-long boycott of the annual press dinner, which Trump skipped throughout his entire first term.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T23:58:19Z",
-        "sourceCount": "12 sources"
-      },
-      {
-        "title": "Putin calls Gulf leaders as Iran conflict widens",
-        "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
-        "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T15:01:40Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
