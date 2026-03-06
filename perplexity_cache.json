@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "AI and 3D printing accelerate heat-resistant alloy design for defense",
+      "url": "https://www.perplexity.ai/page/ai-and-3d-printing-accelerate-Ide4jk8_SYeySmndaXlyYA",
+      "description": "Researchers at Arizona State University and UNSW Sydney are using reinforcement learning to design new refractory alloys optimized for 3D printing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T05:53:44Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
+      "url": "https://www.perplexity.ai/page/jimmy-lai-won-t-appeal-20-year-eUrZWPrEQDejdzuPWG_x7w",
+      "description": "The 78-year-old Apple Daily founder's legal team confirmed the decision without explanation, closing one of Hong Kong's most prominent national security cases.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T05:37:39Z",
+      "sourceCount": "13 sources"
+    },
+    {
       "title": "Texas Rep. Tony Gonzales ends reelection bid amid ethics probe",
       "url": "https://www.perplexity.ai/page/texas-rep-tony-gonzales-ends-r-SpoJ5VLZRKmZz78NqZJd0g",
       "description": "The Texas Republican withdrew hours after House Speaker Mike Johnson and GOP leadership publicly called on him to end his campaign.",
@@ -1205,38 +1223,29 @@
       "topic": "top",
       "pubDate": "2026-02-27T23:28:48Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "DOJ indicts 30 more over anti-ICE church protest in Minnesota",
-      "url": "https://www.perplexity.ai/page/doj-indicts-30-more-over-anti-2MR0cZ6CSNqjwYLLvpqXQg",
-      "description": "Attorney General Bondi said 25 of the newly charged defendants have been arrested, bringing the total number indicted in the case to 39.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T18:58:02Z",
-      "sourceCount": "43 sources"
-    },
-    {
-      "title": "Satellite images reveal US military buildup at Saudi airbase",
-      "url": "https://www.perplexity.ai/page/satellite-images-reveal-us-mil-c9r3opa_RCenZ5KvS3fJRw",
-      "description": "Aircraft at Prince Sultan Airbase jumped from 27 to 43 over four days in February as the US ramps up its largest Middle East deployment in two decades.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T19:00:04Z",
-      "sourceCount": "51 sources"
-    },
-    {
-      "title": "Trump tells homebuyers to 'wait a little longer' for lower mortgage rates",
-      "url": "https://www.perplexity.ai/page/trump-tells-homebuyers-to-wait-Y8LZXRtWTvqLZdMidYARvQ",
-      "description": "The president urged patience on housing costs as rates hit a three-year low but sales slumped to their weakest pace in over two years.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-02-27T21:09:08Z",
-      "sourceCount": "61 sources"
     }
   ],
-  "cached_at": "2026-03-06T05:48:26Z",
+  "cached_at": "2026-03-06T06:06:23Z",
   "topics": {
     "top": [
+      {
+        "title": "AI and 3D printing accelerate heat-resistant alloy design for defense",
+        "url": "https://www.perplexity.ai/page/ai-and-3d-printing-accelerate-Ide4jk8_SYeySmndaXlyYA",
+        "description": "Researchers at Arizona State University and UNSW Sydney are using reinforcement learning to design new refractory alloys optimized for 3D printing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T05:53:44Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
+        "url": "https://www.perplexity.ai/page/jimmy-lai-won-t-appeal-20-year-eUrZWPrEQDejdzuPWG_x7w",
+        "description": "The 78-year-old Apple Daily founder's legal team confirmed the decision without explanation, closing one of Hong Kong's most prominent national security cases.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T05:37:39Z",
+        "sourceCount": "13 sources"
+      },
       {
         "title": "Texas Rep. Tony Gonzales ends reelection bid amid ethics probe",
         "url": "https://www.perplexity.ai/page/texas-rep-tony-gonzales-ends-r-SpoJ5VLZRKmZz78NqZJd0g",
@@ -2442,33 +2451,6 @@
         "topic": "top",
         "pubDate": "2026-02-27T23:28:48Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "DOJ indicts 30 more over anti-ICE church protest in Minnesota",
-        "url": "https://www.perplexity.ai/page/doj-indicts-30-more-over-anti-2MR0cZ6CSNqjwYLLvpqXQg",
-        "description": "Attorney General Bondi said 25 of the newly charged defendants have been arrested, bringing the total number indicted in the case to 39.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T18:58:02Z",
-        "sourceCount": "43 sources"
-      },
-      {
-        "title": "Satellite images reveal US military buildup at Saudi airbase",
-        "url": "https://www.perplexity.ai/page/satellite-images-reveal-us-mil-c9r3opa_RCenZ5KvS3fJRw",
-        "description": "Aircraft at Prince Sultan Airbase jumped from 27 to 43 over four days in February as the US ramps up its largest Middle East deployment in two decades.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T19:00:04Z",
-        "sourceCount": "51 sources"
-      },
-      {
-        "title": "Trump tells homebuyers to 'wait a little longer' for lower mortgage rates",
-        "url": "https://www.perplexity.ai/page/trump-tells-homebuyers-to-wait-Y8LZXRtWTvqLZdMidYARvQ",
-        "description": "The president urged patience on housing costs as rates hit a three-year low but sales slumped to their weakest pace in over two years.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-02-27T21:09:08Z",
-        "sourceCount": "61 sources"
       }
     ],
     "tech": [],
