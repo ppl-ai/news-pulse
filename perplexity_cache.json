@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US economy sheds 92,000 jobs in February, defying forecasts",
+      "url": "https://www.perplexity.ai/page/us-economy-sheds-92000-jobs-in-76UYyjRKRxiMrxvFodBoxQ",
+      "description": "The unemployment rate rose to 4.4% as employers cut payrolls instead of adding the 59,000 jobs economists had expected.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T13:52:48Z",
+      "sourceCount": "46 sources"
+    },
+    {
       "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
       "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
       "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
@@ -26,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T08:32:44Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Physicists create first computer model of 'ideal glass'",
-      "url": "https://www.perplexity.ai/page/physicists-create-first-comput-3sI0sqTMQLyGruaEVGp9DA",
-      "description": "University of Oregon researchers used simulations to construct a long-theorized material that behaves like a crystal despite having no crystalline order.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T07:06:00Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
@@ -1018,9 +1018,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-06T14:00:53Z",
+  "cached_at": "2026-03-06T14:21:19Z",
   "topics": {
     "top": [
+      {
+        "title": "US economy sheds 92,000 jobs in February, defying forecasts",
+        "url": "https://www.perplexity.ai/page/us-economy-sheds-92000-jobs-in-76UYyjRKRxiMrxvFodBoxQ",
+        "description": "The unemployment rate rose to 4.4% as employers cut payrolls instead of adding the 59,000 jobs economists had expected.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T13:52:48Z",
+        "sourceCount": "46 sources"
+      },
       {
         "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
         "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
@@ -1047,15 +1056,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T08:32:44Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Physicists create first computer model of 'ideal glass'",
-        "url": "https://www.perplexity.ai/page/physicists-create-first-comput-3sI0sqTMQLyGruaEVGp9DA",
-        "description": "University of Oregon researchers used simulations to construct a long-theorized material that behaves like a crystal despite having no crystalline order.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T07:06:00Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
