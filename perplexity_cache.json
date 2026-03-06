@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "White House expects Iran operation to take 4 to 6 weeks",
+      "url": "https://www.perplexity.ai/page/white-house-expects-iran-opera-lHnZaukJRiylrTWNet79cA",
+      "description": "Spokeswoman Karoline Leavitt said the U.S. has sunk over 30 Iranian vessels and cut retaliatory missile strikes by 90% in seven days.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T22:03:36Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Judge skeptical of Pentagon rules barring unapproved reporting by journalists",
+      "url": "https://www.perplexity.ai/page/judge-skeptical-of-pentagon-ru-fo_iWXd6Sn6L6yYjYEibNg",
+      "description": "U.S. District Judge Paul Friedman sharply questioned the government's defense of press restrictions, telling the courtroom \"asking a question is not criminal.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T21:48:13Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "US, Ukraine discuss free-trade pact and recovery fund, minister says",
       "url": "https://www.perplexity.ai/page/us-ukraine-discuss-free-trade-.h0jtCwaSUuHrI1GcNUrpQ",
       "description": "Ukraine's economy minister said negotiators are working on a trade agreement and sovereign fund as part of a broader postwar prosperity package.",
@@ -1018,9 +1036,27 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-06T22:13:05Z",
+  "cached_at": "2026-03-06T22:29:14Z",
   "topics": {
     "top": [
+      {
+        "title": "White House expects Iran operation to take 4 to 6 weeks",
+        "url": "https://www.perplexity.ai/page/white-house-expects-iran-opera-lHnZaukJRiylrTWNet79cA",
+        "description": "Spokeswoman Karoline Leavitt said the U.S. has sunk over 30 Iranian vessels and cut retaliatory missile strikes by 90% in seven days.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T22:03:36Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Judge skeptical of Pentagon rules barring unapproved reporting by journalists",
+        "url": "https://www.perplexity.ai/page/judge-skeptical-of-pentagon-ru-fo_iWXd6Sn6L6yYjYEibNg",
+        "description": "U.S. District Judge Paul Friedman sharply questioned the government's defense of press restrictions, telling the courtroom \"asking a question is not criminal.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T21:48:13Z",
+        "sourceCount": "37 sources"
+      },
       {
         "title": "US, Ukraine discuss free-trade pact and recovery fund, minister says",
         "url": "https://www.perplexity.ai/page/us-ukraine-discuss-free-trade-.h0jtCwaSUuHrI1GcNUrpQ",
