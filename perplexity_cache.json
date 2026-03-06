@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US, Ukraine discuss free-trade pact and recovery fund, minister says",
+      "url": "https://www.perplexity.ai/page/us-ukraine-discuss-free-trade-.h0jtCwaSUuHrI1GcNUrpQ",
+      "description": "Ukraine's economy minister said negotiators are working on a trade agreement and sovereign fund as part of a broader postwar prosperity package.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T21:29:11Z",
+      "sourceCount": "46 sources"
+    },
+    {
       "title": "Israel bombing western Iran to back Kurdish offensive",
       "url": "https://www.perplexity.ai/page/israel-bombing-western-iran-to-x.H3LLdPRAW68PIPebtuyQ",
       "description": "Sources say thousands of Kurdish fighters are massing on the Iraqi border, preparing to seize Iranian towns within a week.",
@@ -107,6 +116,15 @@
       "topic": "top",
       "pubDate": "2026-03-06T13:43:37Z",
       "sourceCount": "19 sources"
+    },
+    {
+      "title": "Iran reports 1,332 civilian deaths in UN letter on sixth day of war",
+      "url": "https://www.perplexity.ai/page/iran-reports-1332-civilian-dea-oar2Ul7bSjitPXP1m5V.cA",
+      "description": "Tehran's UN envoy urged the Security Council to take \"urgent, collective measures\" to halt US-Israeli strikes on Iranian territory.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T14:15:44Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Axel Springer agrees to buy UK's Telegraph for £575M",
@@ -1000,9 +1018,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-06T21:48:45Z",
+  "cached_at": "2026-03-06T21:59:13Z",
   "topics": {
     "top": [
+      {
+        "title": "US, Ukraine discuss free-trade pact and recovery fund, minister says",
+        "url": "https://www.perplexity.ai/page/us-ukraine-discuss-free-trade-.h0jtCwaSUuHrI1GcNUrpQ",
+        "description": "Ukraine's economy minister said negotiators are working on a trade agreement and sovereign fund as part of a broader postwar prosperity package.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T21:29:11Z",
+        "sourceCount": "46 sources"
+      },
       {
         "title": "Israel bombing western Iran to back Kurdish offensive",
         "url": "https://www.perplexity.ai/page/israel-bombing-western-iran-to-x.H3LLdPRAW68PIPebtuyQ",
@@ -1110,6 +1137,15 @@
         "topic": "top",
         "pubDate": "2026-03-06T13:43:37Z",
         "sourceCount": "19 sources"
+      },
+      {
+        "title": "Iran reports 1,332 civilian deaths in UN letter on sixth day of war",
+        "url": "https://www.perplexity.ai/page/iran-reports-1332-civilian-dea-oar2Ul7bSjitPXP1m5V.cA",
+        "description": "Tehran's UN envoy urged the Security Council to take \"urgent, collective measures\" to halt US-Israeli strikes on Iranian territory.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T14:15:44Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Axel Springer agrees to buy UK's Telegraph for £575M",
