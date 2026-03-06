@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Study finds global warming rate nearly doubled since 2015",
-      "url": "https://www.perplexity.ai/page/study-finds-global-warming-rat-.td07W6HR6eNsU1E09TWRw",
-      "description": "Potsdam Institute researchers say Earth is warming at about 0.35°C per decade, the fastest pace since records began in 1880.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T16:11:49Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "US retail sales fell in January, extending trend",
       "url": "https://www.perplexity.ai/page/us-retail-sales-fell-in-januar-F2RicfmOR7ebGUvj3DyuTA",
       "description": "Consumer spending dropped broadly, with department stores, personal care outlets, and gas stations leading the declines.",
@@ -1018,18 +1009,9 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-06T16:18:19Z",
+  "cached_at": "2026-03-06T16:37:41Z",
   "topics": {
     "top": [
-      {
-        "title": "Study finds global warming rate nearly doubled since 2015",
-        "url": "https://www.perplexity.ai/page/study-finds-global-warming-rat-.td07W6HR6eNsU1E09TWRw",
-        "description": "Potsdam Institute researchers say Earth is warming at about 0.35°C per decade, the fastest pace since records began in 1880.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T16:11:49Z",
-        "sourceCount": "24 sources"
-      },
       {
         "title": "US retail sales fell in January, extending trend",
         "url": "https://www.perplexity.ai/page/us-retail-sales-fell-in-januar-F2RicfmOR7ebGUvj3DyuTA",
