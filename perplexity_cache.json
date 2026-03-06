@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump says Iran seeking deal as US strikes continue",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-seeking-deal-a-tvS6WFD5Snm_yMASU9MGxQ",
-      "description": "The president claimed Iran is calling to negotiate but said Washington is \"in no rush,\" while urging Iranian diplomats worldwide to seek asylum.",
+      "title": "UAE weighs freezing billions in Iranian assets",
+      "url": "https://www.perplexity.ai/page/uae-weighs-freezing-billions-i-LcGxG71fSzKIJe24dy8WSw",
+      "description": "The move would target Tehran's financial networks in Dubai as Iranian missile and drone strikes on the Gulf state enter a second week.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-05T23:49:54Z",
-      "sourceCount": "53 sources"
+      "pubDate": "2026-03-06T00:26:33Z",
+      "sourceCount": "76 sources"
+    },
+    {
+      "title": "Pentagon estimates US war on Iran costs $1 billion a day",
+      "url": "https://www.perplexity.ai/page/pentagon-estimates-us-war-on-i-uBEa_n9dT52Ftbza63FfXg",
+      "description": "Operation Epic Fury's estimated cost of nearly $900 million per day has intensified debate over munitions spending and war powers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T00:23:29Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Ukraine, Russia swap 200 POWs each as peace talks stall over Iran war",
@@ -28,6 +37,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Trump says Iran seeking deal as US strikes continue",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-seeking-deal-a-tvS6WFD5Snm_yMASU9MGxQ",
+      "description": "The president claimed Iran is calling to negotiate but said Washington is \"in no rush,\" while urging Iranian diplomats worldwide to seek asylum.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T23:49:54Z",
+      "sourceCount": "53 sources"
+    },
+    {
       "title": "Over 330,000 displaced across Middle East, UNHCR says",
       "url": "https://www.perplexity.ai/page/over-330000-displaced-across-m-Q7Mj39NgT_2wAbo9qI6Cuw",
       "description": "The UN refugee agency is calling for de-escalation as US-Israeli strikes on Iran and Israeli operations in Lebanon drive a regional displacement crisis.",
@@ -37,15 +55,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "US says it destroyed over 30 Iranian ships in ongoing conflict",
-      "url": "https://www.perplexity.ai/page/us-says-it-destroyed-over-30-i-nhC6e4GdQ9KKN3_K9.UyRw",
-      "description": "Admiral Brad Cooper said the count surpassed 30 vessels as a drone carrier burned, effectively ending Iran's naval presence in the Gulf region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T23:31:28Z",
-      "sourceCount": "46 sources"
-    },
-    {
       "title": "US and Venezuela formally restore diplomatic relations",
       "url": "https://www.perplexity.ai/page/us-and-venezuela-formally-rest-8CsPGI2QTq2rF7Tb0qqBqw",
       "description": "The agreement caps a two-month diplomatic thaw that began after U.S. forces captured President Maduro in a January military raid.",
@@ -53,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-05T23:30:13Z",
       "sourceCount": "102 sources"
+    },
+    {
+      "title": "US says it destroyed over 30 Iranian ships in ongoing conflict",
+      "url": "https://www.perplexity.ai/page/us-says-it-destroyed-over-30-i-nhC6e4GdQ9KKN3_K9.UyRw",
+      "description": "Admiral Brad Cooper said the count surpassed 30 vessels as a drone carrier burned, effectively ending Iran's naval presence in the Gulf region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T23:31:28Z",
+      "sourceCount": "46 sources"
     },
     {
       "title": "Iran blames Israel for Azerbaijan drone strike, denies involvement",
@@ -1252,17 +1270,26 @@
       "sourceCount": "71 sources"
     }
   ],
-  "cached_at": "2026-03-06T00:37:39Z",
+  "cached_at": "2026-03-06T01:08:21Z",
   "topics": {
     "top": [
       {
-        "title": "Trump says Iran seeking deal as US strikes continue",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-seeking-deal-a-tvS6WFD5Snm_yMASU9MGxQ",
-        "description": "The president claimed Iran is calling to negotiate but said Washington is \"in no rush,\" while urging Iranian diplomats worldwide to seek asylum.",
+        "title": "UAE weighs freezing billions in Iranian assets",
+        "url": "https://www.perplexity.ai/page/uae-weighs-freezing-billions-i-LcGxG71fSzKIJe24dy8WSw",
+        "description": "The move would target Tehran's financial networks in Dubai as Iranian missile and drone strikes on the Gulf state enter a second week.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-05T23:49:54Z",
-        "sourceCount": "53 sources"
+        "pubDate": "2026-03-06T00:26:33Z",
+        "sourceCount": "76 sources"
+      },
+      {
+        "title": "Pentagon estimates US war on Iran costs $1 billion a day",
+        "url": "https://www.perplexity.ai/page/pentagon-estimates-us-war-on-i-uBEa_n9dT52Ftbza63FfXg",
+        "description": "Operation Epic Fury's estimated cost of nearly $900 million per day has intensified debate over munitions spending and war powers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T00:23:29Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Ukraine, Russia swap 200 POWs each as peace talks stall over Iran war",
@@ -1283,6 +1310,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Trump says Iran seeking deal as US strikes continue",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-seeking-deal-a-tvS6WFD5Snm_yMASU9MGxQ",
+        "description": "The president claimed Iran is calling to negotiate but said Washington is \"in no rush,\" while urging Iranian diplomats worldwide to seek asylum.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T23:49:54Z",
+        "sourceCount": "53 sources"
+      },
+      {
         "title": "Over 330,000 displaced across Middle East, UNHCR says",
         "url": "https://www.perplexity.ai/page/over-330000-displaced-across-m-Q7Mj39NgT_2wAbo9qI6Cuw",
         "description": "The UN refugee agency is calling for de-escalation as US-Israeli strikes on Iran and Israeli operations in Lebanon drive a regional displacement crisis.",
@@ -1292,15 +1328,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "US says it destroyed over 30 Iranian ships in ongoing conflict",
-        "url": "https://www.perplexity.ai/page/us-says-it-destroyed-over-30-i-nhC6e4GdQ9KKN3_K9.UyRw",
-        "description": "Admiral Brad Cooper said the count surpassed 30 vessels as a drone carrier burned, effectively ending Iran's naval presence in the Gulf region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T23:31:28Z",
-        "sourceCount": "46 sources"
-      },
-      {
         "title": "US and Venezuela formally restore diplomatic relations",
         "url": "https://www.perplexity.ai/page/us-and-venezuela-formally-rest-8CsPGI2QTq2rF7Tb0qqBqw",
         "description": "The agreement caps a two-month diplomatic thaw that began after U.S. forces captured President Maduro in a January military raid.",
@@ -1308,6 +1335,15 @@
         "topic": "top",
         "pubDate": "2026-03-05T23:30:13Z",
         "sourceCount": "102 sources"
+      },
+      {
+        "title": "US says it destroyed over 30 Iranian ships in ongoing conflict",
+        "url": "https://www.perplexity.ai/page/us-says-it-destroyed-over-30-i-nhC6e4GdQ9KKN3_K9.UyRw",
+        "description": "Admiral Brad Cooper said the count surpassed 30 vessels as a drone carrier burned, effectively ending Iran's naval presence in the Gulf region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T23:31:28Z",
+        "sourceCount": "46 sources"
       },
       {
         "title": "Iran blames Israel for Azerbaijan drone strike, denies involvement",
