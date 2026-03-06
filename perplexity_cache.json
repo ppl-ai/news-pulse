@@ -10,6 +10,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "US retail sales fell in January, extending trend",
+      "url": "https://www.perplexity.ai/page/us-retail-sales-fell-in-januar-F2RicfmOR7ebGUvj3DyuTA",
+      "description": "Consumer spending dropped broadly, with department stores, personal care outlets, and gas stations leading the declines.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T14:33:39Z",
+      "sourceCount": "47 sources"
+    },
+    {
       "title": "Kuwait cuts oil output as storage fills amid Hormuz blockade",
       "url": "https://www.perplexity.ai/page/kuwait-cuts-oil-output-as-stor-dMSLuz4hQ66IMnDsVdRKxw",
       "description": "The OPEC founding member may limit production to domestic-only levels within days as the Gulf storage crisis spreads from Iraq.",
@@ -19,15 +28,6 @@
       "sourceCount": "34 sources"
     },
     {
-      "title": "US economy sheds 92,000 jobs in February, defying forecasts",
-      "url": "https://www.perplexity.ai/page/us-economy-sheds-92000-jobs-in-76UYyjRKRxiMrxvFodBoxQ",
-      "description": "The unemployment rate rose to 4.4% as employers cut payrolls instead of adding the 59,000 jobs economists had expected.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T13:52:48Z",
-      "sourceCount": "46 sources"
-    },
-    {
       "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
       "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
       "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
@@ -35,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-03-06T12:26:17Z",
       "sourceCount": "44 sources"
+    },
+    {
+      "title": "US economy sheds 92,000 jobs in February, defying forecasts",
+      "url": "https://www.perplexity.ai/page/us-economy-sheds-92000-jobs-in-76UYyjRKRxiMrxvFodBoxQ",
+      "description": "The unemployment rate rose to 4.4% as employers cut payrolls instead of adding the 59,000 jobs economists had expected.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T13:52:48Z",
+      "sourceCount": "46 sources"
     },
     {
       "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
@@ -1000,7 +1009,7 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-06T15:00:05Z",
+  "cached_at": "2026-03-06T15:20:07Z",
   "topics": {
     "top": [
       {
@@ -1013,6 +1022,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "US retail sales fell in January, extending trend",
+        "url": "https://www.perplexity.ai/page/us-retail-sales-fell-in-januar-F2RicfmOR7ebGUvj3DyuTA",
+        "description": "Consumer spending dropped broadly, with department stores, personal care outlets, and gas stations leading the declines.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T14:33:39Z",
+        "sourceCount": "47 sources"
+      },
+      {
         "title": "Kuwait cuts oil output as storage fills amid Hormuz blockade",
         "url": "https://www.perplexity.ai/page/kuwait-cuts-oil-output-as-stor-dMSLuz4hQ66IMnDsVdRKxw",
         "description": "The OPEC founding member may limit production to domestic-only levels within days as the Gulf storage crisis spreads from Iraq.",
@@ -1022,15 +1040,6 @@
         "sourceCount": "34 sources"
       },
       {
-        "title": "US economy sheds 92,000 jobs in February, defying forecasts",
-        "url": "https://www.perplexity.ai/page/us-economy-sheds-92000-jobs-in-76UYyjRKRxiMrxvFodBoxQ",
-        "description": "The unemployment rate rose to 4.4% as employers cut payrolls instead of adding the 59,000 jobs economists had expected.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T13:52:48Z",
-        "sourceCount": "46 sources"
-      },
-      {
         "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
         "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
         "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
@@ -1038,6 +1047,15 @@
         "topic": "top",
         "pubDate": "2026-03-06T12:26:17Z",
         "sourceCount": "44 sources"
+      },
+      {
+        "title": "US economy sheds 92,000 jobs in February, defying forecasts",
+        "url": "https://www.perplexity.ai/page/us-economy-sheds-92000-jobs-in-76UYyjRKRxiMrxvFodBoxQ",
+        "description": "The unemployment rate rose to 4.4% as employers cut payrolls instead of adding the 59,000 jobs economists had expected.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T13:52:48Z",
+        "sourceCount": "46 sources"
       },
       {
         "title": "Israel launches 'broad-scale' strikes on Tehran, Beirut",
