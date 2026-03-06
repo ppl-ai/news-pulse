@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Boeing nears 500-jet China deal ahead of Trump visit",
-      "url": "https://www.perplexity.ai/page/boeing-nears-500-jet-china-dea-FUF7AzGmTG..mPi0xfvU4g",
-      "description": "Bloomberg reports Boeing is closing in on a 500-plane 737 Max order to be unveiled during Trump's late-March state visit to Beijing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T21:14:19Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Israel bombing western Iran to back Kurdish offensive",
       "url": "https://www.perplexity.ai/page/israel-bombing-western-iran-to-x.H3LLdPRAW68PIPebtuyQ",
       "description": "Sources say thousands of Kurdish fighters are massing on the Iraqi border, preparing to seize Iranian towns within a week.",
@@ -19,15 +10,6 @@
       "sourceCount": "12 sources"
     },
     {
-      "title": "US push for Venezuela mining access threatens environmental crisis",
-      "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
-      "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T16:59:07Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Lewandowski leaves DHS after Noem's firing as secretary",
       "url": "https://www.perplexity.ai/page/lewandowski-leaves-dhs-after-n-.4gPuofZTR2RAkqaMOYkGQ",
       "description": "Trump adviser Corey Lewandowski wielded outsized power as Noem's unofficial chief of staff despite holding unpaid, part-time status.",
@@ -35,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-06T20:08:28Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "US push for Venezuela mining access threatens environmental crisis",
+      "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
+      "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T16:59:07Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Israel escalates Beirut airstrikes as Lebanon death toll tops 200",
@@ -1009,18 +1000,9 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-06T21:17:19Z",
+  "cached_at": "2026-03-06T21:34:42Z",
   "topics": {
     "top": [
-      {
-        "title": "Boeing nears 500-jet China deal ahead of Trump visit",
-        "url": "https://www.perplexity.ai/page/boeing-nears-500-jet-china-dea-FUF7AzGmTG..mPi0xfvU4g",
-        "description": "Bloomberg reports Boeing is closing in on a 500-plane 737 Max order to be unveiled during Trump's late-March state visit to Beijing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T21:14:19Z",
-        "sourceCount": "29 sources"
-      },
       {
         "title": "Israel bombing western Iran to back Kurdish offensive",
         "url": "https://www.perplexity.ai/page/israel-bombing-western-iran-to-x.H3LLdPRAW68PIPebtuyQ",
@@ -1031,15 +1013,6 @@
         "sourceCount": "12 sources"
       },
       {
-        "title": "US push for Venezuela mining access threatens environmental crisis",
-        "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
-        "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T16:59:07Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "Lewandowski leaves DHS after Noem's firing as secretary",
         "url": "https://www.perplexity.ai/page/lewandowski-leaves-dhs-after-n-.4gPuofZTR2RAkqaMOYkGQ",
         "description": "Trump adviser Corey Lewandowski wielded outsized power as Noem's unofficial chief of staff despite holding unpaid, part-time status.",
@@ -1047,6 +1020,15 @@
         "topic": "top",
         "pubDate": "2026-03-06T20:08:28Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "US push for Venezuela mining access threatens environmental crisis",
+        "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
+        "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T16:59:07Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Israel escalates Beirut airstrikes as Lebanon death toll tops 200",
