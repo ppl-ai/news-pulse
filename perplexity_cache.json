@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sri Lanka evacuates second Iranian warship after US sub sinks frigate",
-      "url": "https://www.perplexity.ai/page/sri-lanka-evacuates-second-ira-2ctzLJTKRiWvleeWAhonIw",
-      "description": "Sri Lanka offloaded 208 crew from a second Iranian vessel and took control of the ship a day after a US torpedo attack killed 87 sailors.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T14:46:40Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "US retail sales fell in January, extending trend",
       "url": "https://www.perplexity.ai/page/us-retail-sales-fell-in-januar-F2RicfmOR7ebGUvj3DyuTA",
       "description": "Consumer spending dropped broadly, with department stores, personal care outlets, and gas stations leading the declines.",
@@ -244,13 +235,13 @@
       "sourceCount": "35 sources"
     },
     {
-      "title": "Iran war lifts Russia's oil revenue, but deep discounts limit the gains",
-      "url": "https://www.perplexity.ai/page/iran-war-lifts-russia-s-oil-re-B1vVlGoFQEKk9jFgCUcioQ",
-      "description": "Rising crude prices have boosted Russia's Urals oil from record lows near $40 to above $70, yet sanctions keep discounts at their widest since 2023.",
+      "title": "Zelenskyy says Ukraine-Russia peace talks on hold amid Iran war",
+      "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-russia-kl3tVqvpQc66qxO8yBv4qA",
+      "description": "The Ukrainian president said US-brokered negotiations were postponed indefinitely after the Iran conflict disrupted diplomatic plans and closed UAE airspace.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-05T16:04:23Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-05T11:39:31Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Appeals court backs Trump's power to halt refugee program",
@@ -289,6 +280,15 @@
       "sourceCount": "57 sources"
     },
     {
+      "title": "US submarine sinks Iranian warship, first torpedo strike since WWII",
+      "url": "https://www.perplexity.ai/page/us-submarine-sinks-iranian-war-AUeAI1dWRgi.OR3C1gtRvw",
+      "description": "Sri Lanka recovered 87 bodies and rescued 32 survivors after a Navy sub torpedoed the IRIS Dena in the Indian Ocean amid the widening U.S.-Iran conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-05T12:36:41Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "ECB warns Iran war's economic fallout poses risk to euro zone banks",
       "url": "https://www.perplexity.ai/page/ecb-warns-iran-war-s-economic-lfvtCUKJQai4WiWZ0m__Tw",
       "description": "A senior ECB supervisor said direct bank exposure to the conflict is minimal, but rising energy prices could squeeze borrowers and reignite inflation.",
@@ -296,15 +296,6 @@
       "topic": "top",
       "pubDate": "2026-03-05T10:17:16Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Zelenskyy says Ukraine-Russia peace talks on hold amid Iran war",
-      "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-russia-kl3tVqvpQc66qxO8yBv4qA",
-      "description": "The Ukrainian president said US-brokered negotiations were postponed indefinitely after the Iran conflict disrupted diplomatic plans and closed UAE airspace.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T11:39:31Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Federal panel delays Trump ballroom vote after public outcry",
@@ -1009,18 +1000,9 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-06T15:20:07Z",
+  "cached_at": "2026-03-06T15:39:39Z",
   "topics": {
     "top": [
-      {
-        "title": "Sri Lanka evacuates second Iranian warship after US sub sinks frigate",
-        "url": "https://www.perplexity.ai/page/sri-lanka-evacuates-second-ira-2ctzLJTKRiWvleeWAhonIw",
-        "description": "Sri Lanka offloaded 208 crew from a second Iranian vessel and took control of the ship a day after a US torpedo attack killed 87 sailors.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T14:46:40Z",
-        "sourceCount": "29 sources"
-      },
       {
         "title": "US retail sales fell in January, extending trend",
         "url": "https://www.perplexity.ai/page/us-retail-sales-fell-in-januar-F2RicfmOR7ebGUvj3DyuTA",
@@ -1256,13 +1238,13 @@
         "sourceCount": "35 sources"
       },
       {
-        "title": "Iran war lifts Russia's oil revenue, but deep discounts limit the gains",
-        "url": "https://www.perplexity.ai/page/iran-war-lifts-russia-s-oil-re-B1vVlGoFQEKk9jFgCUcioQ",
-        "description": "Rising crude prices have boosted Russia's Urals oil from record lows near $40 to above $70, yet sanctions keep discounts at their widest since 2023.",
+        "title": "Zelenskyy says Ukraine-Russia peace talks on hold amid Iran war",
+        "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-russia-kl3tVqvpQc66qxO8yBv4qA",
+        "description": "The Ukrainian president said US-brokered negotiations were postponed indefinitely after the Iran conflict disrupted diplomatic plans and closed UAE airspace.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-05T16:04:23Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-05T11:39:31Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Appeals court backs Trump's power to halt refugee program",
@@ -1301,6 +1283,15 @@
         "sourceCount": "57 sources"
       },
       {
+        "title": "US submarine sinks Iranian warship, first torpedo strike since WWII",
+        "url": "https://www.perplexity.ai/page/us-submarine-sinks-iranian-war-AUeAI1dWRgi.OR3C1gtRvw",
+        "description": "Sri Lanka recovered 87 bodies and rescued 32 survivors after a Navy sub torpedoed the IRIS Dena in the Indian Ocean amid the widening U.S.-Iran conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-05T12:36:41Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "ECB warns Iran war's economic fallout poses risk to euro zone banks",
         "url": "https://www.perplexity.ai/page/ecb-warns-iran-war-s-economic-lfvtCUKJQai4WiWZ0m__Tw",
         "description": "A senior ECB supervisor said direct bank exposure to the conflict is minimal, but rising energy prices could squeeze borrowers and reignite inflation.",
@@ -1308,15 +1299,6 @@
         "topic": "top",
         "pubDate": "2026-03-05T10:17:16Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Zelenskyy says Ukraine-Russia peace talks on hold amid Iran war",
-        "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-russia-kl3tVqvpQc66qxO8yBv4qA",
-        "description": "The Ukrainian president said US-brokered negotiations were postponed indefinitely after the Iran conflict disrupted diplomatic plans and closed UAE airspace.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T11:39:31Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Federal panel delays Trump ballroom vote after public outcry",
