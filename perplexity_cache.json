@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Newly revealed DEA probe linked Epstein to ketamine trade",
+      "url": "https://www.perplexity.ai/page/newly-revealed-dea-probe-linke-dqbAOIO5RiauycW33mTtLw",
+      "description": "A newly detailed investigation called \"Operation Chain Reaction\" tracked roughly $50 million in suspicious wire transfers tied to drug trafficking and money laundering.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T16:36:21Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "US retail sales fell in January, extending trend",
       "url": "https://www.perplexity.ai/page/us-retail-sales-fell-in-januar-F2RicfmOR7ebGUvj3DyuTA",
       "description": "Consumer spending dropped broadly, with department stores, personal care outlets, and gas stations leading the declines.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-06T14:33:39Z",
       "sourceCount": "47 sources"
+    },
+    {
+      "title": "Trump demands 'unconditional surrender' as Iran war enters Day 7",
+      "url": "https://www.perplexity.ai/page/trump-demands-unconditional-su-cmsjPebVSEenp_zxTLfQ3w",
+      "description": "Israel struck Tehran and Beirut overnight as Iran fired missiles at Israel, with over 1,000 civilian deaths reported in Iran alone.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T14:29:04Z",
+      "sourceCount": "52 sources"
     },
     {
       "title": "Kuwait cuts oil output as storage fills amid Hormuz blockade",
@@ -1009,9 +1027,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-06T16:37:41Z",
+  "cached_at": "2026-03-06T16:59:10Z",
   "topics": {
     "top": [
+      {
+        "title": "Newly revealed DEA probe linked Epstein to ketamine trade",
+        "url": "https://www.perplexity.ai/page/newly-revealed-dea-probe-linke-dqbAOIO5RiauycW33mTtLw",
+        "description": "A newly detailed investigation called \"Operation Chain Reaction\" tracked roughly $50 million in suspicious wire transfers tied to drug trafficking and money laundering.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T16:36:21Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "US retail sales fell in January, extending trend",
         "url": "https://www.perplexity.ai/page/us-retail-sales-fell-in-januar-F2RicfmOR7ebGUvj3DyuTA",
@@ -1020,6 +1047,15 @@
         "topic": "top",
         "pubDate": "2026-03-06T14:33:39Z",
         "sourceCount": "47 sources"
+      },
+      {
+        "title": "Trump demands 'unconditional surrender' as Iran war enters Day 7",
+        "url": "https://www.perplexity.ai/page/trump-demands-unconditional-su-cmsjPebVSEenp_zxTLfQ3w",
+        "description": "Israel struck Tehran and Beirut overnight as Iran fired missiles at Israel, with over 1,000 civilian deaths reported in Iran alone.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T14:29:04Z",
+        "sourceCount": "52 sources"
       },
       {
         "title": "Kuwait cuts oil output as storage fills amid Hormuz blockade",
