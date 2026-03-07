@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "ALMA finds high methanol levels in interstellar comet 3I/ATLAS",
+      "url": "https://www.perplexity.ai/page/alma-finds-high-methanol-level-los0WCz3Sx2_oxWE6MEqww",
+      "description": "The discovery marks the first time detailed outgassing of methanol from icy grains has been traced in an object from another star system.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T08:51:41Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "CBP says it needs 45 days to build $166B tariff refund system",
       "url": "https://www.perplexity.ai/page/cbp-says-it-needs-45-days-to-b-.Dk9cf6NTVe3qDRz1ewSOg",
       "description": "More than 330,000 importers await reimbursement after the Supreme Court struck down Trump's emergency tariffs last month.",
@@ -1144,9 +1153,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T08:47:17Z",
+  "cached_at": "2026-03-07T08:59:46Z",
   "topics": {
     "top": [
+      {
+        "title": "ALMA finds high methanol levels in interstellar comet 3I/ATLAS",
+        "url": "https://www.perplexity.ai/page/alma-finds-high-methanol-level-los0WCz3Sx2_oxWE6MEqww",
+        "description": "The discovery marks the first time detailed outgassing of methanol from icy grains has been traced in an object from another star system.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T08:51:41Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "CBP says it needs 45 days to build $166B tariff refund system",
         "url": "https://www.perplexity.ai/page/cbp-says-it-needs-45-days-to-b-.Dk9cf6NTVe3qDRz1ewSOg",
