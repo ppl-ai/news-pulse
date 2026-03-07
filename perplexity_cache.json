@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Tech giants back Anthropic as federal AI ban fallout widens",
+      "url": "https://www.perplexity.ai/page/tech-giants-back-anthropic-as-G4QG9pCpSrqFSBGmOF6cRg",
+      "description": "Amazon, Google, and Microsoft confirmed they will continue offering Claude to commercial customers as Anthropic weighs a legal challenge to its Pentagon blacklisting.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T13:39:11Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Reports: Israel used Blue Sparrow missile to kill Khamenei",
       "url": "https://www.perplexity.ai/page/reports-israel-used-blue-sparr-.9m8Y9J2Q56zh9x2W1TByg",
       "description": "The air-launched ballistic missile exits the atmosphere before plunging nearly vertically at hypersonic speed, making it almost impossible to intercept.",
@@ -1162,9 +1171,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T13:34:03Z",
+  "cached_at": "2026-03-07T13:50:44Z",
   "topics": {
     "top": [
+      {
+        "title": "Tech giants back Anthropic as federal AI ban fallout widens",
+        "url": "https://www.perplexity.ai/page/tech-giants-back-anthropic-as-G4QG9pCpSrqFSBGmOF6cRg",
+        "description": "Amazon, Google, and Microsoft confirmed they will continue offering Claude to commercial customers as Anthropic weighs a legal challenge to its Pentagon blacklisting.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T13:39:11Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Reports: Israel used Blue Sparrow missile to kill Khamenei",
         "url": "https://www.perplexity.ai/page/reports-israel-used-blue-sparr-.9m8Y9J2Q56zh9x2W1TByg",
