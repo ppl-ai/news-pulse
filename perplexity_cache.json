@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Trump threatens expanded strikes on Iran as war enters second week",
+      "url": "https://www.perplexity.ai/page/trump-threatens-expanded-strik-RTY31peqRiKx7xEc0D33ZQ",
+      "description": "Iran's president rejected demands for unconditional surrender while apologizing to Gulf neighbors for Iranian strikes as the conflict enters its eighth day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T19:03:46Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Dubai airport resumes flights after Iranian drone explodes near terminal",
+      "url": "https://www.perplexity.ai/page/dubai-airport-resumes-flights-3O0S._4bQWuXEoo_JA0sgQ",
+      "description": "Emirates temporarily halted all operations Saturday after a drone detonated near Concourse A, the second such incident in a week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T19:02:38Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "US deploys third aircraft carrier USS George HW Bush to Middle East",
       "url": "https://www.perplexity.ai/page/us-deploys-third-aircraft-carr-69VieWraTfe62sB8KZ6YMQ",
       "description": "The deployment would create the largest American naval aviation presence in the Middle East since the 2003 invasion of Iraq.",
@@ -325,13 +343,22 @@
       "sourceCount": "46 sources"
     },
     {
-      "title": "Trump demands 'unconditional surrender' as Iran war enters Day 7",
-      "url": "https://www.perplexity.ai/page/trump-demands-unconditional-su-cmsjPebVSEenp_zxTLfQ3w",
-      "description": "Israel struck Tehran and Beirut overnight as Iran fired missiles at Israel, with over 1,000 civilian deaths reported in Iran alone.",
+      "title": "Iran reports 1,332 civilian deaths in UN letter on sixth day of war",
+      "url": "https://www.perplexity.ai/page/iran-reports-1332-civilian-dea-oar2Ul7bSjitPXP1m5V.cA",
+      "description": "Tehran's UN envoy urged the Security Council to take \"urgent, collective measures\" to halt US-Israeli strikes on Iranian territory.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T14:29:04Z",
-      "sourceCount": "52 sources"
+      "pubDate": "2026-03-06T14:15:44Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Iceland sets Aug. 29 referendum on resuming EU talks",
+      "url": "https://www.perplexity.ai/page/iceland-sets-aug-29-referendum-BJehJoQxRheI3dlQ6xKdUw",
+      "description": "The government unanimously agreed to fast-track the vote, originally pledged for 2027, amid security concerns tied to Trump's Greenland threats.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T13:43:37Z",
+      "sourceCount": "19 sources"
     },
     {
       "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
@@ -350,24 +377,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T05:37:39Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "Iran reports 1,332 civilian deaths in UN letter on sixth day of war",
-      "url": "https://www.perplexity.ai/page/iran-reports-1332-civilian-dea-oar2Ul7bSjitPXP1m5V.cA",
-      "description": "Tehran's UN envoy urged the Security Council to take \"urgent, collective measures\" to halt US-Israeli strikes on Iranian territory.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T14:15:44Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "Iceland sets Aug. 29 referendum on resuming EU talks",
-      "url": "https://www.perplexity.ai/page/iceland-sets-aug-29-referendum-BJehJoQxRheI3dlQ6xKdUw",
-      "description": "The government unanimously agreed to fast-track the vote, originally pledged for 2027, amid security concerns tied to Trump's Greenland threats.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T13:43:37Z",
-      "sourceCount": "19 sources"
     },
     {
       "title": "Texas Rep. Tony Gonzales ends reelection bid amid ethics probe",
@@ -1189,9 +1198,27 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T19:01:47Z",
+  "cached_at": "2026-03-07T19:14:01Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump threatens expanded strikes on Iran as war enters second week",
+        "url": "https://www.perplexity.ai/page/trump-threatens-expanded-strik-RTY31peqRiKx7xEc0D33ZQ",
+        "description": "Iran's president rejected demands for unconditional surrender while apologizing to Gulf neighbors for Iranian strikes as the conflict enters its eighth day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T19:03:46Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Dubai airport resumes flights after Iranian drone explodes near terminal",
+        "url": "https://www.perplexity.ai/page/dubai-airport-resumes-flights-3O0S._4bQWuXEoo_JA0sgQ",
+        "description": "Emirates temporarily halted all operations Saturday after a drone detonated near Concourse A, the second such incident in a week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T19:02:38Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "US deploys third aircraft carrier USS George HW Bush to Middle East",
         "url": "https://www.perplexity.ai/page/us-deploys-third-aircraft-carr-69VieWraTfe62sB8KZ6YMQ",
@@ -1517,13 +1544,22 @@
         "sourceCount": "46 sources"
       },
       {
-        "title": "Trump demands 'unconditional surrender' as Iran war enters Day 7",
-        "url": "https://www.perplexity.ai/page/trump-demands-unconditional-su-cmsjPebVSEenp_zxTLfQ3w",
-        "description": "Israel struck Tehran and Beirut overnight as Iran fired missiles at Israel, with over 1,000 civilian deaths reported in Iran alone.",
+        "title": "Iran reports 1,332 civilian deaths in UN letter on sixth day of war",
+        "url": "https://www.perplexity.ai/page/iran-reports-1332-civilian-dea-oar2Ul7bSjitPXP1m5V.cA",
+        "description": "Tehran's UN envoy urged the Security Council to take \"urgent, collective measures\" to halt US-Israeli strikes on Iranian territory.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T14:29:04Z",
-        "sourceCount": "52 sources"
+        "pubDate": "2026-03-06T14:15:44Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Iceland sets Aug. 29 referendum on resuming EU talks",
+        "url": "https://www.perplexity.ai/page/iceland-sets-aug-29-referendum-BJehJoQxRheI3dlQ6xKdUw",
+        "description": "The government unanimously agreed to fast-track the vote, originally pledged for 2027, amid security concerns tied to Trump's Greenland threats.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T13:43:37Z",
+        "sourceCount": "19 sources"
       },
       {
         "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
@@ -1542,24 +1578,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T05:37:39Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "Iran reports 1,332 civilian deaths in UN letter on sixth day of war",
-        "url": "https://www.perplexity.ai/page/iran-reports-1332-civilian-dea-oar2Ul7bSjitPXP1m5V.cA",
-        "description": "Tehran's UN envoy urged the Security Council to take \"urgent, collective measures\" to halt US-Israeli strikes on Iranian territory.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T14:15:44Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "Iceland sets Aug. 29 referendum on resuming EU talks",
-        "url": "https://www.perplexity.ai/page/iceland-sets-aug-29-referendum-BJehJoQxRheI3dlQ6xKdUw",
-        "description": "The government unanimously agreed to fast-track the vote, originally pledged for 2027, amid security concerns tied to Trump's Greenland threats.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T13:43:37Z",
-        "sourceCount": "19 sources"
       },
       {
         "title": "Texas Rep. Tony Gonzales ends reelection bid amid ethics probe",
