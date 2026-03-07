@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Turkey weighs deploying F-16 jets to Northern Cyprus",
+      "url": "https://www.perplexity.ai/page/turkey-weighs-deploying-f-16-j-uPigpWACR8OXmVUnBpu1yg",
+      "description": "The move follows a wave of European military deployments to the divided island after a drone struck Britain's RAF Akrotiri base last week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T18:06:04Z",
+      "sourceCount": "21 sources"
+    },
+    {
       "title": "Protests erupt across Havana after days without power",
       "url": "https://www.perplexity.ai/page/protests-erupt-across-havana-a-12zcPIs1TOCrwQxTmenCRw",
       "description": "Cubans banged pots and shouted slogans in darkened streets Friday night after enduring up to 80 hours without electricity amid a deepening energy crisis.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-07T18:02:05Z",
       "sourceCount": "52 sources"
+    },
+    {
+      "title": "UAE president declares 'we are no easy prey' as Iranian strikes enter second week",
+      "url": "https://www.perplexity.ai/page/uae-president-declares-we-are-omhy3_f1TUOytf7mIfIFwg",
+      "description": "Mohammed bin Zayed's first public comments since the attacks began came during a hospital visit to wounded civilians in Abu Dhabi.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T18:01:20Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Balen Shah's party heads for landslide in Nepal's post-protest election",
@@ -1162,9 +1180,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T18:14:25Z",
+  "cached_at": "2026-03-07T18:31:19Z",
   "topics": {
     "top": [
+      {
+        "title": "Turkey weighs deploying F-16 jets to Northern Cyprus",
+        "url": "https://www.perplexity.ai/page/turkey-weighs-deploying-f-16-j-uPigpWACR8OXmVUnBpu1yg",
+        "description": "The move follows a wave of European military deployments to the divided island after a drone struck Britain's RAF Akrotiri base last week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T18:06:04Z",
+        "sourceCount": "21 sources"
+      },
       {
         "title": "Protests erupt across Havana after days without power",
         "url": "https://www.perplexity.ai/page/protests-erupt-across-havana-a-12zcPIs1TOCrwQxTmenCRw",
@@ -1173,6 +1200,15 @@
         "topic": "top",
         "pubDate": "2026-03-07T18:02:05Z",
         "sourceCount": "52 sources"
+      },
+      {
+        "title": "UAE president declares 'we are no easy prey' as Iranian strikes enter second week",
+        "url": "https://www.perplexity.ai/page/uae-president-declares-we-are-omhy3_f1TUOytf7mIfIFwg",
+        "description": "Mohammed bin Zayed's first public comments since the attacks began came during a hospital visit to wounded civilians in Abu Dhabi.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T18:01:20Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Balen Shah's party heads for landslide in Nepal's post-protest election",
