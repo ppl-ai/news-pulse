@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "DOGE used ChatGPT to flag humanities grants for cancellation, court filings reveal",
+      "url": "https://www.perplexity.ai/page/doge-used-chatgpt-to-flag-huma-ctErT9g1SkOtENceWoUEdw",
+      "description": "Discovery documents show the efficiency office fed grant descriptions into the AI chatbot to label projects as \"DEI,\" bypassing NEH staff.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T22:18:20Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Iran fires 7 missile barrages at Israel as war enters second week",
       "url": "https://www.perplexity.ai/page/iran-fires-7-missile-barrages-7DntC5uBS128zTboDL1PZg",
       "description": "Israeli defenses intercepted all seven waves of ballistic missiles launched since midnight Saturday, with no injuries reported across central Israel.",
@@ -1171,9 +1180,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T22:59:59Z",
+  "cached_at": "2026-03-07T23:11:43Z",
   "topics": {
     "top": [
+      {
+        "title": "DOGE used ChatGPT to flag humanities grants for cancellation, court filings reveal",
+        "url": "https://www.perplexity.ai/page/doge-used-chatgpt-to-flag-huma-ctErT9g1SkOtENceWoUEdw",
+        "description": "Discovery documents show the efficiency office fed grant descriptions into the AI chatbot to label projects as \"DEI,\" bypassing NEH staff.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T22:18:20Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Iran fires 7 missile barrages at Israel as war enters second week",
         "url": "https://www.perplexity.ai/page/iran-fires-7-missile-barrages-7DntC5uBS128zTboDL1PZg",
