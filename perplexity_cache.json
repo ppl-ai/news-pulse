@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Chinese scientists use AI to build first chemical map of moon's far side",
+      "url": "https://www.perplexity.ai/page/chinese-scientists-use-ai-to-b-Sx3dzAP4Th.PrcO2E8cDDA",
+      "description": "Samples from the Chang'e-6 mission enabled researchers to create the first high-precision global map of major lunar oxides, filling a decades-long blind spot.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T21:38:08Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Iran fires 7 missile barrages at Israel as war enters second week",
       "url": "https://www.perplexity.ai/page/iran-fires-7-missile-barrages-7DntC5uBS128zTboDL1PZg",
       "description": "Israeli defenses intercepted all seven waves of ballistic missiles launched since midnight Saturday, with no injuries reported across central Israel.",
@@ -1189,9 +1198,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T21:38:47Z",
+  "cached_at": "2026-03-07T21:48:49Z",
   "topics": {
     "top": [
+      {
+        "title": "Chinese scientists use AI to build first chemical map of moon's far side",
+        "url": "https://www.perplexity.ai/page/chinese-scientists-use-ai-to-b-Sx3dzAP4Th.PrcO2E8cDDA",
+        "description": "Samples from the Chang'e-6 mission enabled researchers to create the first high-precision global map of major lunar oxides, filling a decades-long blind spot.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T21:38:08Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Iran fires 7 missile barrages at Israel as war enters second week",
         "url": "https://www.perplexity.ai/page/iran-fires-7-missile-barrages-7DntC5uBS128zTboDL1PZg",
