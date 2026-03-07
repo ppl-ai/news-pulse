@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Oil posts strongest weekly gain since 2022 as Hormuz stays shut",
+      "url": "https://www.perplexity.ai/page/oil-posts-strongest-weekly-gai-QA8GMHVMQOe2SVLoCn53KQ",
+      "description": "Brent and WTI crude surged as the U.S.-Israeli conflict with Iran entered its eighth day, effectively closing the strait that carries 20% of global oil.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T15:03:07Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Tech giants back Anthropic as federal AI ban fallout widens",
       "url": "https://www.perplexity.ai/page/tech-giants-back-anthropic-as-G4QG9pCpSrqFSBGmOF6cRg",
       "description": "Amazon, Google, and Microsoft confirmed they will continue offering Claude to commercial customers as Anthropic weighs a legal challenge to its Pentagon blacklisting.",
@@ -316,13 +325,13 @@
       "sourceCount": "46 sources"
     },
     {
-      "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
-      "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
-      "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
+      "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
+      "url": "https://www.perplexity.ai/page/jimmy-lai-won-t-appeal-20-year-eUrZWPrEQDejdzuPWG_x7w",
+      "description": "The 78-year-old Apple Daily founder's legal team confirmed the decision without explanation, closing one of Hong Kong's most prominent national security cases.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T12:26:17Z",
-      "sourceCount": "44 sources"
+      "pubDate": "2026-03-06T05:37:39Z",
+      "sourceCount": "13 sources"
     },
     {
       "title": "Trump demands 'unconditional surrender' as Iran war enters Day 7",
@@ -332,15 +341,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T14:29:04Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
-      "url": "https://www.perplexity.ai/page/jimmy-lai-won-t-appeal-20-year-eUrZWPrEQDejdzuPWG_x7w",
-      "description": "The 78-year-old Apple Daily founder's legal team confirmed the decision without explanation, closing one of Hong Kong's most prominent national security cases.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T05:37:39Z",
-      "sourceCount": "13 sources"
     },
     {
       "title": "Texas Rep. Tony Gonzales ends reelection bid amid ethics probe",
@@ -1162,9 +1162,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T14:54:33Z",
+  "cached_at": "2026-03-07T15:05:23Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil posts strongest weekly gain since 2022 as Hormuz stays shut",
+        "url": "https://www.perplexity.ai/page/oil-posts-strongest-weekly-gai-QA8GMHVMQOe2SVLoCn53KQ",
+        "description": "Brent and WTI crude surged as the U.S.-Israeli conflict with Iran entered its eighth day, effectively closing the strait that carries 20% of global oil.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T15:03:07Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Tech giants back Anthropic as federal AI ban fallout widens",
         "url": "https://www.perplexity.ai/page/tech-giants-back-anthropic-as-G4QG9pCpSrqFSBGmOF6cRg",
@@ -1481,13 +1490,13 @@
         "sourceCount": "46 sources"
       },
       {
-        "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
-        "url": "https://www.perplexity.ai/page/european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
-        "description": "The Strait of Hormuz remains effectively closed to commercial shipping as the U.S.-Iran conflict disrupts nearly 20% of global oil and gas flows.",
+        "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
+        "url": "https://www.perplexity.ai/page/jimmy-lai-won-t-appeal-20-year-eUrZWPrEQDejdzuPWG_x7w",
+        "description": "The 78-year-old Apple Daily founder's legal team confirmed the decision without explanation, closing one of Hong Kong's most prominent national security cases.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T12:26:17Z",
-        "sourceCount": "44 sources"
+        "pubDate": "2026-03-06T05:37:39Z",
+        "sourceCount": "13 sources"
       },
       {
         "title": "Trump demands 'unconditional surrender' as Iran war enters Day 7",
@@ -1497,15 +1506,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T14:29:04Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "Jimmy Lai won't appeal 20-year Hong Kong sentence",
-        "url": "https://www.perplexity.ai/page/jimmy-lai-won-t-appeal-20-year-eUrZWPrEQDejdzuPWG_x7w",
-        "description": "The 78-year-old Apple Daily founder's legal team confirmed the decision without explanation, closing one of Hong Kong's most prominent national security cases.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T05:37:39Z",
-        "sourceCount": "13 sources"
       },
       {
         "title": "Texas Rep. Tony Gonzales ends reelection bid amid ethics probe",
