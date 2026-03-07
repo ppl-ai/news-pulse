@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US suspects Chinese hackers breached FBI wiretap network",
+      "url": "https://www.perplexity.ai/page/us-suspects-chinese-hackers-br-SZ4OG3n7RKW4U.70QYsc7Q",
+      "description": "The Wall Street Journal reported Friday that hackers linked to China's government infiltrated an FBI system holding domestic surveillance data.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T02:00:31Z",
+      "sourceCount": "22 sources"
+    },
+    {
       "title": "Iran's Guards dare US Navy to escort tankers through Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
       "description": "An IRGC spokesperson said Iran \"strongly welcomes\" and awaits the arrival of American forces, warning the U.S. to recall past tanker attacks.",
@@ -19,7 +28,7 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Iran fires new missile waves at Tel Aviv as war enters seventh day",
+      "title": "Iran fires new missile waves at Tel Aviv",
       "url": "https://www.perplexity.ai/page/iran-fires-new-missile-waves-a-mmG889H1QXyFc_PJainckg",
       "description": "The IRGC launched its 21st and 22nd waves of strikes Friday, deploying Khorramshahr-4, Kheibar, and Fattah missiles at central Israel.",
       "source": "Perplexity",
@@ -1054,33 +1063,6 @@
       "sourceCount": "21 sources"
     },
     {
-      "title": "Montana Rep. Zinke won't seek reelection, adding to GOP retirement wave",
-      "url": "https://www.perplexity.ai/page/montana-rep-zinke-won-t-seek-r-UPUFsLUcQ5ejQJ7h5OL_Ng",
-      "description": "The former Navy SEAL and Trump Interior secretary cited lingering military injuries, becoming the latest of more than 30 House Republicans to step aside.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T21:56:39Z",
-      "sourceCount": "9 sources"
-    },
-    {
-      "title": "Supreme Court hears case on gun ban for marijuana users",
-      "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
-      "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T17:09:57Z",
-      "sourceCount": "19 sources"
-    },
-    {
-      "title": "Rubio says US ground troops not needed in Iran",
-      "url": "https://www.perplexity.ai/page/rubio-says-us-ground-troops-no-m7J6cEOHS6iuJiFTw2cJhg",
-      "description": "Secretary of State Rubio told lawmakers the campaign's goals can be met through air and naval power, but Trump hasn't ruled out ground forces.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T00:45:55Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
       "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
       "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
@@ -1099,13 +1081,40 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Netanyahu lobbied Trump for months to launch Iran war",
-      "url": "https://www.perplexity.ai/page/netanyahu-lobbied-trump-for-mo-0LJmtO3sSZm.V8NWxvYdfw",
-      "description": "The detailed account describes the U.S. decision to strike Iran as a major victory for Netanyahu, who first raised the idea in December.",
+      "title": "Rubio says US ground troops not needed in Iran",
+      "url": "https://www.perplexity.ai/page/rubio-says-us-ground-troops-no-m7J6cEOHS6iuJiFTw2cJhg",
+      "description": "Secretary of State Rubio told lawmakers the campaign's goals can be met through air and naval power, but Trump hasn't ruled out ground forces.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-03T00:08:46Z",
-      "sourceCount": "59 sources"
+      "pubDate": "2026-03-03T00:45:55Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Supreme Court hears case on gun ban for marijuana users",
+      "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
+      "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T17:09:57Z",
+      "sourceCount": "19 sources"
+    },
+    {
+      "title": "Putin calls Gulf leaders as Iran conflict widens",
+      "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
+      "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T15:01:40Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Trump says he'll attend Correspondents' Dinner for first time as president",
+      "url": "https://www.perplexity.ai/page/trump-says-he-ll-attend-corres-Nt_vw8ZqSGaEgiq3zaZIIw",
+      "description": "The announcement ends a years-long boycott of the annual press dinner, which Trump skipped throughout his entire first term.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-02T23:58:19Z",
+      "sourceCount": "12 sources"
     },
     {
       "title": "Macron offers to station French nuclear weapons in Europe",
@@ -1117,9 +1126,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T01:44:12Z",
+  "cached_at": "2026-03-07T02:41:59Z",
   "topics": {
     "top": [
+      {
+        "title": "US suspects Chinese hackers breached FBI wiretap network",
+        "url": "https://www.perplexity.ai/page/us-suspects-chinese-hackers-br-SZ4OG3n7RKW4U.70QYsc7Q",
+        "description": "The Wall Street Journal reported Friday that hackers linked to China's government infiltrated an FBI system holding domestic surveillance data.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T02:00:31Z",
+        "sourceCount": "22 sources"
+      },
       {
         "title": "Iran's Guards dare US Navy to escort tankers through Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
@@ -1139,7 +1157,7 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Iran fires new missile waves at Tel Aviv as war enters seventh day",
+        "title": "Iran fires new missile waves at Tel Aviv",
         "url": "https://www.perplexity.ai/page/iran-fires-new-missile-waves-a-mmG889H1QXyFc_PJainckg",
         "description": "The IRGC launched its 21st and 22nd waves of strikes Friday, deploying Khorramshahr-4, Kheibar, and Fattah missiles at central Israel.",
         "source": "Perplexity",
@@ -2174,33 +2192,6 @@
         "sourceCount": "21 sources"
       },
       {
-        "title": "Montana Rep. Zinke won't seek reelection, adding to GOP retirement wave",
-        "url": "https://www.perplexity.ai/page/montana-rep-zinke-won-t-seek-r-UPUFsLUcQ5ejQJ7h5OL_Ng",
-        "description": "The former Navy SEAL and Trump Interior secretary cited lingering military injuries, becoming the latest of more than 30 House Republicans to step aside.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T21:56:39Z",
-        "sourceCount": "9 sources"
-      },
-      {
-        "title": "Supreme Court hears case on gun ban for marijuana users",
-        "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
-        "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T17:09:57Z",
-        "sourceCount": "19 sources"
-      },
-      {
-        "title": "Rubio says US ground troops not needed in Iran",
-        "url": "https://www.perplexity.ai/page/rubio-says-us-ground-troops-no-m7J6cEOHS6iuJiFTw2cJhg",
-        "description": "Secretary of State Rubio told lawmakers the campaign's goals can be met through air and naval power, but Trump hasn't ruled out ground forces.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T00:45:55Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
         "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
         "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
@@ -2219,13 +2210,40 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "Netanyahu lobbied Trump for months to launch Iran war",
-        "url": "https://www.perplexity.ai/page/netanyahu-lobbied-trump-for-mo-0LJmtO3sSZm.V8NWxvYdfw",
-        "description": "The detailed account describes the U.S. decision to strike Iran as a major victory for Netanyahu, who first raised the idea in December.",
+        "title": "Rubio says US ground troops not needed in Iran",
+        "url": "https://www.perplexity.ai/page/rubio-says-us-ground-troops-no-m7J6cEOHS6iuJiFTw2cJhg",
+        "description": "Secretary of State Rubio told lawmakers the campaign's goals can be met through air and naval power, but Trump hasn't ruled out ground forces.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-03T00:08:46Z",
-        "sourceCount": "59 sources"
+        "pubDate": "2026-03-03T00:45:55Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Supreme Court hears case on gun ban for marijuana users",
+        "url": "https://www.perplexity.ai/page/supreme-court-hears-case-on-gu-CrFJwxM1SPqyqL_CSn3gPQ",
+        "description": "The justices weighed whether the federal law barring \"unlawful\" drug users from possessing firearms violates the Second Amendment.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T17:09:57Z",
+        "sourceCount": "19 sources"
+      },
+      {
+        "title": "Putin calls Gulf leaders as Iran conflict widens",
+        "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
+        "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T15:01:40Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Trump says he'll attend Correspondents' Dinner for first time as president",
+        "url": "https://www.perplexity.ai/page/trump-says-he-ll-attend-corres-Nt_vw8ZqSGaEgiq3zaZIIw",
+        "description": "The announcement ends a years-long boycott of the annual press dinner, which Trump skipped throughout his entire first term.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-02T23:58:19Z",
+        "sourceCount": "12 sources"
       },
       {
         "title": "Macron offers to station French nuclear weapons in Europe",
