@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Chinese study on US missile defense gaps validated by Iran war, analysts say",
+      "url": "https://www.perplexity.ai/page/chinese-study-on-us-missile-de-IQM8lTkWQeSZyq6mZdqr5w",
+      "description": "Iran's hypersonic missiles have repeatedly penetrated THAAD and other advanced US defense systems since the conflict began Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T11:18:21Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "ALMA finds high methanol levels in interstellar comet 3I/ATLAS",
       "url": "https://www.perplexity.ai/page/alma-finds-high-methanol-level-los0WCz3Sx2_oxWE6MEqww",
       "description": "The discovery marks the first time detailed outgassing of methanol from icy grains has been traced in an object from another star system.",
@@ -1153,9 +1162,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T11:11:17Z",
+  "cached_at": "2026-03-07T11:25:25Z",
   "topics": {
     "top": [
+      {
+        "title": "Chinese study on US missile defense gaps validated by Iran war, analysts say",
+        "url": "https://www.perplexity.ai/page/chinese-study-on-us-missile-de-IQM8lTkWQeSZyq6mZdqr5w",
+        "description": "Iran's hypersonic missiles have repeatedly penetrated THAAD and other advanced US defense systems since the conflict began Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T11:18:21Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "ALMA finds high methanol levels in interstellar comet 3I/ATLAS",
         "url": "https://www.perplexity.ai/page/alma-finds-high-methanol-level-los0WCz3Sx2_oxWE6MEqww",
