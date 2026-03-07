@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US deploys third aircraft carrier USS George HW Bush to Middle East",
+      "url": "https://www.perplexity.ai/page/us-deploys-third-aircraft-carr-69VieWraTfe62sB8KZ6YMQ",
+      "description": "The deployment would create the largest American naval aviation presence in the Middle East since the 2003 invasion of Iraq.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T18:26:02Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Turkey weighs deploying F-16 jets to Northern Cyprus",
       "url": "https://www.perplexity.ai/page/turkey-weighs-deploying-f-16-j-uPigpWACR8OXmVUnBpu1yg",
       "description": "The move follows a wave of European military deployments to the divided island after a drone struck Britain's RAF Akrotiri base last week.",
@@ -1180,9 +1189,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-07T18:31:19Z",
+  "cached_at": "2026-03-07T18:49:52Z",
   "topics": {
     "top": [
+      {
+        "title": "US deploys third aircraft carrier USS George HW Bush to Middle East",
+        "url": "https://www.perplexity.ai/page/us-deploys-third-aircraft-carr-69VieWraTfe62sB8KZ6YMQ",
+        "description": "The deployment would create the largest American naval aviation presence in the Middle East since the 2003 invasion of Iraq.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T18:26:02Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Turkey weighs deploying F-16 jets to Northern Cyprus",
         "url": "https://www.perplexity.ai/page/turkey-weighs-deploying-f-16-j-uPigpWACR8OXmVUnBpu1yg",
