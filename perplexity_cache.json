@@ -1,12 +1,21 @@
 {
   "stories": [
     {
-      "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
-      "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
-      "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
+      "title": "Apple's 50th anniversary kicks off with museum exhibit, new book",
+      "url": "https://www.perplexity.ai/page/apple-s-50th-anniversary-kicks-KwfM3ClrTh2xVZLWEdPa2w",
+      "description": "The Computer History Museum's Apple@50 exhibition opens March 11, as CEO Tim Cook promises celebrations for the April 1 milestone.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-08T19:59:18Z",
+      "pubDate": "2026-03-08T20:36:05Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "7th US service member dies in Iran war, CENTCOM says",
+      "url": "https://www.perplexity.ai/page/7th-us-service-member-dies-in-VQ..c4aASpy_3mbodDh9EQ",
+      "description": "The soldier was wounded March 1 when Iranian forces struck a Saudi military base hosting American troops during Operation Epic Fury.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T20:07:53Z",
       "sourceCount": "29 sources"
     },
     {
@@ -19,15 +28,6 @@
       "sourceCount": "22 sources"
     },
     {
-      "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
-      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
-      "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T19:19:10Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Kansas City airport evacuated after bomb threat",
       "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
       "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
@@ -35,6 +35,24 @@
       "topic": "top",
       "pubDate": "2026-03-08T19:00:12Z",
       "sourceCount": "22 sources"
+    },
+    {
+      "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
+      "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
+      "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T19:59:18Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
+      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
+      "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T19:19:10Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Russia says it intercepted 170 Ukrainian drones in four hours",
@@ -46,15 +64,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
-      "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
-      "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T19:16:36Z",
-      "sourceCount": "35 sources"
-    },
-    {
       "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
       "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
       "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
@@ -62,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T18:18:39Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
+      "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
+      "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T19:16:36Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Israeli airstrike kills 2 in Gaza amid ongoing ceasefire breaches",
@@ -1180,16 +1198,25 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-08T20:29:44Z",
+  "cached_at": "2026-03-08T20:44:07Z",
   "topics": {
     "top": [
       {
-        "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
-        "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
-        "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
+        "title": "Apple's 50th anniversary kicks off with museum exhibit, new book",
+        "url": "https://www.perplexity.ai/page/apple-s-50th-anniversary-kicks-KwfM3ClrTh2xVZLWEdPa2w",
+        "description": "The Computer History Museum's Apple@50 exhibition opens March 11, as CEO Tim Cook promises celebrations for the April 1 milestone.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-08T19:59:18Z",
+        "pubDate": "2026-03-08T20:36:05Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "7th US service member dies in Iran war, CENTCOM says",
+        "url": "https://www.perplexity.ai/page/7th-us-service-member-dies-in-VQ..c4aASpy_3mbodDh9EQ",
+        "description": "The soldier was wounded March 1 when Iranian forces struck a Saudi military base hosting American troops during Operation Epic Fury.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T20:07:53Z",
         "sourceCount": "29 sources"
       },
       {
@@ -1202,15 +1229,6 @@
         "sourceCount": "22 sources"
       },
       {
-        "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
-        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
-        "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T19:19:10Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Kansas City airport evacuated after bomb threat",
         "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
         "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
@@ -1218,6 +1236,24 @@
         "topic": "top",
         "pubDate": "2026-03-08T19:00:12Z",
         "sourceCount": "22 sources"
+      },
+      {
+        "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
+        "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
+        "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T19:59:18Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
+        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
+        "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T19:19:10Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Russia says it intercepted 170 Ukrainian drones in four hours",
@@ -1229,15 +1265,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
-        "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
-        "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T19:16:36Z",
-        "sourceCount": "35 sources"
-      },
-      {
         "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
         "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
         "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
@@ -1245,6 +1272,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T18:18:39Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
+        "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
+        "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T19:16:36Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Israeli airstrike kills 2 in Gaza amid ongoing ceasefire breaches",
