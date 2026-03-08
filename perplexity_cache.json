@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
-      "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
-      "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
+      "title": "Iran threatens to strike regional oil sites after Israel hits Tehran fuel depots",
+      "url": "https://www.perplexity.ai/page/iran-threatens-to-strike-regio-De2GWzPhSt6x6EofVvlESw",
+      "description": "Tehran's military command warned oil could top $200 a barrel if strikes on its energy infrastructure continue, as toxic smoke blankets the capital.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-08T19:16:36Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-03-08T19:31:16Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Kansas City airport evacuated after bomb threat",
@@ -28,6 +28,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
+      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
+      "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T19:19:10Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
       "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
       "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
@@ -35,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-03-08T18:18:39Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Israel says it dropped 7,500 bombs on Iran in first week of war",
-      "url": "https://www.perplexity.ai/page/israel-says-it-dropped-7500-bo-mHW11Z0qRa2ISVdcR.POaw",
-      "description": "The IDF said it has conducted roughly 3,400 strikes since Operation Roaring Lion began Feb. 28, twice the munitions used in last year's conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T17:29:12Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "UAE denies Israeli reports it struck Iranian desalination plant",
@@ -55,13 +55,13 @@
       "sourceCount": "24 sources"
     },
     {
-      "title": "Trump vows to sign no bills until Senate passes SAVE America Act",
-      "url": "https://www.perplexity.ai/page/trump-vows-to-sign-no-bills-un-mO.EXBtaSZCPlPyXLgg8Rg",
-      "description": "The president's Sunday ultimatum escalates his push for the voting bill, which remains stalled in the Senate amid a filibuster standoff.",
+      "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
+      "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
+      "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-08T12:54:29Z",
-      "sourceCount": "66 sources"
+      "pubDate": "2026-03-08T19:16:36Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Israeli airstrike kills 2 in Gaza amid ongoing ceasefire breaches",
@@ -73,6 +73,15 @@
       "sourceCount": "50 sources"
     },
     {
+      "title": "Trump vows to sign no bills until Senate passes SAVE America Act",
+      "url": "https://www.perplexity.ai/page/trump-vows-to-sign-no-bills-un-mO.EXBtaSZCPlPyXLgg8Rg",
+      "description": "The president's Sunday ultimatum escalates his push for the voting bill, which remains stalled in the Senate amid a filibuster standoff.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T12:54:29Z",
+      "sourceCount": "66 sources"
+    },
+    {
       "title": "Israeli settlers murder three Palestinians in West Bank village raid",
       "url": "https://www.perplexity.ai/page/israeli-settlers-murder-three-kFpFDIC8Twy8PIdw71kMiQ",
       "description": "Six Palestinians have been killed by settlers in the past week as violence escalates across the occupied West Bank during Ramadan.",
@@ -80,6 +89,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T10:08:34Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Israel says it dropped 7,500 bombs on Iran in first week of war",
+      "url": "https://www.perplexity.ai/page/israel-says-it-dropped-7500-bo-mHW11Z0qRa2ISVdcR.POaw",
+      "description": "The IDF said it has conducted roughly 3,400 strikes since Operation Roaring Lion began Feb. 28, twice the munitions used in last year's conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T17:29:12Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Renewed MH370 search yields no findings 12 years after plane vanished",
@@ -91,15 +109,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
-      "url": "https://www.perplexity.ai/page/iran-missile-with-suspected-cl-9w2eVuD4RimkRX0YM2Unbg",
-      "description": "The strike hit multiple sites across Tel Aviv and Petah Tikva as the US-Israeli air campaign against Iran entered its ninth day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T15:38:16Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
       "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
       "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
@@ -107,6 +116,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T08:20:45Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
+      "url": "https://www.perplexity.ai/page/iran-missile-with-suspected-cl-9w2eVuD4RimkRX0YM2Unbg",
+      "description": "The strike hit multiple sites across Tel Aviv and Petah Tikva as the US-Israeli air campaign against Iran entered its ninth day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T15:38:16Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Health experts urge caution as daylight saving time returns Sunday",
@@ -118,15 +136,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Israel strikes Iran oil sites, Beirut hotel as war widens",
-      "url": "https://www.perplexity.ai/page/israel-strikes-iran-oil-sites-E4atzUK0TIK.7laiOKL4hg",
-      "description": "Iran hit Gulf infrastructure including Kuwait's airport and a Bahrain desalination plant as the U.S.-Israeli conflict with Tehran entered its second week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T15:03:04Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Judge voids Kari Lake's Voice of America cuts, rules her tenure unlawful",
       "url": "https://www.perplexity.ai/page/judge-voids-kari-lake-s-voice-G2_TROwTTVGipZDZYLS03A",
       "description": "A federal judge declared all actions Lake took as acting USAGM CEO \"null and void,\" finding her appointment violated the Federal Vacancies Reform Act.",
@@ -136,15 +145,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Explosion near US Embassy in Oslo suspected to be deliberate, police say",
-      "url": "https://www.perplexity.ai/page/explosion-near-us-embassy-in-o-D4q08la3TLSDZ4Uu7YuofQ",
-      "description": "The blast early Sunday shook nearby homes and sent smoke rising, but no injuries were reported, Norwegian police said.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T01:28:08Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "US Embassy in Baghdad attacked as Iran war enters second week",
       "url": "https://www.perplexity.ai/page/us-embassy-in-baghdad-attacked-B_JInEj7TUuld.o7NFoKKA",
       "description": "Katyusha rockets struck the Green Zone in the first embassy attack since the conflict began, while the UAE intercepted another massive wave of missiles and drones.",
@@ -152,6 +152,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T01:59:17Z",
       "sourceCount": "44 sources"
+    },
+    {
+      "title": "Explosion near US Embassy in Oslo suspected to be deliberate, police say",
+      "url": "https://www.perplexity.ai/page/explosion-near-us-embassy-in-o-D4q08la3TLSDZ4Uu7YuofQ",
+      "description": "The blast early Sunday shook nearby homes and sent smoke rising, but no injuries were reported, Norwegian police said.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T01:28:08Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Trump formally recognizes Venezuela's Rodriguez government",
@@ -262,15 +271,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Trump threatens expanded strikes on Iran as war enters second week",
-      "url": "https://www.perplexity.ai/page/trump-threatens-expanded-strik-RTY31peqRiKx7xEc0D33ZQ",
-      "description": "Iran's president rejected demands for unconditional surrender while apologizing to Gulf neighbors for Iranian strikes as the conflict enters its eighth day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T19:03:46Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "IRGC strikes eighth vessel as Hormuz oil traffic drops to zero",
       "url": "https://www.perplexity.ai/page/irgc-strikes-eighth-vessel-as-sPp0rPkWQAS9nktn2kyToQ",
       "description": "Tanker transit through the Strait of Hormuz has collapsed since the U.S.-Israeli war on Iran began, sending global energy prices surging.",
@@ -278,15 +278,6 @@
       "topic": "top",
       "pubDate": "2026-03-07T16:40:18Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "US suspects Chinese hackers breached FBI wiretap network",
-      "url": "https://www.perplexity.ai/page/us-suspects-chinese-hackers-br-SZ4OG3n7RKW4U.70QYsc7Q",
-      "description": "The Wall Street Journal reported Friday that hackers linked to China's government infiltrated an FBI system holding domestic surveillance data.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T02:00:31Z",
-      "sourceCount": "22 sources"
     },
     {
       "title": "Chinese study on US missile defense gaps validated by Iran war, analysts say",
@@ -307,13 +298,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "US military carries out lethal strikes in Ecuador",
-      "url": "https://www.perplexity.ai/page/us-military-carries-out-lethal-01pfSiHASmaSmvrBoEBtsQ",
-      "description": "The Pentagon confirmed Friday's operations targeted a narco-terrorist supply complex, escalating from an advisory role that began days earlier.",
+      "title": "US suspects Chinese hackers breached FBI wiretap network",
+      "url": "https://www.perplexity.ai/page/us-suspects-chinese-hackers-br-SZ4OG3n7RKW4U.70QYsc7Q",
+      "description": "The Wall Street Journal reported Friday that hackers linked to China's government infiltrated an FBI system holding domestic surveillance data.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-07T00:53:49Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-07T02:00:31Z",
+      "sourceCount": "22 sources"
     },
     {
       "title": "US clears $152M emergency arms sale to Israel, bypassing Congress",
@@ -334,6 +325,15 @@
       "sourceCount": "14 sources"
     },
     {
+      "title": "US military carries out lethal strikes in Ecuador",
+      "url": "https://www.perplexity.ai/page/us-military-carries-out-lethal-01pfSiHASmaSmvrBoEBtsQ",
+      "description": "The Pentagon confirmed Friday's operations targeted a narco-terrorist supply complex, escalating from an advisory role that began days earlier.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T00:53:49Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Cuba shuts Quito embassy after Ecuador expels diplomats",
       "url": "https://www.perplexity.ai/page/cuba-shuts-quito-embassy-after-eXbeMiloRE69c8emN7thGQ",
       "description": "The closure came after a 48-hour ultimatum expired, marking one of Latin America's sharpest diplomatic ruptures in years.",
@@ -341,15 +341,6 @@
       "topic": "top",
       "pubDate": "2026-03-07T00:43:24Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran's Guards dare US Navy to escort tankers through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
-      "description": "An IRGC spokesperson said Iran \"strongly welcomes\" and awaits the arrival of American forces, warning the U.S. to recall past tanker attacks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T01:26:53Z",
-      "sourceCount": "34 sources"
     },
     {
       "title": "Iran warns Europe of retaliation if nations join US-Israeli strikes",
@@ -361,6 +352,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "Iran's Guards dare US Navy to escort tankers through Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
+      "description": "An IRGC spokesperson said Iran \"strongly welcomes\" and awaits the arrival of American forces, warning the U.S. to recall past tanker attacks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T01:26:53Z",
+      "sourceCount": "34 sources"
+    },
+    {
       "title": "UN chief warns Iran conflict could spiral out of control",
       "url": "https://www.perplexity.ai/page/un-chief-warns-iran-conflict-c-tx7enONHQwiHZ1GgqScIFg",
       "description": "Guterres condemned \"unlawful attacks\" across the Middle East and called for immediate diplomatic negotiations as the war enters its second week.",
@@ -368,15 +368,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T23:43:26Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Pentagon sends Ukraine-tested Merops anti-drone system to Middle East",
-      "url": "https://www.perplexity.ai/page/pentagon-sends-ukraine-tested-pB2lqmdrQl6vc7rIQdsUtQ",
-      "description": "Officials admit U.S. forces lack adequate defenses against Iranian drone waves targeting personnel in the Gulf region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T01:23:16Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Pakistani man convicted in Iran-backed plot to kill Trump, US politicians",
@@ -388,6 +379,15 @@
       "sourceCount": "34 sources"
     },
     {
+      "title": "Pentagon sends Ukraine-tested Merops anti-drone system to Middle East",
+      "url": "https://www.perplexity.ai/page/pentagon-sends-ukraine-tested-pB2lqmdrQl6vc7rIQdsUtQ",
+      "description": "Officials admit U.S. forces lack adequate defenses against Iranian drone waves targeting personnel in the Gulf region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T01:23:16Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Bessent says US may ease more Russia oil sanctions",
       "url": "https://www.perplexity.ai/page/bessent-says-us-may-ease-more-AVg3s2j.TwK..e9j19eC3A",
       "description": "The Treasury secretary's comments came a day after Washington granted India a 30-day waiver to buy sanctioned Russian crude stranded at sea.",
@@ -395,24 +395,6 @@
       "topic": "top",
       "pubDate": "2026-03-06T22:30:02Z",
       "sourceCount": "49 sources"
-    },
-    {
-      "title": "Judge skeptical of Pentagon rules barring unapproved reporting by journalists",
-      "url": "https://www.perplexity.ai/page/judge-skeptical-of-pentagon-ru-fo_iWXd6Sn6L6yYjYEibNg",
-      "description": "U.S. District Judge Paul Friedman sharply questioned the government's defense of press restrictions, telling the courtroom \"asking a question is not criminal.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T21:48:13Z",
-      "sourceCount": "37 sources"
-    },
-    {
-      "title": "White House expects Iran operation to take 4 to 6 weeks",
-      "url": "https://www.perplexity.ai/page/white-house-expects-iran-opera-lHnZaukJRiylrTWNet79cA",
-      "description": "Spokeswoman Karoline Leavitt said the U.S. has sunk over 30 Iranian vessels and cut retaliatory missile strikes by 90% in seven days.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T22:03:36Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "US, Ukraine discuss free-trade pact and recovery fund, minister says",
@@ -424,13 +406,31 @@
       "sourceCount": "46 sources"
     },
     {
-      "title": "Newly revealed DEA probe linked Epstein to ketamine trade",
-      "url": "https://www.perplexity.ai/page/newly-revealed-dea-probe-linke-dqbAOIO5RiauycW33mTtLw",
-      "description": "A newly detailed investigation called \"Operation Chain Reaction\" tracked roughly $50 million in suspicious wire transfers tied to drug trafficking and money laundering.",
+      "title": "White House expects Iran operation to take 4 to 6 weeks",
+      "url": "https://www.perplexity.ai/page/white-house-expects-iran-opera-lHnZaukJRiylrTWNet79cA",
+      "description": "Spokeswoman Karoline Leavitt said the U.S. has sunk over 30 Iranian vessels and cut retaliatory missile strikes by 90% in seven days.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T16:36:21Z",
-      "sourceCount": "24 sources"
+      "pubDate": "2026-03-06T22:03:36Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Judge skeptical of Pentagon rules barring unapproved reporting by journalists",
+      "url": "https://www.perplexity.ai/page/judge-skeptical-of-pentagon-ru-fo_iWXd6Sn6L6yYjYEibNg",
+      "description": "U.S. District Judge Paul Friedman sharply questioned the government's defense of press restrictions, telling the courtroom \"asking a question is not criminal.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T21:48:13Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "US push for Venezuela mining access threatens environmental crisis",
+      "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
+      "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-06T16:59:07Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Trump says defense firms agreed to quadruple advanced weapons production",
@@ -442,13 +442,13 @@
       "sourceCount": "90 sources"
     },
     {
-      "title": "US push for Venezuela mining access threatens environmental crisis",
-      "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
-      "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
+      "title": "Newly revealed DEA probe linked Epstein to ketamine trade",
+      "url": "https://www.perplexity.ai/page/newly-revealed-dea-probe-linke-dqbAOIO5RiauycW33mTtLw",
+      "description": "A newly detailed investigation called \"Operation Chain Reaction\" tracked roughly $50 million in suspicious wire transfers tied to drug trafficking and money laundering.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-06T16:59:07Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-06T16:36:21Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "US retail sales fell in January, extending trend",
@@ -1189,17 +1189,17 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-08T19:32:10Z",
+  "cached_at": "2026-03-08T19:43:31Z",
   "topics": {
     "top": [
       {
-        "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
-        "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
-        "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
+        "title": "Iran threatens to strike regional oil sites after Israel hits Tehran fuel depots",
+        "url": "https://www.perplexity.ai/page/iran-threatens-to-strike-regio-De2GWzPhSt6x6EofVvlESw",
+        "description": "Tehran's military command warned oil could top $200 a barrel if strikes on its energy infrastructure continue, as toxic smoke blankets the capital.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-08T19:16:36Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-03-08T19:31:16Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Kansas City airport evacuated after bomb threat",
@@ -1220,6 +1220,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
+        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
+        "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T19:19:10Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
         "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
         "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
@@ -1227,15 +1236,6 @@
         "topic": "top",
         "pubDate": "2026-03-08T18:18:39Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Israel says it dropped 7,500 bombs on Iran in first week of war",
-        "url": "https://www.perplexity.ai/page/israel-says-it-dropped-7500-bo-mHW11Z0qRa2ISVdcR.POaw",
-        "description": "The IDF said it has conducted roughly 3,400 strikes since Operation Roaring Lion began Feb. 28, twice the munitions used in last year's conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T17:29:12Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "UAE denies Israeli reports it struck Iranian desalination plant",
@@ -1247,13 +1247,13 @@
         "sourceCount": "24 sources"
       },
       {
-        "title": "Trump vows to sign no bills until Senate passes SAVE America Act",
-        "url": "https://www.perplexity.ai/page/trump-vows-to-sign-no-bills-un-mO.EXBtaSZCPlPyXLgg8Rg",
-        "description": "The president's Sunday ultimatum escalates his push for the voting bill, which remains stalled in the Senate amid a filibuster standoff.",
+        "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
+        "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
+        "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-08T12:54:29Z",
-        "sourceCount": "66 sources"
+        "pubDate": "2026-03-08T19:16:36Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Israeli airstrike kills 2 in Gaza amid ongoing ceasefire breaches",
@@ -1265,6 +1265,15 @@
         "sourceCount": "50 sources"
       },
       {
+        "title": "Trump vows to sign no bills until Senate passes SAVE America Act",
+        "url": "https://www.perplexity.ai/page/trump-vows-to-sign-no-bills-un-mO.EXBtaSZCPlPyXLgg8Rg",
+        "description": "The president's Sunday ultimatum escalates his push for the voting bill, which remains stalled in the Senate amid a filibuster standoff.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T12:54:29Z",
+        "sourceCount": "66 sources"
+      },
+      {
         "title": "Israeli settlers murder three Palestinians in West Bank village raid",
         "url": "https://www.perplexity.ai/page/israeli-settlers-murder-three-kFpFDIC8Twy8PIdw71kMiQ",
         "description": "Six Palestinians have been killed by settlers in the past week as violence escalates across the occupied West Bank during Ramadan.",
@@ -1272,6 +1281,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T10:08:34Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Israel says it dropped 7,500 bombs on Iran in first week of war",
+        "url": "https://www.perplexity.ai/page/israel-says-it-dropped-7500-bo-mHW11Z0qRa2ISVdcR.POaw",
+        "description": "The IDF said it has conducted roughly 3,400 strikes since Operation Roaring Lion began Feb. 28, twice the munitions used in last year's conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T17:29:12Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Renewed MH370 search yields no findings 12 years after plane vanished",
@@ -1283,15 +1301,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
-        "url": "https://www.perplexity.ai/page/iran-missile-with-suspected-cl-9w2eVuD4RimkRX0YM2Unbg",
-        "description": "The strike hit multiple sites across Tel Aviv and Petah Tikva as the US-Israeli air campaign against Iran entered its ninth day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T15:38:16Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
         "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
         "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
@@ -1299,6 +1308,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T08:20:45Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
+        "url": "https://www.perplexity.ai/page/iran-missile-with-suspected-cl-9w2eVuD4RimkRX0YM2Unbg",
+        "description": "The strike hit multiple sites across Tel Aviv and Petah Tikva as the US-Israeli air campaign against Iran entered its ninth day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T15:38:16Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Health experts urge caution as daylight saving time returns Sunday",
@@ -1310,15 +1328,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Israel strikes Iran oil sites, Beirut hotel as war widens",
-        "url": "https://www.perplexity.ai/page/israel-strikes-iran-oil-sites-E4atzUK0TIK.7laiOKL4hg",
-        "description": "Iran hit Gulf infrastructure including Kuwait's airport and a Bahrain desalination plant as the U.S.-Israeli conflict with Tehran entered its second week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T15:03:04Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Judge voids Kari Lake's Voice of America cuts, rules her tenure unlawful",
         "url": "https://www.perplexity.ai/page/judge-voids-kari-lake-s-voice-G2_TROwTTVGipZDZYLS03A",
         "description": "A federal judge declared all actions Lake took as acting USAGM CEO \"null and void,\" finding her appointment violated the Federal Vacancies Reform Act.",
@@ -1328,15 +1337,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Explosion near US Embassy in Oslo suspected to be deliberate, police say",
-        "url": "https://www.perplexity.ai/page/explosion-near-us-embassy-in-o-D4q08la3TLSDZ4Uu7YuofQ",
-        "description": "The blast early Sunday shook nearby homes and sent smoke rising, but no injuries were reported, Norwegian police said.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T01:28:08Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "US Embassy in Baghdad attacked as Iran war enters second week",
         "url": "https://www.perplexity.ai/page/us-embassy-in-baghdad-attacked-B_JInEj7TUuld.o7NFoKKA",
         "description": "Katyusha rockets struck the Green Zone in the first embassy attack since the conflict began, while the UAE intercepted another massive wave of missiles and drones.",
@@ -1344,6 +1344,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T01:59:17Z",
         "sourceCount": "44 sources"
+      },
+      {
+        "title": "Explosion near US Embassy in Oslo suspected to be deliberate, police say",
+        "url": "https://www.perplexity.ai/page/explosion-near-us-embassy-in-o-D4q08la3TLSDZ4Uu7YuofQ",
+        "description": "The blast early Sunday shook nearby homes and sent smoke rising, but no injuries were reported, Norwegian police said.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T01:28:08Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Trump formally recognizes Venezuela's Rodriguez government",
@@ -1454,15 +1463,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Trump threatens expanded strikes on Iran as war enters second week",
-        "url": "https://www.perplexity.ai/page/trump-threatens-expanded-strik-RTY31peqRiKx7xEc0D33ZQ",
-        "description": "Iran's president rejected demands for unconditional surrender while apologizing to Gulf neighbors for Iranian strikes as the conflict enters its eighth day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T19:03:46Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "IRGC strikes eighth vessel as Hormuz oil traffic drops to zero",
         "url": "https://www.perplexity.ai/page/irgc-strikes-eighth-vessel-as-sPp0rPkWQAS9nktn2kyToQ",
         "description": "Tanker transit through the Strait of Hormuz has collapsed since the U.S.-Israeli war on Iran began, sending global energy prices surging.",
@@ -1470,15 +1470,6 @@
         "topic": "top",
         "pubDate": "2026-03-07T16:40:18Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "US suspects Chinese hackers breached FBI wiretap network",
-        "url": "https://www.perplexity.ai/page/us-suspects-chinese-hackers-br-SZ4OG3n7RKW4U.70QYsc7Q",
-        "description": "The Wall Street Journal reported Friday that hackers linked to China's government infiltrated an FBI system holding domestic surveillance data.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T02:00:31Z",
-        "sourceCount": "22 sources"
       },
       {
         "title": "Chinese study on US missile defense gaps validated by Iran war, analysts say",
@@ -1499,13 +1490,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "US military carries out lethal strikes in Ecuador",
-        "url": "https://www.perplexity.ai/page/us-military-carries-out-lethal-01pfSiHASmaSmvrBoEBtsQ",
-        "description": "The Pentagon confirmed Friday's operations targeted a narco-terrorist supply complex, escalating from an advisory role that began days earlier.",
+        "title": "US suspects Chinese hackers breached FBI wiretap network",
+        "url": "https://www.perplexity.ai/page/us-suspects-chinese-hackers-br-SZ4OG3n7RKW4U.70QYsc7Q",
+        "description": "The Wall Street Journal reported Friday that hackers linked to China's government infiltrated an FBI system holding domestic surveillance data.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-07T00:53:49Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-07T02:00:31Z",
+        "sourceCount": "22 sources"
       },
       {
         "title": "US clears $152M emergency arms sale to Israel, bypassing Congress",
@@ -1526,6 +1517,15 @@
         "sourceCount": "14 sources"
       },
       {
+        "title": "US military carries out lethal strikes in Ecuador",
+        "url": "https://www.perplexity.ai/page/us-military-carries-out-lethal-01pfSiHASmaSmvrBoEBtsQ",
+        "description": "The Pentagon confirmed Friday's operations targeted a narco-terrorist supply complex, escalating from an advisory role that began days earlier.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T00:53:49Z",
+        "sourceCount": "25 sources"
+      },
+      {
         "title": "Cuba shuts Quito embassy after Ecuador expels diplomats",
         "url": "https://www.perplexity.ai/page/cuba-shuts-quito-embassy-after-eXbeMiloRE69c8emN7thGQ",
         "description": "The closure came after a 48-hour ultimatum expired, marking one of Latin America's sharpest diplomatic ruptures in years.",
@@ -1533,15 +1533,6 @@
         "topic": "top",
         "pubDate": "2026-03-07T00:43:24Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran's Guards dare US Navy to escort tankers through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
-        "description": "An IRGC spokesperson said Iran \"strongly welcomes\" and awaits the arrival of American forces, warning the U.S. to recall past tanker attacks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T01:26:53Z",
-        "sourceCount": "34 sources"
       },
       {
         "title": "Iran warns Europe of retaliation if nations join US-Israeli strikes",
@@ -1553,6 +1544,15 @@
         "sourceCount": "25 sources"
       },
       {
+        "title": "Iran's Guards dare US Navy to escort tankers through Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
+        "description": "An IRGC spokesperson said Iran \"strongly welcomes\" and awaits the arrival of American forces, warning the U.S. to recall past tanker attacks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T01:26:53Z",
+        "sourceCount": "34 sources"
+      },
+      {
         "title": "UN chief warns Iran conflict could spiral out of control",
         "url": "https://www.perplexity.ai/page/un-chief-warns-iran-conflict-c-tx7enONHQwiHZ1GgqScIFg",
         "description": "Guterres condemned \"unlawful attacks\" across the Middle East and called for immediate diplomatic negotiations as the war enters its second week.",
@@ -1560,15 +1560,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T23:43:26Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Pentagon sends Ukraine-tested Merops anti-drone system to Middle East",
-        "url": "https://www.perplexity.ai/page/pentagon-sends-ukraine-tested-pB2lqmdrQl6vc7rIQdsUtQ",
-        "description": "Officials admit U.S. forces lack adequate defenses against Iranian drone waves targeting personnel in the Gulf region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T01:23:16Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Pakistani man convicted in Iran-backed plot to kill Trump, US politicians",
@@ -1580,6 +1571,15 @@
         "sourceCount": "34 sources"
       },
       {
+        "title": "Pentagon sends Ukraine-tested Merops anti-drone system to Middle East",
+        "url": "https://www.perplexity.ai/page/pentagon-sends-ukraine-tested-pB2lqmdrQl6vc7rIQdsUtQ",
+        "description": "Officials admit U.S. forces lack adequate defenses against Iranian drone waves targeting personnel in the Gulf region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T01:23:16Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Bessent says US may ease more Russia oil sanctions",
         "url": "https://www.perplexity.ai/page/bessent-says-us-may-ease-more-AVg3s2j.TwK..e9j19eC3A",
         "description": "The Treasury secretary's comments came a day after Washington granted India a 30-day waiver to buy sanctioned Russian crude stranded at sea.",
@@ -1587,24 +1587,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T22:30:02Z",
         "sourceCount": "49 sources"
-      },
-      {
-        "title": "Judge skeptical of Pentagon rules barring unapproved reporting by journalists",
-        "url": "https://www.perplexity.ai/page/judge-skeptical-of-pentagon-ru-fo_iWXd6Sn6L6yYjYEibNg",
-        "description": "U.S. District Judge Paul Friedman sharply questioned the government's defense of press restrictions, telling the courtroom \"asking a question is not criminal.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T21:48:13Z",
-        "sourceCount": "37 sources"
-      },
-      {
-        "title": "White House expects Iran operation to take 4 to 6 weeks",
-        "url": "https://www.perplexity.ai/page/white-house-expects-iran-opera-lHnZaukJRiylrTWNet79cA",
-        "description": "Spokeswoman Karoline Leavitt said the U.S. has sunk over 30 Iranian vessels and cut retaliatory missile strikes by 90% in seven days.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T22:03:36Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "US, Ukraine discuss free-trade pact and recovery fund, minister says",
@@ -1616,13 +1598,31 @@
         "sourceCount": "46 sources"
       },
       {
-        "title": "Newly revealed DEA probe linked Epstein to ketamine trade",
-        "url": "https://www.perplexity.ai/page/newly-revealed-dea-probe-linke-dqbAOIO5RiauycW33mTtLw",
-        "description": "A newly detailed investigation called \"Operation Chain Reaction\" tracked roughly $50 million in suspicious wire transfers tied to drug trafficking and money laundering.",
+        "title": "White House expects Iran operation to take 4 to 6 weeks",
+        "url": "https://www.perplexity.ai/page/white-house-expects-iran-opera-lHnZaukJRiylrTWNet79cA",
+        "description": "Spokeswoman Karoline Leavitt said the U.S. has sunk over 30 Iranian vessels and cut retaliatory missile strikes by 90% in seven days.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T16:36:21Z",
-        "sourceCount": "24 sources"
+        "pubDate": "2026-03-06T22:03:36Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Judge skeptical of Pentagon rules barring unapproved reporting by journalists",
+        "url": "https://www.perplexity.ai/page/judge-skeptical-of-pentagon-ru-fo_iWXd6Sn6L6yYjYEibNg",
+        "description": "U.S. District Judge Paul Friedman sharply questioned the government's defense of press restrictions, telling the courtroom \"asking a question is not criminal.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T21:48:13Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "US push for Venezuela mining access threatens environmental crisis",
+        "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
+        "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-06T16:59:07Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Trump says defense firms agreed to quadruple advanced weapons production",
@@ -1634,13 +1634,13 @@
         "sourceCount": "90 sources"
       },
       {
-        "title": "US push for Venezuela mining access threatens environmental crisis",
-        "url": "https://www.perplexity.ai/page/us-push-for-venezuela-mining-a-bK4wAZazSced_Xh53zcB8w",
-        "description": "The Interior secretary met with Venezuela's acting president and said the government offered security guarantees for companies entering mineral-rich regions.",
+        "title": "Newly revealed DEA probe linked Epstein to ketamine trade",
+        "url": "https://www.perplexity.ai/page/newly-revealed-dea-probe-linke-dqbAOIO5RiauycW33mTtLw",
+        "description": "A newly detailed investigation called \"Operation Chain Reaction\" tracked roughly $50 million in suspicious wire transfers tied to drug trafficking and money laundering.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-06T16:59:07Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-06T16:36:21Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "US retail sales fell in January, extending trend",
