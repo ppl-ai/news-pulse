@@ -1169,36 +1169,9 @@
       "topic": "top",
       "pubDate": "2026-03-02T17:09:57Z",
       "sourceCount": "19 sources"
-    },
-    {
-      "title": "Putin calls Gulf leaders as Iran conflict widens",
-      "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
-      "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T15:01:40Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Trump says he'll attend Correspondents' Dinner for first time as president",
-      "url": "https://www.perplexity.ai/page/trump-says-he-ll-attend-corres-Nt_vw8ZqSGaEgiq3zaZIIw",
-      "description": "The announcement ends a years-long boycott of the annual press dinner, which Trump skipped throughout his entire first term.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T23:58:19Z",
-      "sourceCount": "12 sources"
-    },
-    {
-      "title": "Macron offers to station French nuclear weapons in Europe",
-      "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
-      "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T14:52:28Z",
-      "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-08T09:15:02Z",
+  "cached_at": "2026-03-08T09:31:39Z",
   "topics": {
     "top": [
       {
@@ -2370,33 +2343,6 @@
         "topic": "top",
         "pubDate": "2026-03-02T17:09:57Z",
         "sourceCount": "19 sources"
-      },
-      {
-        "title": "Putin calls Gulf leaders as Iran conflict widens",
-        "url": "https://www.perplexity.ai/page/putin-calls-gulf-leaders-as-ir-Ok.p06TBQRegq2OokCsYJA",
-        "description": "Russia says it is in \"constant contact\" with Tehran and Gulf states as U.S.-Israeli strikes on Iran enter a third day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T15:01:40Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Trump says he'll attend Correspondents' Dinner for first time as president",
-        "url": "https://www.perplexity.ai/page/trump-says-he-ll-attend-corres-Nt_vw8ZqSGaEgiq3zaZIIw",
-        "description": "The announcement ends a years-long boycott of the annual press dinner, which Trump skipped throughout his entire first term.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T23:58:19Z",
-        "sourceCount": "12 sources"
-      },
-      {
-        "title": "Macron offers to station French nuclear weapons in Europe",
-        "url": "https://www.perplexity.ai/page/macron-offers-to-station-frenc-lmarN.y9QumbqH4GVvguIQ",
-        "description": "France will expand its arsenal and extend \"forward deterrence\" to European allies, marking the biggest shift in French nuclear doctrine in decades.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T14:52:28Z",
-        "sourceCount": "37 sources"
       }
     ],
     "tech": [],
