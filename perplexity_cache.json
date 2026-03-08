@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
+      "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
+      "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T19:59:18Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Toxic black rain blankets Tehran after Israeli strikes on oil depots",
       "url": "https://www.perplexity.ai/page/toxic-black-rain-blankets-tehr-RnjsaRR8SNOGITVY0sfC0Q",
       "description": "Iran's Red Crescent warned of acidic rainfall and severe lung damage as fires from Saturday night's strikes on fuel facilities choked the capital.",
@@ -1171,9 +1180,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-08T20:01:33Z",
+  "cached_at": "2026-03-08T20:13:47Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
+        "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
+        "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T19:59:18Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Toxic black rain blankets Tehran after Israeli strikes on oil depots",
         "url": "https://www.perplexity.ai/page/toxic-black-rain-blankets-tehr-RnjsaRR8SNOGITVY0sfC0Q",
