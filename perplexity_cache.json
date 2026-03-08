@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran reaffirms military alliance with Russia as war intensifies",
+      "url": "https://www.perplexity.ai/page/iran-reaffirms-military-allian-_3U0DcWnSJ.ZTzekfhFv2g",
+      "description": "Foreign Minister Araghchi said Tehran will accept only a \"permanent end\" to the war, not a ceasefire, and confirmed ongoing military ties with Russia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T21:07:12Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "7th US service member dies in Iran war, CENTCOM says",
       "url": "https://www.perplexity.ai/page/7th-us-service-member-dies-in-VQ..c4aASpy_3mbodDh9EQ",
       "description": "The soldier was wounded March 1 when Iranian forces struck a Saudi military base hosting American troops during Operation Epic Fury.",
@@ -1189,9 +1198,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-08T21:07:54Z",
+  "cached_at": "2026-03-08T21:21:37Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran reaffirms military alliance with Russia as war intensifies",
+        "url": "https://www.perplexity.ai/page/iran-reaffirms-military-allian-_3U0DcWnSJ.ZTzekfhFv2g",
+        "description": "Foreign Minister Araghchi said Tehran will accept only a \"permanent end\" to the war, not a ceasefire, and confirmed ongoing military ties with Russia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T21:07:12Z",
+        "sourceCount": "37 sources"
+      },
       {
         "title": "7th US service member dies in Iran war, CENTCOM says",
         "url": "https://www.perplexity.ai/page/7th-us-service-member-dies-in-VQ..c4aASpy_3mbodDh9EQ",
