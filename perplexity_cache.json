@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "State Dept. orders U.S. diplomats to leave Saudi Arabia",
+      "url": "https://www.perplexity.ai/page/state-dept-orders-u-s-diplomat-GaK6oy5HRNCHX2JBeoYZzg",
+      "description": "Washington upgraded the Saudi departure from voluntary to mandatory as Iranian attacks on Gulf facilities persist more than a week into the conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T22:00:34Z",
+      "sourceCount": "60 sources"
+    },
+    {
       "title": "Iran names Mojtaba Khamenei as new supreme leader",
       "url": "https://www.perplexity.ai/page/iran-names-mojtaba-khamenei-as-ZF3pk3hHSCSSWeCW2WX8YA",
       "description": "The late ayatollah's son becomes the first hereditary successor in the Islamic Republic's history, despite never holding public office.",
@@ -1171,9 +1180,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-08T22:24:06Z",
+  "cached_at": "2026-03-08T22:39:39Z",
   "topics": {
     "top": [
+      {
+        "title": "State Dept. orders U.S. diplomats to leave Saudi Arabia",
+        "url": "https://www.perplexity.ai/page/state-dept-orders-u-s-diplomat-GaK6oy5HRNCHX2JBeoYZzg",
+        "description": "Washington upgraded the Saudi departure from voluntary to mandatory as Iranian attacks on Gulf facilities persist more than a week into the conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T22:00:34Z",
+        "sourceCount": "60 sources"
+      },
       {
         "title": "Iran names Mojtaba Khamenei as new supreme leader",
         "url": "https://www.perplexity.ai/page/iran-names-mojtaba-khamenei-as-ZF3pk3hHSCSSWeCW2WX8YA",
