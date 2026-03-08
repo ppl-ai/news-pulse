@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Apple's 50th anniversary kicks off with museum exhibit, new book",
-      "url": "https://www.perplexity.ai/page/apple-s-50th-anniversary-kicks-KwfM3ClrTh2xVZLWEdPa2w",
-      "description": "The Computer History Museum's Apple@50 exhibition opens March 11, as CEO Tim Cook promises celebrations for the April 1 milestone.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T20:36:05Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "7th US service member dies in Iran war, CENTCOM says",
       "url": "https://www.perplexity.ai/page/7th-us-service-member-dies-in-VQ..c4aASpy_3mbodDh9EQ",
       "description": "The soldier was wounded March 1 when Iranian forces struck a Saudi military base hosting American troops during Operation Epic Fury.",
@@ -1198,18 +1189,9 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-08T20:44:07Z",
+  "cached_at": "2026-03-08T20:55:28Z",
   "topics": {
     "top": [
-      {
-        "title": "Apple's 50th anniversary kicks off with museum exhibit, new book",
-        "url": "https://www.perplexity.ai/page/apple-s-50th-anniversary-kicks-KwfM3ClrTh2xVZLWEdPa2w",
-        "description": "The Computer History Museum's Apple@50 exhibition opens March 11, as CEO Tim Cook promises celebrations for the April 1 milestone.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T20:36:05Z",
-        "sourceCount": "25 sources"
-      },
       {
         "title": "7th US service member dies in Iran war, CENTCOM says",
         "url": "https://www.perplexity.ai/page/7th-us-service-member-dies-in-VQ..c4aASpy_3mbodDh9EQ",
