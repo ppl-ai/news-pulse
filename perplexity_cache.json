@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Israel strikes Iran oil sites, Beirut hotel as war widens",
+      "url": "https://www.perplexity.ai/page/israel-strikes-iran-oil-sites-E4atzUK0TIK.7laiOKL4hg",
+      "description": "Iran hit Gulf infrastructure including Kuwait's airport and a Bahrain desalination plant as the U.S.-Israeli conflict with Tehran entered its second week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T15:03:04Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Iran war puts Gulf's desalination plants at risk",
       "url": "https://www.perplexity.ai/page/iran-war-puts-gulf-s-desalinat-GnZtQBknQvOBMWAvl36Kfg",
       "description": "Iranian strikes have already damaged water infrastructure in the UAE and Kuwait, threatening the region's primary source of drinking water.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-08T14:03:34Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Israel strikes Iran's oil facilities as crude tops $90",
-      "url": "https://www.perplexity.ai/page/israel-strikes-iran-s-oil-faci-seTfz_FOSpKUygIOY_Lo0A",
-      "description": "Saturday's attacks marked the first time the air campaign targeted Iran's energy infrastructure, as Strait of Hormuz shipping grinds to a halt.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T10:37:48Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "Renewed MH370 search yields no findings 12 years after plane vanished",
@@ -55,15 +55,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Israel targets Tehran oil sites and Mehrabad airport in new strikes",
-      "url": "https://www.perplexity.ai/page/israel-targets-tehran-oil-site-.ZqFMvsuTa6188G3kVmaRg",
-      "description": "Netanyahu vowed to continue attacks with \"full force,\" promising \"many surprises\" as the conflict's death toll surpasses 1,500.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T23:33:40Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Ukraine says it halted Russia's advance toward Zaporizhzhia in three-month operation",
       "url": "https://www.perplexity.ai/page/ukraine-says-it-halted-russia-TC2plK12Q6m4wTEjudbK.w",
       "description": "HUR claims its special forces killed or wounded over 300 Russian soldiers and captured 39 more while stabilizing defensive lines in the south.",
@@ -71,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-07T20:28:29Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Iran fires 7 missile barrages at Israel as war enters second week",
+      "url": "https://www.perplexity.ai/page/iran-fires-7-missile-barrages-7DntC5uBS128zTboDL1PZg",
+      "description": "Israeli defenses intercepted all seven waves of ballistic missiles launched since midnight Saturday, with no injuries reported across central Israel.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-07T19:11:11Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Trump formally recognizes Venezuela's Rodriguez government",
@@ -1142,29 +1142,20 @@
       "topic": "top",
       "pubDate": "2026-03-02T22:24:56Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-      "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-      "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T18:24:32Z",
-      "sourceCount": "21 sources"
-    },
-    {
-      "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
-      "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
-      "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T20:09:15Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-08T15:06:09Z",
+  "cached_at": "2026-03-08T15:19:34Z",
   "topics": {
     "top": [
+      {
+        "title": "Israel strikes Iran oil sites, Beirut hotel as war widens",
+        "url": "https://www.perplexity.ai/page/israel-strikes-iran-oil-sites-E4atzUK0TIK.7laiOKL4hg",
+        "description": "Iran hit Gulf infrastructure including Kuwait's airport and a Bahrain desalination plant as the U.S.-Israeli conflict with Tehran entered its second week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T15:03:04Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Iran war puts Gulf's desalination plants at risk",
         "url": "https://www.perplexity.ai/page/iran-war-puts-gulf-s-desalinat-GnZtQBknQvOBMWAvl36Kfg",
@@ -1173,15 +1164,6 @@
         "topic": "top",
         "pubDate": "2026-03-08T14:03:34Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Israel strikes Iran's oil facilities as crude tops $90",
-        "url": "https://www.perplexity.ai/page/israel-strikes-iran-s-oil-faci-seTfz_FOSpKUygIOY_Lo0A",
-        "description": "Saturday's attacks marked the first time the air campaign targeted Iran's energy infrastructure, as Strait of Hormuz shipping grinds to a halt.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T10:37:48Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "Renewed MH370 search yields no findings 12 years after plane vanished",
@@ -1220,15 +1202,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Israel targets Tehran oil sites and Mehrabad airport in new strikes",
-        "url": "https://www.perplexity.ai/page/israel-targets-tehran-oil-site-.ZqFMvsuTa6188G3kVmaRg",
-        "description": "Netanyahu vowed to continue attacks with \"full force,\" promising \"many surprises\" as the conflict's death toll surpasses 1,500.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T23:33:40Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Ukraine says it halted Russia's advance toward Zaporizhzhia in three-month operation",
         "url": "https://www.perplexity.ai/page/ukraine-says-it-halted-russia-TC2plK12Q6m4wTEjudbK.w",
         "description": "HUR claims its special forces killed or wounded over 300 Russian soldiers and captured 39 more while stabilizing defensive lines in the south.",
@@ -1236,6 +1209,15 @@
         "topic": "top",
         "pubDate": "2026-03-07T20:28:29Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Iran fires 7 missile barrages at Israel as war enters second week",
+        "url": "https://www.perplexity.ai/page/iran-fires-7-missile-barrages-7DntC5uBS128zTboDL1PZg",
+        "description": "Israeli defenses intercepted all seven waves of ballistic missiles launched since midnight Saturday, with no injuries reported across central Israel.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-07T19:11:11Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Trump formally recognizes Venezuela's Rodriguez government",
@@ -2307,24 +2289,6 @@
         "topic": "top",
         "pubDate": "2026-03-02T22:24:56Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "Treasury ends Anthropic AI use as agencies comply with Trump ban",
-        "url": "https://www.perplexity.ai/page/treasury-ends-anthropic-ai-use-7sYdsL33RcWcVtITU2Rs1A",
-        "description": "Federal housing agencies also cut ties with the AI company, which refused to drop safety guardrails on surveillance and autonomous weapons for the Pentagon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T18:24:32Z",
-        "sourceCount": "21 sources"
-      },
-      {
-        "title": "Sanders and Khanna introduce 5% wealth tax on billionaires",
-        "url": "https://www.perplexity.ai/page/sanders-and-khanna-introduce-5-HS.wAL.2SqC8oiwgE4Jpuw",
-        "description": "The bill would tax America's 938 billionaires to fund $3,000 direct payments to most households and expand social programs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T20:09:15Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
