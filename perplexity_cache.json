@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Renewed MH370 search yields no findings 12 years after plane vanished",
+      "url": "https://www.perplexity.ai/page/renewed-mh370-search-yields-no-AGQ3Lv6lTeKz3IC_chlAMQ",
+      "description": "Malaysia's AAIB confirmed the 28-day deep-sea search by Ocean Infinity covered over 7,500 sq km of seabed but found no trace of the aircraft.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T09:35:41Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
       "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
       "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
@@ -1171,9 +1180,18 @@
       "sourceCount": "19 sources"
     }
   ],
-  "cached_at": "2026-03-08T09:31:39Z",
+  "cached_at": "2026-03-08T09:46:52Z",
   "topics": {
     "top": [
+      {
+        "title": "Renewed MH370 search yields no findings 12 years after plane vanished",
+        "url": "https://www.perplexity.ai/page/renewed-mh370-search-yields-no-AGQ3Lv6lTeKz3IC_chlAMQ",
+        "description": "Malaysia's AAIB confirmed the 28-day deep-sea search by Ocean Infinity covered over 7,500 sq km of seabed but found no trace of the aircraft.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T09:35:41Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
         "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
