@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran war puts Gulf's desalination plants at risk",
+      "url": "https://www.perplexity.ai/page/iran-war-puts-gulf-s-desalinat-GnZtQBknQvOBMWAvl36Kfg",
+      "description": "Iranian strikes have already damaged water infrastructure in the UAE and Kuwait, threatening the region's primary source of drinking water.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T14:03:34Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Israel strikes Iran's oil facilities as crude tops $90",
       "url": "https://www.perplexity.ai/page/israel-strikes-iran-s-oil-faci-seTfz_FOSpKUygIOY_Lo0A",
       "description": "Saturday's attacks marked the first time the air campaign targeted Iran's energy infrastructure, as Strait of Hormuz shipping grinds to a halt.",
@@ -1151,29 +1160,20 @@
       "topic": "top",
       "pubDate": "2026-03-02T20:09:15Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Navy intel chief warns China could strike US from its own waters by 2030s",
-      "url": "https://www.perplexity.ai/page/navy-intel-chief-warns-china-c-4CIUdZjUQjyrrQxNxS61QQ",
-      "description": "New submarines armed with advanced ballistic missiles will be able to target large portions of the U.S. from Chinese coastal waters, Rear Adm. Brookes told Congress.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-02T17:51:04Z",
-      "sourceCount": "23 sources"
-    },
-    {
-      "title": "Rubio says US ground troops not needed in Iran",
-      "url": "https://www.perplexity.ai/page/rubio-says-us-ground-troops-no-m7J6cEOHS6iuJiFTw2cJhg",
-      "description": "Secretary of State Rubio told lawmakers the campaign's goals can be met through air and naval power, but Trump hasn't ruled out ground forces.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T00:45:55Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-08T13:59:44Z",
+  "cached_at": "2026-03-08T14:12:19Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran war puts Gulf's desalination plants at risk",
+        "url": "https://www.perplexity.ai/page/iran-war-puts-gulf-s-desalinat-GnZtQBknQvOBMWAvl36Kfg",
+        "description": "Iranian strikes have already damaged water infrastructure in the UAE and Kuwait, threatening the region's primary source of drinking water.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T14:03:34Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Israel strikes Iran's oil facilities as crude tops $90",
         "url": "https://www.perplexity.ai/page/israel-strikes-iran-s-oil-faci-seTfz_FOSpKUygIOY_Lo0A",
@@ -2325,24 +2325,6 @@
         "topic": "top",
         "pubDate": "2026-03-02T20:09:15Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Navy intel chief warns China could strike US from its own waters by 2030s",
-        "url": "https://www.perplexity.ai/page/navy-intel-chief-warns-china-c-4CIUdZjUQjyrrQxNxS61QQ",
-        "description": "New submarines armed with advanced ballistic missiles will be able to target large portions of the U.S. from Chinese coastal waters, Rear Adm. Brookes told Congress.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-02T17:51:04Z",
-        "sourceCount": "23 sources"
-      },
-      {
-        "title": "Rubio says US ground troops not needed in Iran",
-        "url": "https://www.perplexity.ai/page/rubio-says-us-ground-troops-no-m7J6cEOHS6iuJiFTw2cJhg",
-        "description": "Secretary of State Rubio told lawmakers the campaign's goals can be met through air and naval power, but Trump hasn't ruled out ground forces.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T00:45:55Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
