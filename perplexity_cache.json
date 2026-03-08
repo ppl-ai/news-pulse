@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
+      "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
+      "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T08:20:45Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Health experts urge caution as daylight saving time returns Sunday",
       "url": "https://www.perplexity.ai/page/health-experts-urge-caution-as-3xhaywdNTXWeMqvcIpeisQ",
       "description": "Research links the spring time change to higher rates of heart attacks, strokes, fatal car crashes, and workplace injuries in the days that follow.",
@@ -1189,9 +1198,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-08T08:14:46Z",
+  "cached_at": "2026-03-08T08:31:40Z",
   "topics": {
     "top": [
+      {
+        "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
+        "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
+        "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T08:20:45Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Health experts urge caution as daylight saving time returns Sunday",
         "url": "https://www.perplexity.ai/page/health-experts-urge-caution-as-3xhaywdNTXWeMqvcIpeisQ",
