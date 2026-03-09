@@ -1,22 +1,13 @@
 {
   "stories": [
     {
-      "title": "Greek tanker exits Hormuz with Saudi crude as traffic slowly resumes",
+      "title": "Greek tanker exits Hormuz with Saudi crude as most traffic avoids risk",
       "url": "https://www.perplexity.ai/page/greek-tanker-exits-hormuz-with-vRJdZZ7ET2WDrprm7TDy4g",
       "description": "U.S. Energy Secretary Wright says broader resumption of shipping through the strait is \"not too long away,\" though most operators remain sidelined.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-09T16:19:38Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "Oklo and Centrus plan Ohio joint venture for nuclear fuel",
-      "url": "https://www.perplexity.ai/page/oklo-and-centrus-plan-ohio-joi-ji_8xZ.8SG.nv9co7p61Rg",
-      "description": "The companies aim to co-locate uranium deconversion with enrichment at Centrus' Piketon site to address a key bottleneck in advanced reactor fuel supply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T16:11:51Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "UN chief to argue Iran war bolsters case for renewables",
@@ -181,6 +172,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "TSA waits top 3 hours at Houston, New Orleans airports as shutdown hits spring break",
+      "url": "https://www.perplexity.ai/page/tsa-waits-top-3-hours-at-houst-puLnm6IFQZKbgLWzyuu0EA",
+      "description": "Hobby Airport told travelers to arrive four to five hours early Sunday as unpaid TSA staff struggled to keep up with peak spring break volume.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T19:11:42Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "Kansas City airport evacuated after bomb threat",
       "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
       "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
@@ -190,15 +190,6 @@
       "sourceCount": "22 sources"
     },
     {
-      "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
-      "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
-      "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T18:18:39Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
       "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
       "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
@@ -206,6 +197,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T19:16:36Z",
       "sourceCount": "35 sources"
+    },
+    {
+      "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
+      "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
+      "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T18:18:39Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
@@ -1207,26 +1207,17 @@
       "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-03-09T16:26:02Z",
+  "cached_at": "2026-03-09T16:50:15Z",
   "topics": {
     "top": [
       {
-        "title": "Greek tanker exits Hormuz with Saudi crude as traffic slowly resumes",
+        "title": "Greek tanker exits Hormuz with Saudi crude as most traffic avoids risk",
         "url": "https://www.perplexity.ai/page/greek-tanker-exits-hormuz-with-vRJdZZ7ET2WDrprm7TDy4g",
         "description": "U.S. Energy Secretary Wright says broader resumption of shipping through the strait is \"not too long away,\" though most operators remain sidelined.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-09T16:19:38Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Oklo and Centrus plan Ohio joint venture for nuclear fuel",
-        "url": "https://www.perplexity.ai/page/oklo-and-centrus-plan-ohio-joi-ji_8xZ.8SG.nv9co7p61Rg",
-        "description": "The companies aim to co-locate uranium deconversion with enrichment at Centrus' Piketon site to address a key bottleneck in advanced reactor fuel supply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T16:11:51Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "UN chief to argue Iran war bolsters case for renewables",
@@ -1391,6 +1382,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "TSA waits top 3 hours at Houston, New Orleans airports as shutdown hits spring break",
+        "url": "https://www.perplexity.ai/page/tsa-waits-top-3-hours-at-houst-puLnm6IFQZKbgLWzyuu0EA",
+        "description": "Hobby Airport told travelers to arrive four to five hours early Sunday as unpaid TSA staff struggled to keep up with peak spring break volume.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T19:11:42Z",
+        "sourceCount": "37 sources"
+      },
+      {
         "title": "Kansas City airport evacuated after bomb threat",
         "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
         "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
@@ -1400,15 +1400,6 @@
         "sourceCount": "22 sources"
       },
       {
-        "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
-        "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
-        "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T18:18:39Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "US, Israel weigh special forces raid to seize Iran's enriched uranium",
         "url": "https://www.perplexity.ai/page/us-israel-weigh-special-forces-748G433.RE6wpr7hHIV_bw",
         "description": "Axios reports the operation would target roughly 450 kilograms of uranium enriched to 60%, stored at heavily fortified underground facilities.",
@@ -1416,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T19:16:36Z",
         "sourceCount": "35 sources"
+      },
+      {
+        "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
+        "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
+        "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T18:18:39Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
