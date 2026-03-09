@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Iran confirms new Supreme Leader Mojtaba Khamenei wounded in war",
+      "url": "https://www.perplexity.ai/page/iran-confirms-new-supreme-lead-4GZPgkiVQTeTQwyitPxQZg",
+      "description": "State TV called Mojtaba Khamenei \"janbaz,\" or wounded by the enemy, hours after the Assembly of Experts named him Supreme Leader on March 8.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T20:24:24Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Trump says Iran war is 'very complete,' claims military destroyed",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
+      "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T20:17:15Z",
+      "sourceCount": "55 sources"
+    },
+    {
+      "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
+      "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
+      "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T18:56:25Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
       "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
       "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
@@ -17,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-03-09T19:40:34Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
-      "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
-      "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T18:56:25Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Sen. Booker proposes making first $75,000 tax-free",
@@ -145,15 +163,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
-      "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
-      "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T10:28:42Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
       "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
       "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
@@ -161,15 +170,6 @@
       "topic": "top",
       "pubDate": "2026-03-09T05:32:50Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Zelenskyy says Ukraine recaptured up to 435 sq km in south",
-      "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-recaptu-Q40T9AEES6OreAOAfDKudg",
-      "description": "Ukrainian forces regained territory over six weeks of operations aimed at disrupting Russia's plans in the Zaporizhzhia and Dnipropetrovsk regions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T22:38:19Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Video shows US Tomahawk missile hitting near Iran school that killed 175",
@@ -190,13 +190,13 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Iran reaffirms military alliance with Russia as war intensifies",
-      "url": "https://www.perplexity.ai/page/iran-reaffirms-military-allian-_3U0DcWnSJ.ZTzekfhFv2g",
-      "description": "Foreign Minister Araghchi said Tehran will accept only a \"permanent end\" to the war, not a ceasefire, and confirmed ongoing military ties with Russia.",
+      "title": "Zelenskyy says Ukraine recaptured up to 435 sq km in south",
+      "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-recaptu-Q40T9AEES6OreAOAfDKudg",
+      "description": "Ukrainian forces regained territory over six weeks of operations aimed at disrupting Russia's plans in the Zaporizhzhia and Dnipropetrovsk regions.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-08T21:07:12Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-03-08T22:38:19Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Toxic black rain blankets Tehran after Israeli strikes on oil depots",
@@ -215,6 +215,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T19:59:18Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Iran reaffirms military alliance with Russia as war intensifies",
+      "url": "https://www.perplexity.ai/page/iran-reaffirms-military-allian-_3U0DcWnSJ.ZTzekfhFv2g",
+      "description": "Foreign Minister Araghchi said Tehran will accept only a \"permanent end\" to the war, not a ceasefire, and confirmed ongoing military ties with Russia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T21:07:12Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
@@ -1241,20 +1250,38 @@
       "topic": "top",
       "pubDate": "2026-03-03T18:42:52Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "DOJ reverses itself, seeks to revive Trump law firm cases",
-      "url": "https://www.perplexity.ai/page/doj-reverses-itself-seeks-to-r-ltjjJga3RMmLsxITPdAE8A",
-      "description": "Hours after moving to drop appeals of rulings that struck down Trump's executive orders targeting four law firms, the Justice Department reversed course.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T17:57:13Z",
-      "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-03-09T20:17:17Z",
+  "cached_at": "2026-03-09T20:35:31Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran confirms new Supreme Leader Mojtaba Khamenei wounded in war",
+        "url": "https://www.perplexity.ai/page/iran-confirms-new-supreme-lead-4GZPgkiVQTeTQwyitPxQZg",
+        "description": "State TV called Mojtaba Khamenei \"janbaz,\" or wounded by the enemy, hours after the Assembly of Experts named him Supreme Leader on March 8.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T20:24:24Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Trump says Iran war is 'very complete,' claims military destroyed",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
+        "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T20:17:15Z",
+        "sourceCount": "55 sources"
+      },
+      {
+        "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
+        "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
+        "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T18:56:25Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
         "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
@@ -1272,15 +1299,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T19:40:34Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
-        "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
-        "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T18:56:25Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Sen. Booker proposes making first $75,000 tax-free",
@@ -1400,15 +1418,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
-        "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
-        "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T10:28:42Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
         "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
         "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
@@ -1416,15 +1425,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T05:32:50Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Zelenskyy says Ukraine recaptured up to 435 sq km in south",
-        "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-recaptu-Q40T9AEES6OreAOAfDKudg",
-        "description": "Ukrainian forces regained territory over six weeks of operations aimed at disrupting Russia's plans in the Zaporizhzhia and Dnipropetrovsk regions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T22:38:19Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Video shows US Tomahawk missile hitting near Iran school that killed 175",
@@ -1445,13 +1445,13 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Iran reaffirms military alliance with Russia as war intensifies",
-        "url": "https://www.perplexity.ai/page/iran-reaffirms-military-allian-_3U0DcWnSJ.ZTzekfhFv2g",
-        "description": "Foreign Minister Araghchi said Tehran will accept only a \"permanent end\" to the war, not a ceasefire, and confirmed ongoing military ties with Russia.",
+        "title": "Zelenskyy says Ukraine recaptured up to 435 sq km in south",
+        "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-recaptu-Q40T9AEES6OreAOAfDKudg",
+        "description": "Ukrainian forces regained territory over six weeks of operations aimed at disrupting Russia's plans in the Zaporizhzhia and Dnipropetrovsk regions.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-08T21:07:12Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-03-08T22:38:19Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Toxic black rain blankets Tehran after Israeli strikes on oil depots",
@@ -1470,6 +1470,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T19:59:18Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Iran reaffirms military alliance with Russia as war intensifies",
+        "url": "https://www.perplexity.ai/page/iran-reaffirms-military-allian-_3U0DcWnSJ.ZTzekfhFv2g",
+        "description": "Foreign Minister Araghchi said Tehran will accept only a \"permanent end\" to the war, not a ceasefire, and confirmed ongoing military ties with Russia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T21:07:12Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
@@ -2496,15 +2505,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T18:42:52Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "DOJ reverses itself, seeks to revive Trump law firm cases",
-        "url": "https://www.perplexity.ai/page/doj-reverses-itself-seeks-to-r-ltjjJga3RMmLsxITPdAE8A",
-        "description": "Hours after moving to drop appeals of rulings that struck down Trump's executive orders targeting four law firms, the Justice Department reversed course.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T17:57:13Z",
-        "sourceCount": "21 sources"
       }
     ],
     "tech": [],
