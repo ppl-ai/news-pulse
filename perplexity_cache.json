@@ -28,15 +28,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Yardeni raises market meltdown odds to 35% as Iran war widens",
-      "url": "https://www.perplexity.ai/page/yardeni-raises-market-meltdown-NU5_Mw9jTIqkFd4.OnDRhw",
-      "description": "The veteran strategist nearly doubled his probability of a sharp selloff from 20%, citing oil topping $100 and growing stagflation risks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T02:34:24Z",
-      "sourceCount": "60 sources"
-    },
-    {
       "title": "Video shows US Tomahawk missile hitting near Iran school that killed 175",
       "url": "https://www.perplexity.ai/page/video-shows-us-tomahawk-missil-5AVXTCzuRIi4l3j8DalbTg",
       "description": "Bellingcat geolocated footage showing a Tomahawk striking the IRGC compound adjacent to the girls' school, with smoke already rising from the school site.",
@@ -80,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T22:00:34Z",
       "sourceCount": "60 sources"
+    },
+    {
+      "title": "Trump calls oil price surge 'small price to pay' amid Iran conflict",
+      "url": "https://www.perplexity.ai/page/trump-calls-oil-price-surge-sm-wijKc7MIQMKpOyHmx1_1ew",
+      "description": "Energy Secretary Wright said the spike reflects a \"fear premium\" and that disruptions would last weeks, not months.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T23:43:27Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "Iran names Mojtaba Khamenei as new supreme leader",
@@ -163,13 +163,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Israeli airstrike kills 2 in Gaza amid ongoing ceasefire breaches",
-      "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-2-in-g-A6PCfxYUQNesQ.gff3n_cg",
-      "description": "The strike near Al-Azhar University in Gaza City was the deadliest single incident since U.S.-Israeli operations against Iran began a week ago.",
+      "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
+      "url": "https://www.perplexity.ai/page/iran-missile-with-suspected-cl-9w2eVuD4RimkRX0YM2Unbg",
+      "description": "The strike hit multiple sites across Tel Aviv and Petah Tikva as the US-Israeli air campaign against Iran entered its ninth day.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-08T16:48:34Z",
-      "sourceCount": "50 sources"
+      "pubDate": "2026-03-08T15:38:16Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "UAE denies Israeli reports it struck Iranian desalination plant",
@@ -215,15 +215,6 @@
       "topic": "top",
       "pubDate": "2026-03-08T09:35:41Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
-      "url": "https://www.perplexity.ai/page/iran-missile-with-suspected-cl-9w2eVuD4RimkRX0YM2Unbg",
-      "description": "The strike hit multiple sites across Tel Aviv and Petah Tikva as the US-Israeli air campaign against Iran entered its ninth day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T15:38:16Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
@@ -1198,7 +1189,7 @@
       "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-03-09T12:46:34Z",
+  "cached_at": "2026-03-09T13:18:29Z",
   "topics": {
     "top": [
       {
@@ -1227,15 +1218,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T05:32:50Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Yardeni raises market meltdown odds to 35% as Iran war widens",
-        "url": "https://www.perplexity.ai/page/yardeni-raises-market-meltdown-NU5_Mw9jTIqkFd4.OnDRhw",
-        "description": "The veteran strategist nearly doubled his probability of a sharp selloff from 20%, citing oil topping $100 and growing stagflation risks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T02:34:24Z",
-        "sourceCount": "60 sources"
       },
       {
         "title": "Video shows US Tomahawk missile hitting near Iran school that killed 175",
@@ -1281,6 +1263,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T22:00:34Z",
         "sourceCount": "60 sources"
+      },
+      {
+        "title": "Trump calls oil price surge 'small price to pay' amid Iran conflict",
+        "url": "https://www.perplexity.ai/page/trump-calls-oil-price-surge-sm-wijKc7MIQMKpOyHmx1_1ew",
+        "description": "Energy Secretary Wright said the spike reflects a \"fear premium\" and that disruptions would last weeks, not months.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T23:43:27Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "Iran names Mojtaba Khamenei as new supreme leader",
@@ -1364,13 +1355,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Israeli airstrike kills 2 in Gaza amid ongoing ceasefire breaches",
-        "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-2-in-g-A6PCfxYUQNesQ.gff3n_cg",
-        "description": "The strike near Al-Azhar University in Gaza City was the deadliest single incident since U.S.-Israeli operations against Iran began a week ago.",
+        "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
+        "url": "https://www.perplexity.ai/page/iran-missile-with-suspected-cl-9w2eVuD4RimkRX0YM2Unbg",
+        "description": "The strike hit multiple sites across Tel Aviv and Petah Tikva as the US-Israeli air campaign against Iran entered its ninth day.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-08T16:48:34Z",
-        "sourceCount": "50 sources"
+        "pubDate": "2026-03-08T15:38:16Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "UAE denies Israeli reports it struck Iranian desalination plant",
@@ -1416,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-03-08T09:35:41Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iran missile with suspected cluster warhead wounds six in central Israel",
-        "url": "https://www.perplexity.ai/page/iran-missile-with-suspected-cl-9w2eVuD4RimkRX0YM2Unbg",
-        "description": "The strike hit multiple sites across Tel Aviv and Petah Tikva as the US-Israeli air campaign against Iran entered its ninth day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T15:38:16Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
