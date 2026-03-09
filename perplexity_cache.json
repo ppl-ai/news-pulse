@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
+      "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
+      "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T05:32:50Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Yardeni raises market meltdown odds to 35% as Iran war widens",
       "url": "https://www.perplexity.ai/page/yardeni-raises-market-meltdown-NU5_Mw9jTIqkFd4.OnDRhw",
       "description": "The veteran strategist nearly doubled his probability of a sharp selloff from 20%, citing oil topping $100 and growing stagflation risks.",
@@ -1198,9 +1207,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-09T05:33:23Z",
+  "cached_at": "2026-03-09T05:59:17Z",
   "topics": {
     "top": [
+      {
+        "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
+        "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
+        "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T05:32:50Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Yardeni raises market meltdown odds to 35% as Iran war widens",
         "url": "https://www.perplexity.ai/page/yardeni-raises-market-meltdown-NU5_Mw9jTIqkFd4.OnDRhw",
