@@ -604,15 +604,6 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "Iran's Guards dare US Navy to escort tankers through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
-      "description": "An IRGC spokesperson said Iran \"strongly welcomes\" and awaits the arrival of American forces, warning the U.S. to recall past tanker attacks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T01:26:53Z",
-      "sourceCount": "34 sources"
-    },
-    {
       "title": "Pakistani man convicted in Iran-backed plot to kill Trump, US politicians",
       "url": "https://www.perplexity.ai/page/pakistani-man-convicted-in-ira-c5qSACNQRE2xOK0o_1G8ww",
       "description": "A federal jury in Brooklyn found Asif Merchant guilty of conspiring to assassinate U.S. politicians in a scheme prosecutors tied to Iran's IRGC.",
@@ -1259,18 +1250,9 @@
       "topic": "top",
       "pubDate": "2026-03-03T21:42:33Z",
       "sourceCount": "18 sources"
-    },
-    {
-      "title": "Dr. Oz opens fraud probe into New York's Medicaid program",
-      "url": "https://www.perplexity.ai/page/dr-oz-opens-fraud-probe-into-n-HZ2LAkYNRlaXAt74_VOGAg",
-      "description": "The CMS administrator sent Gov. Hochul 50 questions about cost controls and provider oversight in the state's $124 billion program.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T21:09:04Z",
-      "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-03-09T23:20:57Z",
+  "cached_at": "2026-03-09T23:37:51Z",
   "topics": {
     "top": [
       {
@@ -1875,15 +1857,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T21:48:13Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Iran's Guards dare US Navy to escort tankers through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
-        "description": "An IRGC spokesperson said Iran \"strongly welcomes\" and awaits the arrival of American forces, warning the U.S. to recall past tanker attacks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T01:26:53Z",
-        "sourceCount": "34 sources"
       },
       {
         "title": "Pakistani man convicted in Iran-backed plot to kill Trump, US politicians",
@@ -2532,15 +2505,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T21:42:33Z",
         "sourceCount": "18 sources"
-      },
-      {
-        "title": "Dr. Oz opens fraud probe into New York's Medicaid program",
-        "url": "https://www.perplexity.ai/page/dr-oz-opens-fraud-probe-into-n-HZ2LAkYNRlaXAt74_VOGAg",
-        "description": "The CMS administrator sent Gov. Hochul 50 questions about cost controls and provider oversight in the state's $124 billion program.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T21:09:04Z",
-        "sourceCount": "22 sources"
       }
     ],
     "tech": [],
