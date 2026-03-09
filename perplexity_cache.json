@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
+      "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
+      "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T18:56:25Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Sen. Booker proposes making first $75,000 tax-free",
       "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
       "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
@@ -53,15 +62,6 @@
       "topic": "top",
       "pubDate": "2026-03-09T14:54:08Z",
       "sourceCount": "54 sources"
-    },
-    {
-      "title": "Wall Street slides as Iran conflict sparks oil surge",
-      "url": "https://www.perplexity.ai/page/wall-street-slides-as-iran-con-YdGdSJglQxKeFaJajaKhcw",
-      "description": "Crude prices hit their highest level since 2022 as the Strait of Hormuz blockade chokes global energy supplies, compounding fears of stagflation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T14:39:37Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "NATO intercepts second Iranian missile in Turkish airspace",
@@ -1216,9 +1216,18 @@
       "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-03-09T18:49:14Z",
+  "cached_at": "2026-03-09T19:12:28Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
+        "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
+        "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T18:56:25Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Sen. Booker proposes making first $75,000 tax-free",
         "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
@@ -1272,15 +1281,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T14:54:08Z",
         "sourceCount": "54 sources"
-      },
-      {
-        "title": "Wall Street slides as Iran conflict sparks oil surge",
-        "url": "https://www.perplexity.ai/page/wall-street-slides-as-iran-con-YdGdSJglQxKeFaJajaKhcw",
-        "description": "Crude prices hit their highest level since 2022 as the Strait of Hormuz blockade chokes global energy supplies, compounding fears of stagflation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T14:39:37Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "NATO intercepts second Iranian missile in Turkish airspace",
