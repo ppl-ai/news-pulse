@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
+      "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
+      "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T20:09:32Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "US intercepts Iran signal that may activate sleeper cells abroad",
       "url": "https://www.perplexity.ai/page/us-intercepts-iran-signal-that-vMxVaxG1Suu6NSSLpYFJkw",
       "description": "Encrypted transmission detected after Khamenei's death could be an \"operational trigger\" for covert operatives, a federal alert warns.",
@@ -1243,9 +1252,18 @@
       "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-03-09T20:02:35Z",
+  "cached_at": "2026-03-09T20:17:17Z",
   "topics": {
     "top": [
+      {
+        "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
+        "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
+        "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T20:09:32Z",
+        "sourceCount": "36 sources"
+      },
       {
         "title": "US intercepts Iran signal that may activate sleeper cells abroad",
         "url": "https://www.perplexity.ai/page/us-intercepts-iran-signal-that-vMxVaxG1Suu6NSSLpYFJkw",
