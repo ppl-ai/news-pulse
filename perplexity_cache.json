@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Alexander brothers convicted of sex trafficking in Manhattan federal court",
+      "url": "https://www.perplexity.ai/page/alexander-brothers-convicted-o-e_bgL46FTU6vxt_KM9SRtw",
+      "description": "A jury found the three wealthy siblings guilty after 11 women testified they were drugged and assaulted over more than a decade.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T22:00:58Z",
+      "sourceCount": "49 sources"
+    },
+    {
       "title": "Trump calls Iran's choice of Mojtaba Khamenei 'a big mistake'",
       "url": "https://www.perplexity.ai/page/trump-calls-iran-s-choice-of-m-mwBTdRl4TJOBVKl6MwTRJQ",
       "description": "The president condemned Iran's new supreme leader, said the appointment won't last, and declined to rule out seizing Iranian oil.",
@@ -1268,29 +1277,20 @@
       "topic": "top",
       "pubDate": "2026-03-03T20:49:54Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Lutnick volunteers to testify on Epstein ties",
-      "url": "https://www.perplexity.ai/page/lutnick-volunteers-to-testify-x5kv0I0gQ9K09D9TUbQ5Uw",
-      "description": "The commerce secretary's offer comes as lawmakers were preparing a bipartisan subpoena to compel his appearance before the House Oversight Committee.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T20:09:52Z",
-      "sourceCount": "70 sources"
-    },
-    {
-      "title": "Ukraine refuses EU requests to inspect damaged Druzhba pipeline",
-      "url": "https://www.perplexity.ai/page/ukraine-refuses-eu-requests-to-brN2BK.oQNKJou0AOgpCbg",
-      "description": "Kyiv denied access to the EU ambassador and top EU leaders, citing security concerns, as Hungary leverages the dispute to block a €90 billion loan.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-03T20:07:43Z",
-      "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-09T22:07:00Z",
+  "cached_at": "2026-03-09T22:21:14Z",
   "topics": {
     "top": [
+      {
+        "title": "Alexander brothers convicted of sex trafficking in Manhattan federal court",
+        "url": "https://www.perplexity.ai/page/alexander-brothers-convicted-o-e_bgL46FTU6vxt_KM9SRtw",
+        "description": "A jury found the three wealthy siblings guilty after 11 women testified they were drugged and assaulted over more than a decade.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T22:00:58Z",
+        "sourceCount": "49 sources"
+      },
       {
         "title": "Trump calls Iran's choice of Mojtaba Khamenei 'a big mistake'",
         "url": "https://www.perplexity.ai/page/trump-calls-iran-s-choice-of-m-mwBTdRl4TJOBVKl6MwTRJQ",
@@ -2559,24 +2559,6 @@
         "topic": "top",
         "pubDate": "2026-03-03T20:49:54Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Lutnick volunteers to testify on Epstein ties",
-        "url": "https://www.perplexity.ai/page/lutnick-volunteers-to-testify-x5kv0I0gQ9K09D9TUbQ5Uw",
-        "description": "The commerce secretary's offer comes as lawmakers were preparing a bipartisan subpoena to compel his appearance before the House Oversight Committee.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T20:09:52Z",
-        "sourceCount": "70 sources"
-      },
-      {
-        "title": "Ukraine refuses EU requests to inspect damaged Druzhba pipeline",
-        "url": "https://www.perplexity.ai/page/ukraine-refuses-eu-requests-to-brN2BK.oQNKJou0AOgpCbg",
-        "description": "Kyiv denied access to the EU ambassador and top EU leaders, citing security concerns, as Hungary leverages the dispute to block a €90 billion loan.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-03T20:07:43Z",
-        "sourceCount": "13 sources"
       }
     ],
     "tech": [],
