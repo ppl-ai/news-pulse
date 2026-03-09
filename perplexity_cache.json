@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Iran war hits civilian infrastructure as Mojtaba Khamenei named supreme leader",
-      "url": "https://www.perplexity.ai/page/iran-war-hits-civilian-infrast-T.Cyuf43Sk2x5510..zmwA",
-      "description": "Bahrain accused Iran of striking a desalination plant as Israel hit Tehran oil depots, while Iran's Assembly of Experts appointed the late leader's son.",
+      "title": "Energy Secretary Wright says Hormuz tanker traffic could resume within weeks",
+      "url": "https://www.perplexity.ai/page/energy-secretary-wright-says-h-M204lldiS3aXFul1ekeqSw",
+      "description": "Wright said a large tanker safely transited the strait on March 7, but only three total crossings were recorded that day amid the ongoing standoff with Iran.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T00:47:40Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-09T00:23:20Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Trump fires second NTSB board member in under a year",
@@ -35,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T22:00:34Z",
       "sourceCount": "60 sources"
+    },
+    {
+      "title": "Trump calls oil price surge 'small price to pay' amid Iran conflict",
+      "url": "https://www.perplexity.ai/page/trump-calls-oil-price-surge-sm-wijKc7MIQMKpOyHmx1_1ew",
+      "description": "Energy Secretary Wright said the spike reflects a \"fear premium\" and that disruptions would last weeks, not months.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T23:43:27Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "Iran names Mojtaba Khamenei as new supreme leader",
@@ -179,6 +188,15 @@
       "topic": "top",
       "pubDate": "2026-03-08T15:38:16Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
+      "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
+      "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T08:20:45Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Health experts urge caution as daylight saving time returns Sunday",
@@ -1171,17 +1189,17 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-09T00:50:08Z",
+  "cached_at": "2026-03-09T01:26:00Z",
   "topics": {
     "top": [
       {
-        "title": "Iran war hits civilian infrastructure as Mojtaba Khamenei named supreme leader",
-        "url": "https://www.perplexity.ai/page/iran-war-hits-civilian-infrast-T.Cyuf43Sk2x5510..zmwA",
-        "description": "Bahrain accused Iran of striking a desalination plant as Israel hit Tehran oil depots, while Iran's Assembly of Experts appointed the late leader's son.",
+        "title": "Energy Secretary Wright says Hormuz tanker traffic could resume within weeks",
+        "url": "https://www.perplexity.ai/page/energy-secretary-wright-says-h-M204lldiS3aXFul1ekeqSw",
+        "description": "Wright said a large tanker safely transited the strait on March 7, but only three total crossings were recorded that day amid the ongoing standoff with Iran.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T00:47:40Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-09T00:23:20Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Trump fires second NTSB board member in under a year",
@@ -1209,6 +1227,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T22:00:34Z",
         "sourceCount": "60 sources"
+      },
+      {
+        "title": "Trump calls oil price surge 'small price to pay' amid Iran conflict",
+        "url": "https://www.perplexity.ai/page/trump-calls-oil-price-surge-sm-wijKc7MIQMKpOyHmx1_1ew",
+        "description": "Energy Secretary Wright said the spike reflects a \"fear premium\" and that disruptions would last weeks, not months.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T23:43:27Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "Iran names Mojtaba Khamenei as new supreme leader",
@@ -1353,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-03-08T15:38:16Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Iranian drone damages Bahrain desalination plant as war enters ninth day",
+        "url": "https://www.perplexity.ai/page/iranian-drone-damages-bahrain-2wCj5bxfTW219p_ry3s75w",
+        "description": "Bahrain's interior ministry says the strike marks the first time a Gulf state has reported Iranian damage to critical water infrastructure in the conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T08:20:45Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Health experts urge caution as daylight saving time returns Sunday",
