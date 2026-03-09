@@ -1,48 +1,30 @@
 {
   "stories": [
     {
+      "title": "RAF Typhoons down two drones over Jordan and Bahrain",
+      "url": "https://www.perplexity.ai/page/raf-typhoons-down-two-drones-o-BmP8zRUuStW4Gi0jcTXbcA",
+      "description": "Defence Secretary Healey told the Commons the UK is now flying defensive sorties over the Gulf as HMS Dragon prepares to deploy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T22:09:06Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Judge strikes down Trump's three-person NJ prosecutor setup",
+      "url": "https://www.perplexity.ai/page/judge-strikes-down-trump-s-thr-yhhRVsekSvyqZaNkMqWwEQ",
+      "description": "A federal judge ruled the triumvirate running the New Jersey U.S. Attorney's Office was unconstitutionally appointed, threatening case dismissals.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T22:03:17Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Alexander brothers convicted of sex trafficking in Manhattan federal court",
       "url": "https://www.perplexity.ai/page/alexander-brothers-convicted-o-e_bgL46FTU6vxt_KM9SRtw",
       "description": "A jury found the three wealthy siblings guilty after 11 women testified they were drugged and assaulted over more than a decade.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-09T22:00:58Z",
-      "sourceCount": "49 sources"
-    },
-    {
-      "title": "Trump calls Iran's choice of Mojtaba Khamenei 'a big mistake'",
-      "url": "https://www.perplexity.ai/page/trump-calls-iran-s-choice-of-m-mwBTdRl4TJOBVKl6MwTRJQ",
-      "description": "The president condemned Iran's new supreme leader, said the appointment won't last, and declined to rule out seizing Iranian oil.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T21:58:39Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
-      "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
-      "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T20:09:32Z",
-      "sourceCount": "36 sources"
-    },
-    {
-      "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
-      "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
-      "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T18:56:25Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trump and Putin discuss Iran and Ukraine in phone call",
-      "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-a-3xvCisguRHefgiq63URBcw",
-      "description": "The Kremlin said the Monday call, initiated by Trump, covered the Iran conflict and trilateral Ukraine settlement talks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T20:39:50Z",
       "sourceCount": "49 sources"
     },
     {
@@ -55,22 +37,22 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Sen. Booker proposes making first $75,000 tax-free",
-      "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
-      "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
+      "title": "Trump and Putin discuss Iran and Ukraine in phone call",
+      "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-a-3xvCisguRHefgiq63URBcw",
+      "description": "The Kremlin said the Monday call, initiated by Trump, covered the Iran conflict and trilateral Ukraine settlement talks.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T17:02:31Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-09T20:39:50Z",
+      "sourceCount": "49 sources"
     },
     {
-      "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
-      "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
-      "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
+      "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
+      "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
+      "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T20:35:46Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-03-09T18:56:25Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Iran confirms new Supreme Leader Mojtaba Khamenei wounded in war",
@@ -82,6 +64,42 @@
       "sourceCount": "14 sources"
     },
     {
+      "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
+      "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
+      "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T20:35:46Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Sen. Booker proposes making first $75,000 tax-free",
+      "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
+      "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T17:02:31Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
+      "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
+      "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T20:09:32Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "Trump calls Iran's choice of Mojtaba Khamenei 'a big mistake'",
+      "url": "https://www.perplexity.ai/page/trump-calls-iran-s-choice-of-m-mwBTdRl4TJOBVKl6MwTRJQ",
+      "description": "The president condemned Iran's new supreme leader, said the appointment won't last, and declined to rule out seizing Iranian oil.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T21:58:39Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Greek tanker exits Hormuz with Saudi crude as most traffic avoids risk",
       "url": "https://www.perplexity.ai/page/greek-tanker-exits-hormuz-with-vRJdZZ7ET2WDrprm7TDy4g",
       "description": "U.S. Energy Secretary Wright says broader resumption of shipping through the strait is \"not too long away,\" though most operators remain sidelined.",
@@ -89,15 +107,6 @@
       "topic": "top",
       "pubDate": "2026-03-09T16:19:38Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "Trump says Iran war is 'very complete,' claims military destroyed",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
-      "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T20:17:15Z",
-      "sourceCount": "55 sources"
     },
     {
       "title": "Macron announces naval mission to reopen Strait of Hormuz",
@@ -109,6 +118,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Trump says Iran war is 'very complete,' claims military destroyed",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
+      "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T20:17:15Z",
+      "sourceCount": "55 sources"
+    },
+    {
       "title": "Anthropic sues Pentagon over 'supply chain risk' label",
       "url": "https://www.perplexity.ai/page/anthropic-sues-pentagon-over-s-NcJt3NemTWSQcAzqtzWtHg",
       "description": "The AI company filed two lawsuits challenging the designation as unconstitutional retaliation for refusing to remove safety guardrails from its technology.",
@@ -116,6 +134,15 @@
       "topic": "top",
       "pubDate": "2026-03-09T15:28:54Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "G7 fails to agree on oil reserve release as crude tops $100",
+      "url": "https://www.perplexity.ai/page/g7-fails-to-agree-on-oil-reser-AzLV85H.R46JPPiwzqyV.g",
+      "description": "France said the bloc is \"not there yet\" on a coordinated drawdown after emergency talks Monday, even as Brent crude surged to nearly $120.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T14:54:08Z",
+      "sourceCount": "54 sources"
     },
     {
       "title": "US intercepts Iran signal that may activate sleeper cells abroad",
@@ -134,15 +161,6 @@
       "topic": "top",
       "pubDate": "2026-03-09T16:54:01Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "G7 fails to agree on oil reserve release as crude tops $100",
-      "url": "https://www.perplexity.ai/page/g7-fails-to-agree-on-oil-reser-AzLV85H.R46JPPiwzqyV.g",
-      "description": "France said the bloc is \"not there yet\" on a coordinated drawdown after emergency talks Monday, even as Brent crude surged to nearly $120.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T14:54:08Z",
-      "sourceCount": "54 sources"
     },
     {
       "title": "NATO intercepts second Iranian missile in Turkish airspace",
@@ -1279,9 +1297,27 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-09T22:21:14Z",
+  "cached_at": "2026-03-09T22:39:20Z",
   "topics": {
     "top": [
+      {
+        "title": "RAF Typhoons down two drones over Jordan and Bahrain",
+        "url": "https://www.perplexity.ai/page/raf-typhoons-down-two-drones-o-BmP8zRUuStW4Gi0jcTXbcA",
+        "description": "Defence Secretary Healey told the Commons the UK is now flying defensive sorties over the Gulf as HMS Dragon prepares to deploy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T22:09:06Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Judge strikes down Trump's three-person NJ prosecutor setup",
+        "url": "https://www.perplexity.ai/page/judge-strikes-down-trump-s-thr-yhhRVsekSvyqZaNkMqWwEQ",
+        "description": "A federal judge ruled the triumvirate running the New Jersey U.S. Attorney's Office was unconstitutionally appointed, threatening case dismissals.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T22:03:17Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Alexander brothers convicted of sex trafficking in Manhattan federal court",
         "url": "https://www.perplexity.ai/page/alexander-brothers-convicted-o-e_bgL46FTU6vxt_KM9SRtw",
@@ -1289,42 +1325,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-09T22:00:58Z",
-        "sourceCount": "49 sources"
-      },
-      {
-        "title": "Trump calls Iran's choice of Mojtaba Khamenei 'a big mistake'",
-        "url": "https://www.perplexity.ai/page/trump-calls-iran-s-choice-of-m-mwBTdRl4TJOBVKl6MwTRJQ",
-        "description": "The president condemned Iran's new supreme leader, said the appointment won't last, and declined to rule out seizing Iranian oil.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T21:58:39Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
-        "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
-        "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T20:09:32Z",
-        "sourceCount": "36 sources"
-      },
-      {
-        "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
-        "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
-        "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T18:56:25Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trump and Putin discuss Iran and Ukraine in phone call",
-        "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-a-3xvCisguRHefgiq63URBcw",
-        "description": "The Kremlin said the Monday call, initiated by Trump, covered the Iran conflict and trilateral Ukraine settlement talks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T20:39:50Z",
         "sourceCount": "49 sources"
       },
       {
@@ -1337,22 +1337,22 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Sen. Booker proposes making first $75,000 tax-free",
-        "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
-        "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
+        "title": "Trump and Putin discuss Iran and Ukraine in phone call",
+        "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-a-3xvCisguRHefgiq63URBcw",
+        "description": "The Kremlin said the Monday call, initiated by Trump, covered the Iran conflict and trilateral Ukraine settlement talks.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T17:02:31Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-09T20:39:50Z",
+        "sourceCount": "49 sources"
       },
       {
-        "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
-        "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
-        "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
+        "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
+        "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
+        "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T20:35:46Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-03-09T18:56:25Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Iran confirms new Supreme Leader Mojtaba Khamenei wounded in war",
@@ -1364,6 +1364,42 @@
         "sourceCount": "14 sources"
       },
       {
+        "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
+        "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
+        "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T20:35:46Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Sen. Booker proposes making first $75,000 tax-free",
+        "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
+        "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T17:02:31Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
+        "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
+        "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T20:09:32Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "Trump calls Iran's choice of Mojtaba Khamenei 'a big mistake'",
+        "url": "https://www.perplexity.ai/page/trump-calls-iran-s-choice-of-m-mwBTdRl4TJOBVKl6MwTRJQ",
+        "description": "The president condemned Iran's new supreme leader, said the appointment won't last, and declined to rule out seizing Iranian oil.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T21:58:39Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Greek tanker exits Hormuz with Saudi crude as most traffic avoids risk",
         "url": "https://www.perplexity.ai/page/greek-tanker-exits-hormuz-with-vRJdZZ7ET2WDrprm7TDy4g",
         "description": "U.S. Energy Secretary Wright says broader resumption of shipping through the strait is \"not too long away,\" though most operators remain sidelined.",
@@ -1371,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T16:19:38Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Trump says Iran war is 'very complete,' claims military destroyed",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
-        "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T20:17:15Z",
-        "sourceCount": "55 sources"
       },
       {
         "title": "Macron announces naval mission to reopen Strait of Hormuz",
@@ -1391,6 +1418,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Trump says Iran war is 'very complete,' claims military destroyed",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
+        "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T20:17:15Z",
+        "sourceCount": "55 sources"
+      },
+      {
         "title": "Anthropic sues Pentagon over 'supply chain risk' label",
         "url": "https://www.perplexity.ai/page/anthropic-sues-pentagon-over-s-NcJt3NemTWSQcAzqtzWtHg",
         "description": "The AI company filed two lawsuits challenging the designation as unconstitutional retaliation for refusing to remove safety guardrails from its technology.",
@@ -1398,6 +1434,15 @@
         "topic": "top",
         "pubDate": "2026-03-09T15:28:54Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "G7 fails to agree on oil reserve release as crude tops $100",
+        "url": "https://www.perplexity.ai/page/g7-fails-to-agree-on-oil-reser-AzLV85H.R46JPPiwzqyV.g",
+        "description": "France said the bloc is \"not there yet\" on a coordinated drawdown after emergency talks Monday, even as Brent crude surged to nearly $120.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T14:54:08Z",
+        "sourceCount": "54 sources"
       },
       {
         "title": "US intercepts Iran signal that may activate sleeper cells abroad",
@@ -1416,15 +1461,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T16:54:01Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "G7 fails to agree on oil reserve release as crude tops $100",
-        "url": "https://www.perplexity.ai/page/g7-fails-to-agree-on-oil-reser-AzLV85H.R46JPPiwzqyV.g",
-        "description": "France said the bloc is \"not there yet\" on a coordinated drawdown after emergency talks Monday, even as Brent crude surged to nearly $120.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T14:54:08Z",
-        "sourceCount": "54 sources"
       },
       {
         "title": "NATO intercepts second Iranian missile in Turkish airspace",
