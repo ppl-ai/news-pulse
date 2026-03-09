@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Live Nation settles DOJ antitrust case, keeps Ticketmaster",
+      "url": "https://www.perplexity.ai/page/live-nation-settles-doj-antitr-dp5gkFHAScCiuCws9Mlv0Q",
+      "description": "The deal requires amphitheater divestitures, caps on service fees and shorter exclusivity contracts but avoids a forced breakup of the ticketing giant.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T10:11:16Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Musk pushes vision of robot-powered 'sustainable abundance'",
       "url": "https://www.perplexity.ai/page/musk-pushes-vision-of-robot-po-YdExRR.VSO20umnnbEc9yw",
       "description": "The Tesla CEO says AI and humanoid robots will make work optional, but economists warn the timeline and wealth distribution remain major obstacles.",
@@ -1216,9 +1225,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-09T09:57:43Z",
+  "cached_at": "2026-03-09T10:24:37Z",
   "topics": {
     "top": [
+      {
+        "title": "Live Nation settles DOJ antitrust case, keeps Ticketmaster",
+        "url": "https://www.perplexity.ai/page/live-nation-settles-doj-antitr-dp5gkFHAScCiuCws9Mlv0Q",
+        "description": "The deal requires amphitheater divestitures, caps on service fees and shorter exclusivity contracts but avoids a forced breakup of the ticketing giant.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T10:11:16Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Musk pushes vision of robot-powered 'sustainable abundance'",
         "url": "https://www.perplexity.ai/page/musk-pushes-vision-of-robot-po-YdExRR.VSO20umnnbEc9yw",
