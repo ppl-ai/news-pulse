@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran says it does not want to harm 'ordinary Americans'",
+      "url": "https://www.perplexity.ai/page/iran-says-it-does-not-want-to-W7qMsf1hQzyGCX71mQ3cug",
+      "description": "As the U.S.-Israeli campaign against Iran enters its second week, Foreign Minister Araghchi said Tehran's fight is with \"Israel and its dupes in Washington,\" not ordinary Americans.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T21:28:39Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Trump and Putin discuss Iran and Ukraine in phone call",
       "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-a-3xvCisguRHefgiq63URBcw",
       "description": "The Kremlin said the Monday call, initiated by Trump, covered the Iran conflict and trilateral Ukraine settlement talks.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-09T20:39:50Z",
       "sourceCount": "49 sources"
-    },
-    {
-      "title": "Iran confirms new Supreme Leader Mojtaba Khamenei wounded in war",
-      "url": "https://www.perplexity.ai/page/iran-confirms-new-supreme-lead-4GZPgkiVQTeTQwyitPxQZg",
-      "description": "State TV called Mojtaba Khamenei \"janbaz,\" or wounded by the enemy, hours after the Assembly of Experts named him Supreme Leader on March 8.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T20:24:24Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
@@ -28,6 +28,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Iran confirms new Supreme Leader Mojtaba Khamenei wounded in war",
+      "url": "https://www.perplexity.ai/page/iran-confirms-new-supreme-lead-4GZPgkiVQTeTQwyitPxQZg",
+      "description": "State TV called Mojtaba Khamenei \"janbaz,\" or wounded by the enemy, hours after the Assembly of Experts named him Supreme Leader on March 8.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T20:24:24Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
       "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
       "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
@@ -35,24 +44,6 @@
       "topic": "top",
       "pubDate": "2026-03-09T20:35:46Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
-      "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
-      "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T20:09:32Z",
-      "sourceCount": "36 sources"
-    },
-    {
-      "title": "US intercepts Iran signal that may activate sleeper cells abroad",
-      "url": "https://www.perplexity.ai/page/us-intercepts-iran-signal-that-vMxVaxG1Suu6NSSLpYFJkw",
-      "description": "Encrypted transmission detected after Khamenei's death could be an \"operational trigger\" for covert operatives, a federal alert warns.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T19:40:34Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Sen. Booker proposes making first $75,000 tax-free",
@@ -64,13 +55,22 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Divisions emerge as GOP retreat begins at Trump's Doral resort",
-      "url": "https://www.perplexity.ai/page/divisions-emerge-as-gop-retrea-nsePr98uQGm6JvaJAmIepg",
-      "description": "House Republicans gather at Doral for a three-day policy conference as the president's ultimatum on elections legislation threatens to derail their midterm agenda.",
+      "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
+      "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
+      "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T16:54:01Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-09T20:09:32Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "Trump says Iran war is 'very complete,' claims military destroyed",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
+      "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T20:17:15Z",
+      "sourceCount": "55 sources"
     },
     {
       "title": "Greek tanker exits Hormuz with Saudi crude as most traffic avoids risk",
@@ -91,13 +91,22 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump says Iran war is 'very complete,' claims military destroyed",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
-      "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+      "title": "US intercepts Iran signal that may activate sleeper cells abroad",
+      "url": "https://www.perplexity.ai/page/us-intercepts-iran-signal-that-vMxVaxG1Suu6NSSLpYFJkw",
+      "description": "Encrypted transmission detected after Khamenei's death could be an \"operational trigger\" for covert operatives, a federal alert warns.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T20:17:15Z",
-      "sourceCount": "55 sources"
+      "pubDate": "2026-03-09T19:40:34Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Divisions emerge as GOP retreat begins at Trump's Doral resort",
+      "url": "https://www.perplexity.ai/page/divisions-emerge-as-gop-retrea-nsePr98uQGm6JvaJAmIepg",
+      "description": "House Republicans gather at Doral for a three-day policy conference as the president's ultimatum on elections legislation threatens to derail their midterm agenda.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T16:54:01Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Anthropic sues Pentagon over 'supply chain risk' label",
@@ -1261,9 +1270,18 @@
       "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-09T21:20:57Z",
+  "cached_at": "2026-03-09T21:39:47Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran says it does not want to harm 'ordinary Americans'",
+        "url": "https://www.perplexity.ai/page/iran-says-it-does-not-want-to-W7qMsf1hQzyGCX71mQ3cug",
+        "description": "As the U.S.-Israeli campaign against Iran enters its second week, Foreign Minister Araghchi said Tehran's fight is with \"Israel and its dupes in Washington,\" not ordinary Americans.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T21:28:39Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Trump and Putin discuss Iran and Ukraine in phone call",
         "url": "https://www.perplexity.ai/page/trump-and-putin-discuss-iran-a-3xvCisguRHefgiq63URBcw",
@@ -1272,15 +1290,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T20:39:50Z",
         "sourceCount": "49 sources"
-      },
-      {
-        "title": "Iran confirms new Supreme Leader Mojtaba Khamenei wounded in war",
-        "url": "https://www.perplexity.ai/page/iran-confirms-new-supreme-lead-4GZPgkiVQTeTQwyitPxQZg",
-        "description": "State TV called Mojtaba Khamenei \"janbaz,\" or wounded by the enemy, hours after the Assembly of Experts named him Supreme Leader on March 8.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T20:24:24Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
@@ -1292,6 +1301,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Iran confirms new Supreme Leader Mojtaba Khamenei wounded in war",
+        "url": "https://www.perplexity.ai/page/iran-confirms-new-supreme-lead-4GZPgkiVQTeTQwyitPxQZg",
+        "description": "State TV called Mojtaba Khamenei \"janbaz,\" or wounded by the enemy, hours after the Assembly of Experts named him Supreme Leader on March 8.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T20:24:24Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
         "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
         "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
@@ -1299,24 +1317,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T20:35:46Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
-        "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
-        "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T20:09:32Z",
-        "sourceCount": "36 sources"
-      },
-      {
-        "title": "US intercepts Iran signal that may activate sleeper cells abroad",
-        "url": "https://www.perplexity.ai/page/us-intercepts-iran-signal-that-vMxVaxG1Suu6NSSLpYFJkw",
-        "description": "Encrypted transmission detected after Khamenei's death could be an \"operational trigger\" for covert operatives, a federal alert warns.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T19:40:34Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Sen. Booker proposes making first $75,000 tax-free",
@@ -1328,13 +1328,22 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Divisions emerge as GOP retreat begins at Trump's Doral resort",
-        "url": "https://www.perplexity.ai/page/divisions-emerge-as-gop-retrea-nsePr98uQGm6JvaJAmIepg",
-        "description": "House Republicans gather at Doral for a three-day policy conference as the president's ultimatum on elections legislation threatens to derail their midterm agenda.",
+        "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
+        "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
+        "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T16:54:01Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-09T20:09:32Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "Trump says Iran war is 'very complete,' claims military destroyed",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
+        "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T20:17:15Z",
+        "sourceCount": "55 sources"
       },
       {
         "title": "Greek tanker exits Hormuz with Saudi crude as most traffic avoids risk",
@@ -1355,13 +1364,22 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump says Iran war is 'very complete,' claims military destroyed",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
-        "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+        "title": "US intercepts Iran signal that may activate sleeper cells abroad",
+        "url": "https://www.perplexity.ai/page/us-intercepts-iran-signal-that-vMxVaxG1Suu6NSSLpYFJkw",
+        "description": "Encrypted transmission detected after Khamenei's death could be an \"operational trigger\" for covert operatives, a federal alert warns.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T20:17:15Z",
-        "sourceCount": "55 sources"
+        "pubDate": "2026-03-09T19:40:34Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Divisions emerge as GOP retreat begins at Trump's Doral resort",
+        "url": "https://www.perplexity.ai/page/divisions-emerge-as-gop-retrea-nsePr98uQGm6JvaJAmIepg",
+        "description": "House Republicans gather at Doral for a three-day policy conference as the president's ultimatum on elections legislation threatens to derail their midterm agenda.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T16:54:01Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Anthropic sues Pentagon over 'supply chain risk' label",
