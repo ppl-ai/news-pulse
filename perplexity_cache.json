@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Zelenskyy says Ukraine recaptured up to 435 sq km in south",
+      "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-recaptu-Q40T9AEES6OreAOAfDKudg",
+      "description": "Ukrainian forces regained territory over six weeks of operations aimed at disrupting Russia's plans in the Zaporizhzhia and Dnipropetrovsk regions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T22:38:19Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "State Dept. orders U.S. diplomats to leave Saudi Arabia",
       "url": "https://www.perplexity.ai/page/state-dept-orders-u-s-diplomat-GaK6oy5HRNCHX2JBeoYZzg",
       "description": "Washington upgraded the Saudi departure from voluntary to mandatory as Iranian attacks on Gulf facilities persist more than a week into the conflict.",
@@ -1180,9 +1189,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-08T23:52:49Z",
+  "cached_at": "2026-03-09T00:02:25Z",
   "topics": {
     "top": [
+      {
+        "title": "Zelenskyy says Ukraine recaptured up to 435 sq km in south",
+        "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-recaptu-Q40T9AEES6OreAOAfDKudg",
+        "description": "Ukrainian forces regained territory over six weeks of operations aimed at disrupting Russia's plans in the Zaporizhzhia and Dnipropetrovsk regions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T22:38:19Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "State Dept. orders U.S. diplomats to leave Saudi Arabia",
         "url": "https://www.perplexity.ai/page/state-dept-orders-u-s-diplomat-GaK6oy5HRNCHX2JBeoYZzg",
