@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Musk pushes vision of robot-powered 'sustainable abundance'",
+      "url": "https://www.perplexity.ai/page/musk-pushes-vision-of-robot-po-YdExRR.VSO20umnnbEc9yw",
+      "description": "The Tesla CEO says AI and humanoid robots will make work optional, but economists warn the timeline and wealth distribution remain major obstacles.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T06:38:33Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
       "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
       "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
@@ -1207,9 +1216,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-09T06:33:27Z",
+  "cached_at": "2026-03-09T07:00:01Z",
   "topics": {
     "top": [
+      {
+        "title": "Musk pushes vision of robot-powered 'sustainable abundance'",
+        "url": "https://www.perplexity.ai/page/musk-pushes-vision-of-robot-po-YdExRR.VSO20umnnbEc9yw",
+        "description": "The Tesla CEO says AI and humanoid robots will make work optional, but economists warn the timeline and wealth distribution remain major obstacles.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T06:38:33Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
         "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
