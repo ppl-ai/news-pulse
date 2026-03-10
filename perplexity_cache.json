@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. gas prices jump 48 cents in one week amid Iran war",
+      "url": "https://www.perplexity.ai/page/u-s-gas-prices-jump-48-cents-i-0wmlVzOIRaK1nJ7obxIkkA",
+      "description": "The national average hit $3.48 a gallon as of March 9, the fastest weekly surge since Russia's invasion of Ukraine in 2022.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T07:06:22Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Cortical Labs unveils data centers powered by human brain cells",
       "url": "https://www.perplexity.ai/page/cortical-labs-unveils-data-cen-pCKMI7a.TfyDn_suUUTlpg",
       "description": "The Australian biotech startup opened a biological computing facility in Melbourne and is building a second in Singapore with partner DayOne Data Centers.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-10T06:23:53Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Oil nears $120 a barrel as Iran war sparks historic market surge",
-      "url": "https://www.perplexity.ai/page/oil-nears-120-a-barrel-as-iran-fyJTTUWDT76o9hOfXApitg",
-      "description": "Brent crude posted its largest single-day gain ever as Middle Eastern producers cut output and the Strait of Hormuz remains effectively shut down.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T05:53:01Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "US now weighs SPR oil sales amid Iran war price surge",
@@ -1198,9 +1198,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-10T06:48:06Z",
+  "cached_at": "2026-03-10T07:10:19Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. gas prices jump 48 cents in one week amid Iran war",
+        "url": "https://www.perplexity.ai/page/u-s-gas-prices-jump-48-cents-i-0wmlVzOIRaK1nJ7obxIkkA",
+        "description": "The national average hit $3.48 a gallon as of March 9, the fastest weekly surge since Russia's invasion of Ukraine in 2022.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T07:06:22Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Cortical Labs unveils data centers powered by human brain cells",
         "url": "https://www.perplexity.ai/page/cortical-labs-unveils-data-cen-pCKMI7a.TfyDn_suUUTlpg",
@@ -1209,15 +1218,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T06:23:53Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Oil nears $120 a barrel as Iran war sparks historic market surge",
-        "url": "https://www.perplexity.ai/page/oil-nears-120-a-barrel-as-iran-fyJTTUWDT76o9hOfXApitg",
-        "description": "Brent crude posted its largest single-day gain ever as Middle Eastern producers cut output and the Strait of Hormuz remains effectively shut down.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T05:53:01Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "US now weighs SPR oil sales amid Iran war price surge",
