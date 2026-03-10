@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "FCC weighs Reflect Orbital's space mirror plan as comment period closes",
+      "url": "https://www.perplexity.ai/page/fcc-weighs-reflect-orbital-s-s-6VjxpciAT7OiYX8Fqos4Mg",
+      "description": "The startup wants to launch a 60-foot mirror satellite to beam moonlight-bright sunlight to Earth at night, drawing fierce opposition from astronomers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T09:34:11Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Apple now assembles 25% of iPhones in India",
+      "url": "https://www.perplexity.ai/page/apple-now-assembles-25-of-ipho-R_1W7vwaSBi6BXrtLRSsPQ",
+      "description": "India-made iPhones hit 55 million units in 2025, a 53% jump, as Apple accelerates its manufacturing shift away from China.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T09:25:40Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Alaska's glacial lakes expanding at twice historic rates, study finds",
       "url": "https://www.perplexity.ai/page/alaska-s-glacial-lakes-expandi-51ebG9HuTIm1W3FG_k4xsg",
       "description": "Glacial lakes could grow to four times their current size as ice retreats, raising outburst flood risks for communities statewide and globally.",
@@ -1234,9 +1252,27 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-10T09:25:15Z",
+  "cached_at": "2026-03-10T09:47:17Z",
   "topics": {
     "top": [
+      {
+        "title": "FCC weighs Reflect Orbital's space mirror plan as comment period closes",
+        "url": "https://www.perplexity.ai/page/fcc-weighs-reflect-orbital-s-s-6VjxpciAT7OiYX8Fqos4Mg",
+        "description": "The startup wants to launch a 60-foot mirror satellite to beam moonlight-bright sunlight to Earth at night, drawing fierce opposition from astronomers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T09:34:11Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Apple now assembles 25% of iPhones in India",
+        "url": "https://www.perplexity.ai/page/apple-now-assembles-25-of-ipho-R_1W7vwaSBi6BXrtLRSsPQ",
+        "description": "India-made iPhones hit 55 million units in 2025, a 53% jump, as Apple accelerates its manufacturing shift away from China.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T09:25:40Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Alaska's glacial lakes expanding at twice historic rates, study finds",
         "url": "https://www.perplexity.ai/page/alaska-s-glacial-lakes-expandi-51ebG9HuTIm1W3FG_k4xsg",
