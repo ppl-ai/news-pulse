@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran strikes Gulf desalination, energy sites as war widens",
+      "url": "https://www.perplexity.ai/page/iran-strikes-gulf-desalination-s46gqHkZRbuA4uuoSSPKhw",
+      "description": "Iranian missiles and drones hit civilian infrastructure across Bahrain, the UAE, and Oman on March 9, triggering force majeure declarations from major energy firms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T19:19:58Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
+      "url": "https://www.perplexity.ai/page/up-to-150-us-troops-wounded-in-gv07bslyQYOlKqNx8v9j9g",
+      "description": "The figure, disclosed after a Reuters report, far exceeds the eight serious injuries the Pentagon had previously acknowledged publicly.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T19:16:10Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Hegseth warns Russia against sharing intel with Iran",
       "url": "https://www.perplexity.ai/page/hegseth-warns-russia-against-s-ADU9rOr0RBqGkqrTJR6O3A",
       "description": "Iran's foreign minister confirmed Moscow is \"helping us in many different directions\" as the U.S. accuses Russia of aiding Tehran with military intelligence.",
@@ -62,15 +80,6 @@
       "topic": "top",
       "pubDate": "2026-03-10T16:34:08Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Iran hits Israel, Gulf states as conflict enters 11th day",
-      "url": "https://www.perplexity.ai/page/iran-hits-israel-gulf-states-a-j24FJHI1Q.q_sy8XJ1NHww",
-      "description": "Tehran rejected talks and vowed to use more powerful missiles as the death toll across the region surpassed 1,700.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T15:18:34Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Iran war fuels global debate over shift to renewables",
@@ -1243,9 +1252,27 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-10T19:12:40Z",
+  "cached_at": "2026-03-10T19:30:40Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran strikes Gulf desalination, energy sites as war widens",
+        "url": "https://www.perplexity.ai/page/iran-strikes-gulf-desalination-s46gqHkZRbuA4uuoSSPKhw",
+        "description": "Iranian missiles and drones hit civilian infrastructure across Bahrain, the UAE, and Oman on March 9, triggering force majeure declarations from major energy firms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T19:19:58Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
+        "url": "https://www.perplexity.ai/page/up-to-150-us-troops-wounded-in-gv07bslyQYOlKqNx8v9j9g",
+        "description": "The figure, disclosed after a Reuters report, far exceeds the eight serious injuries the Pentagon had previously acknowledged publicly.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T19:16:10Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Hegseth warns Russia against sharing intel with Iran",
         "url": "https://www.perplexity.ai/page/hegseth-warns-russia-against-s-ADU9rOr0RBqGkqrTJR6O3A",
@@ -1308,15 +1335,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T16:34:08Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Iran hits Israel, Gulf states as conflict enters 11th day",
-        "url": "https://www.perplexity.ai/page/iran-hits-israel-gulf-states-a-j24FJHI1Q.q_sy8XJ1NHww",
-        "description": "Tehran rejected talks and vowed to use more powerful missiles as the death toll across the region surpassed 1,700.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T15:18:34Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Iran war fuels global debate over shift to renewables",
