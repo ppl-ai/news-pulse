@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+      "title": "NASA watchdog says Starship faces two years of delays",
+      "url": "https://www.perplexity.ai/page/nasa-watchdog-says-starship-fa-.1sHLJ6yRHm2j40cimSITQ",
+      "description": "An inspector general report found cryogenic refueling and design milestones leave \"little margin for error\" before a planned 2028 moon landing.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T20:23:42Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-10T21:14:19Z",
+      "sourceCount": "24 sources"
+    },
+    {
+      "title": "Trump says US destroyed 10 Iranian mine-laying vessels in Hormuz",
+      "url": "https://www.perplexity.ai/page/trump-says-us-destroyed-10-ira-2Kt8r51LRQ.S6I0TUYCgCw",
+      "description": "The Pentagon vowed its most intense day of strikes as Iran began seeding the critical strait with naval mines, effectively closing it to tanker traffic.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T21:04:10Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Iran strikes Gulf desalination, energy sites as war widens",
@@ -19,13 +28,31 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
-      "url": "https://www.perplexity.ai/page/up-to-150-us-troops-wounded-in-gv07bslyQYOlKqNx8v9j9g",
-      "description": "The figure, disclosed after a Reuters report, far exceeds the eight serious injuries the Pentagon had previously acknowledged publicly.",
+      "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
+      "url": "https://www.perplexity.ai/page/nearly-700000-displaced-in-leb-uz7KW_8eT3KyzvbOPa0DrA",
+      "description": "UNHCR says displacement jumped by over 100,000 in a single day, with its Lebanon operation only 14% funded as the humanitarian crisis deepens.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T19:16:10Z",
+      "pubDate": "2026-03-10T17:49:28Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Hegseth warns of 'most intense' day of strikes on Iran",
+      "url": "https://www.perplexity.ai/page/hegseth-warns-of-most-intense-JBbHaSnQSGSfCKFV2nsfjg",
+      "description": "On day 11 of the U.S.-Israeli war against Iran, Defense Secretary Hegseth said Tuesday would see the most fighters, bombers, and strikes yet deployed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T20:43:12Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T20:23:42Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Hegseth warns Russia against sharing intel with Iran",
@@ -37,22 +64,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
-      "url": "https://www.perplexity.ai/page/nearly-700000-displaced-in-leb-uz7KW_8eT3KyzvbOPa0DrA",
-      "description": "UNHCR says displacement jumped by over 100,000 in a single day, with its Lebanon operation only 14% funded as the humanitarian crisis deepens.",
+      "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
+      "url": "https://www.perplexity.ai/page/up-to-150-us-troops-wounded-in-gv07bslyQYOlKqNx8v9j9g",
+      "description": "The figure, disclosed after a Reuters report, far exceeds the eight serious injuries the Pentagon had previously acknowledged publicly.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T17:49:28Z",
+      "pubDate": "2026-03-10T19:16:10Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "White House denies Navy escorted tanker after Wright deletes claim",
-      "url": "https://www.perplexity.ai/page/white-house-denies-navy-escort-6DuSghKeQBO1.SAo.h5KvQ",
-      "description": "Energy Secretary Chris Wright briefly posted that a tanker was escorted through the Strait of Hormuz, but the White House and Pentagon confirmed no such operation occurred.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T20:04:02Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
@@ -1241,28 +1259,28 @@
       "topic": "top",
       "pubDate": "2026-03-04T23:17:31Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "DOJ proposes rule to let Bondi block state bar ethics probes into its lawyers",
-      "url": "https://www.perplexity.ai/page/doj-proposes-rule-to-let-bondi-KoYNS1Q0RV6LUTd3s9hTqQ",
-      "description": "The regulation, published Wednesday in the Federal Register, would let the attorney general suspend state-level investigations while DOJ conducts its own review.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T20:32:38Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-10T21:05:16Z",
+  "cached_at": "2026-03-10T21:19:43Z",
   "topics": {
     "top": [
       {
-        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+        "title": "NASA watchdog says Starship faces two years of delays",
+        "url": "https://www.perplexity.ai/page/nasa-watchdog-says-starship-fa-.1sHLJ6yRHm2j40cimSITQ",
+        "description": "An inspector general report found cryogenic refueling and design milestones leave \"little margin for error\" before a planned 2028 moon landing.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T20:23:42Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-10T21:14:19Z",
+        "sourceCount": "24 sources"
+      },
+      {
+        "title": "Trump says US destroyed 10 Iranian mine-laying vessels in Hormuz",
+        "url": "https://www.perplexity.ai/page/trump-says-us-destroyed-10-ira-2Kt8r51LRQ.S6I0TUYCgCw",
+        "description": "The Pentagon vowed its most intense day of strikes as Iran began seeding the critical strait with naval mines, effectively closing it to tanker traffic.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T21:04:10Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Iran strikes Gulf desalination, energy sites as war widens",
@@ -1274,13 +1292,31 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
-        "url": "https://www.perplexity.ai/page/up-to-150-us-troops-wounded-in-gv07bslyQYOlKqNx8v9j9g",
-        "description": "The figure, disclosed after a Reuters report, far exceeds the eight serious injuries the Pentagon had previously acknowledged publicly.",
+        "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
+        "url": "https://www.perplexity.ai/page/nearly-700000-displaced-in-leb-uz7KW_8eT3KyzvbOPa0DrA",
+        "description": "UNHCR says displacement jumped by over 100,000 in a single day, with its Lebanon operation only 14% funded as the humanitarian crisis deepens.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T19:16:10Z",
+        "pubDate": "2026-03-10T17:49:28Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Hegseth warns of 'most intense' day of strikes on Iran",
+        "url": "https://www.perplexity.ai/page/hegseth-warns-of-most-intense-JBbHaSnQSGSfCKFV2nsfjg",
+        "description": "On day 11 of the U.S.-Israeli war against Iran, Defense Secretary Hegseth said Tuesday would see the most fighters, bombers, and strikes yet deployed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T20:43:12Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T20:23:42Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Hegseth warns Russia against sharing intel with Iran",
@@ -1292,22 +1328,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
-        "url": "https://www.perplexity.ai/page/nearly-700000-displaced-in-leb-uz7KW_8eT3KyzvbOPa0DrA",
-        "description": "UNHCR says displacement jumped by over 100,000 in a single day, with its Lebanon operation only 14% funded as the humanitarian crisis deepens.",
+        "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
+        "url": "https://www.perplexity.ai/page/up-to-150-us-troops-wounded-in-gv07bslyQYOlKqNx8v9j9g",
+        "description": "The figure, disclosed after a Reuters report, far exceeds the eight serious injuries the Pentagon had previously acknowledged publicly.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T17:49:28Z",
+        "pubDate": "2026-03-10T19:16:10Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "White House denies Navy escorted tanker after Wright deletes claim",
-        "url": "https://www.perplexity.ai/page/white-house-denies-navy-escort-6DuSghKeQBO1.SAo.h5KvQ",
-        "description": "Energy Secretary Chris Wright briefly posted that a tanker was escorted through the Strait of Hormuz, but the White House and Pentagon confirmed no such operation occurred.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T20:04:02Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
@@ -2496,15 +2523,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T23:17:31Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "DOJ proposes rule to let Bondi block state bar ethics probes into its lawyers",
-        "url": "https://www.perplexity.ai/page/doj-proposes-rule-to-let-bondi-KoYNS1Q0RV6LUTd3s9hTqQ",
-        "description": "The regulation, published Wednesday in the Federal Register, would let the attorney general suspend state-level investigations while DOJ conducts its own review.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T20:32:38Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
