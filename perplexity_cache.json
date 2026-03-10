@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Scientists identify landing sites for China's first crewed moon mission",
+      "url": "https://www.perplexity.ai/page/scientists-identify-landing-si-dMiTMVgQQomj5UF9gRZR.w",
+      "description": "A study published in Nature Astronomy proposes four sites in the volcanic Rimae Bode region, calling it a \"geological museum\" ideal for astronaut exploration.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T10:44:38Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "UCL scientists reconstruct videos from mouse brain activity",
+      "url": "https://www.perplexity.ai/page/ucl-scientists-reconstruct-vid-AidasBKqTQSFaIsHmcwXTQ",
+      "description": "Researchers decoded 10-second movie clips from single-cell neural recordings in the visual cortex, a first published Monday in eLife.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T10:44:00Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Lawmakers in 11 states propose temporary bans on data centers",
       "url": "https://www.perplexity.ai/page/lawmakers-in-11-states-propose-i_Se0veOSi6I0osXidaoxg",
       "description": "Bipartisan legislation targets new data center construction over concerns about soaring electricity costs and water use driven by the AI boom.",
@@ -1261,9 +1279,27 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-10T10:45:26Z",
+  "cached_at": "2026-03-10T11:04:59Z",
   "topics": {
     "top": [
+      {
+        "title": "Scientists identify landing sites for China's first crewed moon mission",
+        "url": "https://www.perplexity.ai/page/scientists-identify-landing-si-dMiTMVgQQomj5UF9gRZR.w",
+        "description": "A study published in Nature Astronomy proposes four sites in the volcanic Rimae Bode region, calling it a \"geological museum\" ideal for astronaut exploration.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T10:44:38Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "UCL scientists reconstruct videos from mouse brain activity",
+        "url": "https://www.perplexity.ai/page/ucl-scientists-reconstruct-vid-AidasBKqTQSFaIsHmcwXTQ",
+        "description": "Researchers decoded 10-second movie clips from single-cell neural recordings in the visual cortex, a first published Monday in eLife.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T10:44:00Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Lawmakers in 11 states propose temporary bans on data centers",
         "url": "https://www.perplexity.ai/page/lawmakers-in-11-states-propose-i_Se0veOSi6I0osXidaoxg",
