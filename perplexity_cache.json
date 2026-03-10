@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Oil nears $120 a barrel as Iran war sparks historic market surge",
+      "url": "https://www.perplexity.ai/page/oil-nears-120-a-barrel-as-iran-fyJTTUWDT76o9hOfXApitg",
+      "description": "Brent crude posted its largest single-day gain ever as Middle Eastern producers cut output and the Strait of Hormuz remains effectively shut down.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T05:53:01Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "US now weighs SPR oil sales amid Iran war price surge",
       "url": "https://www.perplexity.ai/page/us-now-weighs-spr-oil-sales-am-6CDCkQUxT3GkkqElA2qshA",
       "description": "Energy Secretary Chris Wright said the administration is discussing coordinated reserve releases with allies, reversing its stance from days earlier.",
@@ -226,13 +235,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
-      "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
-      "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
+      "title": "Sen. Booker proposes making first $75,000 tax-free",
+      "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
+      "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T18:56:25Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-09T17:02:31Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Iran says it does not want to harm 'ordinary Americans'",
@@ -253,13 +262,13 @@
       "sourceCount": "49 sources"
     },
     {
-      "title": "Sen. Booker proposes making first $75,000 tax-free",
-      "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
-      "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
+      "title": "Anthropic sues Pentagon over 'supply chain risk' label",
+      "url": "https://www.perplexity.ai/page/anthropic-sues-pentagon-over-s-NcJt3NemTWSQcAzqtzWtHg",
+      "description": "The AI company filed two lawsuits challenging the designation as unconstitutional retaliation for refusing to remove safety guardrails from its technology.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T17:02:31Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-09T15:28:54Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
@@ -278,24 +287,6 @@
       "topic": "top",
       "pubDate": "2026-03-09T16:54:01Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Greek tanker exits Hormuz with Saudi crude as most traffic avoids risk",
-      "url": "https://www.perplexity.ai/page/greek-tanker-exits-hormuz-with-vRJdZZ7ET2WDrprm7TDy4g",
-      "description": "U.S. Energy Secretary Wright says broader resumption of shipping through the strait is \"not too long away,\" though most operators remain sidelined.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T16:19:38Z",
-      "sourceCount": "36 sources"
-    },
-    {
-      "title": "Anthropic sues Pentagon over 'supply chain risk' label",
-      "url": "https://www.perplexity.ai/page/anthropic-sues-pentagon-over-s-NcJt3NemTWSQcAzqtzWtHg",
-      "description": "The AI company filed two lawsuits challenging the designation as unconstitutional retaliation for refusing to remove safety guardrails from its technology.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T15:28:54Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "NATO intercepts second Iranian missile in Turkish airspace",
@@ -1223,20 +1214,20 @@
       "topic": "top",
       "pubDate": "2026-03-04T03:43:58Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Hinojosa wins Texas Democratic primary, will face Abbott in November",
-      "url": "https://www.perplexity.ai/page/hinojosa-wins-texas-democratic-B.gMjiRlSpmad6mzxOcnxA",
-      "description": "The state representative captured over 60% of the vote, setting up what polls suggest could be Texas' most competitive governor's race in years.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T03:39:56Z",
-      "sourceCount": "34 sources"
     }
   ],
-  "cached_at": "2026-03-10T05:34:08Z",
+  "cached_at": "2026-03-10T05:56:56Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil nears $120 a barrel as Iran war sparks historic market surge",
+        "url": "https://www.perplexity.ai/page/oil-nears-120-a-barrel-as-iran-fyJTTUWDT76o9hOfXApitg",
+        "description": "Brent crude posted its largest single-day gain ever as Middle Eastern producers cut output and the Strait of Hormuz remains effectively shut down.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T05:53:01Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "US now weighs SPR oil sales amid Iran war price surge",
         "url": "https://www.perplexity.ai/page/us-now-weighs-spr-oil-sales-am-6CDCkQUxT3GkkqElA2qshA",
@@ -1463,13 +1454,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Iran war produces largest oil supply disruption in history, Rapidan Energy says",
-        "url": "https://www.perplexity.ai/page/iran-war-produces-largest-oil-RrH_dUBzSOKnT79dFLEa8A",
-        "description": "Crude prices have surged past $100 a barrel as roughly 20% of global oil and gas supply remains suspended for a ninth consecutive day.",
+        "title": "Sen. Booker proposes making first $75,000 tax-free",
+        "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
+        "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T18:56:25Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-09T17:02:31Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Iran says it does not want to harm 'ordinary Americans'",
@@ -1490,13 +1481,13 @@
         "sourceCount": "49 sources"
       },
       {
-        "title": "Sen. Booker proposes making first $75,000 tax-free",
-        "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
-        "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
+        "title": "Anthropic sues Pentagon over 'supply chain risk' label",
+        "url": "https://www.perplexity.ai/page/anthropic-sues-pentagon-over-s-NcJt3NemTWSQcAzqtzWtHg",
+        "description": "The AI company filed two lawsuits challenging the designation as unconstitutional retaliation for refusing to remove safety guardrails from its technology.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T17:02:31Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-09T15:28:54Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
@@ -1515,24 +1506,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T16:54:01Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Greek tanker exits Hormuz with Saudi crude as most traffic avoids risk",
-        "url": "https://www.perplexity.ai/page/greek-tanker-exits-hormuz-with-vRJdZZ7ET2WDrprm7TDy4g",
-        "description": "U.S. Energy Secretary Wright says broader resumption of shipping through the strait is \"not too long away,\" though most operators remain sidelined.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T16:19:38Z",
-        "sourceCount": "36 sources"
-      },
-      {
-        "title": "Anthropic sues Pentagon over 'supply chain risk' label",
-        "url": "https://www.perplexity.ai/page/anthropic-sues-pentagon-over-s-NcJt3NemTWSQcAzqtzWtHg",
-        "description": "The AI company filed two lawsuits challenging the designation as unconstitutional retaliation for refusing to remove safety guardrails from its technology.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T15:28:54Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "NATO intercepts second Iranian missile in Turkish airspace",
@@ -2460,15 +2433,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T03:43:58Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Hinojosa wins Texas Democratic primary, will face Abbott in November",
-        "url": "https://www.perplexity.ai/page/hinojosa-wins-texas-democratic-B.gMjiRlSpmad6mzxOcnxA",
-        "description": "The state representative captured over 60% of the vote, setting up what polls suggest could be Texas' most competitive governor's race in years.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T03:39:56Z",
-        "sourceCount": "34 sources"
       }
     ],
     "tech": [],
