@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "RMIT builds dolphin-shaped minibot to skim oil spills",
+      "url": "https://www.perplexity.ai/page/rmit-builds-dolphin-shaped-min-hvKpAedWRImsR0Jsc9Onxw",
+      "description": "The sneaker-sized \"Electronic Dolphin\" uses a sea-urchin-inspired filter that repels water while absorbing oil with over 95% purity.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T11:48:57Z",
+      "sourceCount": "13 sources"
+    },
+    {
       "title": "CSIRO and India complete world-first green steel trial using rice husk waste",
       "url": "https://www.perplexity.ai/page/csiro-and-india-complete-world-cnfnSwvHQQqOxHaAnp9Bkg",
       "description": "Researchers replaced up to 10% of coal with rice husk pellets at a commercial steelworks in Odisha with no loss in performance.",
@@ -1288,9 +1297,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-10T11:40:09Z",
+  "cached_at": "2026-03-10T11:54:48Z",
   "topics": {
     "top": [
+      {
+        "title": "RMIT builds dolphin-shaped minibot to skim oil spills",
+        "url": "https://www.perplexity.ai/page/rmit-builds-dolphin-shaped-min-hvKpAedWRImsR0Jsc9Onxw",
+        "description": "The sneaker-sized \"Electronic Dolphin\" uses a sea-urchin-inspired filter that repels water while absorbing oil with over 95% purity.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T11:48:57Z",
+        "sourceCount": "13 sources"
+      },
       {
         "title": "CSIRO and India complete world-first green steel trial using rice husk waste",
         "url": "https://www.perplexity.ai/page/csiro-and-india-complete-world-cnfnSwvHQQqOxHaAnp9Bkg",
