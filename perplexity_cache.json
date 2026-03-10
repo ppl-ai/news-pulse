@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "IEA calls for emergency oil reserve release at G7 meeting",
+      "url": "https://www.perplexity.ai/page/iea-calls-for-emergency-oil-re-c5I8BiEyTruy3nbHiJkKOQ",
+      "description": "The agency reversed its stance from days earlier as Brent crude spiked near $120 a barrel amid the Iran war's disruption of the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T16:54:37Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Musk says X Money will enter early public access in April",
+      "url": "https://www.perplexity.ai/page/musk-says-x-money-will-enter-e-hpIWyv3SQ7ucYGR2hjwEtQ",
+      "description": "The digital payment system, built into the X platform, offers P2P transfers, a Visa debit card, and a 6% yield on deposits.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T16:42:59Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Hegseth vows 'most intense' strikes yet as Iran war hits day 10",
       "url": "https://www.perplexity.ai/page/hegseth-vows-most-intense-stri-IGIaA0AITZqM5p6nuyFwfw",
       "description": "U.S. forces have struck over 5,000 targets since Operation Epic Fury began, reducing Iran's missile launches by 90%, the Pentagon says.",
@@ -1243,9 +1261,27 @@
       "sourceCount": "57 sources"
     }
   ],
-  "cached_at": "2026-03-10T16:34:40Z",
+  "cached_at": "2026-03-10T17:00:36Z",
   "topics": {
     "top": [
+      {
+        "title": "IEA calls for emergency oil reserve release at G7 meeting",
+        "url": "https://www.perplexity.ai/page/iea-calls-for-emergency-oil-re-c5I8BiEyTruy3nbHiJkKOQ",
+        "description": "The agency reversed its stance from days earlier as Brent crude spiked near $120 a barrel amid the Iran war's disruption of the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T16:54:37Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Musk says X Money will enter early public access in April",
+        "url": "https://www.perplexity.ai/page/musk-says-x-money-will-enter-e-hpIWyv3SQ7ucYGR2hjwEtQ",
+        "description": "The digital payment system, built into the X platform, offers P2P transfers, a Visa debit card, and a 6% yield on deposits.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T16:42:59Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Hegseth vows 'most intense' strikes yet as Iran war hits day 10",
         "url": "https://www.perplexity.ai/page/hegseth-vows-most-intense-stri-IGIaA0AITZqM5p6nuyFwfw",
