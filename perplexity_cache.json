@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Pentagon says US hit 5,000 targets in Iran's first 10 days of war",
+      "url": "https://www.perplexity.ai/page/pentagon-says-us-hit-5000-targ-h83ljkYCSFCz6gsVT8te6Q",
+      "description": "Defense Secretary Hegseth called it the \"most intense day\" of strikes as Trump gave conflicting signals on how long the war will last.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T21:46:05Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Israel says it's not seeking 'endless war' as strikes on Tehran intensify",
       "url": "https://www.perplexity.ai/page/israel-says-it-s-not-seeking-e-oiACM4M.TUS7rhD2zd9QJQ",
       "description": "Foreign Minister Sa'ar pledged to coordinate with the U.S. on ending the conflict but offered no timeline on day 11 of fighting.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-10T21:38:44Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Trump says US destroyed 10 Iranian mine-laying vessels in Hormuz",
-      "url": "https://www.perplexity.ai/page/trump-says-us-destroyed-10-ira-2Kt8r51LRQ.S6I0TUYCgCw",
-      "description": "The Pentagon vowed its most intense day of strikes as Iran began seeding the critical strait with naval mines, effectively closing it to tanker traffic.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T21:04:10Z",
-      "sourceCount": "25 sources"
     },
     {
       "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
@@ -28,13 +28,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
-      "url": "https://www.perplexity.ai/page/tankers-begin-running-strait-o-fH_wUCYrQY2sQkYU2coTRg",
-      "description": "A handful of oil tankers have broken through the effective Hormuz blockade, but daily transits remain near zero as Iran warns vessels to stay away.",
+      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T17:46:52Z",
-      "sourceCount": "40 sources"
+      "pubDate": "2026-03-10T20:23:42Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Hegseth warns of 'most intense' day of strikes on Iran",
@@ -46,15 +46,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T20:23:42Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Hegseth warns Russia against sharing intel with Iran",
       "url": "https://www.perplexity.ai/page/hegseth-warns-russia-against-s-ADU9rOr0RBqGkqrTJR6O3A",
       "description": "Iran's foreign minister confirmed Moscow is \"helping us in many different directions\" as the U.S. accuses Russia of aiding Tehran with military intelligence.",
@@ -62,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-10T18:03:26Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
+      "url": "https://www.perplexity.ai/page/tankers-begin-running-strait-o-fH_wUCYrQY2sQkYU2coTRg",
+      "description": "A handful of oil tankers have broken through the effective Hormuz blockade, but daily transits remain near zero as Iran warns vessels to stay away.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T17:46:52Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
@@ -1223,20 +1223,20 @@
       "topic": "top",
       "pubDate": "2026-03-05T00:05:00Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
-      "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
-      "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T21:41:56Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-10T21:50:22Z",
+  "cached_at": "2026-03-10T22:00:06Z",
   "topics": {
     "top": [
+      {
+        "title": "Pentagon says US hit 5,000 targets in Iran's first 10 days of war",
+        "url": "https://www.perplexity.ai/page/pentagon-says-us-hit-5000-targ-h83ljkYCSFCz6gsVT8te6Q",
+        "description": "Defense Secretary Hegseth called it the \"most intense day\" of strikes as Trump gave conflicting signals on how long the war will last.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T21:46:05Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Israel says it's not seeking 'endless war' as strikes on Tehran intensify",
         "url": "https://www.perplexity.ai/page/israel-says-it-s-not-seeking-e-oiACM4M.TUS7rhD2zd9QJQ",
@@ -1245,15 +1245,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T21:38:44Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Trump says US destroyed 10 Iranian mine-laying vessels in Hormuz",
-        "url": "https://www.perplexity.ai/page/trump-says-us-destroyed-10-ira-2Kt8r51LRQ.S6I0TUYCgCw",
-        "description": "The Pentagon vowed its most intense day of strikes as Iran began seeding the critical strait with naval mines, effectively closing it to tanker traffic.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T21:04:10Z",
-        "sourceCount": "25 sources"
       },
       {
         "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
@@ -1265,13 +1256,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
-        "url": "https://www.perplexity.ai/page/tankers-begin-running-strait-o-fH_wUCYrQY2sQkYU2coTRg",
-        "description": "A handful of oil tankers have broken through the effective Hormuz blockade, but daily transits remain near zero as Iran warns vessels to stay away.",
+        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T17:46:52Z",
-        "sourceCount": "40 sources"
+        "pubDate": "2026-03-10T20:23:42Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Hegseth warns of 'most intense' day of strikes on Iran",
@@ -1283,15 +1274,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T20:23:42Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "Hegseth warns Russia against sharing intel with Iran",
         "url": "https://www.perplexity.ai/page/hegseth-warns-russia-against-s-ADU9rOr0RBqGkqrTJR6O3A",
         "description": "Iran's foreign minister confirmed Moscow is \"helping us in many different directions\" as the U.S. accuses Russia of aiding Tehran with military intelligence.",
@@ -1299,6 +1281,15 @@
         "topic": "top",
         "pubDate": "2026-03-10T18:03:26Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
+        "url": "https://www.perplexity.ai/page/tankers-begin-running-strait-o-fH_wUCYrQY2sQkYU2coTRg",
+        "description": "A handful of oil tankers have broken through the effective Hormuz blockade, but daily transits remain near zero as Iran warns vessels to stay away.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T17:46:52Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
@@ -2460,15 +2451,6 @@
         "topic": "top",
         "pubDate": "2026-03-05T00:05:00Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Iraq suffers nationwide blackout as war disrupts gas supplies",
-        "url": "https://www.perplexity.ai/page/iraq-suffers-nationwide-blacko-euodpenGSeiws.mtTqmOKQ",
-        "description": "A fuel shortage at a Basra power plant caused a cascading grid failure, as the U.S.-Israel-Iran conflict chokes Iraq's Iranian gas imports.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T21:41:56Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
