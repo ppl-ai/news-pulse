@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Sen. Kennedy apologizes for US strike on Iranian girls' school that killed 168",
+      "url": "https://www.perplexity.ai/page/sen-kennedy-apologizes-for-us-sTOt.6TQTZ.5jHSnHrR3Nw",
+      "description": "The Louisiana Republican broke with Trump, calling the Feb. 28 bombing of the Minab school a \"mistake\" and expressing sorrow for the deaths.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T23:29:40Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
+      "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
+      "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T23:20:24Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "US destroys 16 Iranian mine-laying vessels near Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/us-destroys-16-iranian-mine-la-f9UOEE9xScm.UqsGL7nfZA",
       "description": "Iran's Revolutionary Guards vowed to block all regional oil exports to U.S. allies as the confrontation over the critical waterway intensifies.",
@@ -1223,20 +1241,29 @@
       "topic": "top",
       "pubDate": "2026-03-05T18:38:32Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Noem defends record in two days of heated Hill testimony",
-      "url": "https://www.perplexity.ai/page/noem-defends-record-in-two-day-z_oPjWyVSoqUZPktmI8vaA",
-      "description": "The DHS secretary faced bipartisan criticism over Minneapolis shootings, FEMA delays, and a GOP senator's public call for her resignation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T23:18:55Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-10T23:29:21Z",
+  "cached_at": "2026-03-10T23:44:07Z",
   "topics": {
     "top": [
+      {
+        "title": "Sen. Kennedy apologizes for US strike on Iranian girls' school that killed 168",
+        "url": "https://www.perplexity.ai/page/sen-kennedy-apologizes-for-us-sTOt.6TQTZ.5jHSnHrR3Nw",
+        "description": "The Louisiana Republican broke with Trump, calling the Feb. 28 bombing of the Minab school a \"mistake\" and expressing sorrow for the deaths.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T23:29:40Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
+        "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
+        "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T23:20:24Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "US destroys 16 Iranian mine-laying vessels near Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/us-destroys-16-iranian-mine-la-f9UOEE9xScm.UqsGL7nfZA",
@@ -2460,15 +2487,6 @@
         "topic": "top",
         "pubDate": "2026-03-05T18:38:32Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Noem defends record in two days of heated Hill testimony",
-        "url": "https://www.perplexity.ai/page/noem-defends-record-in-two-day-z_oPjWyVSoqUZPktmI8vaA",
-        "description": "The DHS secretary faced bipartisan criticism over Minneapolis shootings, FEMA delays, and a GOP senator's public call for her resignation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T23:18:55Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
