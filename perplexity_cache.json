@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Oil's surge to $120 renews global push for clean energy",
+      "url": "https://www.perplexity.ai/page/oil-s-surge-to-120-renews-glob-zo.0ffDHSAWYdkJ3VmN2Tg",
+      "description": "The U.S.-Israeli war on Iran has knocked out a fifth of global oil and gas supply, spurring calls from analysts and governments to accelerate renewable energy investment.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T07:40:17Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "U.S. gas prices jump 48 cents in one week amid Iran war",
       "url": "https://www.perplexity.ai/page/u-s-gas-prices-jump-48-cents-i-0wmlVzOIRaK1nJ7obxIkkA",
       "description": "The national average hit $3.48 a gallon as of March 9, the fastest weekly surge since Russia's invasion of Ukraine in 2022.",
@@ -1198,9 +1207,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-10T07:29:50Z",
+  "cached_at": "2026-03-10T07:50:40Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil's surge to $120 renews global push for clean energy",
+        "url": "https://www.perplexity.ai/page/oil-s-surge-to-120-renews-glob-zo.0ffDHSAWYdkJ3VmN2Tg",
+        "description": "The U.S.-Israeli war on Iran has knocked out a fifth of global oil and gas supply, spurring calls from analysts and governments to accelerate renewable energy investment.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T07:40:17Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "U.S. gas prices jump 48 cents in one week amid Iran war",
         "url": "https://www.perplexity.ai/page/u-s-gas-prices-jump-48-cents-i-0wmlVzOIRaK1nJ7obxIkkA",
