@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Macron, IAEA chief open nuclear energy summit in Paris",
+      "url": "https://www.perplexity.ai/page/macron-iaea-chief-open-nuclear-vvxit7F1TuaVjqDtqKReBA",
+      "description": "World leaders gathered to discuss expanding civilian nuclear power amid rising energy demand, decarbonization goals, and geopolitical tensions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T08:03:37Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Oil's surge to $120 renews global push for clean energy",
       "url": "https://www.perplexity.ai/page/oil-s-surge-to-120-renews-glob-zo.0ffDHSAWYdkJ3VmN2Tg",
       "description": "The U.S.-Israeli war on Iran has knocked out a fifth of global oil and gas supply, spurring calls from analysts and governments to accelerate renewable energy investment.",
@@ -1207,9 +1216,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-10T08:04:34Z",
+  "cached_at": "2026-03-10T08:22:50Z",
   "topics": {
     "top": [
+      {
+        "title": "Macron, IAEA chief open nuclear energy summit in Paris",
+        "url": "https://www.perplexity.ai/page/macron-iaea-chief-open-nuclear-vvxit7F1TuaVjqDtqKReBA",
+        "description": "World leaders gathered to discuss expanding civilian nuclear power amid rising energy demand, decarbonization goals, and geopolitical tensions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T08:03:37Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Oil's surge to $120 renews global push for clean energy",
         "url": "https://www.perplexity.ai/page/oil-s-surge-to-120-renews-glob-zo.0ffDHSAWYdkJ3VmN2Tg",
