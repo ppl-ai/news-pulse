@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Israel says it's not seeking 'endless war' as strikes on Tehran intensify",
+      "url": "https://www.perplexity.ai/page/israel-says-it-s-not-seeking-e-oiACM4M.TUS7rhD2zd9QJQ",
+      "description": "Foreign Minister Sa'ar pledged to coordinate with the U.S. on ending the conflict but offered no timeline on day 11 of fighting.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T21:38:44Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Trump says US destroyed 10 Iranian mine-laying vessels in Hormuz",
       "url": "https://www.perplexity.ai/page/trump-says-us-destroyed-10-ira-2Kt8r51LRQ.S6I0TUYCgCw",
       "description": "The Pentagon vowed its most intense day of strikes as Iran began seeding the critical strait with naval mines, effectively closing it to tanker traffic.",
@@ -10,15 +19,6 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Iran strikes Gulf desalination, energy sites as war widens",
-      "url": "https://www.perplexity.ai/page/iran-strikes-gulf-desalination-s46gqHkZRbuA4uuoSSPKhw",
-      "description": "Iranian missiles and drones hit civilian infrastructure across Bahrain, the UAE, and Oman on March 9, triggering force majeure declarations from major energy firms.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T19:19:58Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
       "url": "https://www.perplexity.ai/page/nearly-700000-displaced-in-leb-uz7KW_8eT3KyzvbOPa0DrA",
       "description": "UNHCR says displacement jumped by over 100,000 in a single day, with its Lebanon operation only 14% funded as the humanitarian crisis deepens.",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-10T17:49:28Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
+      "url": "https://www.perplexity.ai/page/tankers-begin-running-strait-o-fH_wUCYrQY2sQkYU2coTRg",
+      "description": "A handful of oil tankers have broken through the effective Hormuz blockade, but daily transits remain near zero as Iran warns vessels to stay away.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T17:46:52Z",
+      "sourceCount": "40 sources"
     },
     {
       "title": "Hegseth warns of 'most intense' day of strikes on Iran",
@@ -64,15 +73,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
-      "url": "https://www.perplexity.ai/page/tankers-begin-running-strait-o-fH_wUCYrQY2sQkYU2coTRg",
-      "description": "A handful of oil tankers have broken through the effective Hormuz blockade, but daily transits remain near zero as Iran warns vessels to stay away.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T17:46:52Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Musk says X Money will enter early public access in April",
       "url": "https://www.perplexity.ai/page/musk-says-x-money-will-enter-e-hpIWyv3SQ7ucYGR2hjwEtQ",
       "description": "The digital payment system, built into the X platform, offers P2P transfers, a Visa debit card, and a 6% yield on deposits.",
@@ -82,15 +82,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Trump and Netanyahu split over Iran war goals and timeline",
-      "url": "https://www.perplexity.ai/page/trump-and-netanyahu-split-over-qw2p4.HJSa.9I6SmPDEDpg",
-      "description": "As the Pentagon promised its most intense day of strikes yet, Iran's foreign minister said talks with Washington are off the table.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T16:54:18Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Ukraine says leaked Russian documents show 1.3M war losses",
       "url": "https://www.perplexity.ai/page/ukraine-says-leaked-russian-do-j.huEwdJQsOtW9MNh0pCEw",
       "description": "Classified reports obtained by Ukrainian intelligence put Russia's own count of killed and seriously wounded at 1.315 million, Zelenskyy said.",
@@ -98,6 +89,15 @@
       "topic": "top",
       "pubDate": "2026-03-10T16:34:08Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Trump and Netanyahu split over Iran war goals and timeline",
+      "url": "https://www.perplexity.ai/page/trump-and-netanyahu-split-over-qw2p4.HJSa.9I6SmPDEDpg",
+      "description": "As the Pentagon promised its most intense day of strikes yet, Iran's foreign minister said talks with Washington are off the table.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T16:54:18Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Iran war fuels global debate over shift to renewables",
@@ -1232,29 +1232,20 @@
       "topic": "top",
       "pubDate": "2026-03-04T21:41:56Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "House panel subpoenas AG Bondi over Epstein files",
-      "url": "https://www.perplexity.ai/page/house-panel-subpoenas-ag-bondi-G_mWPq6ZRo..2ddnYP6apg",
-      "description": "Five Republicans joined all Democrats on the Oversight Committee in a 24-19 vote compelling Bondi to testify on withheld Epstein documents.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T21:20:16Z",
-      "sourceCount": "13 sources"
-    },
-    {
-      "title": "Tech giants sign Trump pledge to fund their own data center power",
-      "url": "https://www.perplexity.ai/page/tech-giants-sign-trump-pledge-oXdjYIllQwqMsHVLlVIL7g",
-      "description": "Seven major tech companies agreed to build or buy all electricity needed for AI data centers and prevent costs from reaching consumers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-04T23:17:31Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-10T21:37:07Z",
+  "cached_at": "2026-03-10T21:50:22Z",
   "topics": {
     "top": [
+      {
+        "title": "Israel says it's not seeking 'endless war' as strikes on Tehran intensify",
+        "url": "https://www.perplexity.ai/page/israel-says-it-s-not-seeking-e-oiACM4M.TUS7rhD2zd9QJQ",
+        "description": "Foreign Minister Sa'ar pledged to coordinate with the U.S. on ending the conflict but offered no timeline on day 11 of fighting.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T21:38:44Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Trump says US destroyed 10 Iranian mine-laying vessels in Hormuz",
         "url": "https://www.perplexity.ai/page/trump-says-us-destroyed-10-ira-2Kt8r51LRQ.S6I0TUYCgCw",
@@ -1265,15 +1256,6 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Iran strikes Gulf desalination, energy sites as war widens",
-        "url": "https://www.perplexity.ai/page/iran-strikes-gulf-desalination-s46gqHkZRbuA4uuoSSPKhw",
-        "description": "Iranian missiles and drones hit civilian infrastructure across Bahrain, the UAE, and Oman on March 9, triggering force majeure declarations from major energy firms.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T19:19:58Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
         "url": "https://www.perplexity.ai/page/nearly-700000-displaced-in-leb-uz7KW_8eT3KyzvbOPa0DrA",
         "description": "UNHCR says displacement jumped by over 100,000 in a single day, with its Lebanon operation only 14% funded as the humanitarian crisis deepens.",
@@ -1281,6 +1263,15 @@
         "topic": "top",
         "pubDate": "2026-03-10T17:49:28Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
+        "url": "https://www.perplexity.ai/page/tankers-begin-running-strait-o-fH_wUCYrQY2sQkYU2coTRg",
+        "description": "A handful of oil tankers have broken through the effective Hormuz blockade, but daily transits remain near zero as Iran warns vessels to stay away.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T17:46:52Z",
+        "sourceCount": "40 sources"
       },
       {
         "title": "Hegseth warns of 'most intense' day of strikes on Iran",
@@ -1319,15 +1310,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
-        "url": "https://www.perplexity.ai/page/tankers-begin-running-strait-o-fH_wUCYrQY2sQkYU2coTRg",
-        "description": "A handful of oil tankers have broken through the effective Hormuz blockade, but daily transits remain near zero as Iran warns vessels to stay away.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T17:46:52Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Musk says X Money will enter early public access in April",
         "url": "https://www.perplexity.ai/page/musk-says-x-money-will-enter-e-hpIWyv3SQ7ucYGR2hjwEtQ",
         "description": "The digital payment system, built into the X platform, offers P2P transfers, a Visa debit card, and a 6% yield on deposits.",
@@ -1337,15 +1319,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Trump and Netanyahu split over Iran war goals and timeline",
-        "url": "https://www.perplexity.ai/page/trump-and-netanyahu-split-over-qw2p4.HJSa.9I6SmPDEDpg",
-        "description": "As the Pentagon promised its most intense day of strikes yet, Iran's foreign minister said talks with Washington are off the table.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T16:54:18Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Ukraine says leaked Russian documents show 1.3M war losses",
         "url": "https://www.perplexity.ai/page/ukraine-says-leaked-russian-do-j.huEwdJQsOtW9MNh0pCEw",
         "description": "Classified reports obtained by Ukrainian intelligence put Russia's own count of killed and seriously wounded at 1.315 million, Zelenskyy said.",
@@ -1353,6 +1326,15 @@
         "topic": "top",
         "pubDate": "2026-03-10T16:34:08Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Trump and Netanyahu split over Iran war goals and timeline",
+        "url": "https://www.perplexity.ai/page/trump-and-netanyahu-split-over-qw2p4.HJSa.9I6SmPDEDpg",
+        "description": "As the Pentagon promised its most intense day of strikes yet, Iran's foreign minister said talks with Washington are off the table.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T16:54:18Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Iran war fuels global debate over shift to renewables",
@@ -2487,24 +2469,6 @@
         "topic": "top",
         "pubDate": "2026-03-04T21:41:56Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "House panel subpoenas AG Bondi over Epstein files",
-        "url": "https://www.perplexity.ai/page/house-panel-subpoenas-ag-bondi-G_mWPq6ZRo..2ddnYP6apg",
-        "description": "Five Republicans joined all Democrats on the Oversight Committee in a 24-19 vote compelling Bondi to testify on withheld Epstein documents.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T21:20:16Z",
-        "sourceCount": "13 sources"
-      },
-      {
-        "title": "Tech giants sign Trump pledge to fund their own data center power",
-        "url": "https://www.perplexity.ai/page/tech-giants-sign-trump-pledge-oXdjYIllQwqMsHVLlVIL7g",
-        "description": "Seven major tech companies agreed to build or buy all electricity needed for AI data centers and prevent costs from reaching consumers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-04T23:17:31Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
