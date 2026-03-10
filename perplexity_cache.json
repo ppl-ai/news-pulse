@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "NASA watchdog says Starship faces two years of delays",
-      "url": "https://www.perplexity.ai/page/nasa-watchdog-says-starship-fa-.1sHLJ6yRHm2j40cimSITQ",
-      "description": "An inspector general report found cryogenic refueling and design milestones leave \"little margin for error\" before a planned 2028 moon landing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T21:14:19Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Trump says US destroyed 10 Iranian mine-laying vessels in Hormuz",
       "url": "https://www.perplexity.ai/page/trump-says-us-destroyed-10-ira-2Kt8r51LRQ.S6I0TUYCgCw",
       "description": "The Pentagon vowed its most intense day of strikes as Iran began seeding the critical strait with naval mines, effectively closing it to tanker traffic.",
@@ -1261,18 +1252,9 @@
       "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-10T21:19:43Z",
+  "cached_at": "2026-03-10T21:37:07Z",
   "topics": {
     "top": [
-      {
-        "title": "NASA watchdog says Starship faces two years of delays",
-        "url": "https://www.perplexity.ai/page/nasa-watchdog-says-starship-fa-.1sHLJ6yRHm2j40cimSITQ",
-        "description": "An inspector general report found cryogenic refueling and design milestones leave \"little margin for error\" before a planned 2028 moon landing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T21:14:19Z",
-        "sourceCount": "24 sources"
-      },
       {
         "title": "Trump says US destroyed 10 Iranian mine-laying vessels in Hormuz",
         "url": "https://www.perplexity.ai/page/trump-says-us-destroyed-10-ira-2Kt8r51LRQ.S6I0TUYCgCw",
