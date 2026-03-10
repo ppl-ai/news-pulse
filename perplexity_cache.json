@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "CSIRO and India complete world-first green steel trial using rice husk waste",
+      "url": "https://www.perplexity.ai/page/csiro-and-india-complete-world-cnfnSwvHQQqOxHaAnp9Bkg",
+      "description": "Researchers replaced up to 10% of coal with rice husk pellets at a commercial steelworks in Odisha with no loss in performance.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T11:10:23Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Scientists identify landing sites for China's first crewed moon mission",
       "url": "https://www.perplexity.ai/page/scientists-identify-landing-si-dMiTMVgQQomj5UF9gRZR.w",
       "description": "A study published in Nature Astronomy proposes four sites in the volcanic Rimae Bode region, calling it a \"geological museum\" ideal for astronaut exploration.",
@@ -1279,9 +1288,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-10T11:04:59Z",
+  "cached_at": "2026-03-10T11:21:40Z",
   "topics": {
     "top": [
+      {
+        "title": "CSIRO and India complete world-first green steel trial using rice husk waste",
+        "url": "https://www.perplexity.ai/page/csiro-and-india-complete-world-cnfnSwvHQQqOxHaAnp9Bkg",
+        "description": "Researchers replaced up to 10% of coal with rice husk pellets at a commercial steelworks in Odisha with no loss in performance.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T11:10:23Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Scientists identify landing sites for China's first crewed moon mission",
         "url": "https://www.perplexity.ai/page/scientists-identify-landing-si-dMiTMVgQQomj5UF9gRZR.w",
