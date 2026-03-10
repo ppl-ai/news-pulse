@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Lawmakers in 11 states propose temporary bans on data centers",
+      "url": "https://www.perplexity.ai/page/lawmakers-in-11-states-propose-i_Se0veOSi6I0osXidaoxg",
+      "description": "Bipartisan legislation targets new data center construction over concerns about soaring electricity costs and water use driven by the AI boom.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T10:19:41Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "FCC weighs Reflect Orbital's space mirror plan as comment period closes",
       "url": "https://www.perplexity.ai/page/fcc-weighs-reflect-orbital-s-s-6VjxpciAT7OiYX8Fqos4Mg",
       "description": "The startup wants to launch a 60-foot mirror satellite to beam moonlight-bright sunlight to Earth at night, drawing fierce opposition from astronomers.",
@@ -1252,9 +1261,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-10T10:24:17Z",
+  "cached_at": "2026-03-10T10:45:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Lawmakers in 11 states propose temporary bans on data centers",
+        "url": "https://www.perplexity.ai/page/lawmakers-in-11-states-propose-i_Se0veOSi6I0osXidaoxg",
+        "description": "Bipartisan legislation targets new data center construction over concerns about soaring electricity costs and water use driven by the AI boom.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T10:19:41Z",
+        "sourceCount": "23 sources"
+      },
       {
         "title": "FCC weighs Reflect Orbital's space mirror plan as comment period closes",
         "url": "https://www.perplexity.ai/page/fcc-weighs-reflect-orbital-s-s-6VjxpciAT7OiYX8Fqos4Mg",
