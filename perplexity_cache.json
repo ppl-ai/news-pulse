@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Johnson opposes nation-building in Iran, breaks with Trump",
+      "url": "https://www.perplexity.ai/page/johnson-opposes-nation-buildin-RQ2o6gQ3Qx2LAW102_Az2w",
+      "description": "The House speaker said rebuilding Iran is \"not our responsibility,\" a day after the president called the war \"the beginning of building a new country.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T00:44:34Z",
+      "sourceCount": "49 sources"
+    },
+    {
+      "title": "Hyde-Smith wins Mississippi GOP Senate primary",
+      "url": "https://www.perplexity.ai/page/hyde-smith-wins-mississippi-go-t3XAgjfTR3qiv22HrRCyzQ",
+      "description": "The Trump-endorsed incumbent defeated challenger Sarah Adlakha with roughly 83% of the vote, advancing to the November general election.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T00:40:34Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Iran launches drone strikes on Haifa refinery in second attack in three days",
       "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-iWLmzeIuT2WW9w7_9Gj4ow",
       "description": "The Tuesday strikes targeted oil, gas, and fuel storage facilities at Israel's largest refinery, deepening a tit-for-tat energy infrastructure war.",
@@ -19,6 +37,15 @@
       "sourceCount": "23 sources"
     },
     {
+      "title": "Fuller and Harris head to Georgia runoff for Greene seat",
+      "url": "https://www.perplexity.ai/page/fuller-and-harris-head-to-geor-PRico0ryScyoAbwr4aOxlw",
+      "description": "Democrat Shawn Harris and Trump-backed Republican Clay Fuller will face off April 7 for the deep-red 14th District seat.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T00:28:08Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "IRGC says Iran will decide when war ends, threatens Gulf oil blockade",
       "url": "https://www.perplexity.ai/page/irgc-says-iran-will-decide-whe-ACOCU02DQ82ntccSXXZKUw",
       "description": "Iran's Revolutionary Guards dismissed Trump's claims the conflict is nearly over, warning they would halt all regional oil exports.",
@@ -28,21 +55,21 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
-      "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
-      "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T23:20:24Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Sen. Kennedy apologizes for US strike on Iranian girls' school that killed 168",
       "url": "https://www.perplexity.ai/page/sen-kennedy-apologizes-for-us-sTOt.6TQTZ.5jHSnHrR3Nw",
       "description": "The Louisiana Republican broke with Trump, calling the Feb. 28 bombing of the Minab school a \"mistake\" and expressing sorrow for the deaths.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-10T23:29:40Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
+      "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
+      "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T23:20:24Z",
       "sourceCount": "25 sources"
     },
     {
@@ -251,6 +278,15 @@
       "topic": "top",
       "pubDate": "2026-03-10T11:08:43Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "Pentagon burned through $5.6B in munitions in first 48 hours of Iran war",
+      "url": "https://www.perplexity.ai/page/pentagon-burned-through-5-6b-i-ztQ67UfwQW.PzgUK56_74g",
+      "description": "The Washington Post report, presented to Congress, has intensified concerns over depleted stockpiles and prompted a shift to cheaper weapons.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T10:03:40Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Apple now assembles 25% of iPhones in India",
@@ -1288,9 +1324,27 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-11T00:30:58Z",
+  "cached_at": "2026-03-11T00:58:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Johnson opposes nation-building in Iran, breaks with Trump",
+        "url": "https://www.perplexity.ai/page/johnson-opposes-nation-buildin-RQ2o6gQ3Qx2LAW102_Az2w",
+        "description": "The House speaker said rebuilding Iran is \"not our responsibility,\" a day after the president called the war \"the beginning of building a new country.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T00:44:34Z",
+        "sourceCount": "49 sources"
+      },
+      {
+        "title": "Hyde-Smith wins Mississippi GOP Senate primary",
+        "url": "https://www.perplexity.ai/page/hyde-smith-wins-mississippi-go-t3XAgjfTR3qiv22HrRCyzQ",
+        "description": "The Trump-endorsed incumbent defeated challenger Sarah Adlakha with roughly 83% of the vote, advancing to the November general election.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T00:40:34Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Iran launches drone strikes on Haifa refinery in second attack in three days",
         "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-iWLmzeIuT2WW9w7_9Gj4ow",
@@ -1310,6 +1364,15 @@
         "sourceCount": "23 sources"
       },
       {
+        "title": "Fuller and Harris head to Georgia runoff for Greene seat",
+        "url": "https://www.perplexity.ai/page/fuller-and-harris-head-to-geor-PRico0ryScyoAbwr4aOxlw",
+        "description": "Democrat Shawn Harris and Trump-backed Republican Clay Fuller will face off April 7 for the deep-red 14th District seat.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T00:28:08Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "IRGC says Iran will decide when war ends, threatens Gulf oil blockade",
         "url": "https://www.perplexity.ai/page/irgc-says-iran-will-decide-whe-ACOCU02DQ82ntccSXXZKUw",
         "description": "Iran's Revolutionary Guards dismissed Trump's claims the conflict is nearly over, warning they would halt all regional oil exports.",
@@ -1319,21 +1382,21 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
-        "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
-        "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T23:20:24Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Sen. Kennedy apologizes for US strike on Iranian girls' school that killed 168",
         "url": "https://www.perplexity.ai/page/sen-kennedy-apologizes-for-us-sTOt.6TQTZ.5jHSnHrR3Nw",
         "description": "The Louisiana Republican broke with Trump, calling the Feb. 28 bombing of the Minab school a \"mistake\" and expressing sorrow for the deaths.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-10T23:29:40Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
+        "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
+        "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T23:20:24Z",
         "sourceCount": "25 sources"
       },
       {
@@ -1542,6 +1605,15 @@
         "topic": "top",
         "pubDate": "2026-03-10T11:08:43Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "Pentagon burned through $5.6B in munitions in first 48 hours of Iran war",
+        "url": "https://www.perplexity.ai/page/pentagon-burned-through-5-6b-i-ztQ67UfwQW.PzgUK56_74g",
+        "description": "The Washington Post report, presented to Congress, has intensified concerns over depleted stockpiles and prompted a shift to cheaper weapons.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T10:03:40Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Apple now assembles 25% of iPhones in India",
