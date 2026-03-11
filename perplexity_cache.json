@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Israeli strikes kill 634 in Lebanon in 10 days, officials say",
+      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-634-in-le-LxN1mkJVRdezUOsACSFG7A",
+      "description": "More than 800,000 people have been displaced as Israel's renewed campaign shows no sign of slowing, Lebanese authorities said Wednesday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T22:19:16Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "17 states sue Trump over college race data mandate",
       "url": "https://www.perplexity.ai/page/17-states-sue-trump-over-colle-hjyRwMCaTySr9ZxOiopBjA",
       "description": "Democratic attorneys general argue the administration's demand for detailed admissions data by March 18 is unlawful and threatens student privacy.",
@@ -766,13 +775,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump says Iran war is 'very complete,' claims military destroyed",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
-      "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+      "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
+      "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
+      "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T20:17:15Z",
-      "sourceCount": "55 sources"
+      "pubDate": "2026-03-09T10:28:45Z",
+      "sourceCount": "50 sources"
     },
     {
       "title": "Iran war splits BRICS as India blocks joint response",
@@ -793,15 +802,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
-      "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
-      "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T10:28:45Z",
-      "sourceCount": "50 sources"
-    },
-    {
       "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
       "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
       "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
@@ -811,22 +811,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
-      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
-      "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+      "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
+      "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
+      "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-08T19:19:10Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
-      "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
-      "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T19:59:18Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-09T10:28:42Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Kansas City airport evacuated after bomb threat",
@@ -847,13 +838,22 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
-      "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
-      "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
+      "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
+      "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
+      "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T10:28:42Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-08T19:59:18Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
+      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
+      "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T19:19:10Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "UAE denies Israeli reports it struck Iranian desalination plant",
@@ -1234,9 +1234,18 @@
       "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-03-11T22:27:41Z",
+  "cached_at": "2026-03-11T22:42:44Z",
   "topics": {
     "top": [
+      {
+        "title": "Israeli strikes kill 634 in Lebanon in 10 days, officials say",
+        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-634-in-le-LxN1mkJVRdezUOsACSFG7A",
+        "description": "More than 800,000 people have been displaced as Israel's renewed campaign shows no sign of slowing, Lebanese authorities said Wednesday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T22:19:16Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "17 states sue Trump over college race data mandate",
         "url": "https://www.perplexity.ai/page/17-states-sue-trump-over-colle-hjyRwMCaTySr9ZxOiopBjA",
@@ -2003,13 +2012,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump says Iran war is 'very complete,' claims military destroyed",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-war-is-very-co-ZEadW2sUQ4K1z3jwEMCCpg",
-        "description": "Iran named Mojtaba Khamenei as new supreme leader the same day Trump claimed Tehran has lost its navy, air force, and communications.",
+        "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
+        "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
+        "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T20:17:15Z",
-        "sourceCount": "55 sources"
+        "pubDate": "2026-03-09T10:28:45Z",
+        "sourceCount": "50 sources"
       },
       {
         "title": "Iran war splits BRICS as India blocks joint response",
@@ -2030,15 +2039,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
-        "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
-        "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T10:28:45Z",
-        "sourceCount": "50 sources"
-      },
-      {
         "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
         "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
         "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
@@ -2048,22 +2048,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
-        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
-        "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+        "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
+        "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
+        "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-08T19:19:10Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
-        "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
-        "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T19:59:18Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-09T10:28:42Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Kansas City airport evacuated after bomb threat",
@@ -2084,13 +2075,22 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
-        "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
-        "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
+        "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
+        "url": "https://www.perplexity.ai/page/trump-rebuffs-uk-carrier-readi-0yA3ppsKRbuTDB4Tb90Ywg",
+        "description": "The president mocked Starmer's move to ready HMS Prince of Wales, warning on Truth Social that the U.S. \"will remember\" the UK's delayed support.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T10:28:42Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-08T19:59:18Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
+        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-n-VmjVn313QBWW4NpvvT2Scw",
+        "description": "Baba'iyan was appointed days earlier after his predecessor was killed in the opening strike of Operation Roaring Lion.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T19:19:10Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "UAE denies Israeli reports it struck Iranian desalination plant",
