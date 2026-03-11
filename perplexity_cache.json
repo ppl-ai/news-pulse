@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Meta rebuked over AI war fakes reaching millions",
+      "url": "https://www.perplexity.ai/page/meta-rebuked-over-ai-war-fakes-xrDeAbOtSfuimmMulxsTTw",
+      "description": "Meta's Oversight Board called the company's AI content labeling inadequate as fabricated videos and images of the Iran conflict amass hundreds of millions of views.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T14:22:56Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Three commercial ships hit by projectiles in Strait of Hormuz attacks",
       "url": "https://www.perplexity.ai/page/three-commercial-ships-hit-by-a6oahQ4_QL.hkQ31sPyFkg",
       "description": "A Thai-flagged vessel caught fire and three crew members remain missing after coordinated strikes on commercial ships in the vital waterway.",
@@ -1225,9 +1234,18 @@
       "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-11T14:06:53Z",
+  "cached_at": "2026-03-11T14:30:06Z",
   "topics": {
     "top": [
+      {
+        "title": "Meta rebuked over AI war fakes reaching millions",
+        "url": "https://www.perplexity.ai/page/meta-rebuked-over-ai-war-fakes-xrDeAbOtSfuimmMulxsTTw",
+        "description": "Meta's Oversight Board called the company's AI content labeling inadequate as fabricated videos and images of the Iran conflict amass hundreds of millions of views.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T14:22:56Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Three commercial ships hit by projectiles in Strait of Hormuz attacks",
         "url": "https://www.perplexity.ai/page/three-commercial-ships-hit-by-a6oahQ4_QL.hkQ31sPyFkg",
