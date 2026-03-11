@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Oil prices climb again as nations plan historic reserve release",
-      "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-nati-VrwiHk5zQT6kvdP1trSHsQ",
-      "description": "Crude rose more than 3% Wednesday despite governments signaling emergency stockpile releases amid the ongoing U.S.-Israel conflict with Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T18:38:52Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "U.S. military probe finds America at fault in Iran school strike that killed 175",
       "url": "https://www.perplexity.ai/page/u-s-military-probe-finds-ameri-qZbLxiMORd.duJ2.46Ehhw",
       "description": "Outdated targeting data led to the Tomahawk missile hitting a girls' elementary school on the war's first day, according to preliminary findings.",
@@ -449,6 +440,15 @@
       "topic": "top",
       "pubDate": "2026-03-10T08:03:37Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Oil's surge to $120 renews global push for clean energy",
+      "url": "https://www.perplexity.ai/page/oil-s-surge-to-120-renews-glob-zo.0ffDHSAWYdkJ3VmN2Tg",
+      "description": "The U.S.-Israeli war on Iran has knocked out a fifth of global oil and gas supply, spurring calls from analysts and governments to accelerate renewable energy investment.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T07:40:17Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Cortical Labs unveils data centers powered by human brain cells",
@@ -1207,18 +1207,9 @@
       "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-11T19:14:03Z",
+  "cached_at": "2026-03-11T19:33:27Z",
   "topics": {
     "top": [
-      {
-        "title": "Oil prices climb again as nations plan historic reserve release",
-        "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-nati-VrwiHk5zQT6kvdP1trSHsQ",
-        "description": "Crude rose more than 3% Wednesday despite governments signaling emergency stockpile releases amid the ongoing U.S.-Israel conflict with Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T18:38:52Z",
-        "sourceCount": "29 sources"
-      },
       {
         "title": "U.S. military probe finds America at fault in Iran school strike that killed 175",
         "url": "https://www.perplexity.ai/page/u-s-military-probe-finds-ameri-qZbLxiMORd.duJ2.46Ehhw",
@@ -1659,6 +1650,15 @@
         "topic": "top",
         "pubDate": "2026-03-10T08:03:37Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Oil's surge to $120 renews global push for clean energy",
+        "url": "https://www.perplexity.ai/page/oil-s-surge-to-120-renews-glob-zo.0ffDHSAWYdkJ3VmN2Tg",
+        "description": "The U.S.-Israeli war on Iran has knocked out a fifth of global oil and gas supply, spurring calls from analysts and governments to accelerate renewable energy investment.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T07:40:17Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Cortical Labs unveils data centers powered by human brain cells",
