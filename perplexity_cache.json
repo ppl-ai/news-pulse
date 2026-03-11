@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Synopsys debuts AI chip design tools at Converge 2026",
+      "url": "https://www.perplexity.ai/page/synopsys-debuts-ai-chip-design-zjswd9ThQJe2ku_wGRFvzw",
+      "description": "The launches mark the first major product deliveries since Synopsys completed its $35 billion acquisition of Ansys last year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T18:47:00Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Oil prices climb again as nations plan historic reserve release",
+      "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-nati-VrwiHk5zQT6kvdP1trSHsQ",
+      "description": "Crude rose more than 3% Wednesday despite governments signaling emergency stockpile releases amid the ongoing U.S.-Israel conflict with Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T18:38:52Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "U.S. military probe finds America at fault in Iran school strike that killed 175",
+      "url": "https://www.perplexity.ai/page/u-s-military-probe-finds-ameri-qZbLxiMORd.duJ2.46Ehhw",
+      "description": "Outdated targeting data led to the Tomahawk missile hitting a girls' elementary school on the war's first day, according to preliminary findings.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T18:01:35Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Norway arrests three brothers over U.S. embassy bombing in Oslo",
       "url": "https://www.perplexity.ai/page/norway-arrests-three-brothers-WE5HZV9tSpWTqdYVXGqTIQ",
       "description": "The suspects, all Norwegian citizens of Iraqi background in their twenties, face terror bombing charges under the penal code.",
@@ -46,15 +73,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "White House says Trump will accept Iran school strike probe findings",
-      "url": "https://www.perplexity.ai/page/white-house-says-trump-will-ac-E1COhLSrRxCbwmc1UOE3Eg",
-      "description": "Press Secretary Karoline Leavitt said the Pentagon investigation continues and the administration will not speculate ahead of its conclusion.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T14:29:32Z",
-      "sourceCount": "41 sources"
-    },
-    {
       "title": "Anthropic launches policy institute amid Pentagon legal battle",
       "url": "https://www.perplexity.ai/page/anthropic-launches-policy-inst-5MaSps44SruQ4o3YZJjLKQ",
       "description": "Co-founder Jack Clark will lead the Anthropic Institute, a new research body studying AI's impact on jobs, law, and the economy.",
@@ -62,15 +80,6 @@
       "topic": "top",
       "pubDate": "2026-03-11T13:31:37Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iran's president's son says new leader is 'safe and sound' amid injury reports",
-      "url": "https://www.perplexity.ai/page/iran-s-president-s-son-says-ne-YuG3wRp6TE6WeSk1dV1VOA",
-      "description": "Mojtaba Khamenei has not appeared publicly since being named supreme leader on March 9, fueling speculation about wounds from U.S.-Israeli strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T10:18:40Z",
-      "sourceCount": "39 sources"
     },
     {
       "title": "Trump to visit Ohio, Kentucky to sell economic message and campaign against Massie",
@@ -82,6 +91,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Iran's president's son says new leader is 'safe and sound' amid injury reports",
+      "url": "https://www.perplexity.ai/page/iran-s-president-s-son-says-ne-YuG3wRp6TE6WeSk1dV1VOA",
+      "description": "Mojtaba Khamenei has not appeared publicly since being named supreme leader on March 9, fueling speculation about wounds from U.S.-Israeli strikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T10:18:40Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Von der Leyen calls return to Russian energy 'a strategic blunder' amid Iran war",
       "url": "https://www.perplexity.ai/page/von-der-leyen-calls-return-to-SZkdp5c8TyaoYOV7tMFITQ",
       "description": "The European Commission president told the European Parliament that 10 days of conflict have already cost EU taxpayers an extra €3 billion in fossil fuel imports.",
@@ -91,24 +109,6 @@
       "sourceCount": "72 sources"
     },
     {
-      "title": "UN Security Council to vote on resolution demanding Iran halt Gulf attacks",
-      "url": "https://www.perplexity.ai/page/un-security-council-to-vote-on-eSzMM4rqSGus8h8xh__KyA",
-      "description": "The Gulf-backed measure, with over 90 co-sponsors, condemns Iran's strikes on neighbors and its blockade of the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T10:18:04Z",
-      "sourceCount": "43 sources"
-    },
-    {
-      "title": "Asian stocks rally as IEA mulls record oil reserve release",
-      "url": "https://www.perplexity.ai/page/asian-stocks-rally-as-iea-mull-n0xamu8jTbyaUkE3eG4T3Q",
-      "description": "The agency is reportedly considering its largest-ever crude release to counter soaring prices as the Iran war disrupts global energy supplies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T07:17:59Z",
-      "sourceCount": "66 sources"
-    },
-    {
       "title": "US gas prices top $3.50 as Iran war disrupts Strait of Hormuz oil flow",
       "url": "https://www.perplexity.ai/page/us-gas-prices-top-3-50-as-iran-W1zC5xzORUeF7Z3FdxN1Zg",
       "description": "The national average hit $3.54 per gallon as of March 10, up more than 60 cents in a month, with California topping $5.29.",
@@ -116,6 +116,15 @@
       "topic": "top",
       "pubDate": "2026-03-11T05:33:48Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "UN Security Council to vote on resolution demanding Iran halt Gulf attacks",
+      "url": "https://www.perplexity.ai/page/un-security-council-to-vote-on-eSzMM4rqSGus8h8xh__KyA",
+      "description": "The Gulf-backed measure, with over 90 co-sponsors, condemns Iran's strikes on neighbors and its blockade of the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T10:18:04Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "New AI tools compress months of drug and protein research into days",
@@ -449,15 +458,6 @@
       "topic": "top",
       "pubDate": "2026-03-10T08:03:37Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Oil's surge to $120 renews global push for clean energy",
-      "url": "https://www.perplexity.ai/page/oil-s-surge-to-120-renews-glob-zo.0ffDHSAWYdkJ3VmN2Tg",
-      "description": "The U.S.-Israeli war on Iran has knocked out a fifth of global oil and gas supply, spurring calls from analysts and governments to accelerate renewable energy investment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T07:40:17Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Cortical Labs unveils data centers powered by human brain cells",
@@ -1216,9 +1216,36 @@
       "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-11T18:28:00Z",
+  "cached_at": "2026-03-11T18:51:59Z",
   "topics": {
     "top": [
+      {
+        "title": "Synopsys debuts AI chip design tools at Converge 2026",
+        "url": "https://www.perplexity.ai/page/synopsys-debuts-ai-chip-design-zjswd9ThQJe2ku_wGRFvzw",
+        "description": "The launches mark the first major product deliveries since Synopsys completed its $35 billion acquisition of Ansys last year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T18:47:00Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Oil prices climb again as nations plan historic reserve release",
+        "url": "https://www.perplexity.ai/page/oil-prices-climb-again-as-nati-VrwiHk5zQT6kvdP1trSHsQ",
+        "description": "Crude rose more than 3% Wednesday despite governments signaling emergency stockpile releases amid the ongoing U.S.-Israel conflict with Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T18:38:52Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "U.S. military probe finds America at fault in Iran school strike that killed 175",
+        "url": "https://www.perplexity.ai/page/u-s-military-probe-finds-ameri-qZbLxiMORd.duJ2.46Ehhw",
+        "description": "Outdated targeting data led to the Tomahawk missile hitting a girls' elementary school on the war's first day, according to preliminary findings.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T18:01:35Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Norway arrests three brothers over U.S. embassy bombing in Oslo",
         "url": "https://www.perplexity.ai/page/norway-arrests-three-brothers-WE5HZV9tSpWTqdYVXGqTIQ",
@@ -1265,15 +1292,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "White House says Trump will accept Iran school strike probe findings",
-        "url": "https://www.perplexity.ai/page/white-house-says-trump-will-ac-E1COhLSrRxCbwmc1UOE3Eg",
-        "description": "Press Secretary Karoline Leavitt said the Pentagon investigation continues and the administration will not speculate ahead of its conclusion.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T14:29:32Z",
-        "sourceCount": "41 sources"
-      },
-      {
         "title": "Anthropic launches policy institute amid Pentagon legal battle",
         "url": "https://www.perplexity.ai/page/anthropic-launches-policy-inst-5MaSps44SruQ4o3YZJjLKQ",
         "description": "Co-founder Jack Clark will lead the Anthropic Institute, a new research body studying AI's impact on jobs, law, and the economy.",
@@ -1281,15 +1299,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T13:31:37Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iran's president's son says new leader is 'safe and sound' amid injury reports",
-        "url": "https://www.perplexity.ai/page/iran-s-president-s-son-says-ne-YuG3wRp6TE6WeSk1dV1VOA",
-        "description": "Mojtaba Khamenei has not appeared publicly since being named supreme leader on March 9, fueling speculation about wounds from U.S.-Israeli strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T10:18:40Z",
-        "sourceCount": "39 sources"
       },
       {
         "title": "Trump to visit Ohio, Kentucky to sell economic message and campaign against Massie",
@@ -1301,6 +1310,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Iran's president's son says new leader is 'safe and sound' amid injury reports",
+        "url": "https://www.perplexity.ai/page/iran-s-president-s-son-says-ne-YuG3wRp6TE6WeSk1dV1VOA",
+        "description": "Mojtaba Khamenei has not appeared publicly since being named supreme leader on March 9, fueling speculation about wounds from U.S.-Israeli strikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T10:18:40Z",
+        "sourceCount": "39 sources"
+      },
+      {
         "title": "Von der Leyen calls return to Russian energy 'a strategic blunder' amid Iran war",
         "url": "https://www.perplexity.ai/page/von-der-leyen-calls-return-to-SZkdp5c8TyaoYOV7tMFITQ",
         "description": "The European Commission president told the European Parliament that 10 days of conflict have already cost EU taxpayers an extra €3 billion in fossil fuel imports.",
@@ -1310,24 +1328,6 @@
         "sourceCount": "72 sources"
       },
       {
-        "title": "UN Security Council to vote on resolution demanding Iran halt Gulf attacks",
-        "url": "https://www.perplexity.ai/page/un-security-council-to-vote-on-eSzMM4rqSGus8h8xh__KyA",
-        "description": "The Gulf-backed measure, with over 90 co-sponsors, condemns Iran's strikes on neighbors and its blockade of the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T10:18:04Z",
-        "sourceCount": "43 sources"
-      },
-      {
-        "title": "Asian stocks rally as IEA mulls record oil reserve release",
-        "url": "https://www.perplexity.ai/page/asian-stocks-rally-as-iea-mull-n0xamu8jTbyaUkE3eG4T3Q",
-        "description": "The agency is reportedly considering its largest-ever crude release to counter soaring prices as the Iran war disrupts global energy supplies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T07:17:59Z",
-        "sourceCount": "66 sources"
-      },
-      {
         "title": "US gas prices top $3.50 as Iran war disrupts Strait of Hormuz oil flow",
         "url": "https://www.perplexity.ai/page/us-gas-prices-top-3-50-as-iran-W1zC5xzORUeF7Z3FdxN1Zg",
         "description": "The national average hit $3.54 per gallon as of March 10, up more than 60 cents in a month, with California topping $5.29.",
@@ -1335,6 +1335,15 @@
         "topic": "top",
         "pubDate": "2026-03-11T05:33:48Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "UN Security Council to vote on resolution demanding Iran halt Gulf attacks",
+        "url": "https://www.perplexity.ai/page/un-security-council-to-vote-on-eSzMM4rqSGus8h8xh__KyA",
+        "description": "The Gulf-backed measure, with over 90 co-sponsors, condemns Iran's strikes on neighbors and its blockade of the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T10:18:04Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "New AI tools compress months of drug and protein research into days",
@@ -1668,15 +1677,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T08:03:37Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Oil's surge to $120 renews global push for clean energy",
-        "url": "https://www.perplexity.ai/page/oil-s-surge-to-120-renews-glob-zo.0ffDHSAWYdkJ3VmN2Tg",
-        "description": "The U.S.-Israeli war on Iran has knocked out a fifth of global oil and gas supply, spurring calls from analysts and governments to accelerate renewable energy investment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T07:40:17Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Cortical Labs unveils data centers powered by human brain cells",
