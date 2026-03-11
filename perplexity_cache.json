@@ -388,15 +388,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Pentagon burned through $5.6B in munitions in first 48 hours of Iran war",
-      "url": "https://www.perplexity.ai/page/pentagon-burned-through-5-6b-i-ztQ67UfwQW.PzgUK56_74g",
-      "description": "The Washington Post report, presented to Congress, has intensified concerns over depleted stockpiles and prompted a shift to cheaper weapons.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T10:03:40Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "ALMA detects high methanol levels in interstellar comet 3I/ATLAS",
       "url": "https://www.perplexity.ai/page/alma-detects-high-methanol-lev-ElNyXMX3Td.RYZw2SWRIbw",
       "description": "The third known interstellar object to pass through our solar system has a chemical makeup unlike nearly any comet born here, researchers say.",
@@ -404,15 +395,6 @@
       "topic": "top",
       "pubDate": "2026-03-10T09:07:15Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Macron, IAEA chief open nuclear energy summit in Paris",
-      "url": "https://www.perplexity.ai/page/macron-iaea-chief-open-nuclear-vvxit7F1TuaVjqDtqKReBA",
-      "description": "World leaders gathered to discuss expanding civilian nuclear power amid rising energy demand, decarbonization goals, and geopolitical tensions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T08:03:37Z",
-      "sourceCount": "25 sources"
     },
     {
       "title": "USDA monitors fertilizer market for price gouging amid Iran war supply crisis",
@@ -431,6 +413,15 @@
       "topic": "top",
       "pubDate": "2026-03-10T08:17:30Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "Macron, IAEA chief open nuclear energy summit in Paris",
+      "url": "https://www.perplexity.ai/page/macron-iaea-chief-open-nuclear-vvxit7F1TuaVjqDtqKReBA",
+      "description": "World leaders gathered to discuss expanding civilian nuclear power amid rising energy demand, decarbonization goals, and geopolitical tensions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T08:03:37Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Oil's surge to $120 renews global push for clean energy",
@@ -1243,7 +1234,7 @@
       "sourceCount": "35 sources"
     }
   ],
-  "cached_at": "2026-03-11T10:45:02Z",
+  "cached_at": "2026-03-11T11:04:26Z",
   "topics": {
     "top": [
       {
@@ -1634,15 +1625,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Pentagon burned through $5.6B in munitions in first 48 hours of Iran war",
-        "url": "https://www.perplexity.ai/page/pentagon-burned-through-5-6b-i-ztQ67UfwQW.PzgUK56_74g",
-        "description": "The Washington Post report, presented to Congress, has intensified concerns over depleted stockpiles and prompted a shift to cheaper weapons.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T10:03:40Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "ALMA detects high methanol levels in interstellar comet 3I/ATLAS",
         "url": "https://www.perplexity.ai/page/alma-detects-high-methanol-lev-ElNyXMX3Td.RYZw2SWRIbw",
         "description": "The third known interstellar object to pass through our solar system has a chemical makeup unlike nearly any comet born here, researchers say.",
@@ -1650,15 +1632,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T09:07:15Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Macron, IAEA chief open nuclear energy summit in Paris",
-        "url": "https://www.perplexity.ai/page/macron-iaea-chief-open-nuclear-vvxit7F1TuaVjqDtqKReBA",
-        "description": "World leaders gathered to discuss expanding civilian nuclear power amid rising energy demand, decarbonization goals, and geopolitical tensions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T08:03:37Z",
-        "sourceCount": "25 sources"
       },
       {
         "title": "USDA monitors fertilizer market for price gouging amid Iran war supply crisis",
@@ -1677,6 +1650,15 @@
         "topic": "top",
         "pubDate": "2026-03-10T08:17:30Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "Macron, IAEA chief open nuclear energy summit in Paris",
+        "url": "https://www.perplexity.ai/page/macron-iaea-chief-open-nuclear-vvxit7F1TuaVjqDtqKReBA",
+        "description": "World leaders gathered to discuss expanding civilian nuclear power amid rising energy demand, decarbonization goals, and geopolitical tensions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T08:03:37Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Oil's surge to $120 renews global push for clean energy",
