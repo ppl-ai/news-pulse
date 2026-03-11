@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Spanish researchers develop artificial cornea from fish scales",
+      "url": "https://www.perplexity.ai/page/spanish-researchers-develop-ar-AD6DgfTCQQaRcphCvBRh3w",
+      "description": "The University of Granada team says the low-cost implants showed promising results in lab and animal tests but remain far from human trials.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T07:55:25Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "UC San Diego unveils AI agent that answers weather questions in plain English",
+      "url": "https://www.perplexity.ai/page/uc-san-diego-unveils-ai-agent-7IEqG2uPSLKzfrfmBSFx_Q",
+      "description": "Zephyrus translates natural language queries into code that interacts with weather models, then converts results back into everyday language.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T07:49:46Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Asian stocks rally as IEA mulls record oil reserve release",
       "url": "https://www.perplexity.ai/page/asian-stocks-rally-as-iea-mull-n0xamu8jTbyaUkE3eG4T3Q",
       "description": "The agency is reportedly considering its largest-ever crude release to counter soaring prices as the Iran war disrupts global energy supplies.",
@@ -1288,9 +1306,27 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-11T07:42:35Z",
+  "cached_at": "2026-03-11T07:59:42Z",
   "topics": {
     "top": [
+      {
+        "title": "Spanish researchers develop artificial cornea from fish scales",
+        "url": "https://www.perplexity.ai/page/spanish-researchers-develop-ar-AD6DgfTCQQaRcphCvBRh3w",
+        "description": "The University of Granada team says the low-cost implants showed promising results in lab and animal tests but remain far from human trials.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T07:55:25Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "UC San Diego unveils AI agent that answers weather questions in plain English",
+        "url": "https://www.perplexity.ai/page/uc-san-diego-unveils-ai-agent-7IEqG2uPSLKzfrfmBSFx_Q",
+        "description": "Zephyrus translates natural language queries into code that interacts with weather models, then converts results back into everyday language.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T07:49:46Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Asian stocks rally as IEA mulls record oil reserve release",
         "url": "https://www.perplexity.ai/page/asian-stocks-rally-as-iea-mull-n0xamu8jTbyaUkE3eG4T3Q",
