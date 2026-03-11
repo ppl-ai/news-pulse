@@ -1,12 +1,21 @@
 {
   "stories": [
     {
-      "title": "U.S. military probe finds America at fault in Iran school strike that killed 175",
-      "url": "https://www.perplexity.ai/page/u-s-military-probe-finds-ameri-qZbLxiMORd.duJ2.46Ehhw",
-      "description": "Outdated targeting data led to the Tomahawk missile hitting a girls' elementary school on the war's first day, according to preliminary findings.",
+      "title": "Space Force clears design review for Epoch 2 missile-tracking satellites",
+      "url": "https://www.perplexity.ai/page/space-force-clears-design-revi-VKuba0qbS5msonZ1Jz2eDg",
+      "description": "BAE Systems completed the preliminary design review for a 10-satellite constellation less than nine months after the $1.2 billion contract award.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-11T18:01:35Z",
+      "pubDate": "2026-03-11T19:47:52Z",
+      "sourceCount": "13 sources"
+    },
+    {
+      "title": "Trump says he doesn't 'know about' probe finding US hit Iranian school",
+      "url": "https://www.perplexity.ai/page/trump-says-he-doesn-t-know-abo-OAf7kdAqQWC1aJEu8qIKDA",
+      "description": "A preliminary military investigation found outdated intelligence data led to a Tomahawk missile strike on a girls' school that Iran says killed over 180 people.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T19:33:51Z",
       "sourceCount": "28 sources"
     },
     {
@@ -1207,16 +1216,25 @@
       "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-11T19:33:27Z",
+  "cached_at": "2026-03-11T19:51:48Z",
   "topics": {
     "top": [
       {
-        "title": "U.S. military probe finds America at fault in Iran school strike that killed 175",
-        "url": "https://www.perplexity.ai/page/u-s-military-probe-finds-ameri-qZbLxiMORd.duJ2.46Ehhw",
-        "description": "Outdated targeting data led to the Tomahawk missile hitting a girls' elementary school on the war's first day, according to preliminary findings.",
+        "title": "Space Force clears design review for Epoch 2 missile-tracking satellites",
+        "url": "https://www.perplexity.ai/page/space-force-clears-design-revi-VKuba0qbS5msonZ1Jz2eDg",
+        "description": "BAE Systems completed the preliminary design review for a 10-satellite constellation less than nine months after the $1.2 billion contract award.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-11T18:01:35Z",
+        "pubDate": "2026-03-11T19:47:52Z",
+        "sourceCount": "13 sources"
+      },
+      {
+        "title": "Trump says he doesn't 'know about' probe finding US hit Iranian school",
+        "url": "https://www.perplexity.ai/page/trump-says-he-doesn-t-know-abo-OAf7kdAqQWC1aJEu8qIKDA",
+        "description": "A preliminary military investigation found outdated intelligence data led to a Tomahawk missile strike on a girls' school that Iran says killed over 180 people.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T19:33:51Z",
         "sourceCount": "28 sources"
       },
       {
