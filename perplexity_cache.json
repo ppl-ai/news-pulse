@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Three commercial ships hit by projectiles in Strait of Hormuz attacks",
+      "url": "https://www.perplexity.ai/page/three-commercial-ships-hit-by-a6oahQ4_QL.hkQ31sPyFkg",
+      "description": "A Thai-flagged vessel caught fire and three crew members remain missing after coordinated strikes on commercial ships in the vital waterway.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T13:36:54Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "G7 backs IEA's largest-ever oil reserve release amid Iran war",
+      "url": "https://www.perplexity.ai/page/g7-backs-iea-s-largest-ever-oi-sY7n8B8zRBC9JYZlitf6.Q",
+      "description": "Energy ministers endorsed \"proactive measures\" including tapping strategic reserves as IEA member nations prepare to vote Wednesday on releasing 400 million barrels.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T13:35:18Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Anthropic launches policy institute amid Pentagon legal battle",
+      "url": "https://www.perplexity.ai/page/anthropic-launches-policy-inst-5MaSps44SruQ4o3YZJjLKQ",
+      "description": "Co-founder Jack Clark will lead the Anthropic Institute, a new research body studying AI's impact on jobs, law, and the economy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T13:31:37Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Study finds AI weather models use 21 times less energy than traditional systems",
       "url": "https://www.perplexity.ai/page/study-finds-ai-weather-models-Do4MjpE4TJWtCN492lTDuw",
       "description": "New research in the journal Weather quantifies AI forecasting's energy savings, while UC San Diego unveils an AI agent that answers weather queries in plain English.",
@@ -109,13 +136,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "IEA proposes largest-ever oil reserve release amid Hormuz crisis",
-      "url": "https://www.perplexity.ai/page/iea-proposes-largest-ever-oil-3xSbdX0HQ8SiDQjsEfiPdQ",
-      "description": "Member countries are expected to decide Wednesday on a release exceeding the 182-million-barrel record set in 2022, as the Iran conflict chokes global supply.",
+      "title": "Fuller and Harris head to Georgia runoff for Greene seat",
+      "url": "https://www.perplexity.ai/page/fuller-and-harris-head-to-geor-PRico0ryScyoAbwr4aOxlw",
+      "description": "Democrat Shawn Harris and Trump-backed Republican Clay Fuller will face off April 7 for the deep-red 14th District seat.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-11T00:44:11Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-11T00:28:08Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Pentagon orders removal of Anthropic AI from military systems",
@@ -127,15 +154,6 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Hyde-Smith wins Mississippi GOP Senate primary",
-      "url": "https://www.perplexity.ai/page/hyde-smith-wins-mississippi-go-t3XAgjfTR3qiv22HrRCyzQ",
-      "description": "The Trump-endorsed incumbent defeated challenger Sarah Adlakha with roughly 83% of the vote, advancing to the November general election.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T00:40:34Z",
-      "sourceCount": "44 sources"
-    },
-    {
       "title": "Iran launches drone strikes on Haifa refinery in second attack in three days",
       "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-iWLmzeIuT2WW9w7_9Gj4ow",
       "description": "The Tuesday strikes targeted oil, gas, and fuel storage facilities at Israel's largest refinery, deepening a tit-for-tat energy infrastructure war.",
@@ -143,6 +161,15 @@
       "topic": "top",
       "pubDate": "2026-03-11T00:05:53Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Hyde-Smith wins Mississippi GOP Senate primary",
+      "url": "https://www.perplexity.ai/page/hyde-smith-wins-mississippi-go-t3XAgjfTR3qiv22HrRCyzQ",
+      "description": "The Trump-endorsed incumbent defeated challenger Sarah Adlakha with roughly 83% of the vote, advancing to the November general election.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T00:40:34Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Johnson opposes nation-building in Iran, breaks with Trump",
@@ -170,15 +197,6 @@
       "topic": "top",
       "pubDate": "2026-03-10T23:20:24Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Fuller and Harris head to Georgia runoff for Greene seat",
-      "url": "https://www.perplexity.ai/page/fuller-and-harris-head-to-geor-PRico0ryScyoAbwr4aOxlw",
-      "description": "Democrat Shawn Harris and Trump-backed Republican Clay Fuller will face off April 7 for the deep-red 14th District seat.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T00:28:08Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "IRGC says Iran will decide when war ends, threatens Gulf oil blockade",
@@ -712,42 +730,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Divisions emerge as GOP retreat begins at Trump's Doral resort",
-      "url": "https://www.perplexity.ai/page/divisions-emerge-as-gop-retrea-nsePr98uQGm6JvaJAmIepg",
-      "description": "House Republicans gather at Doral for a three-day policy conference as the president's ultimatum on elections legislation threatens to derail their midterm agenda.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T16:54:01Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "Video shows US Tomahawk missile hitting near Iran school that killed 175",
-      "url": "https://www.perplexity.ai/page/video-shows-us-tomahawk-missil-5AVXTCzuRIi4l3j8DalbTg",
-      "description": "Bellingcat geolocated footage showing a Tomahawk striking the IRGC compound adjacent to the girls' school, with smoke already rising from the school site.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T02:08:26Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Kansas City airport evacuated after bomb threat",
-      "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
-      "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T19:00:12Z",
-      "sourceCount": "22 sources"
-    },
-    {
-      "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
-      "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
-      "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T18:18:39Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
       "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
       "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
@@ -766,13 +748,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "UAE denies Israeli reports it struck Iranian desalination plant",
-      "url": "https://www.perplexity.ai/page/uae-denies-israeli-reports-it-JHtY3cTWSZedSFcBgtIwAg",
-      "description": "Emirati officials called the claims \"fake news,\" saying the UAE has the courage to announce its own military actions.",
+      "title": "Kansas City airport evacuated after bomb threat",
+      "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
+      "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-08T14:39:36Z",
-      "sourceCount": "24 sources"
+      "pubDate": "2026-03-08T19:00:12Z",
+      "sourceCount": "22 sources"
     },
     {
       "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
@@ -782,6 +764,33 @@
       "topic": "top",
       "pubDate": "2026-03-08T19:59:18Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
+      "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
+      "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T18:18:39Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "UAE denies Israeli reports it struck Iranian desalination plant",
+      "url": "https://www.perplexity.ai/page/uae-denies-israeli-reports-it-JHtY3cTWSZedSFcBgtIwAg",
+      "description": "Emirati officials called the claims \"fake news,\" saying the UAE has the courage to announce its own military actions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-08T14:39:36Z",
+      "sourceCount": "24 sources"
+    },
+    {
+      "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
+      "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
+      "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-09T10:28:42Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Israeli settlers murder three Palestinians in West Bank village raid",
@@ -802,12 +811,12 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
-      "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
-      "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
+      "title": "Video shows US Tomahawk missile hitting near Iran school that killed 175",
+      "url": "https://www.perplexity.ai/page/video-shows-us-tomahawk-missil-5AVXTCzuRIi4l3j8DalbTg",
+      "description": "Bellingcat geolocated footage showing a Tomahawk striking the IRGC compound adjacent to the girls' school, with smoke already rising from the school site.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-09T10:28:42Z",
+      "pubDate": "2026-03-09T02:08:26Z",
       "sourceCount": "25 sources"
     },
     {
@@ -1216,9 +1225,36 @@
       "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-11T13:38:21Z",
+  "cached_at": "2026-03-11T14:06:53Z",
   "topics": {
     "top": [
+      {
+        "title": "Three commercial ships hit by projectiles in Strait of Hormuz attacks",
+        "url": "https://www.perplexity.ai/page/three-commercial-ships-hit-by-a6oahQ4_QL.hkQ31sPyFkg",
+        "description": "A Thai-flagged vessel caught fire and three crew members remain missing after coordinated strikes on commercial ships in the vital waterway.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T13:36:54Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "G7 backs IEA's largest-ever oil reserve release amid Iran war",
+        "url": "https://www.perplexity.ai/page/g7-backs-iea-s-largest-ever-oi-sY7n8B8zRBC9JYZlitf6.Q",
+        "description": "Energy ministers endorsed \"proactive measures\" including tapping strategic reserves as IEA member nations prepare to vote Wednesday on releasing 400 million barrels.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T13:35:18Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Anthropic launches policy institute amid Pentagon legal battle",
+        "url": "https://www.perplexity.ai/page/anthropic-launches-policy-inst-5MaSps44SruQ4o3YZJjLKQ",
+        "description": "Co-founder Jack Clark will lead the Anthropic Institute, a new research body studying AI's impact on jobs, law, and the economy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T13:31:37Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Study finds AI weather models use 21 times less energy than traditional systems",
         "url": "https://www.perplexity.ai/page/study-finds-ai-weather-models-Do4MjpE4TJWtCN492lTDuw",
@@ -1328,13 +1364,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "IEA proposes largest-ever oil reserve release amid Hormuz crisis",
-        "url": "https://www.perplexity.ai/page/iea-proposes-largest-ever-oil-3xSbdX0HQ8SiDQjsEfiPdQ",
-        "description": "Member countries are expected to decide Wednesday on a release exceeding the 182-million-barrel record set in 2022, as the Iran conflict chokes global supply.",
+        "title": "Fuller and Harris head to Georgia runoff for Greene seat",
+        "url": "https://www.perplexity.ai/page/fuller-and-harris-head-to-geor-PRico0ryScyoAbwr4aOxlw",
+        "description": "Democrat Shawn Harris and Trump-backed Republican Clay Fuller will face off April 7 for the deep-red 14th District seat.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-11T00:44:11Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-11T00:28:08Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Pentagon orders removal of Anthropic AI from military systems",
@@ -1346,15 +1382,6 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Hyde-Smith wins Mississippi GOP Senate primary",
-        "url": "https://www.perplexity.ai/page/hyde-smith-wins-mississippi-go-t3XAgjfTR3qiv22HrRCyzQ",
-        "description": "The Trump-endorsed incumbent defeated challenger Sarah Adlakha with roughly 83% of the vote, advancing to the November general election.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T00:40:34Z",
-        "sourceCount": "44 sources"
-      },
-      {
         "title": "Iran launches drone strikes on Haifa refinery in second attack in three days",
         "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-iWLmzeIuT2WW9w7_9Gj4ow",
         "description": "The Tuesday strikes targeted oil, gas, and fuel storage facilities at Israel's largest refinery, deepening a tit-for-tat energy infrastructure war.",
@@ -1362,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-03-11T00:05:53Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Hyde-Smith wins Mississippi GOP Senate primary",
+        "url": "https://www.perplexity.ai/page/hyde-smith-wins-mississippi-go-t3XAgjfTR3qiv22HrRCyzQ",
+        "description": "The Trump-endorsed incumbent defeated challenger Sarah Adlakha with roughly 83% of the vote, advancing to the November general election.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T00:40:34Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Johnson opposes nation-building in Iran, breaks with Trump",
@@ -1389,15 +1425,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T23:20:24Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Fuller and Harris head to Georgia runoff for Greene seat",
-        "url": "https://www.perplexity.ai/page/fuller-and-harris-head-to-geor-PRico0ryScyoAbwr4aOxlw",
-        "description": "Democrat Shawn Harris and Trump-backed Republican Clay Fuller will face off April 7 for the deep-red 14th District seat.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T00:28:08Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "IRGC says Iran will decide when war ends, threatens Gulf oil blockade",
@@ -1931,42 +1958,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Divisions emerge as GOP retreat begins at Trump's Doral resort",
-        "url": "https://www.perplexity.ai/page/divisions-emerge-as-gop-retrea-nsePr98uQGm6JvaJAmIepg",
-        "description": "House Republicans gather at Doral for a three-day policy conference as the president's ultimatum on elections legislation threatens to derail their midterm agenda.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T16:54:01Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "Video shows US Tomahawk missile hitting near Iran school that killed 175",
-        "url": "https://www.perplexity.ai/page/video-shows-us-tomahawk-missil-5AVXTCzuRIi4l3j8DalbTg",
-        "description": "Bellingcat geolocated footage showing a Tomahawk striking the IRGC compound adjacent to the girls' school, with smoke already rising from the school site.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T02:08:26Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Kansas City airport evacuated after bomb threat",
-        "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
-        "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T19:00:12Z",
-        "sourceCount": "22 sources"
-      },
-      {
-        "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
-        "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
-        "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T18:18:39Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
         "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
         "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
@@ -1985,13 +1976,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "UAE denies Israeli reports it struck Iranian desalination plant",
-        "url": "https://www.perplexity.ai/page/uae-denies-israeli-reports-it-JHtY3cTWSZedSFcBgtIwAg",
-        "description": "Emirati officials called the claims \"fake news,\" saying the UAE has the courage to announce its own military actions.",
+        "title": "Kansas City airport evacuated after bomb threat",
+        "url": "https://www.perplexity.ai/page/kansas-city-airport-evacuated-Y4yjCSMIQ_Kpi9e.URBPXA",
+        "description": "About 2,000 travelers were moved onto the tarmac as the FBI and airport police swept the terminal and flights were halted nationwide.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-08T14:39:36Z",
-        "sourceCount": "24 sources"
+        "pubDate": "2026-03-08T19:00:12Z",
+        "sourceCount": "22 sources"
       },
       {
         "title": "Trump rebuffs UK carrier readiness, says US 'already won' Iran war",
@@ -2001,6 +1992,33 @@
         "topic": "top",
         "pubDate": "2026-03-08T19:59:18Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Saudi Arabia reports first deaths as projectile hits Al-Kharj",
+        "url": "https://www.perplexity.ai/page/saudi-arabia-reports-first-dea-4_ApSnDjQTKD.FWG_zonIw",
+        "description": "An Indian and a Bangladeshi national were killed and 12 others injured when a military projectile struck a residential compound on Sunday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T18:18:39Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "UAE denies Israeli reports it struck Iranian desalination plant",
+        "url": "https://www.perplexity.ai/page/uae-denies-israeli-reports-it-JHtY3cTWSZedSFcBgtIwAg",
+        "description": "Emirati officials called the claims \"fake news,\" saying the UAE has the courage to announce its own military actions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-08T14:39:36Z",
+        "sourceCount": "24 sources"
+      },
+      {
+        "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
+        "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
+        "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-09T10:28:42Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Israeli settlers murder three Palestinians in West Bank village raid",
@@ -2021,12 +2039,12 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump says ending Iran war will be 'mutual' decision with Netanyahu",
-        "url": "https://www.perplexity.ai/page/trump-says-ending-iran-war-wil-8wou2deVTJKtgWidTMajbA",
-        "description": "As fighting enters its tenth day, Iran named the slain supreme leader's son as his successor, drawing a warning from Trump.",
+        "title": "Video shows US Tomahawk missile hitting near Iran school that killed 175",
+        "url": "https://www.perplexity.ai/page/video-shows-us-tomahawk-missil-5AVXTCzuRIi4l3j8DalbTg",
+        "description": "Bellingcat geolocated footage showing a Tomahawk striking the IRGC compound adjacent to the girls' school, with smoke already rising from the school site.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-09T10:28:42Z",
+        "pubDate": "2026-03-09T02:08:26Z",
         "sourceCount": "25 sources"
       },
       {
