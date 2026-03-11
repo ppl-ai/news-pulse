@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "UN Security Council to vote on resolution demanding Iran halt Gulf attacks",
+      "url": "https://www.perplexity.ai/page/un-security-council-to-vote-on-eSzMM4rqSGus8h8xh__KyA",
+      "description": "The Gulf-backed measure, with over 90 co-sponsors, condemns Iran's strikes on neighbors and its blockade of the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T10:18:04Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "NASA tests technology to make rocket fuel from lunar ice",
       "url": "https://www.perplexity.ai/page/nasa-tests-technology-to-make-CbfcfCP5QdCpK042mDgxYg",
       "description": "The CryoFILL project at Glenn Research Center aims to convert water ice on the Moon or Mars into liquid oxygen propellant for landers.",
@@ -1277,29 +1286,20 @@
       "topic": "top",
       "pubDate": "2026-03-05T17:58:20Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "Iranian drones strike Azerbaijan airport as war spreads to South Caucasus",
-      "url": "https://www.perplexity.ai/page/iranian-drones-strike-azerbaij-DEHFtZqvRmyb4bTk07tOFg",
-      "description": "Azerbaijan vowed a response after drones launched from Iran hit Nakhchivan International Airport, injuring two civilians and damaging the terminal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T11:25:35Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Appeals court backs Trump's power to halt refugee program",
-      "url": "https://www.perplexity.ai/page/appeals-court-backs-trump-s-po-YbG34_I5QK6fNTnIjq32Bg",
-      "description": "The Ninth Circuit ruled the president can indefinitely suspend refugee admissions but must keep funding services for refugees already in the U.S.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T22:07:09Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-11T10:04:37Z",
+  "cached_at": "2026-03-11T10:24:01Z",
   "topics": {
     "top": [
+      {
+        "title": "UN Security Council to vote on resolution demanding Iran halt Gulf attacks",
+        "url": "https://www.perplexity.ai/page/un-security-council-to-vote-on-eSzMM4rqSGus8h8xh__KyA",
+        "description": "The Gulf-backed measure, with over 90 co-sponsors, condemns Iran's strikes on neighbors and its blockade of the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T10:18:04Z",
+        "sourceCount": "43 sources"
+      },
       {
         "title": "NASA tests technology to make rocket fuel from lunar ice",
         "url": "https://www.perplexity.ai/page/nasa-tests-technology-to-make-CbfcfCP5QdCpK042mDgxYg",
@@ -2577,24 +2577,6 @@
         "topic": "top",
         "pubDate": "2026-03-05T17:58:20Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "Iranian drones strike Azerbaijan airport as war spreads to South Caucasus",
-        "url": "https://www.perplexity.ai/page/iranian-drones-strike-azerbaij-DEHFtZqvRmyb4bTk07tOFg",
-        "description": "Azerbaijan vowed a response after drones launched from Iran hit Nakhchivan International Airport, injuring two civilians and damaging the terminal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T11:25:35Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Appeals court backs Trump's power to halt refugee program",
-        "url": "https://www.perplexity.ai/page/appeals-court-backs-trump-s-po-YbG34_I5QK6fNTnIjq32Bg",
-        "description": "The Ninth Circuit ruled the president can indefinitely suspend refugee admissions but must keep funding services for refugees already in the U.S.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T22:07:09Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
