@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Anthropic launches think tank amid Pentagon lawsuit",
+      "url": "https://www.perplexity.ai/page/anthropic-launches-think-tank-99jJJntvTsq.ez7kPIRbhw",
+      "description": "The AI company announced the Anthropic Institute to study societal impacts of powerful AI, days after suing the Pentagon over its blacklisting.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T12:41:24Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Study finds AI weather models use 21 times less energy than traditional systems",
       "url": "https://www.perplexity.ai/page/study-finds-ai-weather-models-Do4MjpE4TJWtCN492lTDuw",
       "description": "New research in the journal Weather quantifies AI forecasting's energy savings, while UC San Diego unveils an AI agent that answers weather queries in plain English.",
@@ -118,13 +127,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Pentagon orders removal of Anthropic AI from military systems",
-      "url": "https://www.perplexity.ai/page/pentagon-orders-removal-of-ant-GWSnoE06QhS6XgvrnUXz5A",
-      "description": "An internal memo directs commanders to strip Claude from nuclear, missile defense, and cyber warfare systems as Anthropic sues the Trump administration.",
+      "title": "Johnson opposes nation-building in Iran, breaks with Trump",
+      "url": "https://www.perplexity.ai/page/johnson-opposes-nation-buildin-RQ2o6gQ3Qx2LAW102_Az2w",
+      "description": "The House speaker said rebuilding Iran is \"not our responsibility,\" a day after the president called the war \"the beginning of building a new country.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-11T01:10:10Z",
-      "sourceCount": "39 sources"
+      "pubDate": "2026-03-11T00:44:34Z",
+      "sourceCount": "49 sources"
     },
     {
       "title": "Hyde-Smith wins Mississippi GOP Senate primary",
@@ -145,15 +154,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Johnson opposes nation-building in Iran, breaks with Trump",
-      "url": "https://www.perplexity.ai/page/johnson-opposes-nation-buildin-RQ2o6gQ3Qx2LAW102_Az2w",
-      "description": "The House speaker said rebuilding Iran is \"not our responsibility,\" a day after the president called the war \"the beginning of building a new country.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T00:44:34Z",
-      "sourceCount": "49 sources"
-    },
-    {
       "title": "Sen. Blumenthal warns US is on path to ground troops in Iran",
       "url": "https://www.perplexity.ai/page/sen-blumenthal-warns-us-is-on-rjWDgwNUQh2rGdk_iFnJFw",
       "description": "After a classified briefing, the senator said Russia appears to be \"actively and intensively\" aiding Iran as the Pentagon reported 140 U.S. troops wounded.",
@@ -161,15 +161,6 @@
       "topic": "top",
       "pubDate": "2026-03-11T00:05:47Z",
       "sourceCount": "23 sources"
-    },
-    {
-      "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
-      "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
-      "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T23:20:24Z",
-      "sourceCount": "25 sources"
     },
     {
       "title": "Fuller and Harris head to Georgia runoff for Greene seat",
@@ -199,13 +190,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Israel says it's not seeking 'endless war' as strikes on Tehran intensify",
-      "url": "https://www.perplexity.ai/page/israel-says-it-s-not-seeking-e-oiACM4M.TUS7rhD2zd9QJQ",
-      "description": "Foreign Minister Sa'ar pledged to coordinate with the U.S. on ending the conflict but offered no timeline on day 11 of fighting.",
+      "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
+      "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
+      "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T21:38:44Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-10T23:20:24Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "US Navy refuses escort requests through Hormuz",
@@ -217,6 +208,15 @@
       "sourceCount": "30 sources"
     },
     {
+      "title": "Israel says it's not seeking 'endless war' as strikes on Tehran intensify",
+      "url": "https://www.perplexity.ai/page/israel-says-it-s-not-seeking-e-oiACM4M.TUS7rhD2zd9QJQ",
+      "description": "Foreign Minister Sa'ar pledged to coordinate with the U.S. on ending the conflict but offered no timeline on day 11 of fighting.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-10T21:38:44Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Merz calls Israel's West Bank settlement push a 'big mistake'",
       "url": "https://www.perplexity.ai/page/merz-calls-israel-s-west-bank-bFYBWKF_SeSH8RYRerOdvw",
       "description": "Germany's foreign minister made a surprise visit to Jerusalem to deliver the message directly, the first by a European diplomat since the Iran war began.",
@@ -224,15 +224,6 @@
       "topic": "top",
       "pubDate": "2026-03-10T19:48:43Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Hegseth warns Russia against sharing intel with Iran",
-      "url": "https://www.perplexity.ai/page/hegseth-warns-russia-against-s-ADU9rOr0RBqGkqrTJR6O3A",
-      "description": "Iran's foreign minister confirmed Moscow is \"helping us in many different directions\" as the U.S. accuses Russia of aiding Tehran with military intelligence.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T18:03:26Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "White House urges GOP to drop 'mass deportation' talk",
@@ -271,13 +262,13 @@
       "sourceCount": "49 sources"
     },
     {
-      "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
-      "url": "https://www.perplexity.ai/page/nearly-700000-displaced-in-leb-uz7KW_8eT3KyzvbOPa0DrA",
-      "description": "UNHCR says displacement jumped by over 100,000 in a single day, with its Lebanon operation only 14% funded as the humanitarian crisis deepens.",
+      "title": "Hegseth warns Russia against sharing intel with Iran",
+      "url": "https://www.perplexity.ai/page/hegseth-warns-russia-against-s-ADU9rOr0RBqGkqrTJR6O3A",
+      "description": "Iran's foreign minister confirmed Moscow is \"helping us in many different directions\" as the U.S. accuses Russia of aiding Tehran with military intelligence.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T17:49:28Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-10T18:03:26Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
@@ -289,13 +280,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Witkoff likely to visit Israel next week to coordinate Iran war plans",
-      "url": "https://www.perplexity.ai/page/witkoff-likely-to-visit-israel-SLYUt4UsSkSszERQUMOY4A",
-      "description": "Trump's special envoy plans to visit Israel next week to coordinate the ongoing military campaign as war with Iran enters its second week.",
+      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T22:17:44Z",
-      "sourceCount": "39 sources"
+      "pubDate": "2026-03-10T20:23:42Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
@@ -316,13 +307,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+      "title": "Witkoff likely to visit Israel next week to coordinate Iran war plans",
+      "url": "https://www.perplexity.ai/page/witkoff-likely-to-visit-israel-SLYUt4UsSkSszERQUMOY4A",
+      "description": "Trump's special envoy plans to visit Israel next week to coordinate the ongoing military campaign as war with Iran enters its second week.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T20:23:42Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-10T22:17:44Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "Ukraine says leaked Russian documents show 1.3M war losses",
@@ -1252,9 +1243,18 @@
       "sourceCount": "35 sources"
     }
   ],
-  "cached_at": "2026-03-11T12:36:12Z",
+  "cached_at": "2026-03-11T13:03:53Z",
   "topics": {
     "top": [
+      {
+        "title": "Anthropic launches think tank amid Pentagon lawsuit",
+        "url": "https://www.perplexity.ai/page/anthropic-launches-think-tank-99jJJntvTsq.ez7kPIRbhw",
+        "description": "The AI company announced the Anthropic Institute to study societal impacts of powerful AI, days after suing the Pentagon over its blacklisting.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T12:41:24Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Study finds AI weather models use 21 times less energy than traditional systems",
         "url": "https://www.perplexity.ai/page/study-finds-ai-weather-models-Do4MjpE4TJWtCN492lTDuw",
@@ -1373,13 +1373,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Pentagon orders removal of Anthropic AI from military systems",
-        "url": "https://www.perplexity.ai/page/pentagon-orders-removal-of-ant-GWSnoE06QhS6XgvrnUXz5A",
-        "description": "An internal memo directs commanders to strip Claude from nuclear, missile defense, and cyber warfare systems as Anthropic sues the Trump administration.",
+        "title": "Johnson opposes nation-building in Iran, breaks with Trump",
+        "url": "https://www.perplexity.ai/page/johnson-opposes-nation-buildin-RQ2o6gQ3Qx2LAW102_Az2w",
+        "description": "The House speaker said rebuilding Iran is \"not our responsibility,\" a day after the president called the war \"the beginning of building a new country.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-11T01:10:10Z",
-        "sourceCount": "39 sources"
+        "pubDate": "2026-03-11T00:44:34Z",
+        "sourceCount": "49 sources"
       },
       {
         "title": "Hyde-Smith wins Mississippi GOP Senate primary",
@@ -1400,15 +1400,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Johnson opposes nation-building in Iran, breaks with Trump",
-        "url": "https://www.perplexity.ai/page/johnson-opposes-nation-buildin-RQ2o6gQ3Qx2LAW102_Az2w",
-        "description": "The House speaker said rebuilding Iran is \"not our responsibility,\" a day after the president called the war \"the beginning of building a new country.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T00:44:34Z",
-        "sourceCount": "49 sources"
-      },
-      {
         "title": "Sen. Blumenthal warns US is on path to ground troops in Iran",
         "url": "https://www.perplexity.ai/page/sen-blumenthal-warns-us-is-on-rjWDgwNUQh2rGdk_iFnJFw",
         "description": "After a classified briefing, the senator said Russia appears to be \"actively and intensively\" aiding Iran as the Pentagon reported 140 U.S. troops wounded.",
@@ -1416,15 +1407,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T00:05:47Z",
         "sourceCount": "23 sources"
-      },
-      {
-        "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
-        "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
-        "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T23:20:24Z",
-        "sourceCount": "25 sources"
       },
       {
         "title": "Fuller and Harris head to Georgia runoff for Greene seat",
@@ -1454,13 +1436,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Israel says it's not seeking 'endless war' as strikes on Tehran intensify",
-        "url": "https://www.perplexity.ai/page/israel-says-it-s-not-seeking-e-oiACM4M.TUS7rhD2zd9QJQ",
-        "description": "Foreign Minister Sa'ar pledged to coordinate with the U.S. on ending the conflict but offered no timeline on day 11 of fighting.",
+        "title": "Macron to convene G7 leaders call on Iran crisis, energy prices",
+        "url": "https://www.perplexity.ai/page/macron-to-convene-g7-leaders-c-jKiLXlT.Q9iLEN2i2oXnZg",
+        "description": "G7 energy ministers asked the IEA to assess options for a coordinated oil reserve release as the Iran conflict roils global markets.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T21:38:44Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-10T23:20:24Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "US Navy refuses escort requests through Hormuz",
@@ -1472,6 +1454,15 @@
         "sourceCount": "30 sources"
       },
       {
+        "title": "Israel says it's not seeking 'endless war' as strikes on Tehran intensify",
+        "url": "https://www.perplexity.ai/page/israel-says-it-s-not-seeking-e-oiACM4M.TUS7rhD2zd9QJQ",
+        "description": "Foreign Minister Sa'ar pledged to coordinate with the U.S. on ending the conflict but offered no timeline on day 11 of fighting.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-10T21:38:44Z",
+        "sourceCount": "26 sources"
+      },
+      {
         "title": "Merz calls Israel's West Bank settlement push a 'big mistake'",
         "url": "https://www.perplexity.ai/page/merz-calls-israel-s-west-bank-bFYBWKF_SeSH8RYRerOdvw",
         "description": "Germany's foreign minister made a surprise visit to Jerusalem to deliver the message directly, the first by a European diplomat since the Iran war began.",
@@ -1479,15 +1470,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T19:48:43Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Hegseth warns Russia against sharing intel with Iran",
-        "url": "https://www.perplexity.ai/page/hegseth-warns-russia-against-s-ADU9rOr0RBqGkqrTJR6O3A",
-        "description": "Iran's foreign minister confirmed Moscow is \"helping us in many different directions\" as the U.S. accuses Russia of aiding Tehran with military intelligence.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T18:03:26Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "White House urges GOP to drop 'mass deportation' talk",
@@ -1526,13 +1508,13 @@
         "sourceCount": "49 sources"
       },
       {
-        "title": "Nearly 700,000 displaced in Lebanon as Israeli strikes enter second week",
-        "url": "https://www.perplexity.ai/page/nearly-700000-displaced-in-leb-uz7KW_8eT3KyzvbOPa0DrA",
-        "description": "UNHCR says displacement jumped by over 100,000 in a single day, with its Lebanon operation only 14% funded as the humanitarian crisis deepens.",
+        "title": "Hegseth warns Russia against sharing intel with Iran",
+        "url": "https://www.perplexity.ai/page/hegseth-warns-russia-against-s-ADU9rOr0RBqGkqrTJR6O3A",
+        "description": "Iran's foreign minister confirmed Moscow is \"helping us in many different directions\" as the U.S. accuses Russia of aiding Tehran with military intelligence.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T17:49:28Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-10T18:03:26Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Up to 150 US troops wounded in Iran war, Pentagon says",
@@ -1544,13 +1526,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Witkoff likely to visit Israel next week to coordinate Iran war plans",
-        "url": "https://www.perplexity.ai/page/witkoff-likely-to-visit-israel-SLYUt4UsSkSszERQUMOY4A",
-        "description": "Trump's special envoy plans to visit Israel next week to coordinate the ongoing military campaign as war with Iran enters its second week.",
+        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T22:17:44Z",
-        "sourceCount": "39 sources"
+        "pubDate": "2026-03-10T20:23:42Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Tankers begin running Strait of Hormuz blockade as US backs $20B reinsurance plan",
@@ -1571,13 +1553,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+        "title": "Witkoff likely to visit Israel next week to coordinate Iran war plans",
+        "url": "https://www.perplexity.ai/page/witkoff-likely-to-visit-israel-SLYUt4UsSkSszERQUMOY4A",
+        "description": "Trump's special envoy plans to visit Israel next week to coordinate the ongoing military campaign as war with Iran enters its second week.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T20:23:42Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-10T22:17:44Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "Ukraine says leaked Russian documents show 1.3M war losses",
