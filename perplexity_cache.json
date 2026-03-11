@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "New AI tools compress months of drug and protein research into days",
+      "url": "https://www.perplexity.ai/page/new-ai-tools-compress-months-o-zfS1B5ViQg6UnEKbl4XaqQ",
+      "description": "From drug synthesis to protein mapping, multiple studies published in recent weeks show machine learning dramatically cutting lab time and costs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T04:33:22Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Trial opens for 4 men charged in Haiti president's assassination",
       "url": "https://www.perplexity.ai/page/trial-opens-for-4-men-charged-WVwJDTvYTx.luMHaCrSNmg",
       "description": "Prosecutors told the jury that greed and a thirst for power drove the South Florida-based conspiracy to kill Jovenel Moïse in 2021.",
@@ -1297,9 +1306,18 @@
       "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-03-11T04:19:18Z",
+  "cached_at": "2026-03-11T04:55:48Z",
   "topics": {
     "top": [
+      {
+        "title": "New AI tools compress months of drug and protein research into days",
+        "url": "https://www.perplexity.ai/page/new-ai-tools-compress-months-o-zfS1B5ViQg6UnEKbl4XaqQ",
+        "description": "From drug synthesis to protein mapping, multiple studies published in recent weeks show machine learning dramatically cutting lab time and costs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T04:33:22Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Trial opens for 4 men charged in Haiti president's assassination",
         "url": "https://www.perplexity.ai/page/trial-opens-for-4-men-charged-WVwJDTvYTx.luMHaCrSNmg",
