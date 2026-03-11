@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NASA tests technology to make rocket fuel from lunar ice",
+      "url": "https://www.perplexity.ai/page/nasa-tests-technology-to-make-CbfcfCP5QdCpK042mDgxYg",
+      "description": "The CryoFILL project at Glenn Research Center aims to convert water ice on the Moon or Mars into liquid oxygen propellant for landers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T09:15:15Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Spanish researchers develop artificial cornea from fish scales",
       "url": "https://www.perplexity.ai/page/spanish-researchers-develop-ar-AD6DgfTCQQaRcphCvBRh3w",
       "description": "The University of Granada team says the low-cost implants showed promising results in lab and animal tests but remain far from human trials.",
@@ -1297,9 +1306,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-11T09:02:12Z",
+  "cached_at": "2026-03-11T09:24:04Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA tests technology to make rocket fuel from lunar ice",
+        "url": "https://www.perplexity.ai/page/nasa-tests-technology-to-make-CbfcfCP5QdCpK042mDgxYg",
+        "description": "The CryoFILL project at Glenn Research Center aims to convert water ice on the Moon or Mars into liquid oxygen propellant for landers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T09:15:15Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Spanish researchers develop artificial cornea from fish scales",
         "url": "https://www.perplexity.ai/page/spanish-researchers-develop-ar-AD6DgfTCQQaRcphCvBRh3w",
