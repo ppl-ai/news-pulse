@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Asian stocks rally as IEA mulls record oil reserve release",
+      "url": "https://www.perplexity.ai/page/asian-stocks-rally-as-iea-mull-n0xamu8jTbyaUkE3eG4T3Q",
+      "description": "The agency is reportedly considering its largest-ever crude release to counter soaring prices as the Iran war disrupts global energy supplies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T07:17:59Z",
+      "sourceCount": "66 sources"
+    },
+    {
+      "title": "Gold edges higher ahead of key CPI release amid Iran war",
+      "url": "https://www.perplexity.ai/page/gold-edges-higher-ahead-of-key-CkNyHeZISgapuD5N9wRG5Q",
+      "description": "Investors weigh safe-haven demand from the Middle East conflict against February inflation data due at 8:30 a.m. ET Wednesday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T06:54:07Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "US gas prices top $3.50 as Iran war disrupts Strait of Hormuz oil flow",
       "url": "https://www.perplexity.ai/page/us-gas-prices-top-3-50-as-iran-W1zC5xzORUeF7Z3FdxN1Zg",
       "description": "The national average hit $3.54 per gallon as of March 10, up more than 60 cents in a month, with California topping $5.29.",
@@ -1268,29 +1286,29 @@
       "topic": "top",
       "pubDate": "2026-03-05T10:17:16Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Gold pulls back from record highs as Iran war enters second week",
-      "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
-      "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T09:12:47Z",
-      "sourceCount": "40 sources"
-    },
-    {
-      "title": "House rejects bid to halt Trump's Iran strikes",
-      "url": "https://www.perplexity.ai/page/house-rejects-bid-to-halt-trum-lsTwaYzgRDS1spErzjd2.g",
-      "description": "The vote came a day after the Senate defeated a similar measure, signaling broad Republican support for the U.S.-Israeli military campaign.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T21:58:59Z",
-      "sourceCount": "57 sources"
     }
   ],
-  "cached_at": "2026-03-11T06:55:22Z",
+  "cached_at": "2026-03-11T07:21:53Z",
   "topics": {
     "top": [
+      {
+        "title": "Asian stocks rally as IEA mulls record oil reserve release",
+        "url": "https://www.perplexity.ai/page/asian-stocks-rally-as-iea-mull-n0xamu8jTbyaUkE3eG4T3Q",
+        "description": "The agency is reportedly considering its largest-ever crude release to counter soaring prices as the Iran war disrupts global energy supplies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T07:17:59Z",
+        "sourceCount": "66 sources"
+      },
+      {
+        "title": "Gold edges higher ahead of key CPI release amid Iran war",
+        "url": "https://www.perplexity.ai/page/gold-edges-higher-ahead-of-key-CkNyHeZISgapuD5N9wRG5Q",
+        "description": "Investors weigh safe-haven demand from the Middle East conflict against February inflation data due at 8:30 a.m. ET Wednesday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T06:54:07Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "US gas prices top $3.50 as Iran war disrupts Strait of Hormuz oil flow",
         "url": "https://www.perplexity.ai/page/us-gas-prices-top-3-50-as-iran-W1zC5xzORUeF7Z3FdxN1Zg",
@@ -2559,24 +2577,6 @@
         "topic": "top",
         "pubDate": "2026-03-05T10:17:16Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Gold pulls back from record highs as Iran war enters second week",
-        "url": "https://www.perplexity.ai/page/gold-pulls-back-from-record-hi-.uxhtg.xSxaC.9EkxYzMRw",
-        "description": "After surging past $5,400 per ounce, gold prices have retreated amid profit-taking but remain elevated as the Middle East conflict widens.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T09:12:47Z",
-        "sourceCount": "40 sources"
-      },
-      {
-        "title": "House rejects bid to halt Trump's Iran strikes",
-        "url": "https://www.perplexity.ai/page/house-rejects-bid-to-halt-trum-lsTwaYzgRDS1spErzjd2.g",
-        "description": "The vote came a day after the Senate defeated a similar measure, signaling broad Republican support for the U.S.-Israeli military campaign.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T21:58:59Z",
-        "sourceCount": "57 sources"
       }
     ],
     "tech": [],
