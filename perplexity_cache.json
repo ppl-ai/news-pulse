@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Study finds AI weather models use 21 times less energy than traditional systems",
+      "url": "https://www.perplexity.ai/page/study-finds-ai-weather-models-Do4MjpE4TJWtCN492lTDuw",
+      "description": "New research in the journal Weather quantifies AI forecasting's energy savings, while UC San Diego unveils an AI agent that answers weather queries in plain English.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-11T10:28:50Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "UN Security Council to vote on resolution demanding Iran halt Gulf attacks",
       "url": "https://www.perplexity.ai/page/un-security-council-to-vote-on-eSzMM4rqSGus8h8xh__KyA",
       "description": "The Gulf-backed measure, with over 90 co-sponsors, condemns Iran's strikes on neighbors and its blockade of the Strait of Hormuz.",
@@ -26,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-03-11T07:55:25Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "UC San Diego unveils AI agent that answers weather questions in plain English",
-      "url": "https://www.perplexity.ai/page/uc-san-diego-unveils-ai-agent-7IEqG2uPSLKzfrfmBSFx_Q",
-      "description": "Zephyrus translates natural language queries into code that interacts with weather models, then converts results back into everyday language.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T07:49:46Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Asian stocks rally as IEA mulls record oil reserve release",
@@ -289,13 +289,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Senate advances housing bill amid Trump veto threat",
-      "url": "https://www.perplexity.ai/page/senate-advances-housing-bill-a-XJ4.ekKuRhuiitK_3OtaLg",
-      "description": "The 21st Century ROAD to Housing Act cleared an earlier procedural vote 84-6, but Trump says he won't sign any bill until Congress passes voter ID legislation.",
+      "title": "Witkoff likely to visit Israel next week to coordinate Iran war plans",
+      "url": "https://www.perplexity.ai/page/witkoff-likely-to-visit-israel-SLYUt4UsSkSszERQUMOY4A",
+      "description": "Trump's special envoy plans to visit Israel next week to coordinate the ongoing military campaign as war with Iran enters its second week.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T23:09:28Z",
-      "sourceCount": "48 sources"
+      "pubDate": "2026-03-10T22:17:44Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "Musk says X Money will enter early public access in April",
@@ -316,13 +316,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Witkoff likely to visit Israel next week to coordinate Iran war plans",
-      "url": "https://www.perplexity.ai/page/witkoff-likely-to-visit-israel-SLYUt4UsSkSszERQUMOY4A",
-      "description": "Trump's special envoy plans to visit Israel next week to coordinate the ongoing military campaign as war with Iran enters its second week.",
+      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T22:17:44Z",
-      "sourceCount": "39 sources"
+      "pubDate": "2026-03-10T20:23:42Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Iran war fuels global debate over shift to renewables",
@@ -343,13 +343,13 @@
       "sourceCount": "20 sources"
     },
     {
-      "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-      "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-      "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+      "title": "Trump advisers privately push for Iran exit strategy amid surging gas prices",
+      "url": "https://www.perplexity.ai/page/trump-advisers-privately-push-g1cuZ0BLQo.m3afYojW1DQ",
+      "description": "National gas prices have jumped more than 60 cents in a month as the U.S.-Iran conflict disrupts oil flows, raising GOP midterm fears.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T20:23:42Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-10T11:08:43Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Bill Ackman's Pershing Square files for $5B dual IPO on NYSE",
@@ -370,15 +370,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Trump and Netanyahu split over Iran war goals and timeline",
-      "url": "https://www.perplexity.ai/page/trump-and-netanyahu-split-over-qw2p4.HJSa.9I6SmPDEDpg",
-      "description": "As the Pentagon promised its most intense day of strikes yet, Iran's foreign minister said talks with Washington are off the table.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T16:54:18Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Lawmakers in 11 states propose temporary bans on data centers",
       "url": "https://www.perplexity.ai/page/lawmakers-in-11-states-propose-i_Se0veOSi6I0osXidaoxg",
       "description": "Bipartisan legislation targets new data center construction over concerns about soaring electricity costs and water use driven by the AI boom.",
@@ -395,15 +386,6 @@
       "topic": "top",
       "pubDate": "2026-03-10T09:25:40Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump advisers privately push for Iran exit strategy amid surging gas prices",
-      "url": "https://www.perplexity.ai/page/trump-advisers-privately-push-g1cuZ0BLQo.m3afYojW1DQ",
-      "description": "National gas prices have jumped more than 60 cents in a month as the U.S.-Iran conflict disrupts oil flows, raising GOP midterm fears.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T11:08:43Z",
-      "sourceCount": "43 sources"
     },
     {
       "title": "Pentagon burned through $5.6B in munitions in first 48 hours of Iran war",
@@ -1259,38 +1241,20 @@
       "topic": "top",
       "pubDate": "2026-03-05T21:25:45Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Zelenskyy says Ukraine-Russia peace talks on hold amid Iran war",
-      "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-russia-kl3tVqvpQc66qxO8yBv4qA",
-      "description": "The Ukrainian president said US-brokered negotiations were postponed indefinitely after the Iran conflict disrupted diplomatic plans and closed UAE airspace.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T11:39:31Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Democrats say Noem's firing won't end DHS shutdown",
-      "url": "https://www.perplexity.ai/page/democrats-say-noem-s-firing-wo-wFR2SBbaQjGfKDRrQbGq4g",
-      "description": "Top Democrats welcomed the ouster but said their demands for sweeping immigration enforcement reforms remain unchanged.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T22:12:12Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Warren introduces bill to block US ammunition sales linked to Mexican cartels",
-      "url": "https://www.perplexity.ai/page/warren-introduces-bill-to-bloc-LmviTlawSv6beTGX713xQg",
-      "description": "The legislation targets a Missouri plant whose rounds have been traced to Mexican cartels and at least a dozen U.S. mass shootings.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-05T17:58:20Z",
-      "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-03-11T10:24:01Z",
+  "cached_at": "2026-03-11T10:45:02Z",
   "topics": {
     "top": [
+      {
+        "title": "Study finds AI weather models use 21 times less energy than traditional systems",
+        "url": "https://www.perplexity.ai/page/study-finds-ai-weather-models-Do4MjpE4TJWtCN492lTDuw",
+        "description": "New research in the journal Weather quantifies AI forecasting's energy savings, while UC San Diego unveils an AI agent that answers weather queries in plain English.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-11T10:28:50Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "UN Security Council to vote on resolution demanding Iran halt Gulf attacks",
         "url": "https://www.perplexity.ai/page/un-security-council-to-vote-on-eSzMM4rqSGus8h8xh__KyA",
@@ -1317,15 +1281,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T07:55:25Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "UC San Diego unveils AI agent that answers weather questions in plain English",
-        "url": "https://www.perplexity.ai/page/uc-san-diego-unveils-ai-agent-7IEqG2uPSLKzfrfmBSFx_Q",
-        "description": "Zephyrus translates natural language queries into code that interacts with weather models, then converts results back into everyday language.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T07:49:46Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Asian stocks rally as IEA mulls record oil reserve release",
@@ -1580,13 +1535,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Senate advances housing bill amid Trump veto threat",
-        "url": "https://www.perplexity.ai/page/senate-advances-housing-bill-a-XJ4.ekKuRhuiitK_3OtaLg",
-        "description": "The 21st Century ROAD to Housing Act cleared an earlier procedural vote 84-6, but Trump says he won't sign any bill until Congress passes voter ID legislation.",
+        "title": "Witkoff likely to visit Israel next week to coordinate Iran war plans",
+        "url": "https://www.perplexity.ai/page/witkoff-likely-to-visit-israel-SLYUt4UsSkSszERQUMOY4A",
+        "description": "Trump's special envoy plans to visit Israel next week to coordinate the ongoing military campaign as war with Iran enters its second week.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T23:09:28Z",
-        "sourceCount": "48 sources"
+        "pubDate": "2026-03-10T22:17:44Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "Musk says X Money will enter early public access in April",
@@ -1607,13 +1562,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Witkoff likely to visit Israel next week to coordinate Iran war plans",
-        "url": "https://www.perplexity.ai/page/witkoff-likely-to-visit-israel-SLYUt4UsSkSszERQUMOY4A",
-        "description": "Trump's special envoy plans to visit Israel next week to coordinate the ongoing military campaign as war with Iran enters its second week.",
+        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
+        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
+        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T22:17:44Z",
-        "sourceCount": "39 sources"
+        "pubDate": "2026-03-10T20:23:42Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Iran war fuels global debate over shift to renewables",
@@ -1634,13 +1589,13 @@
         "sourceCount": "20 sources"
       },
       {
-        "title": "NRC proposes cutting nuclear safety inspections by 38% under Trump orders",
-        "url": "https://www.perplexity.ai/page/nrc-proposes-cutting-nuclear-s-9freLa.hS3mrKiRHNQ6y0Q",
-        "description": "Emergency preparedness inspections face the steepest cuts at 56%, with security and radiation protection hours also sharply reduced.",
+        "title": "Trump advisers privately push for Iran exit strategy amid surging gas prices",
+        "url": "https://www.perplexity.ai/page/trump-advisers-privately-push-g1cuZ0BLQo.m3afYojW1DQ",
+        "description": "National gas prices have jumped more than 60 cents in a month as the U.S.-Iran conflict disrupts oil flows, raising GOP midterm fears.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T20:23:42Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-10T11:08:43Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Bill Ackman's Pershing Square files for $5B dual IPO on NYSE",
@@ -1661,15 +1616,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Trump and Netanyahu split over Iran war goals and timeline",
-        "url": "https://www.perplexity.ai/page/trump-and-netanyahu-split-over-qw2p4.HJSa.9I6SmPDEDpg",
-        "description": "As the Pentagon promised its most intense day of strikes yet, Iran's foreign minister said talks with Washington are off the table.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T16:54:18Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Lawmakers in 11 states propose temporary bans on data centers",
         "url": "https://www.perplexity.ai/page/lawmakers-in-11-states-propose-i_Se0veOSi6I0osXidaoxg",
         "description": "Bipartisan legislation targets new data center construction over concerns about soaring electricity costs and water use driven by the AI boom.",
@@ -1686,15 +1632,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T09:25:40Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump advisers privately push for Iran exit strategy amid surging gas prices",
-        "url": "https://www.perplexity.ai/page/trump-advisers-privately-push-g1cuZ0BLQo.m3afYojW1DQ",
-        "description": "National gas prices have jumped more than 60 cents in a month as the U.S.-Iran conflict disrupts oil flows, raising GOP midterm fears.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T11:08:43Z",
-        "sourceCount": "43 sources"
       },
       {
         "title": "Pentagon burned through $5.6B in munitions in first 48 hours of Iran war",
@@ -2550,33 +2487,6 @@
         "topic": "top",
         "pubDate": "2026-03-05T21:25:45Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "Zelenskyy says Ukraine-Russia peace talks on hold amid Iran war",
-        "url": "https://www.perplexity.ai/page/zelenskyy-says-ukraine-russia-kl3tVqvpQc66qxO8yBv4qA",
-        "description": "The Ukrainian president said US-brokered negotiations were postponed indefinitely after the Iran conflict disrupted diplomatic plans and closed UAE airspace.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T11:39:31Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Democrats say Noem's firing won't end DHS shutdown",
-        "url": "https://www.perplexity.ai/page/democrats-say-noem-s-firing-wo-wFR2SBbaQjGfKDRrQbGq4g",
-        "description": "Top Democrats welcomed the ouster but said their demands for sweeping immigration enforcement reforms remain unchanged.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T22:12:12Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Warren introduces bill to block US ammunition sales linked to Mexican cartels",
-        "url": "https://www.perplexity.ai/page/warren-introduces-bill-to-bloc-LmviTlawSv6beTGX713xQg",
-        "description": "The legislation targets a Missouri plant whose rounds have been traced to Mexican cartels and at least a dozen U.S. mass shootings.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-05T17:58:20Z",
-        "sourceCount": "31 sources"
       }
     ],
     "tech": [],
