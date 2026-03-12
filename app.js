@@ -495,8 +495,8 @@
       
       if (!data) {
         // Fallback to fetch (works when served from same origin, e.g. GitHub Pages)
-        // Cache-bust to avoid stale CDN/browser cache
-        const res = await fetch('perplexity_cache.json?t=' + Date.now());
+        // cache: 'no-store' forces browser to bypass ALL caches
+        const res = await fetch('perplexity_cache.json?t=' + Date.now(), { cache: 'no-store' });
         if (res.ok) {
           data = await res.json();
         }
@@ -873,4 +873,7 @@
   }
 
   init();
+
+  // Auto-refresh Discover every 5 minutes so the page stays current
+  setInterval(() => { fetchDiscover(); }, 5 * 60 * 1000);
 })();
