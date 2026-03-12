@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "States rush to set rounding rules as pennies vanish from registers",
+      "url": "https://www.perplexity.ai/page/states-rush-to-set-rounding-ru-2U9kbCR.Riuf5IvotE.ErA",
+      "description": "Bills in six states await governors' signatures while Indiana signed one of the first rounding laws, as a federal fix remains stalled in Congress.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T14:19:21Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Iran's new supreme leader vows to keep Strait of Hormuz closed",
       "url": "https://www.perplexity.ai/page/iran-s-new-supreme-leader-vows-ylJPif1_QVGpKNSlOXEuYQ",
       "description": "Ayatollah Mojtaba Khamenei's first statement since his appointment declared Iran's attacks on Gulf neighbors will continue.",
@@ -1169,20 +1178,20 @@
       "topic": "top",
       "pubDate": "2026-03-06T21:48:13Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Lewandowski leaves DHS after Noem's firing as secretary",
-      "url": "https://www.perplexity.ai/page/lewandowski-leaves-dhs-after-n-.4gPuofZTR2RAkqaMOYkGQ",
-      "description": "Trump adviser Corey Lewandowski wielded outsized power as Noem's unofficial chief of staff despite holding unpaid, part-time status.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T20:08:28Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-12T14:11:22Z",
+  "cached_at": "2026-03-12T14:33:52Z",
   "topics": {
     "top": [
+      {
+        "title": "States rush to set rounding rules as pennies vanish from registers",
+        "url": "https://www.perplexity.ai/page/states-rush-to-set-rounding-ru-2U9kbCR.Riuf5IvotE.ErA",
+        "description": "Bills in six states await governors' signatures while Indiana signed one of the first rounding laws, as a federal fix remains stalled in Congress.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T14:19:21Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Iran's new supreme leader vows to keep Strait of Hormuz closed",
         "url": "https://www.perplexity.ai/page/iran-s-new-supreme-leader-vows-ylJPif1_QVGpKNSlOXEuYQ",
@@ -2352,15 +2361,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T21:48:13Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Lewandowski leaves DHS after Noem's firing as secretary",
-        "url": "https://www.perplexity.ai/page/lewandowski-leaves-dhs-after-n-.4gPuofZTR2RAkqaMOYkGQ",
-        "description": "Trump adviser Corey Lewandowski wielded outsized power as Noem's unofficial chief of staff despite holding unpaid, part-time status.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T20:08:28Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
