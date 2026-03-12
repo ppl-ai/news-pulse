@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "BMW forecasts 2026 earnings decline as tariffs squeeze margins",
+      "url": "https://www.perplexity.ai/page/bmw-forecasts-2026-earnings-de-_6MDNl_dRRCSwl2_BgUB1w",
+      "description": "The automaker projected a \"moderate decline\" in pre-tax earnings and an automotive EBIT margin of 4 to 6 percent, down from 5.3 percent in 2025.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T08:39:08Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Iran vows to block all oil through Strait of Hormuz as prices swing wildly",
       "url": "https://www.perplexity.ai/page/iran-vows-to-block-all-oil-thr-jVW3JegDQ3CO1xTFQt8ALw",
       "description": "After crude briefly hit $119 a barrel, Iran's IRGC warned not \"a litre of oil\" would pass through the strait, even as prices eased on diplomacy hopes.",
@@ -1243,9 +1252,18 @@
       "sourceCount": "46 sources"
     }
   ],
-  "cached_at": "2026-03-12T08:22:32Z",
+  "cached_at": "2026-03-12T08:43:24Z",
   "topics": {
     "top": [
+      {
+        "title": "BMW forecasts 2026 earnings decline as tariffs squeeze margins",
+        "url": "https://www.perplexity.ai/page/bmw-forecasts-2026-earnings-de-_6MDNl_dRRCSwl2_BgUB1w",
+        "description": "The automaker projected a \"moderate decline\" in pre-tax earnings and an automotive EBIT margin of 4 to 6 percent, down from 5.3 percent in 2025.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T08:39:08Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Iran vows to block all oil through Strait of Hormuz as prices swing wildly",
         "url": "https://www.perplexity.ai/page/iran-vows-to-block-all-oil-thr-jVW3JegDQ3CO1xTFQt8ALw",
