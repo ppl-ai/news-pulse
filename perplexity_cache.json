@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Aramco denies reports of talks to buy Ukrainian drones",
+      "url": "https://www.perplexity.ai/page/aramco-denies-reports-of-talks-89elRf4ORy6UNQhj3_hi0g",
+      "description": "The Saudi oil giant called a Wall Street Journal report about negotiations with Ukrainian interceptor drone makers \"inaccurate,\" saying no such procurement talks are underway.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T22:50:29Z",
+      "sourceCount": "33 sources"
+    },
+    {
       "title": "Polish president vetoes €44B EU defense loan bill",
       "url": "https://www.perplexity.ai/page/polish-president-vetoes-eur44b-YzIaxjdmQ.KWAdRH1aBV.g",
       "description": "President Nawrocki rejected legislation unlocking EU funds under the SAFE program, calling it a threat to sovereignty and sparking a clash with PM Tusk.",
@@ -1279,9 +1288,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-12T22:57:21Z",
+  "cached_at": "2026-03-12T23:12:56Z",
   "topics": {
     "top": [
+      {
+        "title": "Aramco denies reports of talks to buy Ukrainian drones",
+        "url": "https://www.perplexity.ai/page/aramco-denies-reports-of-talks-89elRf4ORy6UNQhj3_hi0g",
+        "description": "The Saudi oil giant called a Wall Street Journal report about negotiations with Ukrainian interceptor drone makers \"inaccurate,\" saying no such procurement talks are underway.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T22:50:29Z",
+        "sourceCount": "33 sources"
+      },
       {
         "title": "Polish president vetoes €44B EU defense loan bill",
         "url": "https://www.perplexity.ai/page/polish-president-vetoes-eur44b-YzIaxjdmQ.KWAdRH1aBV.g",
