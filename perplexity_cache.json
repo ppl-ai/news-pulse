@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Thune to bring SAVE America Act to Senate floor next week",
+      "url": "https://www.perplexity.ai/page/thune-to-bring-save-america-ac-ywVyCMvUSRuH13YUc6jKIw",
+      "description": "The voter ID bill faces long odds in the Senate as Democrats vow to block it and supporters fall short of the 60-vote filibuster threshold.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T19:44:00Z",
+      "sourceCount": "58 sources"
+    },
+    {
       "title": "US envoy rebukes Czechs for falling short of NATO spending target",
       "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
       "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-12T19:38:49Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Trump weighs Jones Act waiver to curb surging fuel prices",
+      "url": "https://www.perplexity.ai/page/trump-weighs-jones-act-waiver-P6pBfUvZQoSpxBFACs6R0A",
+      "description": "The 30-day exemption would let foreign-flagged tankers move oil and fertilizer between U.S. ports as the Iran war chokes global supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T19:33:22Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Senate Democrats block DHS funding bill on day 27 of shutdown",
@@ -188,15 +206,6 @@
       "topic": "top",
       "pubDate": "2026-03-12T14:19:21Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Wright says Navy 'not ready' to escort tankers through Hormuz",
-      "url": "https://www.perplexity.ai/page/wright-says-navy-not-ready-to-TYCSSpQ9QHeku0.XAo42gg",
-      "description": "The energy secretary said escorts could begin by month's end but military resources remain focused on strikes against Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T13:03:42Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "Anthropic asks appeals court to stay Pentagon blacklisting",
@@ -703,13 +712,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump advisers privately push for Iran exit strategy amid surging gas prices",
-      "url": "https://www.perplexity.ai/page/trump-advisers-privately-push-g1cuZ0BLQo.m3afYojW1DQ",
-      "description": "National gas prices have jumped more than 60 cents in a month as the U.S.-Iran conflict disrupts oil flows, raising GOP midterm fears.",
+      "title": "White House denies Navy escorted tanker after Wright deletes claim",
+      "url": "https://www.perplexity.ai/page/white-house-denies-navy-escort-6DuSghKeQBO1.SAo.h5KvQ",
+      "description": "Energy Secretary Chris Wright briefly posted that a tanker was escorted through the Strait of Hormuz, but the White House and Pentagon confirmed no such operation occurred.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-10T11:08:43Z",
-      "sourceCount": "43 sources"
+      "pubDate": "2026-03-10T20:04:02Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Macron, IAEA chief open nuclear energy summit in Paris",
@@ -1169,20 +1178,20 @@
       "topic": "top",
       "pubDate": "2026-03-07T17:28:36Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Chinese study on US missile defense gaps validated by Iran war, analysts say",
-      "url": "https://www.perplexity.ai/page/chinese-study-on-us-missile-de-IQM8lTkWQeSZyq6mZdqr5w",
-      "description": "Iran's hypersonic missiles have repeatedly penetrated THAAD and other advanced US defense systems since the conflict began Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T11:18:21Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-12T19:51:27Z",
+  "cached_at": "2026-03-12T20:03:52Z",
   "topics": {
     "top": [
+      {
+        "title": "Thune to bring SAVE America Act to Senate floor next week",
+        "url": "https://www.perplexity.ai/page/thune-to-bring-save-america-ac-ywVyCMvUSRuH13YUc6jKIw",
+        "description": "The voter ID bill faces long odds in the Senate as Democrats vow to block it and supporters fall short of the 60-vote filibuster threshold.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T19:44:00Z",
+        "sourceCount": "58 sources"
+      },
       {
         "title": "US envoy rebukes Czechs for falling short of NATO spending target",
         "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
@@ -1191,6 +1200,15 @@
         "topic": "top",
         "pubDate": "2026-03-12T19:38:49Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Trump weighs Jones Act waiver to curb surging fuel prices",
+        "url": "https://www.perplexity.ai/page/trump-weighs-jones-act-waiver-P6pBfUvZQoSpxBFACs6R0A",
+        "description": "The 30-day exemption would let foreign-flagged tankers move oil and fertilizer between U.S. ports as the Iran war chokes global supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T19:33:22Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Senate Democrats block DHS funding bill on day 27 of shutdown",
@@ -1371,15 +1389,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T14:19:21Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Wright says Navy 'not ready' to escort tankers through Hormuz",
-        "url": "https://www.perplexity.ai/page/wright-says-navy-not-ready-to-TYCSSpQ9QHeku0.XAo42gg",
-        "description": "The energy secretary said escorts could begin by month's end but military resources remain focused on strikes against Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T13:03:42Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "Anthropic asks appeals court to stay Pentagon blacklisting",
@@ -1886,13 +1895,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump advisers privately push for Iran exit strategy amid surging gas prices",
-        "url": "https://www.perplexity.ai/page/trump-advisers-privately-push-g1cuZ0BLQo.m3afYojW1DQ",
-        "description": "National gas prices have jumped more than 60 cents in a month as the U.S.-Iran conflict disrupts oil flows, raising GOP midterm fears.",
+        "title": "White House denies Navy escorted tanker after Wright deletes claim",
+        "url": "https://www.perplexity.ai/page/white-house-denies-navy-escort-6DuSghKeQBO1.SAo.h5KvQ",
+        "description": "Energy Secretary Chris Wright briefly posted that a tanker was escorted through the Strait of Hormuz, but the White House and Pentagon confirmed no such operation occurred.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-10T11:08:43Z",
-        "sourceCount": "43 sources"
+        "pubDate": "2026-03-10T20:04:02Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Macron, IAEA chief open nuclear energy summit in Paris",
@@ -2352,15 +2361,6 @@
         "topic": "top",
         "pubDate": "2026-03-07T17:28:36Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Chinese study on US missile defense gaps validated by Iran war, analysts say",
-        "url": "https://www.perplexity.ai/page/chinese-study-on-us-missile-de-IQM8lTkWQeSZyq6mZdqr5w",
-        "description": "Iran's hypersonic missiles have repeatedly penetrated THAAD and other advanced US defense systems since the conflict began Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T11:18:21Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
