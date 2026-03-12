@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "CENTCOM says US struck 6,000 targets in Iran",
+      "url": "https://www.perplexity.ai/page/centcom-says-us-struck-6000-ta-qOpEACIkR3yrQy1ssT4zjA",
+      "description": "The updated Operation Epic Fury figures also report more than 90 Iranian vessels damaged or destroyed as the campaign enters its 13th day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T20:19:34Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Thune to bring SAVE America Act to Senate floor next week",
       "url": "https://www.perplexity.ai/page/thune-to-bring-save-america-ac-ywVyCMvUSRuH13YUc6jKIw",
       "description": "The voter ID bill faces long odds in the Senate as Democrats vow to block it and supporters fall short of the 60-vote filibuster threshold.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-12T19:44:00Z",
       "sourceCount": "58 sources"
-    },
-    {
-      "title": "US envoy rebukes Czechs for falling short of NATO spending target",
-      "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
-      "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T19:38:49Z",
-      "sourceCount": "40 sources"
     },
     {
       "title": "Trump weighs Jones Act waiver to curb surging fuel prices",
@@ -28,6 +28,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "US envoy rebukes Czechs for falling short of NATO spending target",
+      "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
+      "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T19:38:49Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Senate Democrats block DHS funding bill on day 27 of shutdown",
       "url": "https://www.perplexity.ai/page/senate-democrats-block-dhs-fun-YBdKlUvDSA.wIAb4nELpMA",
       "description": "The vote failed as Democrats held firm on ICE reform demands, with TSA staffing shortages causing hours-long airport security lines nationwide.",
@@ -37,13 +46,13 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Seven ships hit near Strait of Hormuz in 24 hours as Iran escalates maritime attacks",
-      "url": "https://www.perplexity.ai/page/seven-ships-hit-near-strait-of-n0dDY4Z4RhOEFGx7H6WoOQ",
-      "description": "Iraq suspended oil terminal operations after explosive-laden boats struck two tankers near Basra, killing at least one crew member.",
+      "title": "Energy Secretary Wright says Navy 'not ready' to escort tankers through Hormuz",
+      "url": "https://www.perplexity.ai/page/energy-secretary-wright-says-n-u35Dz.pnTP2urfdSjBPElw",
+      "description": "Wright told CNBC that escort operations could begin by end of March, even as Iranian attacks on shipping intensify and oil prices surge.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-12T19:23:41Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-12T20:16:24Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Canada says Iran war will dominate upcoming G7 foreign ministers' meeting",
@@ -1180,9 +1189,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-12T20:18:58Z",
+  "cached_at": "2026-03-12T20:37:54Z",
   "topics": {
     "top": [
+      {
+        "title": "CENTCOM says US struck 6,000 targets in Iran",
+        "url": "https://www.perplexity.ai/page/centcom-says-us-struck-6000-ta-qOpEACIkR3yrQy1ssT4zjA",
+        "description": "The updated Operation Epic Fury figures also report more than 90 Iranian vessels damaged or destroyed as the campaign enters its 13th day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T20:19:34Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Thune to bring SAVE America Act to Senate floor next week",
         "url": "https://www.perplexity.ai/page/thune-to-bring-save-america-ac-ywVyCMvUSRuH13YUc6jKIw",
@@ -1191,15 +1209,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T19:44:00Z",
         "sourceCount": "58 sources"
-      },
-      {
-        "title": "US envoy rebukes Czechs for falling short of NATO spending target",
-        "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
-        "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T19:38:49Z",
-        "sourceCount": "40 sources"
       },
       {
         "title": "Trump weighs Jones Act waiver to curb surging fuel prices",
@@ -1211,6 +1220,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "US envoy rebukes Czechs for falling short of NATO spending target",
+        "url": "https://www.perplexity.ai/page/us-envoy-rebukes-czechs-for-fa-nCO7kDFnQciiUvnjfXD22w",
+        "description": "Czech lawmakers approved a 2026 budget allocating just 1.7% of GDP to defense, well below NATO's 5% goal agreed at The Hague Summit.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T19:38:49Z",
+        "sourceCount": "40 sources"
+      },
+      {
         "title": "Senate Democrats block DHS funding bill on day 27 of shutdown",
         "url": "https://www.perplexity.ai/page/senate-democrats-block-dhs-fun-YBdKlUvDSA.wIAb4nELpMA",
         "description": "The vote failed as Democrats held firm on ICE reform demands, with TSA staffing shortages causing hours-long airport security lines nationwide.",
@@ -1220,13 +1238,13 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Seven ships hit near Strait of Hormuz in 24 hours as Iran escalates maritime attacks",
-        "url": "https://www.perplexity.ai/page/seven-ships-hit-near-strait-of-n0dDY4Z4RhOEFGx7H6WoOQ",
-        "description": "Iraq suspended oil terminal operations after explosive-laden boats struck two tankers near Basra, killing at least one crew member.",
+        "title": "Energy Secretary Wright says Navy 'not ready' to escort tankers through Hormuz",
+        "url": "https://www.perplexity.ai/page/energy-secretary-wright-says-n-u35Dz.pnTP2urfdSjBPElw",
+        "description": "Wright told CNBC that escort operations could begin by end of March, even as Iranian attacks on shipping intensify and oil prices surge.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-12T19:23:41Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-12T20:16:24Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Canada says Iran war will dominate upcoming G7 foreign ministers' meeting",
