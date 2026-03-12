@@ -1214,36 +1214,9 @@
       "topic": "top",
       "pubDate": "2026-03-06T14:19:12Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iceland sets Aug. 29 referendum on resuming EU talks",
-      "url": "https://www.perplexity.ai/page/iceland-sets-aug-29-referendum-BJehJoQxRheI3dlQ6xKdUw",
-      "description": "The government unanimously agreed to fast-track the vote, originally pledged for 2027, amid security concerns tied to Trump's Greenland threats.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T13:43:37Z",
-      "sourceCount": "19 sources"
-    },
-    {
-      "title": "US economy sheds 92,000 jobs in February, defying forecasts",
-      "url": "https://www.perplexity.ai/page/us-economy-sheds-92000-jobs-in-76UYyjRKRxiMrxvFodBoxQ",
-      "description": "The unemployment rate rose to 4.4% as employers cut payrolls instead of adding the 59,000 jobs economists had expected.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T13:52:48Z",
-      "sourceCount": "46 sources"
-    },
-    {
-      "title": "Iran reports 1,332 civilian deaths in UN letter on sixth day of war",
-      "url": "https://www.perplexity.ai/page/iran-reports-1332-civilian-dea-oar2Ul7bSjitPXP1m5V.cA",
-      "description": "Tehran's UN envoy urged the Security Council to take \"urgent, collective measures\" to halt US-Israeli strikes on Iranian territory.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-06T14:15:44Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-12T09:04:09Z",
+  "cached_at": "2026-03-12T09:25:46Z",
   "topics": {
     "top": [
       {
@@ -2460,33 +2433,6 @@
         "topic": "top",
         "pubDate": "2026-03-06T14:19:12Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iceland sets Aug. 29 referendum on resuming EU talks",
-        "url": "https://www.perplexity.ai/page/iceland-sets-aug-29-referendum-BJehJoQxRheI3dlQ6xKdUw",
-        "description": "The government unanimously agreed to fast-track the vote, originally pledged for 2027, amid security concerns tied to Trump's Greenland threats.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T13:43:37Z",
-        "sourceCount": "19 sources"
-      },
-      {
-        "title": "US economy sheds 92,000 jobs in February, defying forecasts",
-        "url": "https://www.perplexity.ai/page/us-economy-sheds-92000-jobs-in-76UYyjRKRxiMrxvFodBoxQ",
-        "description": "The unemployment rate rose to 4.4% as employers cut payrolls instead of adding the 59,000 jobs economists had expected.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T13:52:48Z",
-        "sourceCount": "46 sources"
-      },
-      {
-        "title": "Iran reports 1,332 civilian deaths in UN letter on sixth day of war",
-        "url": "https://www.perplexity.ai/page/iran-reports-1332-civilian-dea-oar2Ul7bSjitPXP1m5V.cA",
-        "description": "Tehran's UN envoy urged the Security Council to take \"urgent, collective measures\" to halt US-Israeli strikes on Iranian territory.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-06T14:15:44Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
