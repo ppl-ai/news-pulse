@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Pentagon tells Congress Iran war cost $11.3B in first six days",
+      "url": "https://www.perplexity.ai/page/pentagon-tells-congress-iran-w-Cxh8ZmIESm6LEdft0Fqlug",
+      "description": "The estimate, disclosed in a closed-door briefing Tuesday, does not include costs of the military buildup before strikes began Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T05:21:36Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "Washington Legislature passes millionaires tax, sends bill to governor",
       "url": "https://www.perplexity.ai/page/washington-legislature-passes-Ybhq6I7SR8G7dY7JnWI2VA",
       "description": "The 9.9% tax on income over $1 million cleared the Senate on the session's final day and is expected to face legal challenges.",
@@ -1252,9 +1261,18 @@
       "sourceCount": "46 sources"
     }
   ],
-  "cached_at": "2026-03-12T05:39:18Z",
+  "cached_at": "2026-03-12T06:03:42Z",
   "topics": {
     "top": [
+      {
+        "title": "Pentagon tells Congress Iran war cost $11.3B in first six days",
+        "url": "https://www.perplexity.ai/page/pentagon-tells-congress-iran-w-Cxh8ZmIESm6LEdft0Fqlug",
+        "description": "The estimate, disclosed in a closed-door briefing Tuesday, does not include costs of the military buildup before strikes began Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T05:21:36Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "Washington Legislature passes millionaires tax, sends bill to governor",
         "url": "https://www.perplexity.ai/page/washington-legislature-passes-Ybhq6I7SR8G7dY7JnWI2VA",
