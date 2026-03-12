@@ -494,11 +494,15 @@
       let data = window.__PERPLEXITY_CACHE__ || null;
       
       if (!data) {
-        // Fallback to fetch (works when served from same origin, e.g. GitHub Pages)
-        // cache: 'no-store' forces browser to bypass ALL caches
-        const res = await fetch('perplexity_cache.json?t=' + Date.now(), { cache: 'no-store' });
-        if (res.ok) {
-          data = await res.json();
+        // Fetch from GitHub raw content (bypasses GitHub Pages CDN caching)
+        const rawUrl = 'https://raw.githubusercontent.com/ppl-ai/news-pulse/main/perplexity_cache.json?t=' + Date.now();
+        try {
+          const res = await fetch(rawUrl, { cache: 'no-store' });
+          if (res.ok) data = await res.json();
+        } catch (e) {
+          // Fallback to local file if raw.githubusercontent is blocked
+          const res2 = await fetch('perplexity_cache.json?t=' + Date.now(), { cache: 'no-store' });
+          if (res2.ok) data = await res2.json();
         }
       }
 
