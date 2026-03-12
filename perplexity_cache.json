@@ -1259,27 +1259,9 @@
       "topic": "top",
       "pubDate": "2026-03-07T20:28:29Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Guinea dissolves 40 political parties, including top opposition groups",
-      "url": "https://www.perplexity.ai/page/guinea-dissolves-40-political-h4j9cDUtRGODqvnx_sKGOQ",
-      "description": "The late-night decree strips parties of legal status and seizes their assets less than two months after former junta leader Doumbouya's inauguration.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-07T19:01:26Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump formally recognizes Venezuela's Rodriguez government",
-      "url": "https://www.perplexity.ai/page/trump-formally-recognizes-vene-_vTVAmvsQ.mKe8.S8vi4ZQ",
-      "description": "The announcement came at the Shield of the Americas Summit in Florida, alongside a new deal for Venezuelan gold and mineral exports to the U.S.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T00:43:36Z",
-      "sourceCount": "48 sources"
     }
   ],
-  "cached_at": "2026-03-12T23:28:39Z",
+  "cached_at": "2026-03-12T23:44:00Z",
   "topics": {
     "top": [
       {
@@ -2541,24 +2523,6 @@
         "topic": "top",
         "pubDate": "2026-03-07T20:28:29Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Guinea dissolves 40 political parties, including top opposition groups",
-        "url": "https://www.perplexity.ai/page/guinea-dissolves-40-political-h4j9cDUtRGODqvnx_sKGOQ",
-        "description": "The late-night decree strips parties of legal status and seizes their assets less than two months after former junta leader Doumbouya's inauguration.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-07T19:01:26Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump formally recognizes Venezuela's Rodriguez government",
-        "url": "https://www.perplexity.ai/page/trump-formally-recognizes-vene-_vTVAmvsQ.mKe8.S8vi4ZQ",
-        "description": "The announcement came at the Shield of the Americas Summit in Florida, alongside a new deal for Venezuelan gold and mineral exports to the U.S.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T00:43:36Z",
-        "sourceCount": "48 sources"
       }
     ],
     "tech": [],
