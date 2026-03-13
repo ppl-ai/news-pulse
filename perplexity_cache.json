@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Japan set to join Trump's Golden Dome missile defense program",
-      "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
-      "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
+      "title": "Iran attacks Gulf Arab nations as war enters third week",
+      "url": "https://www.perplexity.ai/page/iran-attacks-gulf-arab-nations-w7UUqJ3CSFuPnmVrZHIcfQ",
+      "description": "Airstrikes hit Tehran overnight as Iran launched drones at Saudi Arabia on day 14, with oil above $100 a barrel and no ceasefire in sight.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-13T20:54:06Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-13T21:30:26Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "Trump says seizing Iran's Kharg Island 'not a top priority' but won't rule it out",
+      "url": "https://www.perplexity.ai/page/trump-says-seizing-iran-s-khar-vGHytL0GTYqhYyuloFsmug",
+      "description": "The president dismissed the question as \"foolish\" during a Fox News radio interview but called the oil hub \"one of many considerations.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T21:08:41Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Turkish ship cleared by Iran to cross Hormuz Strait as tanker traffic drops",
@@ -19,15 +28,6 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "Over 50,000 Americans return from Middle East since Iran war began",
-      "url": "https://www.perplexity.ai/page/over-50000-americans-return-fr-hAYRoiSBT5m_vW3ELiclMQ",
-      "description": "The State Department said Friday that demand for charter flights is declining as the evacuation effort enters its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T20:28:46Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "Italy escorts damaged Russian LNG tanker drifting near its coast",
       "url": "https://www.perplexity.ai/page/italy-escorts-damaged-russian-gHzEg3FlQ_qI3skwoHhPpQ",
       "description": "The crewless Arctic Metagaz, called a \"ticking time bomb,\" is being shadowed by the Italian navy after an alleged Ukrainian drone attack.",
@@ -37,6 +37,24 @@
       "sourceCount": "34 sources"
     },
     {
+      "title": "Japan set to join Trump's Golden Dome missile defense program",
+      "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
+      "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T20:54:06Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Over 50,000 Americans return from Middle East since Iran war began",
+      "url": "https://www.perplexity.ai/page/over-50000-americans-return-fr-hAYRoiSBT5m_vW3ELiclMQ",
+      "description": "The State Department said Friday that demand for charter flights is declining as the evacuation effort enters its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T20:28:46Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "Judge blocks DOJ subpoenas targeting Fed Chair Powell",
       "url": "https://www.perplexity.ai/page/judge-blocks-doj-subpoenas-tar-8FqKRmtNTZ.3GWZB3PhkpA",
       "description": "The ruling found \"zero evidence\" of a crime and called the probe a pretext to pressure Powell on interest rates or force his resignation.",
@@ -44,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-13T19:40:29Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "Trump signs orders to cut housing regulations, ease mortgage access",
+      "url": "https://www.perplexity.ai/page/trump-signs-orders-to-cut-hous-7iorfy.rRaewAcibF2oNyQ",
+      "description": "The executive orders aim to speed up construction permitting and bring community banks back into mortgage lending ahead of the midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T20:02:30Z",
+      "sourceCount": "72 sources"
     },
     {
       "title": "Pentagon deploys Marines, warships to Middle East as Iran escalates Hormuz attacks",
@@ -467,15 +494,6 @@
       "topic": "top",
       "pubDate": "2026-03-12T16:27:01Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Iran launches drone strikes on Israeli bases as war enters day 13",
-      "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-1gNxo5AzTRCr8Fctoesi9w",
-      "description": "Iran claims its drones hit two airbases and Shin Bet headquarters, while coordinated Hezbollah barrages send millions of Israelis to shelters.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T18:24:15Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "China's mediation helps ease Pakistan-Afghanistan fighting, officials say",
@@ -1178,28 +1196,28 @@
       "topic": "top",
       "pubDate": "2026-03-09T13:38:55Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
-      "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
-      "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T20:35:46Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-13T21:16:14Z",
+  "cached_at": "2026-03-13T21:33:43Z",
   "topics": {
     "top": [
       {
-        "title": "Japan set to join Trump's Golden Dome missile defense program",
-        "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
-        "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
+        "title": "Iran attacks Gulf Arab nations as war enters third week",
+        "url": "https://www.perplexity.ai/page/iran-attacks-gulf-arab-nations-w7UUqJ3CSFuPnmVrZHIcfQ",
+        "description": "Airstrikes hit Tehran overnight as Iran launched drones at Saudi Arabia on day 14, with oil above $100 a barrel and no ceasefire in sight.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-13T20:54:06Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-13T21:30:26Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "Trump says seizing Iran's Kharg Island 'not a top priority' but won't rule it out",
+        "url": "https://www.perplexity.ai/page/trump-says-seizing-iran-s-khar-vGHytL0GTYqhYyuloFsmug",
+        "description": "The president dismissed the question as \"foolish\" during a Fox News radio interview but called the oil hub \"one of many considerations.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T21:08:41Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Turkish ship cleared by Iran to cross Hormuz Strait as tanker traffic drops",
@@ -1211,15 +1229,6 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "Over 50,000 Americans return from Middle East since Iran war began",
-        "url": "https://www.perplexity.ai/page/over-50000-americans-return-fr-hAYRoiSBT5m_vW3ELiclMQ",
-        "description": "The State Department said Friday that demand for charter flights is declining as the evacuation effort enters its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T20:28:46Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "Italy escorts damaged Russian LNG tanker drifting near its coast",
         "url": "https://www.perplexity.ai/page/italy-escorts-damaged-russian-gHzEg3FlQ_qI3skwoHhPpQ",
         "description": "The crewless Arctic Metagaz, called a \"ticking time bomb,\" is being shadowed by the Italian navy after an alleged Ukrainian drone attack.",
@@ -1229,6 +1238,24 @@
         "sourceCount": "34 sources"
       },
       {
+        "title": "Japan set to join Trump's Golden Dome missile defense program",
+        "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
+        "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T20:54:06Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Over 50,000 Americans return from Middle East since Iran war began",
+        "url": "https://www.perplexity.ai/page/over-50000-americans-return-fr-hAYRoiSBT5m_vW3ELiclMQ",
+        "description": "The State Department said Friday that demand for charter flights is declining as the evacuation effort enters its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T20:28:46Z",
+        "sourceCount": "42 sources"
+      },
+      {
         "title": "Judge blocks DOJ subpoenas targeting Fed Chair Powell",
         "url": "https://www.perplexity.ai/page/judge-blocks-doj-subpoenas-tar-8FqKRmtNTZ.3GWZB3PhkpA",
         "description": "The ruling found \"zero evidence\" of a crime and called the probe a pretext to pressure Powell on interest rates or force his resignation.",
@@ -1236,6 +1263,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T19:40:29Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "Trump signs orders to cut housing regulations, ease mortgage access",
+        "url": "https://www.perplexity.ai/page/trump-signs-orders-to-cut-hous-7iorfy.rRaewAcibF2oNyQ",
+        "description": "The executive orders aim to speed up construction permitting and bring community banks back into mortgage lending ahead of the midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T20:02:30Z",
+        "sourceCount": "72 sources"
       },
       {
         "title": "Pentagon deploys Marines, warships to Middle East as Iran escalates Hormuz attacks",
@@ -1659,15 +1695,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T16:27:01Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Iran launches drone strikes on Israeli bases as war enters day 13",
-        "url": "https://www.perplexity.ai/page/iran-launches-drone-strikes-on-1gNxo5AzTRCr8Fctoesi9w",
-        "description": "Iran claims its drones hit two airbases and Shin Bet headquarters, while coordinated Hezbollah barrages send millions of Israelis to shelters.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T18:24:15Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "China's mediation helps ease Pakistan-Afghanistan fighting, officials say",
@@ -2370,15 +2397,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T13:38:55Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Trump doesn't rule out seizing Iranian oil as prices spike",
-        "url": "https://www.perplexity.ai/page/trump-doesn-t-rule-out-seizing-apzNRjBOTSS6fSyOa3hHAA",
-        "description": "The president pointed to Venezuela as a precedent, saying \"people have talked about it\" but that it's \"too soon\" to discuss.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T20:35:46Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
