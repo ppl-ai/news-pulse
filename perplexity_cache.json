@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Fermi America to seek 5GW permit, expanding Texas AI campus to 17GW",
-      "url": "https://www.perplexity.ai/page/fermi-america-to-seek-5gw-perm-s5GS2vtGRAWECMpJrHR9XQ",
-      "description": "The filing follows TCEQ's approval of a 6GW gas permit two weeks ago for Project Matador, which the company says would be the world's largest private grid.",
+      "title": "Canada to supply 23.6M barrels in record IEA oil release",
+      "url": "https://www.perplexity.ai/page/canada-to-supply-23-6m-barrels-szkddGB0Te6crRrXXpe5mQ",
+      "description": "Natural Resources Minister Tim Hodgson said Canada will contribute to the 400-million-barrel emergency drawdown as the Iran war chokes global oil flows.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-13T23:09:59Z",
+      "pubDate": "2026-03-13T23:24:33Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "Schumer demands Bessent testify over Russia sanctions relief",
+      "url": "https://www.perplexity.ai/page/schumer-demands-bessent-testif-rCmvvqhVRrebdM.WVFj4FA",
+      "description": "Senate Democrats condemned the Treasury Department's decision to temporarily lift sanctions on Russian oil stranded at sea amid the Iran conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T22:58:58Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "US seeks to sell seized tanker after $47M in costs",
@@ -1279,17 +1288,26 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-13T23:13:48Z",
+  "cached_at": "2026-03-13T23:30:04Z",
   "topics": {
     "top": [
       {
-        "title": "Fermi America to seek 5GW permit, expanding Texas AI campus to 17GW",
-        "url": "https://www.perplexity.ai/page/fermi-america-to-seek-5gw-perm-s5GS2vtGRAWECMpJrHR9XQ",
-        "description": "The filing follows TCEQ's approval of a 6GW gas permit two weeks ago for Project Matador, which the company says would be the world's largest private grid.",
+        "title": "Canada to supply 23.6M barrels in record IEA oil release",
+        "url": "https://www.perplexity.ai/page/canada-to-supply-23-6m-barrels-szkddGB0Te6crRrXXpe5mQ",
+        "description": "Natural Resources Minister Tim Hodgson said Canada will contribute to the 400-million-barrel emergency drawdown as the Iran war chokes global oil flows.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-13T23:09:59Z",
+        "pubDate": "2026-03-13T23:24:33Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "Schumer demands Bessent testify over Russia sanctions relief",
+        "url": "https://www.perplexity.ai/page/schumer-demands-bessent-testif-rCmvvqhVRrebdM.WVFj4FA",
+        "description": "Senate Democrats condemned the Treasury Department's decision to temporarily lift sanctions on Russian oil stranded at sea amid the Iran conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T22:58:58Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "US seeks to sell seized tanker after $47M in costs",
