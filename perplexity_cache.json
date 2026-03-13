@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Hormuz Strait at standstill as Iran hardens blockade",
+      "url": "https://www.perplexity.ai/page/hormuz-strait-at-standstill-as-zuszfqt1QV2u3TFfbhKI9Q",
+      "description": "Zero confirmed vessel transits were recorded in either direction over the past 24 hours as the IEA released a record 400 million barrels from reserves.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T15:06:34Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Midwest farmers rush to sell stored grain as Iran war fuels price surge",
       "url": "https://www.perplexity.ai/page/midwest-farmers-rush-to-sell-s-IpSSn6s5SKCeNBx0d.dJxQ",
       "description": "Corn and soybean futures have each climbed roughly 6% since the conflict began, with soybeans topping $12 per bushel for the first time since mid-2024.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-13T13:44:00Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "France, Italy open talks with Iran on Strait of Hormuz passage",
-      "url": "https://www.perplexity.ai/page/france-italy-open-talks-with-i-RfrnbnAOT8iJ4JJq6vOyqA",
-      "description": "As the Iran war enters its third week, European powers seek bilateral deals with Tehran to restore transit through the critical oil chokepoint.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T13:18:12Z",
-      "sourceCount": "75 sources"
     },
     {
       "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
@@ -1160,20 +1160,20 @@
       "topic": "top",
       "pubDate": "2026-03-09T10:28:45Z",
       "sourceCount": "50 sources"
-    },
-    {
-      "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
-      "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
-      "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T05:32:50Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-13T15:09:36Z",
+  "cached_at": "2026-03-13T15:29:33Z",
   "topics": {
     "top": [
+      {
+        "title": "Hormuz Strait at standstill as Iran hardens blockade",
+        "url": "https://www.perplexity.ai/page/hormuz-strait-at-standstill-as-zuszfqt1QV2u3TFfbhKI9Q",
+        "description": "Zero confirmed vessel transits were recorded in either direction over the past 24 hours as the IEA released a record 400 million barrels from reserves.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T15:06:34Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Midwest farmers rush to sell stored grain as Iran war fuels price surge",
         "url": "https://www.perplexity.ai/page/midwest-farmers-rush-to-sell-s-IpSSn6s5SKCeNBx0d.dJxQ",
@@ -1182,15 +1182,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T13:44:00Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "France, Italy open talks with Iran on Strait of Hormuz passage",
-        "url": "https://www.perplexity.ai/page/france-italy-open-talks-with-i-RfrnbnAOT8iJ4JJq6vOyqA",
-        "description": "As the Iran war enters its third week, European powers seek bilateral deals with Tehran to restore transit through the critical oil chokepoint.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T13:18:12Z",
-        "sourceCount": "75 sources"
       },
       {
         "title": "Democrats warn new Trump tariffs will cost households $2,512 this year",
@@ -2334,15 +2325,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T10:28:45Z",
         "sourceCount": "50 sources"
-      },
-      {
-        "title": "South Korea, Taiwan cap fuel prices as oil tops $100",
-        "url": "https://www.perplexity.ai/page/south-korea-taiwan-cap-fuel-pr-Fz2RClxLT8GHf1uX6fNNXg",
-        "description": "The emergency measures, first in nearly 30 years for South Korea, aim to shield consumers as the Middle East conflict drives crude prices sharply higher.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T05:32:50Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
