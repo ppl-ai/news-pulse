@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Japan set to join Trump's Golden Dome missile defense program",
+      "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
+      "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T20:54:06Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Turkish ship cleared by Iran to cross Hormuz Strait as tanker traffic drops",
       "url": "https://www.perplexity.ai/page/turkish-ship-cleared-by-iran-t-DkKftqaLQzq0nMKAcNvcfg",
       "description": "Iran's new Supreme Leader Mojtaba Khamenei declared the strait must stay closed, as only a handful of vessels have won passage in two weeks of war.",
@@ -125,6 +134,15 @@
       "topic": "top",
       "pubDate": "2026-03-13T08:18:48Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Asian stocks slide as Iran war keeps oil near $100",
+      "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-war-soFsvRw1SAuFuc7V.w7eFQ",
+      "description": "Iran's new supreme leader vowed to keep the Strait of Hormuz closed, rattling energy markets and dragging equities lower worldwide.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T06:33:26Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Scientists decode 300-million-year-old DNA code hidden in plant genomes",
@@ -1171,9 +1189,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-13T20:56:58Z",
+  "cached_at": "2026-03-13T21:16:14Z",
   "topics": {
     "top": [
+      {
+        "title": "Japan set to join Trump's Golden Dome missile defense program",
+        "url": "https://www.perplexity.ai/page/japan-set-to-join-trump-s-gold-yXNL9oMQQ5uAyg5xOnOsFQ",
+        "description": "PM Takaichi plans to announce Japan's participation when she meets Trump in Washington on March 19, according to Japanese government sources.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T20:54:06Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Turkish ship cleared by Iran to cross Hormuz Strait as tanker traffic drops",
         "url": "https://www.perplexity.ai/page/turkish-ship-cleared-by-iran-t-DkKftqaLQzq0nMKAcNvcfg",
@@ -1299,6 +1326,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T08:18:48Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Asian stocks slide as Iran war keeps oil near $100",
+        "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-war-soFsvRw1SAuFuc7V.w7eFQ",
+        "description": "Iran's new supreme leader vowed to keep the Strait of Hormuz closed, rattling energy markets and dragging equities lower worldwide.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T06:33:26Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Scientists decode 300-million-year-old DNA code hidden in plant genomes",
