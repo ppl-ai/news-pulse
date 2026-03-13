@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Judge blocks DOJ subpoenas targeting Fed Chair Powell",
+      "url": "https://www.perplexity.ai/page/judge-blocks-doj-subpoenas-tar-8FqKRmtNTZ.3GWZB3PhkpA",
+      "description": "The ruling found \"zero evidence\" of a crime and called the probe a pretext to pressure Powell on interest rates or force his resignation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T19:40:29Z",
+      "sourceCount": "38 sources"
+    },
+    {
       "title": "Pentagon deploys Marines, warships to Middle East as Iran escalates Hormuz attacks",
       "url": "https://www.perplexity.ai/page/pentagon-deploys-marines-warsh-jQUacPx5TwyNyKjmf4s50Q",
       "description": "The USS Tripoli and roughly 5,000 Marines are en route from Japan as the U.S. military struggles to reopen the strait to commercial shipping.",
@@ -1153,9 +1162,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-13T19:38:33Z",
+  "cached_at": "2026-03-13T19:53:21Z",
   "topics": {
     "top": [
+      {
+        "title": "Judge blocks DOJ subpoenas targeting Fed Chair Powell",
+        "url": "https://www.perplexity.ai/page/judge-blocks-doj-subpoenas-tar-8FqKRmtNTZ.3GWZB3PhkpA",
+        "description": "The ruling found \"zero evidence\" of a crime and called the probe a pretext to pressure Powell on interest rates or force his resignation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T19:40:29Z",
+        "sourceCount": "38 sources"
+      },
       {
         "title": "Pentagon deploys Marines, warships to Middle East as Iran escalates Hormuz attacks",
         "url": "https://www.perplexity.ai/page/pentagon-deploys-marines-warsh-jQUacPx5TwyNyKjmf4s50Q",
