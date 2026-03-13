@@ -1151,27 +1151,9 @@
       "topic": "top",
       "pubDate": "2026-03-09T11:44:57Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Live Nation settles DOJ antitrust case, keeps Ticketmaster",
-      "url": "https://www.perplexity.ai/page/live-nation-settles-doj-antitr-dp5gkFHAScCiuCws9Mlv0Q",
-      "description": "The deal requires amphitheater divestitures, caps on service fees and shorter exclusivity contracts but avoids a forced breakup of the ticketing giant.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T10:11:16Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
-      "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
-      "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T10:28:45Z",
-      "sourceCount": "50 sources"
     }
   ],
-  "cached_at": "2026-03-13T19:20:24Z",
+  "cached_at": "2026-03-13T19:38:33Z",
   "topics": {
     "top": [
       {
@@ -2325,24 +2307,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T11:44:57Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Live Nation settles DOJ antitrust case, keeps Ticketmaster",
-        "url": "https://www.perplexity.ai/page/live-nation-settles-doj-antitr-dp5gkFHAScCiuCws9Mlv0Q",
-        "description": "The deal requires amphitheater divestitures, caps on service fees and shorter exclusivity contracts but avoids a forced breakup of the ticketing giant.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T10:11:16Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump sons back drone firm Powerus in bid for Pentagon contracts",
-        "url": "https://www.perplexity.ai/page/trump-sons-back-drone-firm-pow-HrfunM6DTCa0W9L9hBz9lA",
-        "description": "Powerus plans to go public via a reverse merger and pursue the Pentagon's $1.1 billion Drone Dominance program, the WSJ reported.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T10:28:45Z",
-        "sourceCount": "50 sources"
       }
     ],
     "tech": [],
