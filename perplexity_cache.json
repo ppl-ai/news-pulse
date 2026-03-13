@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "ByteDance taps Malaysia partner to deploy 36,000 Nvidia Blackwell chips",
+      "url": "https://www.perplexity.ai/page/bytedance-taps-malaysia-partne-9VTEMgHoS7W6CvPUA03vhQ",
+      "description": "The TikTok parent is working with Aolani Cloud to build AI computing capacity outside China, skirting U.S. export controls on direct chip sales.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T03:24:42Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Democrats unveil bills to cut taxes for workers, raise them on millionaires",
       "url": "https://www.perplexity.ai/page/democrats-unveil-bills-to-cut-8QmDsyvsT1ugtq.9otwMJw",
       "description": "Federal legislation introduced by Sen. Van Hollen would eliminate income taxes for those earning under $46,000, funded by surtaxes on millionaires.",
@@ -1268,20 +1277,20 @@
       "topic": "top",
       "pubDate": "2026-03-08T04:52:34Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Judge voids Kari Lake's Voice of America cuts, rules her tenure unlawful",
-      "url": "https://www.perplexity.ai/page/judge-voids-kari-lake-s-voice-G2_TROwTTVGipZDZYLS03A",
-      "description": "A federal judge declared all actions Lake took as acting USAGM CEO \"null and void,\" finding her appointment violated the Federal Vacancies Reform Act.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-08T03:37:54Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-13T02:48:50Z",
+  "cached_at": "2026-03-13T03:39:45Z",
   "topics": {
     "top": [
+      {
+        "title": "ByteDance taps Malaysia partner to deploy 36,000 Nvidia Blackwell chips",
+        "url": "https://www.perplexity.ai/page/bytedance-taps-malaysia-partne-9VTEMgHoS7W6CvPUA03vhQ",
+        "description": "The TikTok parent is working with Aolani Cloud to build AI computing capacity outside China, skirting U.S. export controls on direct chip sales.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T03:24:42Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Democrats unveil bills to cut taxes for workers, raise them on millionaires",
         "url": "https://www.perplexity.ai/page/democrats-unveil-bills-to-cut-8QmDsyvsT1ugtq.9otwMJw",
@@ -2550,15 +2559,6 @@
         "topic": "top",
         "pubDate": "2026-03-08T04:52:34Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Judge voids Kari Lake's Voice of America cuts, rules her tenure unlawful",
-        "url": "https://www.perplexity.ai/page/judge-voids-kari-lake-s-voice-G2_TROwTTVGipZDZYLS03A",
-        "description": "A federal judge declared all actions Lake took as acting USAGM CEO \"null and void,\" finding her appointment violated the Federal Vacancies Reform Act.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-08T03:37:54Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
