@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "All 6 airmen killed in KC-135 crash in Iraq, CENTCOM confirms",
+      "url": "https://www.perplexity.ai/page/all-6-airmen-killed-in-kc-135-uPZ2RP9pRCKP8Rw1uvbndg",
+      "description": "The midair collision between two tankers during Operation Epic Fury marks the first Air Force fatalities in the U.S. campaign against Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T01:02:42Z",
+      "sourceCount": "11 sources"
+    },
+    {
+      "title": "Explosions rock Doha as Iran's missile campaign hits Qatar",
+      "url": "https://www.perplexity.ai/page/explosions-rock-doha-as-iran-s-uAmfKI0OTe6jjyBv7bZH9Q",
+      "description": "Qatar's military intercepted missiles over downtown Doha early Saturday, prompting evacuations as Iran's aerial assault on Gulf states enters a third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T00:46:05Z",
+      "sourceCount": "40 sources"
+    },
+    {
+      "title": "Israeli airstrike kills 12 medical workers at Lebanon healthcare center",
+      "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-12-med-DMIOIgeXQluyFJZkmhZH8w",
+      "description": "Lebanon's health ministry said doctors, paramedics, and nurses were on duty when the strike hit a clinic in the southern town of Bourj Qalawayh.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T00:28:51Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "UN says nearly all Gaza aid movements denied in past two days",
       "url": "https://www.perplexity.ai/page/un-says-nearly-all-gaza-aid-mo-Z1BzgHNmQ.KB.Qfw9KSjyg",
       "description": "Only one humanitarian mission was allowed through to the Kerem Shalom crossing on Thursday and Friday, enabling fuel collection \"but nothing else.\"",
@@ -1322,38 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-03-09T21:28:39Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Judge strikes down Trump's three-person NJ prosecutor setup",
-      "url": "https://www.perplexity.ai/page/judge-strikes-down-trump-s-thr-yhhRVsekSvyqZaNkMqWwEQ",
-      "description": "A federal judge ruled the triumvirate running the New Jersey U.S. Attorney's Office was unconstitutionally appointed, threatening case dismissals.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T22:03:17Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Sen. Booker proposes making first $75,000 tax-free",
-      "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
-      "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T17:02:31Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
-      "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
-      "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-09T20:09:32Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-03-14T00:44:52Z",
+  "cached_at": "2026-03-14T01:18:16Z",
   "topics": {
     "top": [
+      {
+        "title": "All 6 airmen killed in KC-135 crash in Iraq, CENTCOM confirms",
+        "url": "https://www.perplexity.ai/page/all-6-airmen-killed-in-kc-135-uPZ2RP9pRCKP8Rw1uvbndg",
+        "description": "The midair collision between two tankers during Operation Epic Fury marks the first Air Force fatalities in the U.S. campaign against Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T01:02:42Z",
+        "sourceCount": "11 sources"
+      },
+      {
+        "title": "Explosions rock Doha as Iran's missile campaign hits Qatar",
+        "url": "https://www.perplexity.ai/page/explosions-rock-doha-as-iran-s-uAmfKI0OTe6jjyBv7bZH9Q",
+        "description": "Qatar's military intercepted missiles over downtown Doha early Saturday, prompting evacuations as Iran's aerial assault on Gulf states enters a third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T00:46:05Z",
+        "sourceCount": "40 sources"
+      },
+      {
+        "title": "Israeli airstrike kills 12 medical workers at Lebanon healthcare center",
+        "url": "https://www.perplexity.ai/page/israeli-airstrike-kills-12-med-DMIOIgeXQluyFJZkmhZH8w",
+        "description": "Lebanon's health ministry said doctors, paramedics, and nurses were on duty when the strike hit a clinic in the southern town of Bourj Qalawayh.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T00:28:51Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "UN says nearly all Gaza aid movements denied in past two days",
         "url": "https://www.perplexity.ai/page/un-says-nearly-all-gaza-aid-mo-Z1BzgHNmQ.KB.Qfw9KSjyg",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-09T21:28:39Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Judge strikes down Trump's three-person NJ prosecutor setup",
-        "url": "https://www.perplexity.ai/page/judge-strikes-down-trump-s-thr-yhhRVsekSvyqZaNkMqWwEQ",
-        "description": "A federal judge ruled the triumvirate running the New Jersey U.S. Attorney's Office was unconstitutionally appointed, threatening case dismissals.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T22:03:17Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Sen. Booker proposes making first $75,000 tax-free",
-        "url": "https://www.perplexity.ai/page/sen-booker-proposes-making-fir-l.hLFyIwSpONO3INCT7DRQ",
-        "description": "The Keep Your Pay Act would more than double the standard deduction and expand child and earned income tax credits for working families.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T17:02:31Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "UAE calls for de-escalation after 1,400 Iranian attacks",
-        "url": "https://www.perplexity.ai/page/uae-calls-for-de-escalation-af-q_hIWjYYRSqtAwFTSYa0VQ",
-        "description": "The Gulf state's UN envoy said four civilians were killed and 114 injured since the US-Israeli war with Iran began on Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-09T20:09:32Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
