@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NWS issues earliest-ever extreme heat watch as March heatwave grips California",
+      "url": "https://www.perplexity.ai/page/nws-issues-earliest-ever-extre-PIFY49.eRSSuo9.qFFfOoQ",
+      "description": "Temperatures next week could topple a 147-year-old record in downtown Los Angeles, with readings forecast up to 30 degrees above normal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T21:40:08Z",
+      "sourceCount": "31 sources"
+    },
+    {
       "title": "Lobbyist who helped client get Trump pardon charged with extortion",
       "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
       "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
@@ -1333,9 +1342,18 @@
       "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-14T21:44:12Z",
+  "cached_at": "2026-03-14T21:55:15Z",
   "topics": {
     "top": [
+      {
+        "title": "NWS issues earliest-ever extreme heat watch as March heatwave grips California",
+        "url": "https://www.perplexity.ai/page/nws-issues-earliest-ever-extre-PIFY49.eRSSuo9.qFFfOoQ",
+        "description": "Temperatures next week could topple a 147-year-old record in downtown Los Angeles, with readings forecast up to 30 degrees above normal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T21:40:08Z",
+        "sourceCount": "31 sources"
+      },
       {
         "title": "Lobbyist who helped client get Trump pardon charged with extortion",
         "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
