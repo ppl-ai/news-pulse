@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "UAE consulate in Erbil hit by drone for second time in a week",
+      "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
+      "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T15:12:07Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
+      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
+      "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T14:38:39Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Iran launches 49th wave of strikes on US bases across Gulf",
+      "url": "https://www.perplexity.ai/page/iran-launches-49th-wave-of-str-4OymG63ZRXumv4vsZaB3FQ",
+      "description": "The IRGC said its naval units hit American installations in the UAE, Bahrain, and Kuwait as the US-Iran conflict enters its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T14:24:06Z",
+      "sourceCount": "41 sources"
+    },
+    {
+      "title": "Macron offers to host Israel-Lebanon talks in Paris",
+      "url": "https://www.perplexity.ai/page/macron-offers-to-host-israel-l-.PtfgeK3Qm64DsEfeoXijg",
+      "description": "France's president urged direct negotiations and called on Hezbollah to halt escalation and Israel to abandon plans for a ground offensive.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T13:29:06Z",
+      "sourceCount": "19 sources"
+    },
+    {
       "title": "Explosion hits Amsterdam Jewish school in 'deliberate attack'",
       "url": "https://www.perplexity.ai/page/explosion-hits-amsterdam-jewis-TGCF0f2tRuS0KBC3j2kRRw",
       "description": "Mayor Femke Halsema condemned the overnight blast as a \"cowardly act of aggression\" amid a wave of attacks on European Jewish sites.",
@@ -629,15 +665,6 @@
       "topic": "top",
       "pubDate": "2026-03-12T22:39:11Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "Israeli strikes kill Palestinians in Gaza market and camp during Ramadan",
-      "url": "https://www.perplexity.ai/page/israeli-strikes-kill-palestini-oKS0X3UeQDmSNrlFksRyvg",
-      "description": "At least three people were killed in attacks on a refugee camp and a marketplace, adding to hundreds of deaths since the October ceasefire began.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T22:23:58Z",
-      "sourceCount": "56 sources"
     },
     {
       "title": "Iran's UN envoy says strait won't close, contradicting new supreme leader",
@@ -1322,38 +1349,47 @@
       "topic": "top",
       "pubDate": "2026-03-10T02:03:36Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Kuwait's emir condemns Iran's 'brutal attack' in first address since strikes began",
-      "url": "https://www.perplexity.ai/page/kuwait-s-emir-condemns-iran-s-1ddBPdg1QhG0jCLlP6eMMw",
-      "description": "Sheikh Meshal Al-Ahmad Al-Sabah broke his silence as the country buried two more border security officers killed in the conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T01:39:47Z",
-      "sourceCount": "43 sources"
-    },
-    {
-      "title": "Pentagon IDs 7th service member killed in Iran war",
-      "url": "https://www.perplexity.ai/page/pentagon-ids-7th-service-membe-PqBsPjCoQw2aly3vRxJetA",
-      "description": "Sgt. Benjamin Pennington, 26, died Sunday from injuries sustained in a March 1 Iranian strike on Prince Sultan Air Base in Saudi Arabia.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T01:58:36Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump declares SAVE America Act as number one priority",
-      "url": "https://www.perplexity.ai/page/trump-declares-save-america-ac-ievdtzXDTJ.kM6yBc7v_XA",
-      "description": "The president told House Republicans he won't approve any legislation until his election integrity package passes, threatening the CLARITY Act's timeline.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T02:03:45Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-14T19:12:58Z",
+  "cached_at": "2026-03-14T19:28:34Z",
   "topics": {
     "top": [
+      {
+        "title": "UAE consulate in Erbil hit by drone for second time in a week",
+        "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
+        "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T15:12:07Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
+        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-six-in-ga-qH6fo.u7Q9KKIwtNfEBk7A",
+        "description": "Gaza's civil defense agency says a pre-dawn strike in Khan Younis and a separate attack in Gaza City killed six people in the past 24 hours.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T14:38:39Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Iran launches 49th wave of strikes on US bases across Gulf",
+        "url": "https://www.perplexity.ai/page/iran-launches-49th-wave-of-str-4OymG63ZRXumv4vsZaB3FQ",
+        "description": "The IRGC said its naval units hit American installations in the UAE, Bahrain, and Kuwait as the US-Iran conflict enters its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T14:24:06Z",
+        "sourceCount": "41 sources"
+      },
+      {
+        "title": "Macron offers to host Israel-Lebanon talks in Paris",
+        "url": "https://www.perplexity.ai/page/macron-offers-to-host-israel-l-.PtfgeK3Qm64DsEfeoXijg",
+        "description": "France's president urged direct negotiations and called on Hezbollah to halt escalation and Israel to abandon plans for a ground offensive.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T13:29:06Z",
+        "sourceCount": "19 sources"
+      },
       {
         "title": "Explosion hits Amsterdam Jewish school in 'deliberate attack'",
         "url": "https://www.perplexity.ai/page/explosion-hits-amsterdam-jewis-TGCF0f2tRuS0KBC3j2kRRw",
@@ -1983,15 +2019,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T22:39:11Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Israeli strikes kill Palestinians in Gaza market and camp during Ramadan",
-        "url": "https://www.perplexity.ai/page/israeli-strikes-kill-palestini-oKS0X3UeQDmSNrlFksRyvg",
-        "description": "At least three people were killed in attacks on a refugee camp and a marketplace, adding to hundreds of deaths since the October ceasefire began.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T22:23:58Z",
-        "sourceCount": "56 sources"
       },
       {
         "title": "Iran's UN envoy says strait won't close, contradicting new supreme leader",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T02:03:36Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Kuwait's emir condemns Iran's 'brutal attack' in first address since strikes began",
-        "url": "https://www.perplexity.ai/page/kuwait-s-emir-condemns-iran-s-1ddBPdg1QhG0jCLlP6eMMw",
-        "description": "Sheikh Meshal Al-Ahmad Al-Sabah broke his silence as the country buried two more border security officers killed in the conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T01:39:47Z",
-        "sourceCount": "43 sources"
-      },
-      {
-        "title": "Pentagon IDs 7th service member killed in Iran war",
-        "url": "https://www.perplexity.ai/page/pentagon-ids-7th-service-membe-PqBsPjCoQw2aly3vRxJetA",
-        "description": "Sgt. Benjamin Pennington, 26, died Sunday from injuries sustained in a March 1 Iranian strike on Prince Sultan Air Base in Saudi Arabia.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T01:58:36Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump declares SAVE America Act as number one priority",
-        "url": "https://www.perplexity.ai/page/trump-declares-save-america-ac-ievdtzXDTJ.kM6yBc7v_XA",
-        "description": "The president told House Republicans he won't approve any legislation until his election integrity package passes, threatening the CLARITY Act's timeline.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T02:03:45Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
