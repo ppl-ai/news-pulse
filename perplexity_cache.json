@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
+      "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
+      "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T22:15:08Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "Iran strikes UAE oil port after U.S. bombs Kharg Island",
       "url": "https://www.perplexity.ai/page/iran-strikes-uae-oil-port-afte-3oMZFsZqRMKzBBLsNoEQ4Q",
       "description": "Iranian drones hit Fujairah oil storage facilities Saturday, suspending some loading operations, after U.S. strikes destroyed over 90 military targets on Kharg Island.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-10T02:03:54Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Rep. Kevin Kiley leaves GOP, narrowing Johnson's House majority",
-      "url": "https://www.perplexity.ai/page/rep-kevin-kiley-leaves-gop-nar-PnQXwJriQc.VIT2NWRPFhQ",
-      "description": "The California congressman becomes the only independent in the House, citing frustration with gerrymandering and hyper-partisanship.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T02:03:36Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-14T22:21:13Z",
+  "cached_at": "2026-03-14T22:38:39Z",
   "topics": {
     "top": [
+      {
+        "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
+        "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
+        "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T22:15:08Z",
+        "sourceCount": "36 sources"
+      },
       {
         "title": "Iran strikes UAE oil port after U.S. bombs Kharg Island",
         "url": "https://www.perplexity.ai/page/iran-strikes-uae-oil-port-afte-3oMZFsZqRMKzBBLsNoEQ4Q",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T02:03:54Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Rep. Kevin Kiley leaves GOP, narrowing Johnson's House majority",
-        "url": "https://www.perplexity.ai/page/rep-kevin-kiley-leaves-gop-nar-PnQXwJriQc.VIT2NWRPFhQ",
-        "description": "The California congressman becomes the only independent in the House, citing frustration with gerrymandering and hyper-partisanship.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T02:03:36Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
