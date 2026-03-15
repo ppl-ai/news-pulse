@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Families identify airmen killed in KC-135 crash in Iraq",
+      "url": "https://www.perplexity.ai/page/families-identify-airmen-kille-EJxbHXyoSOKLawHW8QamZQ",
+      "description": "Maj. Alex Klinner, 33, and Tech. Sgt. Tyler Simmons, 28, are among six crew members killed in the March 12 midair collision during Operation Epic Fury.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-15T00:08:39Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Moscow businesses reel as mobile internet blackout enters second week",
       "url": "https://www.perplexity.ai/page/moscow-businesses-reel-as-mobi-5cZ6pD4nR46K_GU6diYs1Q",
       "description": "Russia's capital has lost widespread mobile connectivity since March 5, with analysts calling it the largest test yet of a government \"whitelist\" censorship system.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-14T22:24:23Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Three more Iranian women's soccer players withdraw asylum bids in Australia",
+      "url": "https://www.perplexity.ai/page/three-more-iranian-women-s-soc-g9PUtc26SOyFuNkcKNdWsA",
+      "description": "Only three of the original seven defectors remain after the trio reversed course amid reports of pressure from Iranian officials on players and their families.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T22:18:56Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
@@ -71,6 +89,15 @@
       "topic": "top",
       "pubDate": "2026-03-14T17:58:00Z",
       "sourceCount": "64 sources"
+    },
+    {
+      "title": "FCC Chair Warns Broadcasters of License Revocation Over Iran War Reporting",
+      "url": "https://www.perplexity.ai/page/fcc-chair-warns-broadcasters-o-52CvXJVYTUWyZs70DEZtbw",
+      "description": "Brendan Carr warned networks could lose licenses for what he called \"fake news,\" after Trump accused outlets of undermining the war effort.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T19:34:04Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "UAE consulate in Erbil hit by drone for second time in a week",
@@ -251,15 +278,6 @@
       "topic": "top",
       "pubDate": "2026-03-14T00:18:47Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "All 6 airmen killed in KC-135 crash in Iraq, CENTCOM confirms",
-      "url": "https://www.perplexity.ai/page/all-6-airmen-killed-in-kc-135-uPZ2RP9pRCKP8Rw1uvbndg",
-      "description": "The midair collision between two tankers during Operation Epic Fury marks the first Air Force fatalities in the U.S. campaign against Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T01:02:42Z",
-      "sourceCount": "11 sources"
     },
     {
       "title": "Qatar orders evacuations as Gulf conflict enters third week",
@@ -1331,29 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-10T07:40:17Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Cortical Labs unveils data centers powered by human brain cells",
-      "url": "https://www.perplexity.ai/page/cortical-labs-unveils-data-cen-pCKMI7a.TfyDn_suUUTlpg",
-      "description": "The Australian biotech startup opened a biological computing facility in Melbourne and is building a second in Singapore with partner DayOne Data Centers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T06:23:53Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Group that beat Trump at Supreme Court sues over new tariffs",
-      "url": "https://www.perplexity.ai/page/group-that-beat-trump-at-supre-PDRBIEf2QQSIT.tltwG9qw",
-      "description": "The Liberty Justice Center filed suit on behalf of two small businesses, calling the president's 10% global tariff under Section 122 unlawful.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-10T04:23:05Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-14T23:58:05Z",
+  "cached_at": "2026-03-15T00:55:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Families identify airmen killed in KC-135 crash in Iraq",
+        "url": "https://www.perplexity.ai/page/families-identify-airmen-kille-EJxbHXyoSOKLawHW8QamZQ",
+        "description": "Maj. Alex Klinner, 33, and Tech. Sgt. Tyler Simmons, 28, are among six crew members killed in the March 12 midair collision during Operation Epic Fury.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-15T00:08:39Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Moscow businesses reel as mobile internet blackout enters second week",
         "url": "https://www.perplexity.ai/page/moscow-businesses-reel-as-mobi-5cZ6pD4nR46K_GU6diYs1Q",
@@ -1362,6 +1371,15 @@
         "topic": "top",
         "pubDate": "2026-03-14T22:24:23Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Three more Iranian women's soccer players withdraw asylum bids in Australia",
+        "url": "https://www.perplexity.ai/page/three-more-iranian-women-s-soc-g9PUtc26SOyFuNkcKNdWsA",
+        "description": "Only three of the original seven defectors remain after the trio reversed course amid reports of pressure from Iranian officials on players and their families.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T22:18:56Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
@@ -1425,6 +1443,15 @@
         "topic": "top",
         "pubDate": "2026-03-14T17:58:00Z",
         "sourceCount": "64 sources"
+      },
+      {
+        "title": "FCC Chair Warns Broadcasters of License Revocation Over Iran War Reporting",
+        "url": "https://www.perplexity.ai/page/fcc-chair-warns-broadcasters-o-52CvXJVYTUWyZs70DEZtbw",
+        "description": "Brendan Carr warned networks could lose licenses for what he called \"fake news,\" after Trump accused outlets of undermining the war effort.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T19:34:04Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "UAE consulate in Erbil hit by drone for second time in a week",
@@ -1605,15 +1632,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T00:18:47Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "All 6 airmen killed in KC-135 crash in Iraq, CENTCOM confirms",
-        "url": "https://www.perplexity.ai/page/all-6-airmen-killed-in-kc-135-uPZ2RP9pRCKP8Rw1uvbndg",
-        "description": "The midair collision between two tankers during Operation Epic Fury marks the first Air Force fatalities in the U.S. campaign against Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T01:02:42Z",
-        "sourceCount": "11 sources"
       },
       {
         "title": "Qatar orders evacuations as Gulf conflict enters third week",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-10T07:40:17Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Cortical Labs unveils data centers powered by human brain cells",
-        "url": "https://www.perplexity.ai/page/cortical-labs-unveils-data-cen-pCKMI7a.TfyDn_suUUTlpg",
-        "description": "The Australian biotech startup opened a biological computing facility in Melbourne and is building a second in Singapore with partner DayOne Data Centers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T06:23:53Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Group that beat Trump at Supreme Court sues over new tariffs",
-        "url": "https://www.perplexity.ai/page/group-that-beat-trump-at-supre-PDRBIEf2QQSIT.tltwG9qw",
-        "description": "The Liberty Justice Center filed suit on behalf of two small businesses, calling the president's 10% global tariff under Section 122 unlawful.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-10T04:23:05Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
