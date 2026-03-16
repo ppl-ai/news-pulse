@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Cuba suffers complete electrical grid collapse",
+      "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
+      "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T19:43:56Z",
+      "sourceCount": "32 sources"
+    },
+    {
       "title": "Gas nears $4 a gallon as Iran war roils oil markets",
       "url": "https://www.perplexity.ai/page/gas-nears-4-a-gallon-as-iran-w-nXseRvdGR5OscSQPqUssWg",
       "description": "Airlines worldwide are raising fares and economists warn of broader inflation as the three-week-old conflict keeps the Strait of Hormuz shut.",
@@ -1234,9 +1243,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-16T19:52:39Z",
+  "cached_at": "2026-03-16T20:06:16Z",
   "topics": {
     "top": [
+      {
+        "title": "Cuba suffers complete electrical grid collapse",
+        "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
+        "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T19:43:56Z",
+        "sourceCount": "32 sources"
+      },
       {
         "title": "Gas nears $4 a gallon as Iran war roils oil markets",
         "url": "https://www.perplexity.ai/page/gas-nears-4-a-gallon-as-iran-w-nXseRvdGR5OscSQPqUssWg",
