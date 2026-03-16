@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Gas nears $4 a gallon as Iran war roils oil markets",
+      "url": "https://www.perplexity.ai/page/gas-nears-4-a-gallon-as-iran-w-nXseRvdGR5OscSQPqUssWg",
+      "description": "Airlines worldwide are raising fares and economists warn of broader inflation as the three-week-old conflict keeps the Strait of Hormuz shut.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T19:37:13Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "All five DNA and RNA building blocks found in asteroid Ryugu samples",
       "url": "https://www.perplexity.ai/page/all-five-dna-and-rna-building-uoG4gMq7RwSyhxQJ9v_02w",
       "description": "A Nature Astronomy study reports the complete set of nucleobases in Ryugu material, making it the second asteroid confirmed to carry life's genetic ingredients.",
@@ -1225,9 +1234,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-16T19:28:48Z",
+  "cached_at": "2026-03-16T19:52:39Z",
   "topics": {
     "top": [
+      {
+        "title": "Gas nears $4 a gallon as Iran war roils oil markets",
+        "url": "https://www.perplexity.ai/page/gas-nears-4-a-gallon-as-iran-w-nXseRvdGR5OscSQPqUssWg",
+        "description": "Airlines worldwide are raising fares and economists warn of broader inflation as the three-week-old conflict keeps the Strait of Hormuz shut.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T19:37:13Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "All five DNA and RNA building blocks found in asteroid Ryugu samples",
         "url": "https://www.perplexity.ai/page/all-five-dna-and-rna-building-uoG4gMq7RwSyhxQJ9v_02w",
