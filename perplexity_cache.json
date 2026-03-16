@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "China's factory output and retail sales beat forecasts to start 2026",
-      "url": "https://www.perplexity.ai/page/china-s-factory-output-and-ret-u2xq.g.fTrGtPY6Cz5YyPQ",
-      "description": "Industrial production grew 6.3% and retail sales rose 2.8% in January-February, both topping expectations amid Lunar New Year spending.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T03:20:45Z",
-      "sourceCount": "53 sources"
-    },
-    {
       "title": "Trump accuses Iran of using AI to fake war victories, threatens media with treason",
       "url": "https://www.perplexity.ai/page/trump-accuses-iran-of-using-ai-nbbIxMZETu6CXhkqW3GWZw",
       "description": "The president claimed Tehran is flooding social media with fabricated images and videos to mask battlefield losses, and said outlets amplifying the content should face charges.",
@@ -1315,18 +1306,9 @@
       "sourceCount": "20 sources"
     }
   ],
-  "cached_at": "2026-03-16T03:45:29Z",
+  "cached_at": "2026-03-16T04:46:16Z",
   "topics": {
     "top": [
-      {
-        "title": "China's factory output and retail sales beat forecasts to start 2026",
-        "url": "https://www.perplexity.ai/page/china-s-factory-output-and-ret-u2xq.g.fTrGtPY6Cz5YyPQ",
-        "description": "Industrial production grew 6.3% and retail sales rose 2.8% in January-February, both topping expectations amid Lunar New Year spending.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T03:20:45Z",
-        "sourceCount": "53 sources"
-      },
       {
         "title": "Trump accuses Iran of using AI to fake war victories, threatens media with treason",
         "url": "https://www.perplexity.ai/page/trump-accuses-iran-of-using-ai-nbbIxMZETu6CXhkqW3GWZw",
