@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Rubio designates Iranian American prisoner as wrongfully detained",
+      "url": "https://www.perplexity.ai/page/rubio-designates-iranian-ameri-Sadc9.s1Sia06EGwb3Sruw",
+      "description": "Kamran Hekmati, jailed for visiting Israel for his son's bar mitzvah over a decade ago, is now the second American given the formal designation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:13:36Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Iran hits Dubai airport, Fujairah oil hub in new wave of drone and missile strikes",
       "url": "https://www.perplexity.ai/page/iran-hits-dubai-airport-fujair-dCjKczJaSCyhAYEpvCYWdQ",
       "description": "UAE intercepted six ballistic missiles and 21 drones Monday as strikes killed one person in Abu Dhabi and forced Dubai airport to suspend flights.",
@@ -10,15 +19,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "US and Iran reestablish direct contact amid ongoing conflict",
-      "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
-      "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T21:42:01Z",
-      "sourceCount": "44 sources"
-    },
-    {
       "title": "Cuba suffers complete electrical grid collapse",
       "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
       "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-16T19:43:56Z",
       "sourceCount": "32 sources"
+    },
+    {
+      "title": "US and Iran reestablish direct contact amid ongoing conflict",
+      "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
+      "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T21:42:01Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Trump discloses Rep. Dunn's terminal heart diagnosis at White House event",
@@ -1216,9 +1225,18 @@
       "sourceCount": "72 sources"
     }
   ],
-  "cached_at": "2026-03-16T22:17:52Z",
+  "cached_at": "2026-03-16T22:35:55Z",
   "topics": {
     "top": [
+      {
+        "title": "Rubio designates Iranian American prisoner as wrongfully detained",
+        "url": "https://www.perplexity.ai/page/rubio-designates-iranian-ameri-Sadc9.s1Sia06EGwb3Sruw",
+        "description": "Kamran Hekmati, jailed for visiting Israel for his son's bar mitzvah over a decade ago, is now the second American given the formal designation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:13:36Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Iran hits Dubai airport, Fujairah oil hub in new wave of drone and missile strikes",
         "url": "https://www.perplexity.ai/page/iran-hits-dubai-airport-fujair-dCjKczJaSCyhAYEpvCYWdQ",
@@ -1229,15 +1247,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "US and Iran reestablish direct contact amid ongoing conflict",
-        "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
-        "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T21:42:01Z",
-        "sourceCount": "44 sources"
-      },
-      {
         "title": "Cuba suffers complete electrical grid collapse",
         "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
         "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
@@ -1245,6 +1254,15 @@
         "topic": "top",
         "pubDate": "2026-03-16T19:43:56Z",
         "sourceCount": "32 sources"
+      },
+      {
+        "title": "US and Iran reestablish direct contact amid ongoing conflict",
+        "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
+        "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T21:42:01Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Trump discloses Rep. Dunn's terminal heart diagnosis at White House event",
