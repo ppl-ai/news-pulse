@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "NVIDIA unveils protein design model validated at million-molecule scale",
+      "url": "https://www.perplexity.ai/page/nvidia-unveils-protein-design-G.Toae9iSUuZhU3twPsUpA",
+      "description": "Manifold Bio tested one million AI-generated binder designs in a single experiment, identifying hits for 68% of 127 protein targets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T21:53:42Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "US and Iran reestablish direct contact amid ongoing conflict",
+      "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
+      "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T21:42:01Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Cuba suffers complete electrical grid collapse",
       "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
       "description": "The island's 11 million residents lost power after what officials called a \"complete disconnection,\" the second major blackout in under two weeks.",
@@ -35,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-16T18:42:14Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Trump says he'll have the 'honor of taking Cuba'",
+      "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
+      "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T21:41:16Z",
+      "sourceCount": "73 sources"
     },
     {
       "title": "Meta finalizes $27B AI deal with Nebius amid plans to cut 16,000 jobs",
@@ -190,13 +217,13 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Trump says U.S. will 'pretty soon' act on Cuba after Iran",
-      "url": "https://www.perplexity.ai/page/trump-says-u-s-will-pretty-soo-tJ2lnb7GRueQpUO.I2kZSQ",
-      "description": "Speaking aboard Air Force One, the president said Washington is in talks with Havana but will finish its Iran campaign first.",
+      "title": "GOP Sen. Johnson breaks with Trump over FCC license threats tied to Iran war coverage",
+      "url": "https://www.perplexity.ai/page/gop-sen-johnson-breaks-with-tr-QZ8q0wJXQhKBnbyqSaOmcw",
+      "description": "FCC Chair Brendan Carr's warning that broadcasters could lose licenses over Iran war reporting drew rare bipartisan rebuke, including from a Republican senator.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-16T02:39:09Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-16T01:02:33Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Airline CEOs urge Congress to end 29-day shutdown over unpaid TSA workers",
@@ -208,24 +235,6 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "House Republicans vow to block Senate bills until SAVE Act advances",
-      "url": "https://www.perplexity.ai/page/house-republicans-vow-to-block-lguiCbECRBClvSp.6rPDxA",
-      "description": "About 40 to 50 House GOP members threaten to halt all Senate legislation unless Thune brings the voter ID bill to a vote.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-15T13:04:20Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iran's Araghchi denies seeking deal, contradicting Trump's claims",
-      "url": "https://www.perplexity.ai/page/iran-s-araghchi-denies-seeking-TWQdGgZpTiqpK9KlDGxRhg",
-      "description": "Iran's foreign minister told CBS News that Tehran has \"never asked for a ceasefire\" as the U.S.-Iran war enters its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-15T17:18:03Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "China unveils robotic workforce for lunar base construction by 2035",
       "url": "https://www.perplexity.ai/page/china-unveils-robotic-workforc-br7UuVeqS8ujSz8xubFnwg",
       "description": "Researchers proposed a wheeled semi-humanoid robot and a six-legged cargo platform to support the planned International Lunar Research Station.",
@@ -235,31 +244,22 @@
       "sourceCount": "62 sources"
     },
     {
-      "title": "Families identify airmen killed in KC-135 crash in Iraq",
-      "url": "https://www.perplexity.ai/page/families-identify-airmen-kille-EJxbHXyoSOKLawHW8QamZQ",
-      "description": "Maj. Alex Klinner, 33, and Tech. Sgt. Tyler Simmons, 28, are among six crew members killed in the March 12 midair collision during Operation Epic Fury.",
+      "title": "Trump rejects Iran ceasefire, questions if new supreme leader is alive",
+      "url": "https://www.perplexity.ai/page/trump-rejects-iran-ceasefire-q-w6NRHHABSDa0GoB4W6BChg",
+      "description": "Iran's foreign minister says the country is open to a fair end to the war, but no specific proposal has been presented.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-15T00:08:39Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "GOP Sen. Johnson breaks with Trump over FCC license threats tied to Iran war coverage",
-      "url": "https://www.perplexity.ai/page/gop-sen-johnson-breaks-with-tr-QZ8q0wJXQhKBnbyqSaOmcw",
-      "description": "FCC Chair Brendan Carr's warning that broadcasters could lose licenses over Iran war reporting drew rare bipartisan rebuke, including from a Republican senator.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T01:02:33Z",
+      "pubDate": "2026-03-15T13:53:28Z",
       "sourceCount": "29 sources"
     },
     {
-      "title": "North Korea fires 12 nuclear-capable rockets as US-South Korea drills continue",
-      "url": "https://www.perplexity.ai/page/north-korea-fires-12-nuclear-c-6r.l.JY2Slm2VbMtohXUDA",
-      "description": "Kim Jong Un and his daughter oversaw the live-fire drill Saturday, which Pyongyang called 100% accurate amid rising tensions over joint military exercises.",
+      "title": "House Republicans vow to block Senate bills until SAVE Act advances",
+      "url": "https://www.perplexity.ai/page/house-republicans-vow-to-block-lguiCbECRBClvSp.6rPDxA",
+      "description": "About 40 to 50 House GOP members threaten to halt all Senate legislation unless Thune brings the voter ID bill to a vote.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-14T23:43:28Z",
-      "sourceCount": "33 sources"
+      "pubDate": "2026-03-15T13:04:20Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Missile hits U.S. Embassy compound in Baghdad as Americans told to leave Iraq",
@@ -271,13 +271,31 @@
       "sourceCount": "21 sources"
     },
     {
-      "title": "Trump rejects Iran ceasefire, questions if new supreme leader is alive",
-      "url": "https://www.perplexity.ai/page/trump-rejects-iran-ceasefire-q-w6NRHHABSDa0GoB4W6BChg",
-      "description": "Iran's foreign minister says the country is open to a fair end to the war, but no specific proposal has been presented.",
+      "title": "North Korea fires 12 nuclear-capable rockets as US-South Korea drills continue",
+      "url": "https://www.perplexity.ai/page/north-korea-fires-12-nuclear-c-6r.l.JY2Slm2VbMtohXUDA",
+      "description": "Kim Jong Un and his daughter oversaw the live-fire drill Saturday, which Pyongyang called 100% accurate amid rising tensions over joint military exercises.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-15T13:53:28Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-14T23:43:28Z",
+      "sourceCount": "33 sources"
+    },
+    {
+      "title": "White House tightens control over RFK Jr.'s HHS amid midterm fears",
+      "url": "https://www.perplexity.ai/page/white-house-tightens-control-o-E.WZ.uo6Qr6UqOdAPe8.vg",
+      "description": "Aides moved to curb Kennedy's anti-vaccine focus after internal polling found it deeply unpopular, even among MAHA supporters.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-14T22:49:48Z",
+      "sourceCount": "65 sources"
+    },
+    {
+      "title": "Families identify airmen killed in KC-135 crash in Iraq",
+      "url": "https://www.perplexity.ai/page/families-identify-airmen-kille-EJxbHXyoSOKLawHW8QamZQ",
+      "description": "Maj. Alex Klinner, 33, and Tech. Sgt. Tyler Simmons, 28, are among six crew members killed in the March 12 midair collision during Operation Epic Fury.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-15T00:08:39Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Moscow businesses reel as mobile internet blackout enters second week",
@@ -298,13 +316,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "White House tightens control over RFK Jr.'s HHS amid midterm fears",
-      "url": "https://www.perplexity.ai/page/white-house-tightens-control-o-E.WZ.uo6Qr6UqOdAPe8.vg",
-      "description": "Aides moved to curb Kennedy's anti-vaccine focus after internal polling found it deeply unpopular, even among MAHA supporters.",
+      "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
+      "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
+      "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-14T22:49:48Z",
-      "sourceCount": "65 sources"
+      "pubDate": "2026-03-14T22:15:08Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
@@ -325,13 +343,13 @@
       "sourceCount": "64 sources"
     },
     {
-      "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
-      "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
-      "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
+      "title": "Lobbyist who helped client get Trump pardon charged with extortion",
+      "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
+      "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-14T22:15:08Z",
-      "sourceCount": "36 sources"
+      "pubDate": "2026-03-14T21:10:54Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "UAE consulate in Erbil hit by drone for second time in a week",
@@ -350,15 +368,6 @@
       "topic": "top",
       "pubDate": "2026-03-14T17:50:04Z",
       "sourceCount": "81 sources"
-    },
-    {
-      "title": "Lobbyist who helped client get Trump pardon charged with extortion",
-      "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
-      "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T21:10:54Z",
-      "sourceCount": "14 sources"
     },
     {
       "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
@@ -1225,9 +1234,27 @@
       "sourceCount": "72 sources"
     }
   ],
-  "cached_at": "2026-03-16T21:41:46Z",
+  "cached_at": "2026-03-16T21:58:52Z",
   "topics": {
     "top": [
+      {
+        "title": "NVIDIA unveils protein design model validated at million-molecule scale",
+        "url": "https://www.perplexity.ai/page/nvidia-unveils-protein-design-G.Toae9iSUuZhU3twPsUpA",
+        "description": "Manifold Bio tested one million AI-generated binder designs in a single experiment, identifying hits for 68% of 127 protein targets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T21:53:42Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "US and Iran reestablish direct contact amid ongoing conflict",
+        "url": "https://www.perplexity.ai/page/us-and-iran-reestablish-direct-TYApbFLwTnuwzQf3KjZ8IA",
+        "description": "Envoy Steve Witkoff and Iranian Foreign Minister Araghchi exchanged text messages, the first known direct communication since the war began Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T21:42:01Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Cuba suffers complete electrical grid collapse",
         "url": "https://www.perplexity.ai/page/cuba-suffers-complete-electric-sVSw_ZaCT9eXGXRDQOhP6A",
@@ -1263,6 +1290,15 @@
         "topic": "top",
         "pubDate": "2026-03-16T18:42:14Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Trump says he'll have the 'honor of taking Cuba'",
+        "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
+        "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T21:41:16Z",
+        "sourceCount": "73 sources"
       },
       {
         "title": "Meta finalizes $27B AI deal with Nebius amid plans to cut 16,000 jobs",
@@ -1418,13 +1454,13 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "Trump says U.S. will 'pretty soon' act on Cuba after Iran",
-        "url": "https://www.perplexity.ai/page/trump-says-u-s-will-pretty-soo-tJ2lnb7GRueQpUO.I2kZSQ",
-        "description": "Speaking aboard Air Force One, the president said Washington is in talks with Havana but will finish its Iran campaign first.",
+        "title": "GOP Sen. Johnson breaks with Trump over FCC license threats tied to Iran war coverage",
+        "url": "https://www.perplexity.ai/page/gop-sen-johnson-breaks-with-tr-QZ8q0wJXQhKBnbyqSaOmcw",
+        "description": "FCC Chair Brendan Carr's warning that broadcasters could lose licenses over Iran war reporting drew rare bipartisan rebuke, including from a Republican senator.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-16T02:39:09Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-16T01:02:33Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Airline CEOs urge Congress to end 29-day shutdown over unpaid TSA workers",
@@ -1436,24 +1472,6 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "House Republicans vow to block Senate bills until SAVE Act advances",
-        "url": "https://www.perplexity.ai/page/house-republicans-vow-to-block-lguiCbECRBClvSp.6rPDxA",
-        "description": "About 40 to 50 House GOP members threaten to halt all Senate legislation unless Thune brings the voter ID bill to a vote.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-15T13:04:20Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iran's Araghchi denies seeking deal, contradicting Trump's claims",
-        "url": "https://www.perplexity.ai/page/iran-s-araghchi-denies-seeking-TWQdGgZpTiqpK9KlDGxRhg",
-        "description": "Iran's foreign minister told CBS News that Tehran has \"never asked for a ceasefire\" as the U.S.-Iran war enters its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-15T17:18:03Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "China unveils robotic workforce for lunar base construction by 2035",
         "url": "https://www.perplexity.ai/page/china-unveils-robotic-workforc-br7UuVeqS8ujSz8xubFnwg",
         "description": "Researchers proposed a wheeled semi-humanoid robot and a six-legged cargo platform to support the planned International Lunar Research Station.",
@@ -1463,31 +1481,22 @@
         "sourceCount": "62 sources"
       },
       {
-        "title": "Families identify airmen killed in KC-135 crash in Iraq",
-        "url": "https://www.perplexity.ai/page/families-identify-airmen-kille-EJxbHXyoSOKLawHW8QamZQ",
-        "description": "Maj. Alex Klinner, 33, and Tech. Sgt. Tyler Simmons, 28, are among six crew members killed in the March 12 midair collision during Operation Epic Fury.",
+        "title": "Trump rejects Iran ceasefire, questions if new supreme leader is alive",
+        "url": "https://www.perplexity.ai/page/trump-rejects-iran-ceasefire-q-w6NRHHABSDa0GoB4W6BChg",
+        "description": "Iran's foreign minister says the country is open to a fair end to the war, but no specific proposal has been presented.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-15T00:08:39Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "GOP Sen. Johnson breaks with Trump over FCC license threats tied to Iran war coverage",
-        "url": "https://www.perplexity.ai/page/gop-sen-johnson-breaks-with-tr-QZ8q0wJXQhKBnbyqSaOmcw",
-        "description": "FCC Chair Brendan Carr's warning that broadcasters could lose licenses over Iran war reporting drew rare bipartisan rebuke, including from a Republican senator.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T01:02:33Z",
+        "pubDate": "2026-03-15T13:53:28Z",
         "sourceCount": "29 sources"
       },
       {
-        "title": "North Korea fires 12 nuclear-capable rockets as US-South Korea drills continue",
-        "url": "https://www.perplexity.ai/page/north-korea-fires-12-nuclear-c-6r.l.JY2Slm2VbMtohXUDA",
-        "description": "Kim Jong Un and his daughter oversaw the live-fire drill Saturday, which Pyongyang called 100% accurate amid rising tensions over joint military exercises.",
+        "title": "House Republicans vow to block Senate bills until SAVE Act advances",
+        "url": "https://www.perplexity.ai/page/house-republicans-vow-to-block-lguiCbECRBClvSp.6rPDxA",
+        "description": "About 40 to 50 House GOP members threaten to halt all Senate legislation unless Thune brings the voter ID bill to a vote.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-14T23:43:28Z",
-        "sourceCount": "33 sources"
+        "pubDate": "2026-03-15T13:04:20Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Missile hits U.S. Embassy compound in Baghdad as Americans told to leave Iraq",
@@ -1499,13 +1508,31 @@
         "sourceCount": "21 sources"
       },
       {
-        "title": "Trump rejects Iran ceasefire, questions if new supreme leader is alive",
-        "url": "https://www.perplexity.ai/page/trump-rejects-iran-ceasefire-q-w6NRHHABSDa0GoB4W6BChg",
-        "description": "Iran's foreign minister says the country is open to a fair end to the war, but no specific proposal has been presented.",
+        "title": "North Korea fires 12 nuclear-capable rockets as US-South Korea drills continue",
+        "url": "https://www.perplexity.ai/page/north-korea-fires-12-nuclear-c-6r.l.JY2Slm2VbMtohXUDA",
+        "description": "Kim Jong Un and his daughter oversaw the live-fire drill Saturday, which Pyongyang called 100% accurate amid rising tensions over joint military exercises.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-15T13:53:28Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-14T23:43:28Z",
+        "sourceCount": "33 sources"
+      },
+      {
+        "title": "White House tightens control over RFK Jr.'s HHS amid midterm fears",
+        "url": "https://www.perplexity.ai/page/white-house-tightens-control-o-E.WZ.uo6Qr6UqOdAPe8.vg",
+        "description": "Aides moved to curb Kennedy's anti-vaccine focus after internal polling found it deeply unpopular, even among MAHA supporters.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-14T22:49:48Z",
+        "sourceCount": "65 sources"
+      },
+      {
+        "title": "Families identify airmen killed in KC-135 crash in Iraq",
+        "url": "https://www.perplexity.ai/page/families-identify-airmen-kille-EJxbHXyoSOKLawHW8QamZQ",
+        "description": "Maj. Alex Klinner, 33, and Tech. Sgt. Tyler Simmons, 28, are among six crew members killed in the March 12 midair collision during Operation Epic Fury.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-15T00:08:39Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Moscow businesses reel as mobile internet blackout enters second week",
@@ -1526,13 +1553,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "White House tightens control over RFK Jr.'s HHS amid midterm fears",
-        "url": "https://www.perplexity.ai/page/white-house-tightens-control-o-E.WZ.uo6Qr6UqOdAPe8.vg",
-        "description": "Aides moved to curb Kennedy's anti-vaccine focus after internal polling found it deeply unpopular, even among MAHA supporters.",
+        "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
+        "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
+        "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-14T22:49:48Z",
-        "sourceCount": "65 sources"
+        "pubDate": "2026-03-14T22:15:08Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "EU extends Russia sanctions until September despite Hungary, Slovakia resistance",
@@ -1553,13 +1580,13 @@
         "sourceCount": "64 sources"
       },
       {
-        "title": "MAGA Inc. sits on $300M war chest as GOP awaits Trump's go-ahead",
-        "url": "https://www.perplexity.ai/page/maga-inc-sits-on-300m-war-ches-BrxtZiH6SFqhrjWbvbYILQ",
-        "description": "Republicans worry Trump may not deploy his super PAC's record funds to protect vulnerable House members ahead of November's midterms.",
+        "title": "Lobbyist who helped client get Trump pardon charged with extortion",
+        "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
+        "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-14T22:15:08Z",
-        "sourceCount": "36 sources"
+        "pubDate": "2026-03-14T21:10:54Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "UAE consulate in Erbil hit by drone for second time in a week",
@@ -1578,15 +1605,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T17:50:04Z",
         "sourceCount": "81 sources"
-      },
-      {
-        "title": "Lobbyist who helped client get Trump pardon charged with extortion",
-        "url": "https://www.perplexity.ai/page/lobbyist-who-helped-client-get-i_g9wDHtTPOlbaKmjDOypg",
-        "description": "Joshua Nass allegedly hired an \"enforcer\" to threaten the client's son into paying $500,000 he claimed was owed for lobbying services.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T21:10:54Z",
-        "sourceCount": "14 sources"
       },
       {
         "title": "Israeli strikes kill six in Gaza as ceasefire nears fifth month",
