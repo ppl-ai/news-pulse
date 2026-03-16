@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Nvidia's GTC 2026 kicks off with new AI chips, software expected in Huang keynote",
+      "url": "https://www.perplexity.ai/page/nvidia-s-gtc-2026-kicks-off-wi-7l2QrlC2QAqRylcaXGFPvw",
+      "description": "Jensen Huang takes the stage at the SAP Center at 2 p.m. ET to unveil new hardware and software before 30,000 attendees from 190 countries.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T15:58:57Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "US stocks surge as oil pulls back from $105 peak",
       "url": "https://www.perplexity.ai/page/us-stocks-surge-as-oil-pulls-b-d0a1JTz8Q_WSN8GeQ61YWQ",
       "description": "The Dow climbed nearly 500 points in early Monday trading as WTI crude fell below $100, snapping three weeks of losses tied to the Iran war.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-16T14:24:58Z",
       "sourceCount": "41 sources"
+    },
+    {
+      "title": "Trump threatens to delay Beijing summit over China's Strait of Hormuz role",
+      "url": "https://www.perplexity.ai/page/trump-threatens-to-delay-beiji-9pmKEwkmS6meK1xVUSqmMg",
+      "description": "The president told the Financial Times he \"may delay\" the March 31 trip unless Beijing commits to helping reopen the vital oil chokepoint.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T13:47:13Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "US is allowing Iranian ships through Strait of Hormuz",
@@ -1243,9 +1261,18 @@
       "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-16T15:42:45Z",
+  "cached_at": "2026-03-16T16:12:20Z",
   "topics": {
     "top": [
+      {
+        "title": "Nvidia's GTC 2026 kicks off with new AI chips, software expected in Huang keynote",
+        "url": "https://www.perplexity.ai/page/nvidia-s-gtc-2026-kicks-off-wi-7l2QrlC2QAqRylcaXGFPvw",
+        "description": "Jensen Huang takes the stage at the SAP Center at 2 p.m. ET to unveil new hardware and software before 30,000 attendees from 190 countries.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T15:58:57Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "US stocks surge as oil pulls back from $105 peak",
         "url": "https://www.perplexity.ai/page/us-stocks-surge-as-oil-pulls-b-d0a1JTz8Q_WSN8GeQ61YWQ",
@@ -1254,6 +1281,15 @@
         "topic": "top",
         "pubDate": "2026-03-16T14:24:58Z",
         "sourceCount": "41 sources"
+      },
+      {
+        "title": "Trump threatens to delay Beijing summit over China's Strait of Hormuz role",
+        "url": "https://www.perplexity.ai/page/trump-threatens-to-delay-beiji-9pmKEwkmS6meK1xVUSqmMg",
+        "description": "The president told the Financial Times he \"may delay\" the March 31 trip unless Beijing commits to helping reopen the vital oil chokepoint.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T13:47:13Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "US is allowing Iranian ships through Strait of Hormuz",
