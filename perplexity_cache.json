@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
+      "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
+      "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:58:01Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "House passes bill to expand sanctions on Iran's oil trade",
       "url": "https://www.perplexity.ai/page/house-passes-bill-to-expand-sa-tlHFZl4PSFGnim2ueGpXMw",
       "description": "The measure targets foreign entities facilitating Iranian oil exports but was softened at the Trump administration's request, according to Jewish Insider.",
@@ -1261,9 +1270,18 @@
       "sourceCount": "72 sources"
     }
   ],
-  "cached_at": "2026-03-16T23:05:14Z",
+  "cached_at": "2026-03-16T23:19:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
+        "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
+        "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:58:01Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "House passes bill to expand sanctions on Iran's oil trade",
         "url": "https://www.perplexity.ai/page/house-passes-bill-to-expand-sa-tlHFZl4PSFGnim2ueGpXMw",
