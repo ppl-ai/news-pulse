@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "House passes bill to expand sanctions on Iran's oil trade",
+      "url": "https://www.perplexity.ai/page/house-passes-bill-to-expand-sa-tlHFZl4PSFGnim2ueGpXMw",
+      "description": "The measure targets foreign entities facilitating Iranian oil exports but was softened at the Trump administration's request, according to Jewish Insider.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:39:28Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "EU sanctions 16 Iranian officials over January protest crackdown",
+      "url": "https://www.perplexity.ai/page/eu-sanctions-16-iranian-offici-kXusWxlvQ5y6_nZgOzDhgQ",
+      "description": "The measures target IRGC commanders, judiciary members, and a surveillance tech firm, bringing EU human rights sanctions on Iran to 263 individuals and 53 entities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:39:09Z",
+      "sourceCount": "22 sources"
+    },
+    {
+      "title": "Last detained Columbia protester freed after a year in ICE custody",
+      "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
+      "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:14:05Z",
+      "sourceCount": "70 sources"
+    },
+    {
       "title": "Vance publicly defends Trump's Iran war, dismisses rift reports",
       "url": "https://www.perplexity.ai/page/vance-publicly-defends-trump-s-9g4LdwZmSlyYvKbQDX5llQ",
       "description": "The vice president called Trump a \"smart president\" and said he trusts him to avoid past mistakes, despite his own history of opposing foreign wars.",
@@ -8,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-03-16T22:39:21Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "EU sanctions 13 over Bucha massacre and Kremlin disinformation",
+      "url": "https://www.perplexity.ai/page/eu-sanctions-13-over-bucha-mas-i2Pi4A3gQZiUZhEyRDQ.Rw",
+      "description": "The measures target nine Russian military officers linked to the 2022 killings and four individuals accused of spreading pro-Kremlin propaganda.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-16T22:39:07Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Rubio designates Iranian American prisoner as wrongfully detained",
@@ -1225,9 +1261,36 @@
       "sourceCount": "72 sources"
     }
   ],
-  "cached_at": "2026-03-16T22:53:12Z",
+  "cached_at": "2026-03-16T23:05:14Z",
   "topics": {
     "top": [
+      {
+        "title": "House passes bill to expand sanctions on Iran's oil trade",
+        "url": "https://www.perplexity.ai/page/house-passes-bill-to-expand-sa-tlHFZl4PSFGnim2ueGpXMw",
+        "description": "The measure targets foreign entities facilitating Iranian oil exports but was softened at the Trump administration's request, according to Jewish Insider.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:39:28Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "EU sanctions 16 Iranian officials over January protest crackdown",
+        "url": "https://www.perplexity.ai/page/eu-sanctions-16-iranian-offici-kXusWxlvQ5y6_nZgOzDhgQ",
+        "description": "The measures target IRGC commanders, judiciary members, and a surveillance tech firm, bringing EU human rights sanctions on Iran to 263 individuals and 53 entities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:39:09Z",
+        "sourceCount": "22 sources"
+      },
+      {
+        "title": "Last detained Columbia protester freed after a year in ICE custody",
+        "url": "https://www.perplexity.ai/page/last-detained-columbia-protest-jj7ezSJsRFOpB1m.Lx3xcQ",
+        "description": "Leqaa Kordia was released Monday after the government declined to challenge a judge's third order for her release on $100,000 bond.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:14:05Z",
+        "sourceCount": "70 sources"
+      },
       {
         "title": "Vance publicly defends Trump's Iran war, dismisses rift reports",
         "url": "https://www.perplexity.ai/page/vance-publicly-defends-trump-s-9g4LdwZmSlyYvKbQDX5llQ",
@@ -1236,6 +1299,15 @@
         "topic": "top",
         "pubDate": "2026-03-16T22:39:21Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "EU sanctions 13 over Bucha massacre and Kremlin disinformation",
+        "url": "https://www.perplexity.ai/page/eu-sanctions-13-over-bucha-mas-i2Pi4A3gQZiUZhEyRDQ.Rw",
+        "description": "The measures target nine Russian military officers linked to the 2022 killings and four individuals accused of spreading pro-Kremlin propaganda.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-16T22:39:07Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Rubio designates Iranian American prisoner as wrongfully detained",
