@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Russia vows solidarity with Cuba after Trump says he could 'take' the island",
+      "url": "https://www.perplexity.ai/page/russia-vows-solidarity-with-cu-mcaCyk21RDme7rAEgCSW6w",
+      "description": "Moscow condemned U.S. \"interference\" and pledged financial support to Havana after Trump told reporters he could do \"anything I want\" with Cuba.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T15:42:53Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
       "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
       "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
@@ -1315,9 +1324,18 @@
       "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-17T16:10:42Z",
+  "cached_at": "2026-03-17T16:40:22Z",
   "topics": {
     "top": [
+      {
+        "title": "Russia vows solidarity with Cuba after Trump says he could 'take' the island",
+        "url": "https://www.perplexity.ai/page/russia-vows-solidarity-with-cu-mcaCyk21RDme7rAEgCSW6w",
+        "description": "Moscow condemned U.S. \"interference\" and pledged financial support to Havana after Trump told reporters he could do \"anything I want\" with Cuba.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T15:42:53Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
         "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
