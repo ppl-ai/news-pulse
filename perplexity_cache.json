@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
+      "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
+      "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:02:14Z",
+      "sourceCount": "13 sources"
+    },
+    {
       "title": "U.S. stocks climb as oil surges ahead of Fed rate decision",
       "url": "https://www.perplexity.ai/page/u-s-stocks-climb-as-oil-surges-Jxm0GunCRWSObRwq_YKHkQ",
       "description": "Wall Street edged higher Tuesday even as Iran's latest attacks on UAE energy infrastructure pushed Brent crude back above $100 a barrel.",
@@ -1324,9 +1333,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-17T19:28:58Z",
+  "cached_at": "2026-03-17T19:53:14Z",
   "topics": {
     "top": [
+      {
+        "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
+        "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
+        "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:02:14Z",
+        "sourceCount": "13 sources"
+      },
       {
         "title": "U.S. stocks climb as oil surges ahead of Fed rate decision",
         "url": "https://www.perplexity.ai/page/u-s-stocks-climb-as-oil-surges-Jxm0GunCRWSObRwq_YKHkQ",
