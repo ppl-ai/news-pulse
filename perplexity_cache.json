@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Tropical peatland wildfires hit 2,000-year high, study finds",
+      "url": "https://www.perplexity.ai/page/tropical-peatland-wildfires-hi-2L4_5STgQ0yHxpj0trkMRQ",
+      "description": "Researchers analyzed charcoal records across four continents and linked the surge to drainage, deforestation and agricultural expansion in Southeast Asia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T11:43:36Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Japan, US to jointly develop rare earths and lithium at Thursday summit",
+      "url": "https://www.perplexity.ai/page/japan-us-to-jointly-develop-ra-TEVPDqkoQSqjeAnBxVK_Ww",
+      "description": "Mitsubishi Materials and Mitsui & Co. will participate in projects including a rare earth refinery in Indiana and a lithium mine in North Carolina.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T11:43:19Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "U.S. confirms Tesla, LG Energy Solution's $4.3B battery plant deal",
       "url": "https://www.perplexity.ai/page/u-s-confirms-tesla-lg-energy-s-A42OldQYR4O9W6LtNeFUtA",
       "description": "The Lansing, Michigan facility will produce LFP cells for Tesla's Megapack 3 energy storage systems, with production set to begin in 2027.",
@@ -1286,38 +1304,29 @@
       "topic": "top",
       "pubDate": "2026-03-11T20:29:18Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Norway arrests three brothers over U.S. embassy bombing in Oslo",
-      "url": "https://www.perplexity.ai/page/norway-arrests-three-brothers-WE5HZV9tSpWTqdYVXGqTIQ",
-      "description": "The suspects, all Norwegian citizens of Iraqi background in their twenties, face terror bombing charges under the penal code.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T17:39:09Z",
-      "sourceCount": "33 sources"
-    },
-    {
-      "title": "FBI warned Iran aspired to launch drone attacks on California from sea",
-      "url": "https://www.perplexity.ai/page/fbi-warned-iran-aspired-to-lau-Vl7Vw2UwSUCFQL_VSIKOeg",
-      "description": "The bureau alerted California police in late February that Iran planned to use drones from a vessel off the West Coast if the U.S. struck Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T19:00:44Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "UN panel says Trump's rhetoric is fueling rights abuses",
-      "url": "https://www.perplexity.ai/page/un-panel-says-trump-s-rhetoric-D7wihbAiQ6a205PPu.zbXA",
-      "description": "The Committee on the Elimination of Racial Discrimination issued an urgent decision calling for a suspension of enforcement operations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T22:54:39Z",
-      "sourceCount": "56 sources"
     }
   ],
-  "cached_at": "2026-03-17T12:12:06Z",
+  "cached_at": "2026-03-17T12:34:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Tropical peatland wildfires hit 2,000-year high, study finds",
+        "url": "https://www.perplexity.ai/page/tropical-peatland-wildfires-hi-2L4_5STgQ0yHxpj0trkMRQ",
+        "description": "Researchers analyzed charcoal records across four continents and linked the surge to drainage, deforestation and agricultural expansion in Southeast Asia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T11:43:36Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Japan, US to jointly develop rare earths and lithium at Thursday summit",
+        "url": "https://www.perplexity.ai/page/japan-us-to-jointly-develop-ra-TEVPDqkoQSqjeAnBxVK_Ww",
+        "description": "Mitsubishi Materials and Mitsui & Co. will participate in projects including a rare earth refinery in Indiana and a lithium mine in North Carolina.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T11:43:19Z",
+        "sourceCount": "24 sources"
+      },
       {
         "title": "U.S. confirms Tesla, LG Energy Solution's $4.3B battery plant deal",
         "url": "https://www.perplexity.ai/page/u-s-confirms-tesla-lg-energy-s-A42OldQYR4O9W6LtNeFUtA",
@@ -2604,33 +2613,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T20:29:18Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Norway arrests three brothers over U.S. embassy bombing in Oslo",
-        "url": "https://www.perplexity.ai/page/norway-arrests-three-brothers-WE5HZV9tSpWTqdYVXGqTIQ",
-        "description": "The suspects, all Norwegian citizens of Iraqi background in their twenties, face terror bombing charges under the penal code.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T17:39:09Z",
-        "sourceCount": "33 sources"
-      },
-      {
-        "title": "FBI warned Iran aspired to launch drone attacks on California from sea",
-        "url": "https://www.perplexity.ai/page/fbi-warned-iran-aspired-to-lau-Vl7Vw2UwSUCFQL_VSIKOeg",
-        "description": "The bureau alerted California police in late February that Iran planned to use drones from a vessel off the West Coast if the U.S. struck Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T19:00:44Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "UN panel says Trump's rhetoric is fueling rights abuses",
-        "url": "https://www.perplexity.ai/page/un-panel-says-trump-s-rhetoric-D7wihbAiQ6a205PPu.zbXA",
-        "description": "The Committee on the Elimination of Racial Discrimination issued an urgent decision calling for a suspension of enforcement operations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T22:54:39Z",
-        "sourceCount": "56 sources"
       }
     ],
     "tech": [],
