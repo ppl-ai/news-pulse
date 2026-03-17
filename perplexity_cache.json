@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "AlphaFold Database adds millions of protein complex structures for the first time",
+      "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
+      "description": "The expansion, a collaboration between EMBL-EBI, Google DeepMind, NVIDIA, and Seoul National University, targets proteins tied to human health and disease.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T14:19:33Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Nebius plans $3.75B note offering after $27B Meta deal",
       "url": "https://www.perplexity.ai/page/nebius-plans-3-75b-note-offeri-LvRSKDaBTJ.24ps284vlKw",
       "description": "The AI cloud company aims to fund data center expansion and GPU procurement a day after announcing one of the industry's largest infrastructure contracts.",
@@ -1297,9 +1306,18 @@
       "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-17T15:12:38Z",
+  "cached_at": "2026-03-17T15:41:10Z",
   "topics": {
     "top": [
+      {
+        "title": "AlphaFold Database adds millions of protein complex structures for the first time",
+        "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
+        "description": "The expansion, a collaboration between EMBL-EBI, Google DeepMind, NVIDIA, and Seoul National University, targets proteins tied to human health and disease.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T14:19:33Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Nebius plans $3.75B note offering after $27B Meta deal",
         "url": "https://www.perplexity.ai/page/nebius-plans-3-75b-note-offeri-LvRSKDaBTJ.24ps284vlKw",
