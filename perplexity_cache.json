@@ -10,13 +10,22 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Pentagon raises Golden Dome cost estimate to $185B",
-      "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-g1KBOUl5QXiwwkQdkVgHeg",
-      "description": "The $10 billion increase funds accelerated space capabilities, as Lockheed Martin, RTX, and Northrop Grumman join as prime contractors.",
+      "title": "Roberts calls personal attacks on judges 'dangerous' after Trump tirade",
+      "url": "https://www.perplexity.ai/page/roberts-calls-personal-attacks-aNX8i2LVS5yIG_CDZ2A7aw",
+      "description": "The chief justice urged critics across the political spectrum to stop targeting judges personally, days after Trump called the Supreme Court \"inept.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-17T20:30:19Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-17T20:07:13Z",
+      "sourceCount": "24 sources"
+    },
+    {
+      "title": "Comer subpoenas AG Bondi over Epstein files handling",
+      "url": "https://www.perplexity.ai/page/comer-subpoenas-ag-bondi-over-o.ORvat2SYqjoskLb_JjIw",
+      "description": "The House Oversight chairman demands Bondi testify on April 14 about the DOJ's compliance with the Epstein Files Transparency Act.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:36:15Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
@@ -28,15 +37,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "DOE approves safety design for Oklo's first reactor in Idaho",
-      "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
-      "description": "The Nuclear Safety Design Agreement clears the Aurora powerhouse to enter its next project phase under the federal Reactor Pilot Program.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:12:17Z",
-      "sourceCount": "39 sources"
-    },
-    {
       "title": "IQM, Zurich Instruments build quantum error correction system with NVIDIA",
       "url": "https://www.perplexity.ai/page/iqm-zurich-instruments-build-q-2uGW.0wOTj.hfwT_XjmY4Q",
       "description": "Two separate partnerships announced March 16 aim to solve quantum computing's biggest obstacle: correcting errors fast enough for practical, fault-tolerant operation.",
@@ -44,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:11:37Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
+      "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
+      "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:11:11Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Zelenskyy meets Starmer, Rutte in London as Iran war shifts focus from Ukraine",
@@ -1342,7 +1351,7 @@
       "sourceCount": "59 sources"
     }
   ],
-  "cached_at": "2026-03-17T22:17:16Z",
+  "cached_at": "2026-03-17T22:35:05Z",
   "topics": {
     "top": [
       {
@@ -1355,13 +1364,22 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Pentagon raises Golden Dome cost estimate to $185B",
-        "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-g1KBOUl5QXiwwkQdkVgHeg",
-        "description": "The $10 billion increase funds accelerated space capabilities, as Lockheed Martin, RTX, and Northrop Grumman join as prime contractors.",
+        "title": "Roberts calls personal attacks on judges 'dangerous' after Trump tirade",
+        "url": "https://www.perplexity.ai/page/roberts-calls-personal-attacks-aNX8i2LVS5yIG_CDZ2A7aw",
+        "description": "The chief justice urged critics across the political spectrum to stop targeting judges personally, days after Trump called the Supreme Court \"inept.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-17T20:30:19Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-17T20:07:13Z",
+        "sourceCount": "24 sources"
+      },
+      {
+        "title": "Comer subpoenas AG Bondi over Epstein files handling",
+        "url": "https://www.perplexity.ai/page/comer-subpoenas-ag-bondi-over-o.ORvat2SYqjoskLb_JjIw",
+        "description": "The House Oversight chairman demands Bondi testify on April 14 about the DOJ's compliance with the Epstein Files Transparency Act.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:36:15Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
@@ -1373,15 +1391,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "DOE approves safety design for Oklo's first reactor in Idaho",
-        "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
-        "description": "The Nuclear Safety Design Agreement clears the Aurora powerhouse to enter its next project phase under the federal Reactor Pilot Program.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:12:17Z",
-        "sourceCount": "39 sources"
-      },
-      {
         "title": "IQM, Zurich Instruments build quantum error correction system with NVIDIA",
         "url": "https://www.perplexity.ai/page/iqm-zurich-instruments-build-q-2uGW.0wOTj.hfwT_XjmY4Q",
         "description": "Two separate partnerships announced March 16 aim to solve quantum computing's biggest obstacle: correcting errors fast enough for practical, fault-tolerant operation.",
@@ -1389,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:11:37Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
+        "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
+        "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:11:11Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Zelenskyy meets Starmer, Rutte in London as Iran war shifts focus from Ukraine",
