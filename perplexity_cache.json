@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "UCAR sues to block dismantling of NCAR weather research center",
+      "url": "https://www.perplexity.ai/page/ucar-sues-to-block-dismantling-7FGdiMijSGiwOK4vSA54JA",
+      "description": "The 129-university consortium filed a federal lawsuit alleging political retaliation and constitutional violations over the Trump administration's bid to break up the facility.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T00:49:59Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Moldova issues environmental alert after Russian strike causes oil spill",
       "url": "https://www.perplexity.ai/page/moldova-issues-environmental-a-4ivydUtdS9ubEJuGcRyZig",
       "description": "The 15-day alert covers the Dniester River basin after a March 7 attack on a Ukrainian hydroelectric plant sent oil downstream, threatening water supplies for millions.",
@@ -1342,9 +1351,18 @@
       "sourceCount": "72 sources"
     }
   ],
-  "cached_at": "2026-03-17T00:48:48Z",
+  "cached_at": "2026-03-17T01:24:14Z",
   "topics": {
     "top": [
+      {
+        "title": "UCAR sues to block dismantling of NCAR weather research center",
+        "url": "https://www.perplexity.ai/page/ucar-sues-to-block-dismantling-7FGdiMijSGiwOK4vSA54JA",
+        "description": "The 129-university consortium filed a federal lawsuit alleging political retaliation and constitutional violations over the Trump administration's bid to break up the facility.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T00:49:59Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Moldova issues environmental alert after Russian strike causes oil spill",
         "url": "https://www.perplexity.ai/page/moldova-issues-environmental-a-4ivydUtdS9ubEJuGcRyZig",
