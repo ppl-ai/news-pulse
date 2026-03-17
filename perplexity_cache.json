@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Microsoft unifies Copilot teams, shifts Suleyman to superintelligence role",
+      "url": "https://www.perplexity.ai/page/microsoft-unifies-copilot-team-OSxbgf.OSuK5z7zY9yBY3w",
+      "description": "CEO Satya Nadella merged commercial and consumer Copilot divisions under new EVP Jacob Andreou while redirecting AI chief Mustafa Suleyman to frontier model development.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T18:35:15Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Democrats introduce BETS OFF Act to ban prediction market trades on government actions",
       "url": "https://www.perplexity.ai/page/democrats-introduce-bets-off-a-WQQ3N94YT.OFxQxIYzqg3A",
       "description": "The bill is the fifth proposal this year targeting the fast-growing industry, spurred by suspicious trading ahead of U.S. strikes on Iran.",
@@ -1315,9 +1324,18 @@
       "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-17T18:31:03Z",
+  "cached_at": "2026-03-17T18:58:49Z",
   "topics": {
     "top": [
+      {
+        "title": "Microsoft unifies Copilot teams, shifts Suleyman to superintelligence role",
+        "url": "https://www.perplexity.ai/page/microsoft-unifies-copilot-team-OSxbgf.OSuK5z7zY9yBY3w",
+        "description": "CEO Satya Nadella merged commercial and consumer Copilot divisions under new EVP Jacob Andreou while redirecting AI chief Mustafa Suleyman to frontier model development.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T18:35:15Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Democrats introduce BETS OFF Act to ban prediction market trades on government actions",
         "url": "https://www.perplexity.ai/page/democrats-introduce-bets-off-a-WQQ3N94YT.OFxQxIYzqg3A",
