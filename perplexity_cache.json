@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Unilever weighs separating its food business",
-      "url": "https://www.perplexity.ai/page/unilever-weighs-separating-its-FfzLHrvRSHGFmLp7Ob_jJw",
-      "description": "The consumer goods giant is speaking with advisers about spinning off brands like Knorr, Marmite, and Hellmann's as it pivots toward beauty and wellness.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T20:29:42Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Hassett calls consumer pain 'last of our concerns' as gas nears $4",
       "url": "https://www.perplexity.ai/page/hassett-calls-consumer-pain-la-iLfIW819Qm.9mO7U338rsQ",
       "description": "Democrats slammed the NEC director after he dismissed rising fuel costs during the Iran war, with gas prices hitting their highest since October 2023.",
@@ -17,6 +8,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:46:26Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "Google reveals itself behind 1-GW data center plan in Michigan",
+      "url": "https://www.perplexity.ai/page/google-reveals-itself-behind-1-EIvIb2A1Sl6hg84BsLA4cQ",
+      "description": "The tech giant committed to 2.7 GW of clean energy and a $10 million fund for communities as part of a deal with DTE Energy.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:38:05Z",
+      "sourceCount": "20 sources"
     },
     {
       "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
@@ -1351,18 +1351,9 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-17T21:22:11Z",
+  "cached_at": "2026-03-17T21:42:06Z",
   "topics": {
     "top": [
-      {
-        "title": "Unilever weighs separating its food business",
-        "url": "https://www.perplexity.ai/page/unilever-weighs-separating-its-FfzLHrvRSHGFmLp7Ob_jJw",
-        "description": "The consumer goods giant is speaking with advisers about spinning off brands like Knorr, Marmite, and Hellmann's as it pivots toward beauty and wellness.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T20:29:42Z",
-        "sourceCount": "27 sources"
-      },
       {
         "title": "Hassett calls consumer pain 'last of our concerns' as gas nears $4",
         "url": "https://www.perplexity.ai/page/hassett-calls-consumer-pain-la-iLfIW819Qm.9mO7U338rsQ",
@@ -1371,6 +1362,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:46:26Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "Google reveals itself behind 1-GW data center plan in Michigan",
+        "url": "https://www.perplexity.ai/page/google-reveals-itself-behind-1-EIvIb2A1Sl6hg84BsLA4cQ",
+        "description": "The tech giant committed to 2.7 GW of clean energy and a $10 million fund for communities as part of a deal with DTE Energy.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:38:05Z",
+        "sourceCount": "20 sources"
       },
       {
         "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
