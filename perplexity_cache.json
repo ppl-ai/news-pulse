@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "DOE approves safety design for Oklo's first reactor in Idaho",
+      "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
+      "description": "The Nuclear Safety Design Agreement clears the Aurora powerhouse to enter its next project phase under the federal Reactor Pilot Program.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:12:17Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "IQM, Zurich Instruments build quantum error correction system with NVIDIA",
+      "url": "https://www.perplexity.ai/page/iqm-zurich-instruments-build-q-2uGW.0wOTj.hfwT_XjmY4Q",
+      "description": "Two separate partnerships announced March 16 aim to solve quantum computing's biggest obstacle: correcting errors fast enough for practical, fault-tolerant operation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:11:37Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
       "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
       "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
@@ -1333,9 +1351,27 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-17T19:53:14Z",
+  "cached_at": "2026-03-17T20:08:37Z",
   "topics": {
     "top": [
+      {
+        "title": "DOE approves safety design for Oklo's first reactor in Idaho",
+        "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
+        "description": "The Nuclear Safety Design Agreement clears the Aurora powerhouse to enter its next project phase under the federal Reactor Pilot Program.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:12:17Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "IQM, Zurich Instruments build quantum error correction system with NVIDIA",
+        "url": "https://www.perplexity.ai/page/iqm-zurich-instruments-build-q-2uGW.0wOTj.hfwT_XjmY4Q",
+        "description": "Two separate partnerships announced March 16 aim to solve quantum computing's biggest obstacle: correcting errors fast enough for practical, fault-tolerant operation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:11:37Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
         "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
