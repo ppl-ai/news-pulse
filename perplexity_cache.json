@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Democrats introduce BETS OFF Act to ban prediction market trades on government actions",
+      "url": "https://www.perplexity.ai/page/democrats-introduce-bets-off-a-WQQ3N94YT.OFxQxIYzqg3A",
+      "description": "The bill is the fifth proposal this year targeting the fast-growing industry, spurred by suspicious trading ahead of U.S. strikes on Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T17:58:27Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Mastercard to buy stablecoin firm BVNK for up to $1.8B",
       "url": "https://www.perplexity.ai/page/mastercard-to-buy-stablecoin-f-IuT3hdJ6ROKR8_TpK4a9Ig",
       "description": "The deal is the largest stablecoin acquisition ever, eclipsing Stripe's $1.1 billion purchase of Bridge in 2025.",
@@ -1306,9 +1315,18 @@
       "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-17T18:03:29Z",
+  "cached_at": "2026-03-17T18:31:03Z",
   "topics": {
     "top": [
+      {
+        "title": "Democrats introduce BETS OFF Act to ban prediction market trades on government actions",
+        "url": "https://www.perplexity.ai/page/democrats-introduce-bets-off-a-WQQ3N94YT.OFxQxIYzqg3A",
+        "description": "The bill is the fifth proposal this year targeting the fast-growing industry, spurred by suspicious trading ahead of U.S. strikes on Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T17:58:27Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Mastercard to buy stablecoin firm BVNK for up to $1.8B",
         "url": "https://www.perplexity.ai/page/mastercard-to-buy-stablecoin-f-IuT3hdJ6ROKR8_TpK4a9Ig",
