@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Unilever weighs separating its food business",
+      "url": "https://www.perplexity.ai/page/unilever-weighs-separating-its-FfzLHrvRSHGFmLp7Ob_jJw",
+      "description": "The consumer goods giant is speaking with advisers about spinning off brands like Knorr, Marmite, and Hellmann's as it pivots toward beauty and wellness.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T20:29:42Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Hassett calls consumer pain 'last of our concerns' as gas nears $4",
+      "url": "https://www.perplexity.ai/page/hassett-calls-consumer-pain-la-iLfIW819Qm.9mO7U338rsQ",
+      "description": "Democrats slammed the NEC director after he dismissed rising fuel costs during the Iran war, with gas prices hitting their highest since October 2023.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:46:26Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "DOE approves safety design for Oklo's first reactor in Idaho",
       "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
       "description": "The Nuclear Safety Design Agreement clears the Aurora powerhouse to enter its next project phase under the federal Reactor Pilot Program.",
@@ -44,15 +62,6 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:02:14Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "U.S. stocks climb as oil surges ahead of Fed rate decision",
-      "url": "https://www.perplexity.ai/page/u-s-stocks-climb-as-oil-surges-Jxm0GunCRWSObRwq_YKHkQ",
-      "description": "Wall Street edged higher Tuesday even as Iran's latest attacks on UAE energy infrastructure pushed Brent crude back above $100 a barrel.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T18:48:05Z",
-      "sourceCount": "43 sources"
     },
     {
       "title": "Ukraine accepts EU offer to fund Druzhba pipeline repairs",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-12T10:42:25Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran sets three conditions to end war with US and Israel",
-      "url": "https://www.perplexity.ai/page/iran-sets-three-conditions-to-FazRcg_5SeaPUx.U4OMxBA",
-      "description": "President Pezeshkian demands recognition of Iran's rights, reparations, and guarantees against future aggression as the conflict enters its 12th day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T10:14:10Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-17T20:46:36Z",
+  "cached_at": "2026-03-17T21:04:25Z",
   "topics": {
     "top": [
+      {
+        "title": "Unilever weighs separating its food business",
+        "url": "https://www.perplexity.ai/page/unilever-weighs-separating-its-FfzLHrvRSHGFmLp7Ob_jJw",
+        "description": "The consumer goods giant is speaking with advisers about spinning off brands like Knorr, Marmite, and Hellmann's as it pivots toward beauty and wellness.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T20:29:42Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Hassett calls consumer pain 'last of our concerns' as gas nears $4",
+        "url": "https://www.perplexity.ai/page/hassett-calls-consumer-pain-la-iLfIW819Qm.9mO7U338rsQ",
+        "description": "Democrats slammed the NEC director after he dismissed rising fuel costs during the Iran war, with gas prices hitting their highest since October 2023.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:46:26Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "DOE approves safety design for Oklo's first reactor in Idaho",
         "url": "https://www.perplexity.ai/page/doe-approves-safety-design-for-sY5cQ_MyTWSvph5ThIP4zQ",
@@ -1398,15 +1416,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:02:14Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "U.S. stocks climb as oil surges ahead of Fed rate decision",
-        "url": "https://www.perplexity.ai/page/u-s-stocks-climb-as-oil-surges-Jxm0GunCRWSObRwq_YKHkQ",
-        "description": "Wall Street edged higher Tuesday even as Iran's latest attacks on UAE energy infrastructure pushed Brent crude back above $100 a barrel.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T18:48:05Z",
-        "sourceCount": "43 sources"
       },
       {
         "title": "Ukraine accepts EU offer to fund Druzhba pipeline repairs",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T10:42:25Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran sets three conditions to end war with US and Israel",
-        "url": "https://www.perplexity.ai/page/iran-sets-three-conditions-to-FazRcg_5SeaPUx.U4OMxBA",
-        "description": "President Pezeshkian demands recognition of Iran's rights, reparations, and guarantees against future aggression as the conflict enters its 12th day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T10:14:10Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
