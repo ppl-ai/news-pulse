@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
+      "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
+      "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T14:40:13Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "AlphaFold Database adds millions of protein complex structures for the first time",
       "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
       "description": "The expansion, a collaboration between EMBL-EBI, Google DeepMind, NVIDIA, and Seoul National University, targets proteins tied to human health and disease.",
@@ -1306,9 +1315,18 @@
       "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-17T15:41:10Z",
+  "cached_at": "2026-03-17T16:10:42Z",
   "topics": {
     "top": [
+      {
+        "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
+        "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
+        "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T14:40:13Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "AlphaFold Database adds millions of protein complex structures for the first time",
         "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
