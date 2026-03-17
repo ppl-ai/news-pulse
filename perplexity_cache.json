@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
+      "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
+      "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T02:23:59Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "SK Group chairman says chip wafer shortage to last until 2030",
       "url": "https://www.perplexity.ai/page/sk-group-chairman-says-chip-wa-7T78W7X1Rh.K8QjLyOXCiA",
       "description": "Chey Tae-won cited AI demand outpacing supply and said SK Hynix is reviewing a U.S. ADR listing to broaden its investor base.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-11T13:31:37Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump renews threat to cut off trade with Spain over Iran base dispute",
-      "url": "https://www.perplexity.ai/page/trump-renews-threat-to-cut-off-UL4i4l45RB6VNGX2DzU95A",
-      "description": "Spanish PM Sanchez says he is \"not worried\" about U.S. reprisals after refusing to let American forces use bases for Iran strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T19:53:40Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-17T02:16:27Z",
+  "cached_at": "2026-03-17T03:18:43Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
+        "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
+        "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T02:23:59Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "SK Group chairman says chip wafer shortage to last until 2030",
         "url": "https://www.perplexity.ai/page/sk-group-chairman-says-chip-wa-7T78W7X1Rh.K8QjLyOXCiA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T13:31:37Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump renews threat to cut off trade with Spain over Iran base dispute",
-        "url": "https://www.perplexity.ai/page/trump-renews-threat-to-cut-off-UL4i4l45RB6VNGX2DzU95A",
-        "description": "Spanish PM Sanchez says he is \"not worried\" about U.S. reprisals after refusing to let American forces use bases for Iran strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T19:53:40Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
