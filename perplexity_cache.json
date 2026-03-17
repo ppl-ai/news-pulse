@@ -1340,18 +1340,9 @@
       "topic": "top",
       "pubDate": "2026-03-12T06:00:34Z",
       "sourceCount": "59 sources"
-    },
-    {
-      "title": "Washington Legislature passes millionaires tax, sends bill to governor",
-      "url": "https://www.perplexity.ai/page/washington-legislature-passes-Ybhq6I7SR8G7dY7JnWI2VA",
-      "description": "The 9.9% tax on income over $1 million cleared the Senate on the session's final day and is expected to face legal challenges.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T03:38:56Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-17T20:08:37Z",
+  "cached_at": "2026-03-17T20:25:09Z",
   "topics": {
     "top": [
       {
@@ -2694,15 +2685,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T06:00:34Z",
         "sourceCount": "59 sources"
-      },
-      {
-        "title": "Washington Legislature passes millionaires tax, sends bill to governor",
-        "url": "https://www.perplexity.ai/page/washington-legislature-passes-Ybhq6I7SR8G7dY7JnWI2VA",
-        "description": "The 9.9% tax on income over $1 million cleared the Senate on the session's final day and is expected to face legal challenges.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T03:38:56Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
