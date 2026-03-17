@@ -1322,27 +1322,9 @@
       "topic": "top",
       "pubDate": "2026-03-11T16:13:58Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Anthropic launches policy institute amid Pentagon legal battle",
-      "url": "https://www.perplexity.ai/page/anthropic-launches-policy-inst-5MaSps44SruQ4o3YZJjLKQ",
-      "description": "Co-founder Jack Clark will lead the Anthropic Institute, a new research body studying AI's impact on jobs, law, and the economy.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T13:31:37Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump renews threat to cut off trade with Spain over Iran base dispute",
-      "url": "https://www.perplexity.ai/page/trump-renews-threat-to-cut-off-UL4i4l45RB6VNGX2DzU95A",
-      "description": "Spanish PM Sanchez says he is \"not worried\" about U.S. reprisals after refusing to let American forces use bases for Iran strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T19:53:40Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-17T08:26:05Z",
+  "cached_at": "2026-03-17T08:49:51Z",
   "topics": {
     "top": [
       {
@@ -2667,24 +2649,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T16:13:58Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Anthropic launches policy institute amid Pentagon legal battle",
-        "url": "https://www.perplexity.ai/page/anthropic-launches-policy-inst-5MaSps44SruQ4o3YZJjLKQ",
-        "description": "Co-founder Jack Clark will lead the Anthropic Institute, a new research body studying AI's impact on jobs, law, and the economy.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T13:31:37Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump renews threat to cut off trade with Spain over Iran base dispute",
-        "url": "https://www.perplexity.ai/page/trump-renews-threat-to-cut-off-UL4i4l45RB6VNGX2DzU95A",
-        "description": "Spanish PM Sanchez says he is \"not worried\" about U.S. reprisals after refusing to let American forces use bases for Iran strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T19:53:40Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
