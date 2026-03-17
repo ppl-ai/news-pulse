@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "SK Group chairman says chip wafer shortage to last until 2030",
+      "url": "https://www.perplexity.ai/page/sk-group-chairman-says-chip-wa-7T78W7X1Rh.K8QjLyOXCiA",
+      "description": "Chey Tae-won cited AI demand outpacing supply and said SK Hynix is reviewing a U.S. ADR listing to broaden its investor base.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T01:33:15Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "UCAR sues to block dismantling of NCAR weather research center",
       "url": "https://www.perplexity.ai/page/ucar-sues-to-block-dismantling-7FGdiMijSGiwOK4vSA54JA",
       "description": "The 129-university consortium filed a federal lawsuit alleging political retaliation and constitutional violations over the Trump administration's bid to break up the facility.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-11T19:53:40Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Von der Leyen calls return to Russian energy 'a strategic blunder' amid Iran war",
-      "url": "https://www.perplexity.ai/page/von-der-leyen-calls-return-to-SZkdp5c8TyaoYOV7tMFITQ",
-      "description": "The European Commission president told the European Parliament that 10 days of conflict have already cost EU taxpayers an extra €3 billion in fossil fuel imports.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-11T10:07:13Z",
-      "sourceCount": "72 sources"
     }
   ],
-  "cached_at": "2026-03-17T01:24:14Z",
+  "cached_at": "2026-03-17T02:16:27Z",
   "topics": {
     "top": [
+      {
+        "title": "SK Group chairman says chip wafer shortage to last until 2030",
+        "url": "https://www.perplexity.ai/page/sk-group-chairman-says-chip-wa-7T78W7X1Rh.K8QjLyOXCiA",
+        "description": "Chey Tae-won cited AI demand outpacing supply and said SK Hynix is reviewing a U.S. ADR listing to broaden its investor base.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T01:33:15Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "UCAR sues to block dismantling of NCAR weather research center",
         "url": "https://www.perplexity.ai/page/ucar-sues-to-block-dismantling-7FGdiMijSGiwOK4vSA54JA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-11T19:53:40Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Von der Leyen calls return to Russian energy 'a strategic blunder' amid Iran war",
-        "url": "https://www.perplexity.ai/page/von-der-leyen-calls-return-to-SZkdp5c8TyaoYOV7tMFITQ",
-        "description": "The European Commission president told the European Parliament that 10 days of conflict have already cost EU taxpayers an extra €3 billion in fossil fuel imports.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-11T10:07:13Z",
-        "sourceCount": "72 sources"
       }
     ],
     "tech": [],
