@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Mastercard to buy stablecoin firm BVNK for up to $1.8B",
+      "url": "https://www.perplexity.ai/page/mastercard-to-buy-stablecoin-f-IuT3hdJ6ROKR8_TpK4a9Ig",
+      "description": "The deal is the largest stablecoin acquisition ever, eclipsing Stripe's $1.1 billion purchase of Bridge in 2025.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T17:39:47Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "US diesel tops $5 a gallon for first time since 2022",
       "url": "https://www.perplexity.ai/page/us-diesel-tops-5-a-gallon-for-bhp7Wd9lRZ2LsK1StUkdlQ",
       "description": "The national average hit $5.04, up 34% since the Iran war began, as the Strait of Hormuz remains largely closed to oil traffic.",
@@ -1297,9 +1306,18 @@
       "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-17T17:36:55Z",
+  "cached_at": "2026-03-17T18:03:29Z",
   "topics": {
     "top": [
+      {
+        "title": "Mastercard to buy stablecoin firm BVNK for up to $1.8B",
+        "url": "https://www.perplexity.ai/page/mastercard-to-buy-stablecoin-f-IuT3hdJ6ROKR8_TpK4a9Ig",
+        "description": "The deal is the largest stablecoin acquisition ever, eclipsing Stripe's $1.1 billion purchase of Bridge in 2025.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T17:39:47Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "US diesel tops $5 a gallon for first time since 2022",
         "url": "https://www.perplexity.ai/page/us-diesel-tops-5-a-gallon-for-bhp7Wd9lRZ2LsK1StUkdlQ",
