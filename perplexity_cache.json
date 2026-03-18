@@ -28,6 +28,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Germany, France warn Iran war risks global escalation",
+      "url": "https://www.perplexity.ai/page/germany-france-warn-iran-war-r-DDqnoGRMRxiIgZN2_qPwrQ",
+      "description": "Chancellor Merz told parliament that Washington never consulted Europe and has \"no convincing plan\" for how the military operation could succeed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T20:14:29Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Australian scientists build world's first quantum battery prototype",
       "url": "https://www.perplexity.ai/page/australian-scientists-build-wo-Aj_P9zYjSxCqXhqG9Nz2jg",
       "description": "CSIRO-led team created a device that charges, stores, and discharges energy using quantum mechanics — and charges faster as it grows.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-12T20:49:57Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "Israel drops charges against soldiers in Sde Teiman sexual abuse case",
-      "url": "https://www.perplexity.ai/page/israel-drops-charges-against-s-L40yYtb2QhCb7QcfeQKW3g",
-      "description": "Netanyahu praised the decision, saying Israel \"should pursue its adversaries, not its heroic fighters.\" Rights groups condemned it as impunity.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T19:13:48Z",
-      "sourceCount": "41 sources"
     }
   ],
-  "cached_at": "2026-03-18T20:58:48Z",
+  "cached_at": "2026-03-18T21:18:23Z",
   "topics": {
     "top": [
       {
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T20:17:20Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "Germany, France warn Iran war risks global escalation",
+        "url": "https://www.perplexity.ai/page/germany-france-warn-iran-war-r-DDqnoGRMRxiIgZN2_qPwrQ",
+        "description": "Chancellor Merz told parliament that Washington never consulted Europe and has \"no convincing plan\" for how the military operation could succeed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T20:14:29Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Australian scientists build world's first quantum battery prototype",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T20:49:57Z",
         "sourceCount": "39 sources"
-      },
-      {
-        "title": "Israel drops charges against soldiers in Sde Teiman sexual abuse case",
-        "url": "https://www.perplexity.ai/page/israel-drops-charges-against-s-L40yYtb2QhCb7QcfeQKW3g",
-        "description": "Netanyahu praised the decision, saying Israel \"should pursue its adversaries, not its heroic fighters.\" Rights groups condemned it as impunity.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T19:13:48Z",
-        "sourceCount": "41 sources"
       }
     ],
     "tech": [],
