@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "UK adviser believed Iran deal was in reach before US-led attack",
+      "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
+      "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T02:40:35Z",
+      "sourceCount": "61 sources"
+    },
+    {
+      "title": "Stratton wins Illinois Democratic Senate primary to replace Durbin",
+      "url": "https://www.perplexity.ai/page/stratton-wins-illinois-democra-cIx4mFw7Tbi8YuNecjkxrg",
+      "description": "Lt. Gov. Juliana Stratton defeated Reps. Raja Krishnamoorthi and Robin Kelly despite being heavily outspent, NBC News projects.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T02:28:21Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "Pentagon says 157 killed in drug boat strikes since September",
       "url": "https://www.perplexity.ai/page/pentagon-says-157-killed-in-dr-7aVv5q7GQiqi8gEu3yh2TQ",
       "description": "A senior defense official told Congress that 47 suspected narco-trafficking vessels were destroyed across 45 strikes in the Caribbean and Eastern Pacific.",
@@ -1331,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-12T10:42:25Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran sets three conditions to end war with US and Israel",
-      "url": "https://www.perplexity.ai/page/iran-sets-three-conditions-to-FazRcg_5SeaPUx.U4OMxBA",
-      "description": "President Pezeshkian demands recognition of Iran's rights, reparations, and guarantees against future aggression as the conflict enters its 12th day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T10:14:10Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-18T02:50:31Z",
+  "cached_at": "2026-03-18T03:48:40Z",
   "topics": {
     "top": [
+      {
+        "title": "UK adviser believed Iran deal was in reach before US-led attack",
+        "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
+        "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T02:40:35Z",
+        "sourceCount": "61 sources"
+      },
+      {
+        "title": "Stratton wins Illinois Democratic Senate primary to replace Durbin",
+        "url": "https://www.perplexity.ai/page/stratton-wins-illinois-democra-cIx4mFw7Tbi8YuNecjkxrg",
+        "description": "Lt. Gov. Juliana Stratton defeated Reps. Raja Krishnamoorthi and Robin Kelly despite being heavily outspent, NBC News projects.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T02:28:21Z",
+        "sourceCount": "36 sources"
+      },
       {
         "title": "Pentagon says 157 killed in drug boat strikes since September",
         "url": "https://www.perplexity.ai/page/pentagon-says-157-killed-in-dr-7aVv5q7GQiqi8gEu3yh2TQ",
@@ -2676,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T10:42:25Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran sets three conditions to end war with US and Israel",
-        "url": "https://www.perplexity.ai/page/iran-sets-three-conditions-to-FazRcg_5SeaPUx.U4OMxBA",
-        "description": "President Pezeshkian demands recognition of Iran's rights, reparations, and guarantees against future aggression as the conflict enters its 12th day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T10:14:10Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
