@@ -208,6 +208,15 @@
       "sourceCount": "30 sources"
     },
     {
+      "title": "Top US Counterterrorism Official Joe Kent Resigns Over Iran War",
+      "url": "https://www.perplexity.ai/page/top-us-counterterrorism-offici-TK8Guk.kTK2SWtflk2kQJg",
+      "description": "Kent accused Israeli officials of deploying \"a misinformation campaign\" that lured the U.S. into the conflict, now in its 17th day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T14:39:51Z",
+      "sourceCount": "78 sources"
+    },
+    {
       "title": "AlphaFold Database adds millions of protein complex structures for the first time",
       "url": "https://www.perplexity.ai/page/alphafold-database-adds-millio-fNY_zxXUS76WWhBX31l4qA",
       "description": "The expansion, a collaboration between EMBL-EBI, Google DeepMind, NVIDIA, and Seoul National University, targets proteins tied to human health and disease.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-12T14:40:37Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
-      "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
-      "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T17:58:57Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-18T07:59:17Z",
+  "cached_at": "2026-03-18T08:25:10Z",
   "topics": {
     "top": [
       {
@@ -1560,6 +1560,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T14:40:13Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Top US Counterterrorism Official Joe Kent Resigns Over Iran War",
+        "url": "https://www.perplexity.ai/page/top-us-counterterrorism-offici-TK8Guk.kTK2SWtflk2kQJg",
+        "description": "Kent accused Israeli officials of deploying \"a misinformation campaign\" that lured the U.S. into the conflict, now in its 17th day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T14:39:51Z",
+        "sourceCount": "78 sources"
       },
       {
         "title": "AlphaFold Database adds millions of protein complex structures for the first time",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T14:40:37Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iran denies laying mines in Hormuz, says some nations granted safe passage",
-        "url": "https://www.perplexity.ai/page/iran-denies-laying-mines-in-ho-1gcq1gVrQq6DbmTgPSMrIQ",
-        "description": "Deputy FM Takht-Ravanchi called U.S. mine-laying claims untrue and confirmed select countries, including India, have negotiated transit through the strait.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T17:58:57Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
