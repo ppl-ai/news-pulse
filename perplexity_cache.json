@@ -1,49 +1,22 @@
 {
   "stories": [
     {
-      "title": "Trump asks to delay Xi summit by a month over Iran war",
-      "url": "https://www.perplexity.ai/page/trump-asks-to-delay-xi-summit-XIfumgrVRD2055o3Vkg_eA",
-      "description": "The president told reporters the ongoing conflict requires him to stay in Washington, pushing back a Beijing trip planned for late March.",
+      "title": "Trump blasts NATO after allies reject Hormuz mission",
+      "url": "https://www.perplexity.ai/page/trump-blasts-nato-after-allies-ynggO1G.SXKHi_.C_EujxQ",
+      "description": "The president called the refusal \"a very foolish mistake\" while insisting the U.S. does not need help securing the strait Iran has shut down.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-18T07:32:16Z",
-      "sourceCount": "21 sources"
+      "pubDate": "2026-03-18T10:49:49Z",
+      "sourceCount": "28 sources"
     },
     {
-      "title": "BHP taps Americas chief Brandon Craig as next CEO",
-      "url": "https://www.perplexity.ai/page/bhp-taps-americas-chief-brando-rHBzoYWdSDW2Fnv0e.MK9g",
-      "description": "Craig, who oversaw BHP's rise to become the world's largest copper producer, will succeed Mike Henry on July 1.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T06:06:34Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Oil prices fall as U.S. inventory surge, Iraq export deal offset Gulf tensions",
-      "url": "https://www.perplexity.ai/page/oil-prices-fall-as-u-s-invento-HTOVaCXZQ.6s2wSawJERdg",
-      "description": "Brent crude and WTI both declined Wednesday after API data showed a far larger-than-expected build in U.S. stockpiles.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T06:02:30Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "BP locks out 800 workers at largest Midwest refinery",
-      "url": "https://www.perplexity.ai/page/bp-locks-out-800-workers-at-la-HEtjUvDnR2CFF1a3HqlLqw",
+      "title": "BP locks out 800 union workers at largest Midwest refinery",
+      "url": "https://www.perplexity.ai/page/bp-locks-out-800-union-workers-HEtjUvDnR2CFF1a3HqlLqw",
       "description": "The lockout at the Whiting, Indiana, facility takes effect March 19 after months of failed contract talks with United Steelworkers members.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-18T05:58:23Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "UK adviser believed Iran deal was in reach before US-led attack",
-      "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
-      "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T02:40:35Z",
-      "sourceCount": "61 sources"
     },
     {
       "title": "Stratton wins Illinois Democratic Senate primary to replace Durbin",
@@ -53,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-18T02:28:21Z",
       "sourceCount": "36 sources"
+    },
+    {
+      "title": "Trump asks to delay Xi summit by a month over Iran war",
+      "url": "https://www.perplexity.ai/page/trump-asks-to-delay-xi-summit-XIfumgrVRD2055o3Vkg_eA",
+      "description": "The president told reporters the ongoing conflict requires him to stay in Washington, pushing back a Beijing trip planned for late March.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T07:32:16Z",
+      "sourceCount": "21 sources"
     },
     {
       "title": "China pledges emergency aid to Iran, Jordan, Lebanon and Iraq",
@@ -71,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-17T23:25:01Z",
       "sourceCount": "39 sources"
+    },
+    {
+      "title": "UK adviser believed Iran deal was in reach before US-led attack",
+      "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
+      "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T02:40:35Z",
+      "sourceCount": "61 sources"
     },
     {
       "title": "Ukraine hits Moscow with drones for 4th straight day",
@@ -1349,55 +1340,37 @@
       "topic": "top",
       "pubDate": "2026-03-12T18:09:01Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Trump administration sues California over EV mandates",
+      "url": "https://www.perplexity.ai/page/trump-administration-sues-cali-7fLsrT.wQkKBFGuImDHUgw",
+      "description": "The DOJ filed suit seeking to invalidate California's remaining zero-emission vehicle rules, calling them illegal under federal law.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-12T17:25:06Z",
+      "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-18T14:01:51Z",
+  "cached_at": "2026-03-18T14:39:33Z",
   "topics": {
     "top": [
       {
-        "title": "Trump asks to delay Xi summit by a month over Iran war",
-        "url": "https://www.perplexity.ai/page/trump-asks-to-delay-xi-summit-XIfumgrVRD2055o3Vkg_eA",
-        "description": "The president told reporters the ongoing conflict requires him to stay in Washington, pushing back a Beijing trip planned for late March.",
+        "title": "Trump blasts NATO after allies reject Hormuz mission",
+        "url": "https://www.perplexity.ai/page/trump-blasts-nato-after-allies-ynggO1G.SXKHi_.C_EujxQ",
+        "description": "The president called the refusal \"a very foolish mistake\" while insisting the U.S. does not need help securing the strait Iran has shut down.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-18T07:32:16Z",
-        "sourceCount": "21 sources"
+        "pubDate": "2026-03-18T10:49:49Z",
+        "sourceCount": "28 sources"
       },
       {
-        "title": "BHP taps Americas chief Brandon Craig as next CEO",
-        "url": "https://www.perplexity.ai/page/bhp-taps-americas-chief-brando-rHBzoYWdSDW2Fnv0e.MK9g",
-        "description": "Craig, who oversaw BHP's rise to become the world's largest copper producer, will succeed Mike Henry on July 1.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T06:06:34Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Oil prices fall as U.S. inventory surge, Iraq export deal offset Gulf tensions",
-        "url": "https://www.perplexity.ai/page/oil-prices-fall-as-u-s-invento-HTOVaCXZQ.6s2wSawJERdg",
-        "description": "Brent crude and WTI both declined Wednesday after API data showed a far larger-than-expected build in U.S. stockpiles.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T06:02:30Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "BP locks out 800 workers at largest Midwest refinery",
-        "url": "https://www.perplexity.ai/page/bp-locks-out-800-workers-at-la-HEtjUvDnR2CFF1a3HqlLqw",
+        "title": "BP locks out 800 union workers at largest Midwest refinery",
+        "url": "https://www.perplexity.ai/page/bp-locks-out-800-union-workers-HEtjUvDnR2CFF1a3HqlLqw",
         "description": "The lockout at the Whiting, Indiana, facility takes effect March 19 after months of failed contract talks with United Steelworkers members.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-18T05:58:23Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "UK adviser believed Iran deal was in reach before US-led attack",
-        "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
-        "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T02:40:35Z",
-        "sourceCount": "61 sources"
       },
       {
         "title": "Stratton wins Illinois Democratic Senate primary to replace Durbin",
@@ -1407,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T02:28:21Z",
         "sourceCount": "36 sources"
+      },
+      {
+        "title": "Trump asks to delay Xi summit by a month over Iran war",
+        "url": "https://www.perplexity.ai/page/trump-asks-to-delay-xi-summit-XIfumgrVRD2055o3Vkg_eA",
+        "description": "The president told reporters the ongoing conflict requires him to stay in Washington, pushing back a Beijing trip planned for late March.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T07:32:16Z",
+        "sourceCount": "21 sources"
       },
       {
         "title": "China pledges emergency aid to Iran, Jordan, Lebanon and Iraq",
@@ -1425,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-03-17T23:25:01Z",
         "sourceCount": "39 sources"
+      },
+      {
+        "title": "UK adviser believed Iran deal was in reach before US-led attack",
+        "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
+        "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T02:40:35Z",
+        "sourceCount": "61 sources"
       },
       {
         "title": "Ukraine hits Moscow with drones for 4th straight day",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-12T18:09:01Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Trump administration sues California over EV mandates",
+        "url": "https://www.perplexity.ai/page/trump-administration-sues-cali-7fLsrT.wQkKBFGuImDHUgw",
+        "description": "The DOJ filed suit seeking to invalidate California's remaining zero-emission vehicle rules, calling them illegal under federal law.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-12T17:25:06Z",
+        "sourceCount": "37 sources"
       }
     ],
     "tech": [],
