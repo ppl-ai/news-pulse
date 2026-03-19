@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Oil tops $112 as Gulf attacks intensify; Fed, BOJ hold rates steady",
+      "url": "https://www.perplexity.ai/page/oil-tops-112-as-gulf-attacks-i-V8HAcmRIRJGRGGAxTWVQ7A",
+      "description": "Asian markets fell sharply Thursday as crude surged on Middle East infrastructure strikes and central banks paused rate changes amid rising uncertainty.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T10:44:14Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Iran considers charging transit fees in Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-considers-charging-transi-1omuvjYPRm22yzQGNq7dzg",
+      "description": "An Iranian lawmaker said Tehran is weighing formal fees on vessels passing through the critical waterway it now controls as a selective checkpoint.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T10:36:02Z",
+      "sourceCount": "90 sources"
+    },
+    {
       "title": "Unilever and Kraft Heinz end food merger talks",
       "url": "https://www.perplexity.ai/page/unilever-and-kraft-heinz-end-f-ET.LEMmYQFy7IoBXWzlOYA",
       "description": "The collapsed deal would have united Hellmann's mayonnaise and Heinz ketchup in an entity worth tens of billions of dollars.",
@@ -26,24 +44,6 @@
       "topic": "top",
       "pubDate": "2026-03-19T09:26:14Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iran targets Gulf energy sites as oil nears $110",
-      "url": "https://www.perplexity.ai/page/iran-targets-gulf-energy-sites-Xw6_hDORSAyUcD4TH2xX3Q",
-      "description": "The conflict's expansion into an energy war has amplified global calls to accelerate renewable investment and reduce fossil fuel dependence.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T08:06:00Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "BOJ holds rates steady, warns Middle East oil shock could fuel inflation",
-      "url": "https://www.perplexity.ai/page/boj-holds-rates-steady-warns-m-xB0lRvsBRDOiQbltKQy2NQ",
-      "description": "The central bank kept its policy rate at 0.75% as surging energy prices from the Iran conflict complicate the outlook for further tightening.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T07:34:39Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "Lynas begins samarium production in Malaysia ahead of schedule",
@@ -116,15 +116,6 @@
       "topic": "top",
       "pubDate": "2026-03-18T20:44:02Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
-      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
-      "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T20:43:46Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Germany, France warn Iran war risks global escalation",
@@ -1304,20 +1295,29 @@
       "topic": "top",
       "pubDate": "2026-03-13T00:53:51Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "NASA clears Artemis II for April 1 moon launch",
-      "url": "https://www.perplexity.ai/page/nasa-clears-artemis-ii-for-apr-ww.M5_jITCecOm2.C9APMA",
-      "description": "Four astronauts will orbit the moon for the first time since Apollo 17, following a flight readiness review that resolved months of technical delays.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T00:18:57Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-19T10:26:38Z",
+  "cached_at": "2026-03-19T10:48:36Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil tops $112 as Gulf attacks intensify; Fed, BOJ hold rates steady",
+        "url": "https://www.perplexity.ai/page/oil-tops-112-as-gulf-attacks-i-V8HAcmRIRJGRGGAxTWVQ7A",
+        "description": "Asian markets fell sharply Thursday as crude surged on Middle East infrastructure strikes and central banks paused rate changes amid rising uncertainty.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T10:44:14Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Iran considers charging transit fees in Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-considers-charging-transi-1omuvjYPRm22yzQGNq7dzg",
+        "description": "An Iranian lawmaker said Tehran is weighing formal fees on vessels passing through the critical waterway it now controls as a selective checkpoint.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T10:36:02Z",
+        "sourceCount": "90 sources"
+      },
       {
         "title": "Unilever and Kraft Heinz end food merger talks",
         "url": "https://www.perplexity.ai/page/unilever-and-kraft-heinz-end-f-ET.LEMmYQFy7IoBXWzlOYA",
@@ -1344,24 +1344,6 @@
         "topic": "top",
         "pubDate": "2026-03-19T09:26:14Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iran targets Gulf energy sites as oil nears $110",
-        "url": "https://www.perplexity.ai/page/iran-targets-gulf-energy-sites-Xw6_hDORSAyUcD4TH2xX3Q",
-        "description": "The conflict's expansion into an energy war has amplified global calls to accelerate renewable investment and reduce fossil fuel dependence.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T08:06:00Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "BOJ holds rates steady, warns Middle East oil shock could fuel inflation",
-        "url": "https://www.perplexity.ai/page/boj-holds-rates-steady-warns-m-xB0lRvsBRDOiQbltKQy2NQ",
-        "description": "The central bank kept its policy rate at 0.75% as surging energy prices from the Iran conflict complicate the outlook for further tightening.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T07:34:39Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "Lynas begins samarium production in Malaysia ahead of schedule",
@@ -1434,15 +1416,6 @@
         "topic": "top",
         "pubDate": "2026-03-18T20:44:02Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
-        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
-        "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T20:43:46Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Germany, France warn Iran war risks global escalation",
@@ -2622,15 +2595,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T00:53:51Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "NASA clears Artemis II for April 1 moon launch",
-        "url": "https://www.perplexity.ai/page/nasa-clears-artemis-ii-for-apr-ww.M5_jITCecOm2.C9APMA",
-        "description": "Four astronauts will orbit the moon for the first time since Apollo 17, following a flight readiness review that resolved months of technical delays.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T00:18:57Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
