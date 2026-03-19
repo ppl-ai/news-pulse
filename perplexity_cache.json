@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
+      "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
+      "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T23:48:38Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "IAEA chief says Iran's nuclear program survives strikes",
       "url": "https://www.perplexity.ai/page/iaea-chief-says-iran-s-nuclear-RJxxFBr9RlKCMbCFZvZypA",
       "description": "Rafael Grossi told CBS that \"a lot has survived\" of Iran's nuclear capabilities and urged a return to diplomacy.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-13T19:12:36Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Federal judge blocks Trump plan to end TPS for Somali immigrants",
-      "url": "https://www.perplexity.ai/page/federal-judge-blocks-trump-pla-4gpUl.9YQiSBxk0JgsWRdw",
-      "description": "The temporary restraining order preserves legal protections for about 1,100 Somali nationals days before a March 17 termination deadline.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T22:13:48Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-19T23:47:03Z",
+  "cached_at": "2026-03-19T23:58:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
+        "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
+        "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T23:48:38Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "IAEA chief says Iran's nuclear program survives strikes",
         "url": "https://www.perplexity.ai/page/iaea-chief-says-iran-s-nuclear-RJxxFBr9RlKCMbCFZvZypA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T19:12:36Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Federal judge blocks Trump plan to end TPS for Somali immigrants",
-        "url": "https://www.perplexity.ai/page/federal-judge-blocks-trump-pla-4gpUl.9YQiSBxk0JgsWRdw",
-        "description": "The temporary restraining order preserves legal protections for about 1,100 Somali nationals days before a March 17 termination deadline.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T22:13:48Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
