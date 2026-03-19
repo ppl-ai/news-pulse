@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Tel Aviv researchers develop laser technique for longer-lasting battery anodes",
+      "url": "https://www.perplexity.ai/page/tel-aviv-researchers-develop-l-4ChKBT6fSsKc8lyZZhFGDQ",
+      "description": "A single-step, room-temperature laser process produces silicon-graphene anodes that retain over 98% capacity after 2,000 charge cycles.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T05:55:03Z",
+      "sourceCount": "22 sources"
+    },
+    {
       "title": "Iran war energy crisis sparks global push for renewables",
       "url": "https://www.perplexity.ai/page/iran-war-energy-crisis-sparks-pQ6i7tj4RaaLqLEjmeM.9Q",
       "description": "UN climate chief says the Strait of Hormuz blockade proves fossil fuel dependence threatens national security, urging faster adoption of clean energy.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-12T21:06:41Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "US reopens DEA office in Dominican Republic after corruption probe",
-      "url": "https://www.perplexity.ai/page/us-reopens-dea-office-in-domin-bKghFlkIQWqoiMhySTLsCg",
-      "description": "The Santo Domingo office was shuttered in February after a senior agent was arrested on bribery and visa fraud charges.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T19:23:27Z",
-      "sourceCount": "79 sources"
     }
   ],
-  "cached_at": "2026-03-19T05:37:33Z",
+  "cached_at": "2026-03-19T06:03:44Z",
   "topics": {
     "top": [
+      {
+        "title": "Tel Aviv researchers develop laser technique for longer-lasting battery anodes",
+        "url": "https://www.perplexity.ai/page/tel-aviv-researchers-develop-l-4ChKBT6fSsKc8lyZZhFGDQ",
+        "description": "A single-step, room-temperature laser process produces silicon-graphene anodes that retain over 98% capacity after 2,000 charge cycles.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T05:55:03Z",
+        "sourceCount": "22 sources"
+      },
       {
         "title": "Iran war energy crisis sparks global push for renewables",
         "url": "https://www.perplexity.ai/page/iran-war-energy-crisis-sparks-pQ6i7tj4RaaLqLEjmeM.9Q",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T21:06:41Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "US reopens DEA office in Dominican Republic after corruption probe",
-        "url": "https://www.perplexity.ai/page/us-reopens-dea-office-in-domin-bKghFlkIQWqoiMhySTLsCg",
-        "description": "The Santo Domingo office was shuttered in February after a senior agent was arrested on bribery and visa fraud charges.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T19:23:27Z",
-        "sourceCount": "79 sources"
       }
     ],
     "tech": [],
