@@ -1,13 +1,31 @@
 {
   "stories": [
     {
-      "title": "Vance vows gas prices will fall once Iran conflict ends",
-      "url": "https://www.perplexity.ai/page/vance-vows-gas-prices-will-fal-xWtChJLSSjibCpAW1vstMA",
-      "description": "As average gas prices hit $3.84 per gallon, the vice president called the surge \"temporary\" and promised a return to pre-war levels.",
+      "title": "Asian markets slide as oil tops $111 after Iran threats",
+      "url": "https://www.perplexity.ai/page/asian-markets-slide-as-oil-top-9KBuB53zRnitggNZYQJjIw",
+      "description": "The Fed held rates steady and warned of an \"energy shock\" as Middle East conflict drives crude prices higher and dims hopes for rate cuts.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-18T22:44:31Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-19T03:48:36Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "China pledges solar energy aid to Cuba after grid collapse",
+      "url": "https://www.perplexity.ai/page/china-pledges-solar-energy-aid-IKLs5zcbSVOlRi9gM8u05g",
+      "description": "Beijing vowed to accelerate renewable energy projects as Cuba's power grid failed, leaving nearly 11 million people without electricity for 29 hours.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T03:25:35Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Trump weighs sending ground troops to Iran in escalation of war plans",
+      "url": "https://www.perplexity.ai/page/trump-weighs-sending-ground-tr-.rjk1IKwTw2pk2suxt5mDA",
+      "description": "The administration is considering seizing Kharg Island and securing enriched uranium stockpiles, but no decision has been made, officials say.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T02:09:59Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "U.S. wholesale prices jump more than expected in February",
@@ -1331,37 +1349,37 @@
       "topic": "top",
       "pubDate": "2026-03-12T19:23:27Z",
       "sourceCount": "79 sources"
-    },
-    {
-      "title": "Canada says Iran war will dominate upcoming G7 foreign ministers' meeting",
-      "url": "https://www.perplexity.ai/page/canada-says-iran-war-will-domi-uO33o5hCTAm6EsCSMBVriQ",
-      "description": "Foreign Affairs Minister Anita Anand said G7 allies will hold \"a full-fledged conversation\" on diplomatic efforts when they gather near Paris on March 26-27.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T19:13:50Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Israel attacked Iran with no regime change plan, security sources say",
-      "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
-      "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T20:49:57Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-19T04:21:50Z",
+  "cached_at": "2026-03-19T05:04:10Z",
   "topics": {
     "top": [
       {
-        "title": "Vance vows gas prices will fall once Iran conflict ends",
-        "url": "https://www.perplexity.ai/page/vance-vows-gas-prices-will-fal-xWtChJLSSjibCpAW1vstMA",
-        "description": "As average gas prices hit $3.84 per gallon, the vice president called the surge \"temporary\" and promised a return to pre-war levels.",
+        "title": "Asian markets slide as oil tops $111 after Iran threats",
+        "url": "https://www.perplexity.ai/page/asian-markets-slide-as-oil-top-9KBuB53zRnitggNZYQJjIw",
+        "description": "The Fed held rates steady and warned of an \"energy shock\" as Middle East conflict drives crude prices higher and dims hopes for rate cuts.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-18T22:44:31Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-19T03:48:36Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "China pledges solar energy aid to Cuba after grid collapse",
+        "url": "https://www.perplexity.ai/page/china-pledges-solar-energy-aid-IKLs5zcbSVOlRi9gM8u05g",
+        "description": "Beijing vowed to accelerate renewable energy projects as Cuba's power grid failed, leaving nearly 11 million people without electricity for 29 hours.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T03:25:35Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Trump weighs sending ground troops to Iran in escalation of war plans",
+        "url": "https://www.perplexity.ai/page/trump-weighs-sending-ground-tr-.rjk1IKwTw2pk2suxt5mDA",
+        "description": "The administration is considering seizing Kharg Island and securing enriched uranium stockpiles, but no decision has been made, officials say.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T02:09:59Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "U.S. wholesale prices jump more than expected in February",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T19:23:27Z",
         "sourceCount": "79 sources"
-      },
-      {
-        "title": "Canada says Iran war will dominate upcoming G7 foreign ministers' meeting",
-        "url": "https://www.perplexity.ai/page/canada-says-iran-war-will-domi-uO33o5hCTAm6EsCSMBVriQ",
-        "description": "Foreign Affairs Minister Anita Anand said G7 allies will hold \"a full-fledged conversation\" on diplomatic efforts when they gather near Paris on March 26-27.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T19:13:50Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Israel attacked Iran with no regime change plan, security sources say",
-        "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
-        "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T20:49:57Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
