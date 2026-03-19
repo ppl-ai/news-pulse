@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Unilever and Kraft Heinz end food merger talks",
+      "url": "https://www.perplexity.ai/page/unilever-and-kraft-heinz-end-f-ET.LEMmYQFy7IoBXWzlOYA",
+      "description": "The collapsed deal would have united Hellmann's mayonnaise and Heinz ketchup in an entity worth tens of billions of dollars.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T10:03:40Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Rockefeller scientists build mass spectrometer that traps a billion ions at once",
+      "url": "https://www.perplexity.ai/page/rockefeller-scientists-build-m-PNblA_SVSb.h9rJA9OH9ag",
+      "description": "The new MultiQ-IT prototype processes ions in parallel rather than one at a time, a leap its creators compare to the shift from serial to parallel computing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T10:00:54Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Eight states sue to block Nexstar's acquisition of Tegna",
       "url": "https://www.perplexity.ai/page/eight-states-sue-to-block-nexs-57KVmFc1QyOKp0PPBzbR9g",
       "description": "The coalition argues the deal would illegally concentrate local TV ownership, raise cable bills, and gut newsrooms across 31 markets.",
@@ -1304,29 +1322,29 @@
       "topic": "top",
       "pubDate": "2026-03-13T00:18:57Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iran warns regional blackout would follow any US grid strike",
-      "url": "https://www.perplexity.ai/page/iran-warns-regional-blackout-w-cjDsE0M7RH6zbE0g9w4aYw",
-      "description": "Tehran's top security official said darkness would let Iran \"hunt down US servicemen,\" as threats expanded to oil and energy targets.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T23:08:39Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Drones hit Dubai again as Iran's Gulf attacks enter 13th day",
-      "url": "https://www.perplexity.ai/page/drones-hit-dubai-again-as-iran-u_UJa5mlSBetPRryLquajw",
-      "description": "Multiple drone incidents struck Dubai overnight and Thursday morning, including near the financial district, as corporate evacuations spread across the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T23:02:56Z",
-      "sourceCount": "45 sources"
     }
   ],
-  "cached_at": "2026-03-19T09:50:50Z",
+  "cached_at": "2026-03-19T10:09:11Z",
   "topics": {
     "top": [
+      {
+        "title": "Unilever and Kraft Heinz end food merger talks",
+        "url": "https://www.perplexity.ai/page/unilever-and-kraft-heinz-end-f-ET.LEMmYQFy7IoBXWzlOYA",
+        "description": "The collapsed deal would have united Hellmann's mayonnaise and Heinz ketchup in an entity worth tens of billions of dollars.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T10:03:40Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Rockefeller scientists build mass spectrometer that traps a billion ions at once",
+        "url": "https://www.perplexity.ai/page/rockefeller-scientists-build-m-PNblA_SVSb.h9rJA9OH9ag",
+        "description": "The new MultiQ-IT prototype processes ions in parallel rather than one at a time, a leap its creators compare to the shift from serial to parallel computing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T10:00:54Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Eight states sue to block Nexstar's acquisition of Tegna",
         "url": "https://www.perplexity.ai/page/eight-states-sue-to-block-nexs-57KVmFc1QyOKp0PPBzbR9g",
@@ -2631,24 +2649,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T00:18:57Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iran warns regional blackout would follow any US grid strike",
-        "url": "https://www.perplexity.ai/page/iran-warns-regional-blackout-w-cjDsE0M7RH6zbE0g9w4aYw",
-        "description": "Tehran's top security official said darkness would let Iran \"hunt down US servicemen,\" as threats expanded to oil and energy targets.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T23:08:39Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Drones hit Dubai again as Iran's Gulf attacks enter 13th day",
-        "url": "https://www.perplexity.ai/page/drones-hit-dubai-again-as-iran-u_UJa5mlSBetPRryLquajw",
-        "description": "Multiple drone incidents struck Dubai overnight and Thursday morning, including near the financial district, as corporate evacuations spread across the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T23:02:56Z",
-        "sourceCount": "45 sources"
       }
     ],
     "tech": [],
