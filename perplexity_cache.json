@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NASA's Perseverance finds ancient river delta buried 115 feet under Mars",
+      "url": "https://www.perplexity.ai/page/nasa-s-perseverance-finds-anci-TC41DeclQDea.hJA_d8vnw",
+      "description": "Ground-penetrating radar revealed a hidden delta formation dating back up to 4.2 billion years beneath Jezero Crater, predating known surface features.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T02:35:26Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Vance vows gas prices will fall once Iran conflict ends",
       "url": "https://www.perplexity.ai/page/vance-vows-gas-prices-will-fal-xWtChJLSSjibCpAW1vstMA",
       "description": "As average gas prices hit $3.84 per gallon, the vice president called the surge \"temporary\" and promised a return to pre-war levels.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-12T19:13:50Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Israel attacked Iran with no regime change plan, security sources say",
-      "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
-      "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T20:49:57Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-19T02:23:13Z",
+  "cached_at": "2026-03-19T03:27:49Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA's Perseverance finds ancient river delta buried 115 feet under Mars",
+        "url": "https://www.perplexity.ai/page/nasa-s-perseverance-finds-anci-TC41DeclQDea.hJA_d8vnw",
+        "description": "Ground-penetrating radar revealed a hidden delta formation dating back up to 4.2 billion years beneath Jezero Crater, predating known surface features.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T02:35:26Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Vance vows gas prices will fall once Iran conflict ends",
         "url": "https://www.perplexity.ai/page/vance-vows-gas-prices-will-fal-xWtChJLSSjibCpAW1vstMA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T19:13:50Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Israel attacked Iran with no regime change plan, security sources say",
-        "url": "https://www.perplexity.ai/page/israel-attacked-iran-with-no-r-FKFpDeePT8qauPn_7ye_2Q",
-        "description": "Nearly two weeks into the U.S.-Israeli bombing campaign, senior Israeli officials admit hopes of a popular uprising were based on \"wishful thinking.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T20:49:57Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
