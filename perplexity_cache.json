@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Bessent says US may lift sanctions on 140M barrels of Iranian oil at sea",
+      "url": "https://www.perplexity.ai/page/bessent-says-us-may-lift-sanct-qyyGB7HoTweA3229znfoMQ",
+      "description": "The Treasury secretary outlined plans to flood physical markets with crude to offset the Strait of Hormuz disruption, while ruling out futures market intervention.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T16:28:41Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "Hegseth says Iran campaign has no timeline, decision is Trump’s",
+      "url": "https://www.perplexity.ai/page/hegseth-says-iran-campaign-has-YM6chtFlRomIUKBlgGCenw",
+      "description": "Hegseth confirmed the funding request and said over 7,000 targets have been struck as Operation Epic Fury enters its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T16:20:49Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Apple on track to top $1B in AI app fees in 2026",
+      "url": "https://www.perplexity.ai/page/apple-on-track-to-top-1b-in-ai-9HJREnVwR6uyVIEXlyiLcg",
+      "description": "The iPhone maker collected nearly $900 million from generative AI apps in 2025 — mostly from ChatGPT — without building its own AI models.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T16:20:29Z",
+      "sourceCount": "12 sources"
+    },
+    {
       "title": "Iran proposes charging tolls on ships transiting the Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/iran-proposes-charging-tolls-o-WuFyxOVATKqHpbJealxddQ",
       "description": "Parliament is drafting a bill to impose fees on vessels using the waterway, which carries a fifth of global oil and gas shipments.",
@@ -25,15 +52,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-19T15:19:10Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Iran strikes Gulf energy sites as oil tops $115",
-      "url": "https://www.perplexity.ai/page/iran-strikes-gulf-energy-sites-_jicy9BURIyr_EETrSmInQ",
-      "description": "Brent crude surged to its highest level since 2022 after Iranian drones and missiles hit refineries and gas facilities across Saudi Arabia, Qatar, Kuwait, and the UAE.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T14:59:54Z",
       "sourceCount": "30 sources"
     },
     {
@@ -1288,9 +1306,36 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-19T16:37:45Z",
+  "cached_at": "2026-03-19T17:08:28Z",
   "topics": {
     "top": [
+      {
+        "title": "Bessent says US may lift sanctions on 140M barrels of Iranian oil at sea",
+        "url": "https://www.perplexity.ai/page/bessent-says-us-may-lift-sanct-qyyGB7HoTweA3229znfoMQ",
+        "description": "The Treasury secretary outlined plans to flood physical markets with crude to offset the Strait of Hormuz disruption, while ruling out futures market intervention.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T16:28:41Z",
+        "sourceCount": "23 sources"
+      },
+      {
+        "title": "Hegseth says Iran campaign has no timeline, decision is Trump’s",
+        "url": "https://www.perplexity.ai/page/hegseth-says-iran-campaign-has-YM6chtFlRomIUKBlgGCenw",
+        "description": "Hegseth confirmed the funding request and said over 7,000 targets have been struck as Operation Epic Fury enters its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T16:20:49Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Apple on track to top $1B in AI app fees in 2026",
+        "url": "https://www.perplexity.ai/page/apple-on-track-to-top-1b-in-ai-9HJREnVwR6uyVIEXlyiLcg",
+        "description": "The iPhone maker collected nearly $900 million from generative AI apps in 2025 — mostly from ChatGPT — without building its own AI models.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T16:20:29Z",
+        "sourceCount": "12 sources"
+      },
       {
         "title": "Iran proposes charging tolls on ships transiting the Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/iran-proposes-charging-tolls-o-WuFyxOVATKqHpbJealxddQ",
@@ -1316,15 +1361,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-19T15:19:10Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Iran strikes Gulf energy sites as oil tops $115",
-        "url": "https://www.perplexity.ai/page/iran-strikes-gulf-energy-sites-_jicy9BURIyr_EETrSmInQ",
-        "description": "Brent crude surged to its highest level since 2022 after Iranian drones and missiles hit refineries and gas facilities across Saudi Arabia, Qatar, Kuwait, and the UAE.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T14:59:54Z",
         "sourceCount": "30 sources"
       },
       {
