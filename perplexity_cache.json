@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Eight states sue to block Nexstar's acquisition of Tegna",
+      "url": "https://www.perplexity.ai/page/eight-states-sue-to-block-nexs-57KVmFc1QyOKp0PPBzbR9g",
+      "description": "The coalition argues the deal would illegally concentrate local TV ownership, raise cable bills, and gut newsrooms across 31 markets.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T09:26:14Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Iran targets Gulf energy sites as oil nears $110",
       "url": "https://www.perplexity.ai/page/iran-targets-gulf-energy-sites-Xw6_hDORSAyUcD4TH2xX3Q",
       "description": "The conflict's expansion into an energy war has amplified global calls to accelerate renewable investment and reduce fossil fuel dependence.",
@@ -1313,20 +1322,20 @@
       "topic": "top",
       "pubDate": "2026-03-12T23:02:56Z",
       "sourceCount": "45 sources"
-    },
-    {
-      "title": "Aramco denies reports of talks to buy Ukrainian drones",
-      "url": "https://www.perplexity.ai/page/aramco-denies-reports-of-talks-89elRf4ORy6UNQhj3_hi0g",
-      "description": "The Saudi oil giant called a Wall Street Journal report about negotiations with Ukrainian interceptor drone makers \"inaccurate,\" saying no such procurement talks are underway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-12T22:50:29Z",
-      "sourceCount": "33 sources"
     }
   ],
-  "cached_at": "2026-03-19T09:27:54Z",
+  "cached_at": "2026-03-19T09:50:50Z",
   "topics": {
     "top": [
+      {
+        "title": "Eight states sue to block Nexstar's acquisition of Tegna",
+        "url": "https://www.perplexity.ai/page/eight-states-sue-to-block-nexs-57KVmFc1QyOKp0PPBzbR9g",
+        "description": "The coalition argues the deal would illegally concentrate local TV ownership, raise cable bills, and gut newsrooms across 31 markets.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T09:26:14Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Iran targets Gulf energy sites as oil nears $110",
         "url": "https://www.perplexity.ai/page/iran-targets-gulf-energy-sites-Xw6_hDORSAyUcD4TH2xX3Q",
@@ -2640,15 +2649,6 @@
         "topic": "top",
         "pubDate": "2026-03-12T23:02:56Z",
         "sourceCount": "45 sources"
-      },
-      {
-        "title": "Aramco denies reports of talks to buy Ukrainian drones",
-        "url": "https://www.perplexity.ai/page/aramco-denies-reports-of-talks-89elRf4ORy6UNQhj3_hi0g",
-        "description": "The Saudi oil giant called a Wall Street Journal report about negotiations with Ukrainian interceptor drone makers \"inaccurate,\" saying no such procurement talks are underway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-12T22:50:29Z",
-        "sourceCount": "33 sources"
       }
     ],
     "tech": [],
