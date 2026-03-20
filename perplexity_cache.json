@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Trump vows to curb energy prices as Iran war roils global oil markets",
+      "url": "https://www.perplexity.ai/page/trump-vows-to-curb-energy-pric-npld4mcLQBqGj.GpylL4aQ",
+      "description": "Treasury Secretary Bessent floated lifting sanctions on 140 million barrels of Iranian oil already in transit to help ease surging costs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T04:20:45Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Live Nation CEO admits pay tied to 'solving' DOJ antitrust case",
+      "url": "https://www.perplexity.ai/page/live-nation-ceo-admits-pay-tie-CMuSsm7XQoa9Sdp_ByQCZg",
+      "description": "Michael Rapino testified Thursday that about 90% of his compensation depends on profit targets and resolving the federal government's antitrust challenge.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T04:19:15Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Sailor's Strava jog exposes French carrier's location amid Iran conflict",
       "url": "https://www.perplexity.ai/page/sailor-s-strava-jog-exposes-fr-KqoZ6AV.RK6dd4RiSsIUjQ",
       "description": "Le Monde revealed that a naval officer's public fitness data pinpointed the Charles de Gaulle near Cyprus during its eastern Mediterranean deployment.",
@@ -8,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T03:53:51Z",
       "sourceCount": "20 sources"
-    },
-    {
-      "title": "Saudi officials warn oil could hit $180 if Iran war persists past April",
-      "url": "https://www.perplexity.ai/page/saudi-officials-warn-oil-could-tfUiUByIRt6.FVSxzLDRyQ",
-      "description": "Internal Saudi projections show a phased price spiral from current levels to $180-plus per barrel by late April if Gulf supply disruptions continue.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T03:24:37Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Tesla in talks to buy $2.9B in solar gear from Chinese firms",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-13T23:28:48Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Schumer demands Bessent testify over Russia sanctions relief",
-      "url": "https://www.perplexity.ai/page/schumer-demands-bessent-testif-rCmvvqhVRrebdM.WVFj4FA",
-      "description": "Senate Democrats condemned the Treasury Department's decision to temporarily lift sanctions on Russian oil stranded at sea amid the Iran conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T22:58:58Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-20T04:04:25Z",
+  "cached_at": "2026-03-20T04:46:12Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump vows to curb energy prices as Iran war roils global oil markets",
+        "url": "https://www.perplexity.ai/page/trump-vows-to-curb-energy-pric-npld4mcLQBqGj.GpylL4aQ",
+        "description": "Treasury Secretary Bessent floated lifting sanctions on 140 million barrels of Iranian oil already in transit to help ease surging costs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T04:20:45Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Live Nation CEO admits pay tied to 'solving' DOJ antitrust case",
+        "url": "https://www.perplexity.ai/page/live-nation-ceo-admits-pay-tie-CMuSsm7XQoa9Sdp_ByQCZg",
+        "description": "Michael Rapino testified Thursday that about 90% of his compensation depends on profit targets and resolving the federal government's antitrust challenge.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T04:19:15Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Sailor's Strava jog exposes French carrier's location amid Iran conflict",
         "url": "https://www.perplexity.ai/page/sailor-s-strava-jog-exposes-fr-KqoZ6AV.RK6dd4RiSsIUjQ",
@@ -1362,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T03:53:51Z",
         "sourceCount": "20 sources"
-      },
-      {
-        "title": "Saudi officials warn oil could hit $180 if Iran war persists past April",
-        "url": "https://www.perplexity.ai/page/saudi-officials-warn-oil-could-tfUiUByIRt6.FVSxzLDRyQ",
-        "description": "Internal Saudi projections show a phased price spiral from current levels to $180-plus per barrel by late April if Gulf supply disruptions continue.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T03:24:37Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Tesla in talks to buy $2.9B in solar gear from Chinese firms",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T23:28:48Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Schumer demands Bessent testify over Russia sanctions relief",
-        "url": "https://www.perplexity.ai/page/schumer-demands-bessent-testif-rCmvvqhVRrebdM.WVFj4FA",
-        "description": "Senate Democrats condemned the Treasury Department's decision to temporarily lift sanctions on Russian oil stranded at sea amid the Iran conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T22:58:58Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
