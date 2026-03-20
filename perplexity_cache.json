@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Treasury yields jump as Iran war fuels inflation fears",
-      "url": "https://www.perplexity.ai/page/treasury-yields-jump-as-iran-w-tZLMLLueQqeVXrg5UFJ1lQ",
-      "description": "Bond markets rattled a day after the Fed held rates steady and raised its 2026 inflation forecast, citing uncertainty from the Middle East conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T13:22:13Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "IRGC charges ships for 'safe' Hormuz passage",
       "url": "https://www.perplexity.ai/page/irgc-charges-ships-for-safe-ho-LSc0CNM7QJKF2cbgew.9AA",
       "description": "Iran's Revolutionary Guard Corps is routing vessels through a paid corridor near Larak Island, with at least one operator reportedly paying $2 million.",
@@ -17,15 +8,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T12:43:50Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "European gas eases after U.S., Israel move to calm Gulf energy fears",
-      "url": "https://www.perplexity.ai/page/european-gas-eases-after-u-s-i-yRA5Sc7xRiSRGuKuPcH.Lw",
-      "description": "Benchmark futures pulled back Friday but remain on track for a roughly 20% weekly gain after strikes on Gulf facilities doubled prices since the war began.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T12:36:32Z",
-      "sourceCount": "43 sources"
     },
     {
       "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
@@ -44,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T10:19:38Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "European stocks rally as oil retreats from 2022 highs",
-      "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
-      "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T12:09:45Z",
-      "sourceCount": "37 sources"
     },
     {
       "title": "Israel strikes Tehran infrastructure as Gulf energy crisis deepens",
@@ -80,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T05:20:03Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
+      "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
+      "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T05:41:48Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -467,6 +449,15 @@
       "topic": "top",
       "pubDate": "2026-03-18T18:11:06Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
+      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
+      "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T20:43:46Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "FAA ends visual separation for helicopters near airports nationwide",
@@ -1252,18 +1243,9 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-20T13:45:19Z",
+  "cached_at": "2026-03-20T14:07:54Z",
   "topics": {
     "top": [
-      {
-        "title": "Treasury yields jump as Iran war fuels inflation fears",
-        "url": "https://www.perplexity.ai/page/treasury-yields-jump-as-iran-w-tZLMLLueQqeVXrg5UFJ1lQ",
-        "description": "Bond markets rattled a day after the Fed held rates steady and raised its 2026 inflation forecast, citing uncertainty from the Middle East conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T13:22:13Z",
-        "sourceCount": "30 sources"
-      },
       {
         "title": "IRGC charges ships for 'safe' Hormuz passage",
         "url": "https://www.perplexity.ai/page/irgc-charges-ships-for-safe-ho-LSc0CNM7QJKF2cbgew.9AA",
@@ -1272,15 +1254,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T12:43:50Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "European gas eases after U.S., Israel move to calm Gulf energy fears",
-        "url": "https://www.perplexity.ai/page/european-gas-eases-after-u-s-i-yRA5Sc7xRiSRGuKuPcH.Lw",
-        "description": "Benchmark futures pulled back Friday but remain on track for a roughly 20% weekly gain after strikes on Gulf facilities doubled prices since the war began.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T12:36:32Z",
-        "sourceCount": "43 sources"
       },
       {
         "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
@@ -1299,15 +1272,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T10:19:38Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "European stocks rally as oil retreats from 2022 highs",
-        "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
-        "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T12:09:45Z",
-        "sourceCount": "37 sources"
       },
       {
         "title": "Israel strikes Tehran infrastructure as Gulf energy crisis deepens",
@@ -1335,6 +1299,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T05:20:03Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
+        "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
+        "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T05:41:48Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -1722,6 +1695,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T18:11:06Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
+        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
+        "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T20:43:46Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "FAA ends visual separation for helicopters near airports nationwide",
