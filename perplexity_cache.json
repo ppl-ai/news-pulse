@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Georgia suspends gas tax as national average nears $4",
+      "url": "https://www.perplexity.ai/page/georgia-suspends-gas-tax-as-na-pAwTz9OcRTuWSbON5cFbtg",
+      "description": "Gov. Brian Kemp signed a 60-day fuel tax suspension Friday, cutting about 33 cents per gallon as prices surge amid the Iran conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T23:49:31Z",
+      "sourceCount": "38 sources"
+    },
+    {
       "title": "QatarEnergy CEO says he warned U.S. before Iran struck Gulf gas facilities",
       "url": "https://www.perplexity.ai/page/qatarenergy-ceo-says-he-warned-8Bdap1mqRCGjAT7HgD.HYg",
       "description": "Saad al-Kaabi told Reuters he cautioned American officials daily about risks to energy infrastructure before Iranian strikes destroyed key LNG equipment.",
@@ -1180,9 +1189,18 @@
       "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-20T23:46:07Z",
+  "cached_at": "2026-03-20T23:57:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Georgia suspends gas tax as national average nears $4",
+        "url": "https://www.perplexity.ai/page/georgia-suspends-gas-tax-as-na-pAwTz9OcRTuWSbON5cFbtg",
+        "description": "Gov. Brian Kemp signed a 60-day fuel tax suspension Friday, cutting about 33 cents per gallon as prices surge amid the Iran conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T23:49:31Z",
+        "sourceCount": "38 sources"
+      },
       {
         "title": "QatarEnergy CEO says he warned U.S. before Iran struck Gulf gas facilities",
         "url": "https://www.perplexity.ai/page/qatarenergy-ceo-says-he-warned-8Bdap1mqRCGjAT7HgD.HYg",
