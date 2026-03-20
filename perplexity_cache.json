@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
+      "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
+      "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T16:29:28Z",
+      "sourceCount": "72 sources"
+    },
+    {
       "title": "DOJ sues Harvard over alleged antisemitism on campus",
       "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
       "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
@@ -1225,9 +1234,18 @@
       "sourceCount": "81 sources"
     }
   ],
-  "cached_at": "2026-03-20T17:09:57Z",
+  "cached_at": "2026-03-20T17:26:55Z",
   "topics": {
     "top": [
+      {
+        "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
+        "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
+        "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T16:29:28Z",
+        "sourceCount": "72 sources"
+      },
       {
         "title": "DOJ sues Harvard over alleged antisemitism on campus",
         "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
