@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Major banks forecast ECB, BOE rate hikes amid Iran war inflation surge",
+      "url": "https://www.perplexity.ai/page/major-banks-forecast-ecb-boe-r-BN5uYZ.nSAW2wBiBxjzeWg",
+      "description": "J.P. Morgan, Morgan Stanley, Barclays, and Goldman Sachs now expect rate hikes as early as April after both central banks held rates steady this week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T09:54:21Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "IMO condemns Iran's attacks on ships in Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/imo-condemns-iran-s-attacks-on-.C8FzAFzRSyoeLyFRklJHQ",
       "description": "India called attacks on commercial shipping \"unacceptable\" as the IMO council urged an internationally coordinated response and a maritime safety corridor.",
@@ -19,15 +28,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "J.P. Morgan forecasts ECB rate hikes in April and July",
-      "url": "https://www.perplexity.ai/page/j-p-morgan-forecasts-ecb-rate-pvyEeUORRZGLjkQO7XlPMA",
-      "description": "The call came hours after the ECB held rates steady for a sixth straight meeting, warning the Middle East war would materially impact inflation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T07:20:09Z",
-      "sourceCount": "40 sources"
-    },
-    {
       "title": "Old-growth forests store far more carbon than logged ones, study finds",
       "url": "https://www.perplexity.ai/page/old-growth-forests-store-far-m-uiMrLX7BQkOVYGb5AKnlCQ",
       "description": "A decade-long study published in Science reveals Sweden's primary forests hold 83% more carbon than managed woodlands, driven largely by overlooked soil reserves.",
@@ -37,15 +37,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
-      "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
-      "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T05:41:48Z",
-      "sourceCount": "41 sources"
-    },
-    {
       "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
       "url": "https://www.perplexity.ai/page/alibaba-tencent-shed-66-billio-VkiUnbqHTbqXZkUNEaH_0Q",
       "description": "China's two largest tech companies lost a combined $66 billion in market value in roughly 24 hours after disappointing earnings and costly AI spending plans.",
@@ -53,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T05:20:03Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
+      "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
+      "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T05:41:48Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -1351,9 +1351,18 @@
       "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-03-20T10:00:55Z",
+  "cached_at": "2026-03-20T10:20:32Z",
   "topics": {
     "top": [
+      {
+        "title": "Major banks forecast ECB, BOE rate hikes amid Iran war inflation surge",
+        "url": "https://www.perplexity.ai/page/major-banks-forecast-ecb-boe-r-BN5uYZ.nSAW2wBiBxjzeWg",
+        "description": "J.P. Morgan, Morgan Stanley, Barclays, and Goldman Sachs now expect rate hikes as early as April after both central banks held rates steady this week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T09:54:21Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "IMO condemns Iran's attacks on ships in Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/imo-condemns-iran-s-attacks-on-.C8FzAFzRSyoeLyFRklJHQ",
@@ -1373,15 +1382,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "J.P. Morgan forecasts ECB rate hikes in April and July",
-        "url": "https://www.perplexity.ai/page/j-p-morgan-forecasts-ecb-rate-pvyEeUORRZGLjkQO7XlPMA",
-        "description": "The call came hours after the ECB held rates steady for a sixth straight meeting, warning the Middle East war would materially impact inflation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T07:20:09Z",
-        "sourceCount": "40 sources"
-      },
-      {
         "title": "Old-growth forests store far more carbon than logged ones, study finds",
         "url": "https://www.perplexity.ai/page/old-growth-forests-store-far-m-uiMrLX7BQkOVYGb5AKnlCQ",
         "description": "A decade-long study published in Science reveals Sweden's primary forests hold 83% more carbon than managed woodlands, driven largely by overlooked soil reserves.",
@@ -1391,15 +1391,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
-        "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
-        "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T05:41:48Z",
-        "sourceCount": "41 sources"
-      },
-      {
         "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
         "url": "https://www.perplexity.ai/page/alibaba-tencent-shed-66-billio-VkiUnbqHTbqXZkUNEaH_0Q",
         "description": "China's two largest tech companies lost a combined $66 billion in market value in roughly 24 hours after disappointing earnings and costly AI spending plans.",
@@ -1407,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T05:20:03Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
+        "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
+        "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T05:41:48Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
