@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. prosecutors open criminal probes into Colombia's President",
+      "url": "https://www.perplexity.ai/page/u-s-prosecutors-open-criminal-14Qkrc2TTLu_5c_zQNfELQ",
+      "description": "Federal offices in Manhattan and Brooklyn are examining whether Petro met with drug traffickers or received narcotics-linked campaign donations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T17:44:35Z",
+      "sourceCount": "33 sources"
+    },
+    {
       "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
       "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
       "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T17:25:26Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump privately concedes deportation push went too far, WSJ reports",
-      "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
-      "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T17:25:01Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
@@ -28,6 +28,15 @@
       "sourceCount": "35 sources"
     },
     {
+      "title": "Trump privately concedes deportation push went too far, WSJ reports",
+      "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
+      "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T17:25:01Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
       "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
       "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
@@ -35,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T14:37:53Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "IRGC charges ships for 'safe' Hormuz passage",
+      "url": "https://www.perplexity.ai/page/irgc-charges-ships-for-safe-ho-LSc0CNM7QJKF2cbgew.9AA",
+      "description": "Iran's Revolutionary Guard Corps is routing vessels through a paid corridor near Larak Island, with at least one operator reportedly paying $2 million.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T12:43:50Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
@@ -53,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T16:23:35Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "IRGC charges ships for 'safe' Hormuz passage",
-      "url": "https://www.perplexity.ai/page/irgc-charges-ships-for-safe-ho-LSc0CNM7QJKF2cbgew.9AA",
-      "description": "Iran's Revolutionary Guard Corps is routing vessels through a paid corridor near Larak Island, with at least one operator reportedly paying $2 million.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T12:43:50Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
@@ -1223,20 +1232,20 @@
       "topic": "top",
       "pubDate": "2026-03-14T17:58:00Z",
       "sourceCount": "64 sources"
-    },
-    {
-      "title": "UAE consulate in Erbil hit by drone for second time in a week",
-      "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
-      "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T15:12:07Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-20T17:47:32Z",
+  "cached_at": "2026-03-20T18:03:12Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. prosecutors open criminal probes into Colombia's President",
+        "url": "https://www.perplexity.ai/page/u-s-prosecutors-open-criminal-14Qkrc2TTLu_5c_zQNfELQ",
+        "description": "Federal offices in Manhattan and Brooklyn are examining whether Petro met with drug traffickers or received narcotics-linked campaign donations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T17:44:35Z",
+        "sourceCount": "33 sources"
+      },
       {
         "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
         "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
@@ -1245,15 +1254,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T17:25:26Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump privately concedes deportation push went too far, WSJ reports",
-        "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
-        "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T17:25:01Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
@@ -1265,6 +1265,15 @@
         "sourceCount": "35 sources"
       },
       {
+        "title": "Trump privately concedes deportation push went too far, WSJ reports",
+        "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
+        "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T17:25:01Z",
+        "sourceCount": "42 sources"
+      },
+      {
         "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
         "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
         "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
@@ -1272,6 +1281,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T14:37:53Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "IRGC charges ships for 'safe' Hormuz passage",
+        "url": "https://www.perplexity.ai/page/irgc-charges-ships-for-safe-ho-LSc0CNM7QJKF2cbgew.9AA",
+        "description": "Iran's Revolutionary Guard Corps is routing vessels through a paid corridor near Larak Island, with at least one operator reportedly paying $2 million.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T12:43:50Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
@@ -1290,15 +1308,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T16:23:35Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "IRGC charges ships for 'safe' Hormuz passage",
-        "url": "https://www.perplexity.ai/page/irgc-charges-ships-for-safe-ho-LSc0CNM7QJKF2cbgew.9AA",
-        "description": "Iran's Revolutionary Guard Corps is routing vessels through a paid corridor near Larak Island, with at least one operator reportedly paying $2 million.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T12:43:50Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
@@ -2460,15 +2469,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T17:58:00Z",
         "sourceCount": "64 sources"
-      },
-      {
-        "title": "UAE consulate in Erbil hit by drone for second time in a week",
-        "url": "https://www.perplexity.ai/page/uae-consulate-in-erbil-hit-by-_WSosPN6SGqyUwgkeQrq.g",
-        "description": "Two security personnel were wounded in Saturday's strike, which the UAE called an \"unprovoked terrorist drone attack\" and a violation of international law.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T15:12:07Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
