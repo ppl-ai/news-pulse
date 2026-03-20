@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
+      "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
+      "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T05:41:48Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
       "url": "https://www.perplexity.ai/page/alibaba-tencent-shed-66-billio-VkiUnbqHTbqXZkUNEaH_0Q",
       "description": "China's two largest tech companies lost a combined $66 billion in market value in roughly 24 hours after disappointing earnings and costly AI spending plans.",
@@ -17,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T05:19:48Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Trump downplays war's economic toll as Iran hits Gulf energy sites",
-      "url": "https://www.perplexity.ai/page/trump-downplays-war-s-economic-mNcWpqtDRuKgppjKRbSaVg",
-      "description": "The White House is considering releasing sanctioned Iranian oil at sea as gas prices surge to their highest levels since 2023.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T04:23:46Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Live Nation CEO admits pay tied to 'solving' DOJ antitrust case",
@@ -1351,9 +1351,18 @@
       "sourceCount": "67 sources"
     }
   ],
-  "cached_at": "2026-03-20T05:41:20Z",
+  "cached_at": "2026-03-20T06:05:53Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil prices drop as U.S. moves to ease Iran war supply fears",
+        "url": "https://www.perplexity.ai/page/oil-prices-drop-as-u-s-moves-t-ZTs1gftUQt.f7RdsjXT37g",
+        "description": "Brent crude pulled back sharply after Trump urged Israel to stop hitting energy targets and Washington signaled new steps to boost global oil supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T05:41:48Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
         "url": "https://www.perplexity.ai/page/alibaba-tencent-shed-66-billio-VkiUnbqHTbqXZkUNEaH_0Q",
@@ -1371,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T05:19:48Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Trump downplays war's economic toll as Iran hits Gulf energy sites",
-        "url": "https://www.perplexity.ai/page/trump-downplays-war-s-economic-mNcWpqtDRuKgppjKRbSaVg",
-        "description": "The White House is considering releasing sanctioned Iranian oil at sea as gas prices surge to their highest levels since 2023.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T04:23:46Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Live Nation CEO admits pay tied to 'solving' DOJ antitrust case",
