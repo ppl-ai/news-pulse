@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US launches air campaign to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
+      "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T10:46:46Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
       "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
       "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
@@ -730,15 +739,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Oil tankers begin trickling through Strait of Hormuz, White House says",
-      "url": "https://www.perplexity.ai/page/oil-tankers-begin-trickling-th-2dmPoPJ0R9KTWe9l4h_eaw",
-      "description": "Traffic through the critical waterway had nearly ceased as the U.S.-Israeli military campaign against Iran enters its third week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T15:22:25Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "China's fuel export ban deepens Asia's energy crisis amid Iran war",
       "url": "https://www.perplexity.ai/page/china-s-fuel-export-ban-deepen-llOYiejuTgq0iiuU6zKc6A",
       "description": "Beijing halted diesel, gasoline, and jet fuel exports as the Strait of Hormuz closure and Iran conflict drive prices sharply higher across the region.",
@@ -1351,9 +1351,18 @@
       "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-20T10:39:51Z",
+  "cached_at": "2026-03-20T10:58:52Z",
   "topics": {
     "top": [
+      {
+        "title": "US launches air campaign to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
+        "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T10:46:46Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
         "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
@@ -2081,15 +2090,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-17T15:42:53Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Oil tankers begin trickling through Strait of Hormuz, White House says",
-        "url": "https://www.perplexity.ai/page/oil-tankers-begin-trickling-th-2dmPoPJ0R9KTWe9l4h_eaw",
-        "description": "Traffic through the critical waterway had nearly ceased as the U.S.-Israeli military campaign against Iran enters its third week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T15:22:25Z",
         "sourceCount": "29 sources"
       },
       {
