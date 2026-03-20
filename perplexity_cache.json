@@ -1,22 +1,22 @@
 {
   "stories": [
     {
-      "title": "European stocks rally as oil retreats from 2022 highs",
-      "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
-      "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
+      "title": "European gas eases after U.S., Israel move to calm Gulf energy fears",
+      "url": "https://www.perplexity.ai/page/european-gas-eases-after-u-s-i-yRA5Sc7xRiSRGuKuPcH.Lw",
+      "description": "Benchmark futures pulled back Friday but remain on track for a roughly 20% weekly gain after strikes on Gulf facilities doubled prices since the war began.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T12:09:45Z",
-      "sourceCount": "37 sources"
+      "pubDate": "2026-03-20T12:36:32Z",
+      "sourceCount": "43 sources"
     },
     {
-      "title": "US launches air campaign to reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
-      "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
+      "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/allies-resist-trump-s-push-for-PCZAQFxvQzut0WB3kFUHMw",
+      "description": "The U.S. has sunk over 120 Iranian naval vessels and is ramping up strikes, but Japan and France have stopped short of committing to escort operations.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T10:46:46Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-20T12:30:18Z",
+      "sourceCount": "54 sources"
     },
     {
       "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T10:19:38Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "European stocks rally as oil retreats from 2022 highs",
+      "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
+      "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T12:09:45Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Major banks forecast ECB, BOE rate hikes amid Iran war inflation surge",
@@ -1295,55 +1304,28 @@
       "topic": "top",
       "pubDate": "2026-03-14T01:58:50Z",
       "sourceCount": "45 sources"
-    },
-    {
-      "title": "Trump blames 'genetics' of attackers after wave of violence",
-      "url": "https://www.perplexity.ai/page/trump-blames-genetics-of-attac-hWZ_tkaLQh2Kz.ZnsftDMA",
-      "description": "The president linked recent attacks in New York, Virginia, and Michigan to assailants' genetics, drawing criticism from experts who call the language eugenics-adjacent.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T01:49:36Z",
-      "sourceCount": "47 sources"
-    },
-    {
-      "title": "Qatar says food reserves can last 18 months amid Iran war",
-      "url": "https://www.perplexity.ai/page/qatar-says-food-reserves-can-l-ihG1XON_Qry049rhO4czjQ",
-      "description": "The interior minister said water supplies cover four months and medicine stocks nine months as Iranian strikes continue across the Gulf.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T01:28:29Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran's UN envoy warns European bases could be targets",
-      "url": "https://www.perplexity.ai/page/iran-s-un-envoy-warns-european-kKnYOH1HRmCi.FGP_7oayg",
-      "description": "Ambassador Ali Bahreini told Euronews that any facility used to attack Iran, including US bases in Europe, is a \"legitimate target.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T01:33:48Z",
-      "sourceCount": "44 sources"
     }
   ],
-  "cached_at": "2026-03-20T12:23:34Z",
+  "cached_at": "2026-03-20T12:46:03Z",
   "topics": {
     "top": [
       {
-        "title": "European stocks rally as oil retreats from 2022 highs",
-        "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
-        "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
+        "title": "European gas eases after U.S., Israel move to calm Gulf energy fears",
+        "url": "https://www.perplexity.ai/page/european-gas-eases-after-u-s-i-yRA5Sc7xRiSRGuKuPcH.Lw",
+        "description": "Benchmark futures pulled back Friday but remain on track for a roughly 20% weekly gain after strikes on Gulf facilities doubled prices since the war began.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T12:09:45Z",
-        "sourceCount": "37 sources"
+        "pubDate": "2026-03-20T12:36:32Z",
+        "sourceCount": "43 sources"
       },
       {
-        "title": "US launches air campaign to reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
-        "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
+        "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/allies-resist-trump-s-push-for-PCZAQFxvQzut0WB3kFUHMw",
+        "description": "The U.S. has sunk over 120 Iranian naval vessels and is ramping up strikes, but Japan and France have stopped short of committing to escort operations.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T10:46:46Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-20T12:30:18Z",
+        "sourceCount": "54 sources"
       },
       {
         "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
@@ -1353,6 +1335,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T10:19:38Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "European stocks rally as oil retreats from 2022 highs",
+        "url": "https://www.perplexity.ai/page/european-stocks-rally-as-oil-r-b5DE.0_BS6664n_lPOzw3Q",
+        "description": "Netanyahu's pledge to pause strikes on Iran's gas fields and U.S. diplomatic signals helped ease oil prices, lifting European equities on Friday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T12:09:45Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Major banks forecast ECB, BOE rate hikes amid Iran war inflation surge",
@@ -2622,33 +2613,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T01:58:50Z",
         "sourceCount": "45 sources"
-      },
-      {
-        "title": "Trump blames 'genetics' of attackers after wave of violence",
-        "url": "https://www.perplexity.ai/page/trump-blames-genetics-of-attac-hWZ_tkaLQh2Kz.ZnsftDMA",
-        "description": "The president linked recent attacks in New York, Virginia, and Michigan to assailants' genetics, drawing criticism from experts who call the language eugenics-adjacent.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T01:49:36Z",
-        "sourceCount": "47 sources"
-      },
-      {
-        "title": "Qatar says food reserves can last 18 months amid Iran war",
-        "url": "https://www.perplexity.ai/page/qatar-says-food-reserves-can-l-ihG1XON_Qry049rhO4czjQ",
-        "description": "The interior minister said water supplies cover four months and medicine stocks nine months as Iranian strikes continue across the Gulf.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T01:28:29Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran's UN envoy warns European bases could be targets",
-        "url": "https://www.perplexity.ai/page/iran-s-un-envoy-warns-european-kKnYOH1HRmCi.FGP_7oayg",
-        "description": "Ambassador Ali Bahreini told Euronews that any facility used to attack Iran, including US bases in Europe, is a \"legitimate target.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T01:33:48Z",
-        "sourceCount": "44 sources"
       }
     ],
     "tech": [],
