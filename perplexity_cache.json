@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
+      "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
+      "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T10:19:38Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Major banks forecast ECB, BOE rate hikes amid Iran war inflation surge",
       "url": "https://www.perplexity.ai/page/major-banks-forecast-ecb-boe-r-BN5uYZ.nSAW2wBiBxjzeWg",
       "description": "J.P. Morgan, Morgan Stanley, Barclays, and Goldman Sachs now expect rate hikes as early as April after both central banks held rates steady this week.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-13T23:47:35Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Kansas residents split over Deep Fission's underground nuclear reactor project",
-      "url": "https://www.perplexity.ai/page/kansas-residents-split-over-de-YN.Ak2UARoaGEIxFysSxyw",
-      "description": "Dozens gathered at a March 12 public meeting in Parsons, Kansas, days after the startup began drilling for its first-of-a-kind underground reactor.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-13T23:38:14Z",
-      "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-03-20T10:20:32Z",
+  "cached_at": "2026-03-20T10:39:51Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
+        "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
+        "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T10:19:38Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Major banks forecast ECB, BOE rate hikes amid Iran war inflation surge",
         "url": "https://www.perplexity.ai/page/major-banks-forecast-ecb-boe-r-BN5uYZ.nSAW2wBiBxjzeWg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-13T23:47:35Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Kansas residents split over Deep Fission's underground nuclear reactor project",
-        "url": "https://www.perplexity.ai/page/kansas-residents-split-over-de-YN.Ak2UARoaGEIxFysSxyw",
-        "description": "Dozens gathered at a March 12 public meeting in Parsons, Kansas, days after the startup began drilling for its first-of-a-kind underground reactor.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-13T23:38:14Z",
-        "sourceCount": "31 sources"
       }
     ],
     "tech": [],
