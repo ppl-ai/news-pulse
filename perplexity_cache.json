@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
+      "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T18:36:15Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
       "url": "https://www.perplexity.ai/page/oil-prices-spike-as-israel-ira-ROXxDyVZSBeaO6DsyNLPxg",
       "description": "Iran attacked Gulf energy sites including Qatar's main LNG hub after Israel struck Iran's South Pars gas field, deepening a regional energy crisis.",
@@ -1234,9 +1243,18 @@
       "sourceCount": "64 sources"
     }
   ],
-  "cached_at": "2026-03-20T18:24:00Z",
+  "cached_at": "2026-03-20T18:45:56Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
+        "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T18:36:15Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
         "url": "https://www.perplexity.ai/page/oil-prices-spike-as-israel-ira-ROXxDyVZSBeaO6DsyNLPxg",
