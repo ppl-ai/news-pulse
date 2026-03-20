@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "US bans Russian oil shipments to Cuba as two tankers approach",
-      "url": "https://www.perplexity.ai/page/us-bans-russian-oil-shipments-TBZNeS3kTayjGvShRRbF.w",
-      "description": "OFAC issued a new license blocking Russian-origin crude transactions with Cuba, even as two vessels carrying fuel near the island.",
+      "title": "Oil prices dip as Israel, U.S. vow to ease Gulf energy strikes",
+      "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-u-s-v-uW1pb_0wRsSXt.hwFEnlxw",
+      "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T14:25:45Z",
-      "sourceCount": "13 sources"
+      "pubDate": "2026-03-20T14:37:53Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
+      "url": "https://www.perplexity.ai/page/amazon-developing-ai-powered-s-UJdZDiQHR0SWUlvoziQ01g",
+      "description": "The project, codenamed \"Transformer,\" would center on Alexa and AI-driven interactions rather than competing on hardware specs with Apple and Samsung.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T14:26:09Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Seven allies back Hormuz effort as US weighs Kharg Island seizure",
@@ -46,13 +55,13 @@
       "sourceCount": "54 sources"
     },
     {
-      "title": "Israel strikes Tehran infrastructure as Gulf energy crisis deepens",
-      "url": "https://www.perplexity.ai/page/israel-strikes-tehran-infrastr-3M2UBUYoRaaZKiaovV7SfQ",
-      "description": "Iran's retaliatory attacks on Qatar's LNG facilities cut the country's export capacity by 17%, with repairs expected to take up to five years.",
+      "title": "Netanyahu says 'ground component' needed for Iran regime change",
+      "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
+      "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T09:04:23Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-20T10:03:52Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Old-growth forests store far more carbon than logged ones, study finds",
@@ -62,15 +71,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T06:13:53Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Oil drops as allies pledge to secure Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/oil-drops-as-allies-pledge-to-tIdo6NoeQuahpuZxu_BAbg",
-      "description": "Six European nations and Japan agreed to help ensure safe passage through the strait, while the U.S. outlined plans to boost supply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T05:35:38Z",
-      "sourceCount": "64 sources"
     },
     {
       "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
@@ -152,6 +152,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T00:08:27Z",
       "sourceCount": "40 sources"
+    },
+    {
+      "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
+      "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
+      "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T23:48:38Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "IAEA chief says Iran's nuclear program survives strikes",
@@ -1243,17 +1252,26 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-20T14:28:41Z",
+  "cached_at": "2026-03-20T14:51:21Z",
   "topics": {
     "top": [
       {
-        "title": "US bans Russian oil shipments to Cuba as two tankers approach",
-        "url": "https://www.perplexity.ai/page/us-bans-russian-oil-shipments-TBZNeS3kTayjGvShRRbF.w",
-        "description": "OFAC issued a new license blocking Russian-origin crude transactions with Cuba, even as two vessels carrying fuel near the island.",
+        "title": "Oil prices dip as Israel, U.S. vow to ease Gulf energy strikes",
+        "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-u-s-v-uW1pb_0wRsSXt.hwFEnlxw",
+        "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T14:25:45Z",
-        "sourceCount": "13 sources"
+        "pubDate": "2026-03-20T14:37:53Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
+        "url": "https://www.perplexity.ai/page/amazon-developing-ai-powered-s-UJdZDiQHR0SWUlvoziQ01g",
+        "description": "The project, codenamed \"Transformer,\" would center on Alexa and AI-driven interactions rather than competing on hardware specs with Apple and Samsung.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T14:26:09Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Seven allies back Hormuz effort as US weighs Kharg Island seizure",
@@ -1292,13 +1310,13 @@
         "sourceCount": "54 sources"
       },
       {
-        "title": "Israel strikes Tehran infrastructure as Gulf energy crisis deepens",
-        "url": "https://www.perplexity.ai/page/israel-strikes-tehran-infrastr-3M2UBUYoRaaZKiaovV7SfQ",
-        "description": "Iran's retaliatory attacks on Qatar's LNG facilities cut the country's export capacity by 17%, with repairs expected to take up to five years.",
+        "title": "Netanyahu says 'ground component' needed for Iran regime change",
+        "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
+        "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T09:04:23Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-20T10:03:52Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Old-growth forests store far more carbon than logged ones, study finds",
@@ -1308,15 +1326,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T06:13:53Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Oil drops as allies pledge to secure Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/oil-drops-as-allies-pledge-to-tIdo6NoeQuahpuZxu_BAbg",
-        "description": "Six European nations and Japan agreed to help ensure safe passage through the strait, while the U.S. outlined plans to boost supply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T05:35:38Z",
-        "sourceCount": "64 sources"
       },
       {
         "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
@@ -1398,6 +1407,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T00:08:27Z",
         "sourceCount": "40 sources"
+      },
+      {
+        "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
+        "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
+        "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T23:48:38Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "IAEA chief says Iran's nuclear program survives strikes",
