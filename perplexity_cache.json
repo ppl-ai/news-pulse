@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
+      "url": "https://www.perplexity.ai/page/oil-prices-spike-as-israel-ira-ROXxDyVZSBeaO6DsyNLPxg",
+      "description": "Iran attacked Gulf energy sites including Qatar's main LNG hub after Israel struck Iran's South Pars gas field, deepening a regional energy crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T18:15:34Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "U.S. prosecutors open criminal probes into Colombia's President",
       "url": "https://www.perplexity.ai/page/u-s-prosecutors-open-criminal-14Qkrc2TTLu_5c_zQNfELQ",
       "description": "Federal offices in Manhattan and Brooklyn are examining whether Petro met with drug traffickers or received narcotics-linked campaign donations.",
@@ -37,15 +46,6 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
-      "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
-      "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T14:37:53Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "IRGC charges ships for 'safe' Hormuz passage",
       "url": "https://www.perplexity.ai/page/irgc-charges-ships-for-safe-ho-LSc0CNM7QJKF2cbgew.9AA",
       "description": "Iran's Revolutionary Guard Corps is routing vessels through a paid corridor near Larak Island, with at least one operator reportedly paying $2 million.",
@@ -53,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T12:43:50Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
+      "url": "https://www.perplexity.ai/page/us-bars-cuba-north-korea-from-NpUleBM_SS66VySnmOGzFA",
+      "description": "OFAC amended its temporary Russian oil license after a tanker reportedly delivered diesel to fuel-starved Cuba using deceptive shipping practices.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T10:23:48Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
@@ -80,15 +89,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T12:30:18Z",
       "sourceCount": "54 sources"
-    },
-    {
-      "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
-      "url": "https://www.perplexity.ai/page/us-bars-cuba-north-korea-from-NpUleBM_SS66VySnmOGzFA",
-      "description": "OFAC amended its temporary Russian oil license after a tanker reportedly delivered diesel to fuel-starved Cuba using deceptive shipping practices.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T10:23:48Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
@@ -1234,9 +1234,18 @@
       "sourceCount": "64 sources"
     }
   ],
-  "cached_at": "2026-03-20T18:03:12Z",
+  "cached_at": "2026-03-20T18:24:00Z",
   "topics": {
     "top": [
+      {
+        "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
+        "url": "https://www.perplexity.ai/page/oil-prices-spike-as-israel-ira-ROXxDyVZSBeaO6DsyNLPxg",
+        "description": "Iran attacked Gulf energy sites including Qatar's main LNG hub after Israel struck Iran's South Pars gas field, deepening a regional energy crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T18:15:34Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "U.S. prosecutors open criminal probes into Colombia's President",
         "url": "https://www.perplexity.ai/page/u-s-prosecutors-open-criminal-14Qkrc2TTLu_5c_zQNfELQ",
@@ -1274,15 +1283,6 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
-        "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
-        "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T14:37:53Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "IRGC charges ships for 'safe' Hormuz passage",
         "url": "https://www.perplexity.ai/page/irgc-charges-ships-for-safe-ho-LSc0CNM7QJKF2cbgew.9AA",
         "description": "Iran's Revolutionary Guard Corps is routing vessels through a paid corridor near Larak Island, with at least one operator reportedly paying $2 million.",
@@ -1290,6 +1290,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T12:43:50Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
+        "url": "https://www.perplexity.ai/page/us-bars-cuba-north-korea-from-NpUleBM_SS66VySnmOGzFA",
+        "description": "OFAC amended its temporary Russian oil license after a tanker reportedly delivered diesel to fuel-starved Cuba using deceptive shipping practices.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T10:23:48Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
@@ -1317,15 +1326,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T12:30:18Z",
         "sourceCount": "54 sources"
-      },
-      {
-        "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
-        "url": "https://www.perplexity.ai/page/us-bars-cuba-north-korea-from-NpUleBM_SS66VySnmOGzFA",
-        "description": "OFAC amended its temporary Russian oil license after a tanker reportedly delivered diesel to fuel-starved Cuba using deceptive shipping practices.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T10:23:48Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
