@@ -775,6 +775,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Israel says it killed Iran's security chief as Strait of Hormuz attacks continue",
+      "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-s-y0l.6_xSTceEzk1v_RdHHg",
+      "description": "A tanker was struck near a UAE port on Monday as the war enters its third week, with 500 vessels stuck or hit since hostilities began.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T13:48:35Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "U.S. Navy awards Gecko Robotics $71M to deploy AI and robots across Pacific Fleet",
       "url": "https://www.perplexity.ai/page/u-s-navy-awards-gecko-robotics-Vv2MztV7TxqJkWXwvr9nNw",
       "description": "The five-year contract, the Navy's largest robotics deal, will use wall-climbing robots to inspect 18 ships and help reach 80% fleet readiness by 2027.",
@@ -1313,18 +1322,9 @@
       "topic": "top",
       "pubDate": "2026-03-14T01:33:48Z",
       "sourceCount": "44 sources"
-    },
-    {
-      "title": "UN says nearly all Gaza aid movements denied in past two days",
-      "url": "https://www.perplexity.ai/page/un-says-nearly-all-gaza-aid-mo-Z1BzgHNmQ.KB.Qfw9KSjyg",
-      "description": "Only one humanitarian mission was allowed through to the Kerem Shalom crossing on Thursday and Friday, enabling fuel collection \"but nothing else.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-14T00:19:18Z",
-      "sourceCount": "48 sources"
     }
   ],
-  "cached_at": "2026-03-20T11:34:41Z",
+  "cached_at": "2026-03-20T11:49:06Z",
   "topics": {
     "top": [
       {
@@ -2102,6 +2102,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Israel says it killed Iran's security chief as Strait of Hormuz attacks continue",
+        "url": "https://www.perplexity.ai/page/israel-says-it-killed-iran-s-s-y0l.6_xSTceEzk1v_RdHHg",
+        "description": "A tanker was struck near a UAE port on Monday as the war enters its third week, with 500 vessels stuck or hit since hostilities began.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T13:48:35Z",
+        "sourceCount": "44 sources"
+      },
+      {
         "title": "U.S. Navy awards Gecko Robotics $71M to deploy AI and robots across Pacific Fleet",
         "url": "https://www.perplexity.ai/page/u-s-navy-awards-gecko-robotics-Vv2MztV7TxqJkWXwvr9nNw",
         "description": "The five-year contract, the Navy's largest robotics deal, will use wall-climbing robots to inspect 18 ships and help reach 80% fleet readiness by 2027.",
@@ -2640,15 +2649,6 @@
         "topic": "top",
         "pubDate": "2026-03-14T01:33:48Z",
         "sourceCount": "44 sources"
-      },
-      {
-        "title": "UN says nearly all Gaza aid movements denied in past two days",
-        "url": "https://www.perplexity.ai/page/un-says-nearly-all-gaza-aid-mo-Z1BzgHNmQ.KB.Qfw9KSjyg",
-        "description": "Only one humanitarian mission was allowed through to the Kerem Shalom crossing on Thursday and Friday, enabling fuel collection \"but nothing else.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-14T00:19:18Z",
-        "sourceCount": "48 sources"
       }
     ],
     "tech": [],
