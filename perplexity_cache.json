@@ -451,15 +451,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Stratton wins Illinois Democratic Senate primary to replace Durbin",
-      "url": "https://www.perplexity.ai/page/stratton-wins-illinois-democra-cIx4mFw7Tbi8YuNecjkxrg",
-      "description": "Lt. Gov. Juliana Stratton defeated Reps. Raja Krishnamoorthi and Robin Kelly despite being heavily outspent, NBC News projects.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T02:28:21Z",
-      "sourceCount": "36 sources"
-    },
-    {
       "title": "China pledges emergency aid to Iran, Jordan, Lebanon and Iraq",
       "url": "https://www.perplexity.ai/page/china-pledges-emergency-aid-to-5PWXaYoITsyjYwtLk.vVQQ",
       "description": "Beijing announced humanitarian assistance for four Middle Eastern nations as the U.S.-Israeli conflict with Iran enters its third week.",
@@ -467,6 +458,15 @@
       "topic": "top",
       "pubDate": "2026-03-18T01:29:54Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Pentagon says 157 killed in drug boat strikes since September",
+      "url": "https://www.perplexity.ai/page/pentagon-says-157-killed-in-dr-7aVv5q7GQiqi8gEu3yh2TQ",
+      "description": "A senior defense official told Congress that 47 suspected narco-trafficking vessels were destroyed across 45 strikes in the Caribbean and Eastern Pacific.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T23:25:01Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "Israeli airstrikes kill at least six in central Beirut",
@@ -487,15 +487,6 @@
       "sourceCount": "21 sources"
     },
     {
-      "title": "Pentagon says 157 killed in drug boat strikes since September",
-      "url": "https://www.perplexity.ai/page/pentagon-says-157-killed-in-dr-7aVv5q7GQiqi8gEu3yh2TQ",
-      "description": "A senior defense official told Congress that 47 suspected narco-trafficking vessels were destroyed across 45 strikes in the Caribbean and Eastern Pacific.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T23:25:01Z",
-      "sourceCount": "39 sources"
-    },
-    {
       "title": "Ukraine hits Moscow with drones for 4th straight day",
       "url": "https://www.perplexity.ai/page/ukraine-hits-moscow-with-drone-_H8tNxnpQG6kBB1BOZ.ybQ",
       "description": "Russia says it intercepted 206 drones overnight, including 40 aimed at Moscow, as strikes also hit military aviation plants deep inside Russian territory.",
@@ -503,15 +494,6 @@
       "topic": "top",
       "pubDate": "2026-03-17T22:16:43Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "UK adviser believed Iran deal was in reach before US-led attack",
-      "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
-      "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T02:40:35Z",
-      "sourceCount": "61 sources"
     },
     {
       "title": "Democrats send DHS funding proposal amid month-long shutdown",
@@ -523,12 +505,30 @@
       "sourceCount": "38 sources"
     },
     {
+      "title": "UK adviser believed Iran deal was in reach before US-led attack",
+      "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
+      "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-18T02:40:35Z",
+      "sourceCount": "61 sources"
+    },
+    {
       "title": "Amazon CEO Jassy says AI could push AWS to $600B in annual sales by 2036",
       "url": "https://www.perplexity.ai/page/amazon-ceo-jassy-says-ai-could-ulQvc36VTfGT9_ye.5e6mg",
       "description": "The projection, made at an internal all-hands meeting, doubles Jassy's own prior estimate and implies a fivefold increase from AWS's 2025 revenue.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-17T21:17:43Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
+      "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
+      "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-17T19:30:07Z",
       "sourceCount": "15 sources"
     },
     {
@@ -566,15 +566,6 @@
       "topic": "top",
       "pubDate": "2026-03-17T20:07:13Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
-      "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
-      "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:30:07Z",
-      "sourceCount": "15 sources"
     },
     {
       "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-03-13T21:48:29Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Judge blocks Trump from forcing colleges to submit race data",
+      "url": "https://www.perplexity.ai/page/judge-blocks-trump-from-forcin-0RETozVUSg6.CNPp3mwMVQ",
+      "description": "A federal judge in Boston extended the compliance deadline to March 25 after 17 Democratic state attorneys general sued to halt the requirement.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-13T22:38:23Z",
+      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-20T01:23:07Z",
+  "cached_at": "2026-03-20T02:14:03Z",
   "topics": {
     "top": [
       {
@@ -1805,15 +1805,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Stratton wins Illinois Democratic Senate primary to replace Durbin",
-        "url": "https://www.perplexity.ai/page/stratton-wins-illinois-democra-cIx4mFw7Tbi8YuNecjkxrg",
-        "description": "Lt. Gov. Juliana Stratton defeated Reps. Raja Krishnamoorthi and Robin Kelly despite being heavily outspent, NBC News projects.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T02:28:21Z",
-        "sourceCount": "36 sources"
-      },
-      {
         "title": "China pledges emergency aid to Iran, Jordan, Lebanon and Iraq",
         "url": "https://www.perplexity.ai/page/china-pledges-emergency-aid-to-5PWXaYoITsyjYwtLk.vVQQ",
         "description": "Beijing announced humanitarian assistance for four Middle Eastern nations as the U.S.-Israeli conflict with Iran enters its third week.",
@@ -1821,6 +1812,15 @@
         "topic": "top",
         "pubDate": "2026-03-18T01:29:54Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Pentagon says 157 killed in drug boat strikes since September",
+        "url": "https://www.perplexity.ai/page/pentagon-says-157-killed-in-dr-7aVv5q7GQiqi8gEu3yh2TQ",
+        "description": "A senior defense official told Congress that 47 suspected narco-trafficking vessels were destroyed across 45 strikes in the Caribbean and Eastern Pacific.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T23:25:01Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "Israeli airstrikes kill at least six in central Beirut",
@@ -1841,15 +1841,6 @@
         "sourceCount": "21 sources"
       },
       {
-        "title": "Pentagon says 157 killed in drug boat strikes since September",
-        "url": "https://www.perplexity.ai/page/pentagon-says-157-killed-in-dr-7aVv5q7GQiqi8gEu3yh2TQ",
-        "description": "A senior defense official told Congress that 47 suspected narco-trafficking vessels were destroyed across 45 strikes in the Caribbean and Eastern Pacific.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T23:25:01Z",
-        "sourceCount": "39 sources"
-      },
-      {
         "title": "Ukraine hits Moscow with drones for 4th straight day",
         "url": "https://www.perplexity.ai/page/ukraine-hits-moscow-with-drone-_H8tNxnpQG6kBB1BOZ.ybQ",
         "description": "Russia says it intercepted 206 drones overnight, including 40 aimed at Moscow, as strikes also hit military aviation plants deep inside Russian territory.",
@@ -1857,15 +1848,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T22:16:43Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "UK adviser believed Iran deal was in reach before US-led attack",
-        "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
-        "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T02:40:35Z",
-        "sourceCount": "61 sources"
       },
       {
         "title": "Democrats send DHS funding proposal amid month-long shutdown",
@@ -1877,12 +1859,30 @@
         "sourceCount": "38 sources"
       },
       {
+        "title": "UK adviser believed Iran deal was in reach before US-led attack",
+        "url": "https://www.perplexity.ai/page/uk-adviser-believed-iran-deal-1IbSwqWCToemdWZQoW1PHw",
+        "description": "Britain's national security adviser judged Tehran's nuclear offer could have averted war, as most allies reject Trump's call to secure the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-18T02:40:35Z",
+        "sourceCount": "61 sources"
+      },
+      {
         "title": "Amazon CEO Jassy says AI could push AWS to $600B in annual sales by 2036",
         "url": "https://www.perplexity.ai/page/amazon-ceo-jassy-says-ai-could-ulQvc36VTfGT9_ye.5e6mg",
         "description": "The projection, made at an internal all-hands meeting, doubles Jassy's own prior estimate and implies a fivefold increase from AWS's 2025 revenue.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-17T21:17:43Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
+        "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
+        "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-17T19:30:07Z",
         "sourceCount": "15 sources"
       },
       {
@@ -1920,15 +1920,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T20:07:13Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
-        "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
-        "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:30:07Z",
-        "sourceCount": "15 sources"
       },
       {
         "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-13T21:48:29Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Judge blocks Trump from forcing colleges to submit race data",
+        "url": "https://www.perplexity.ai/page/judge-blocks-trump-from-forcin-0RETozVUSg6.CNPp3mwMVQ",
+        "description": "A federal judge in Boston extended the compliance deadline to March 25 after 17 Democratic state attorneys general sued to halt the requirement.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-13T22:38:23Z",
+        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
