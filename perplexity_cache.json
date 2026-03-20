@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "IMO condemns Iran's attacks on ships in Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/imo-condemns-iran-s-attacks-on-.C8FzAFzRSyoeLyFRklJHQ",
+      "description": "India called attacks on commercial shipping \"unacceptable\" as the IMO council urged an internationally coordinated response and a maritime safety corridor.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T09:41:21Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Israel strikes Tehran infrastructure as Gulf energy crisis deepens",
       "url": "https://www.perplexity.ai/page/israel-strikes-tehran-infrastr-3M2UBUYoRaaZKiaovV7SfQ",
       "description": "Iran's retaliatory attacks on Qatar's LNG facilities cut the country's export capacity by 17%, with repairs expected to take up to five years.",
@@ -89,15 +98,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T03:19:56Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "IMO reaches consensus on safe corridor to evacuate stranded Gulf seafarers",
-      "url": "https://www.perplexity.ai/page/imo-reaches-consensus-on-safe-a65cGdm_SAOI6guc0p3UDw",
-      "description": "About 20,000 crew members remain trapped on vessels west of the Strait of Hormuz after Iran threatened to target ships amid the U.S.-Israeli conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T01:11:48Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "S&P 500 heads for fourth straight weekly loss amid oil surge",
@@ -1351,9 +1351,18 @@
       "sourceCount": "31 sources"
     }
   ],
-  "cached_at": "2026-03-20T09:43:00Z",
+  "cached_at": "2026-03-20T10:00:55Z",
   "topics": {
     "top": [
+      {
+        "title": "IMO condemns Iran's attacks on ships in Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/imo-condemns-iran-s-attacks-on-.C8FzAFzRSyoeLyFRklJHQ",
+        "description": "India called attacks on commercial shipping \"unacceptable\" as the IMO council urged an internationally coordinated response and a maritime safety corridor.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T09:41:21Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Israel strikes Tehran infrastructure as Gulf energy crisis deepens",
         "url": "https://www.perplexity.ai/page/israel-strikes-tehran-infrastr-3M2UBUYoRaaZKiaovV7SfQ",
@@ -1443,15 +1452,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T03:19:56Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "IMO reaches consensus on safe corridor to evacuate stranded Gulf seafarers",
-        "url": "https://www.perplexity.ai/page/imo-reaches-consensus-on-safe-a65cGdm_SAOI6guc0p3UDw",
-        "description": "About 20,000 crew members remain trapped on vessels west of the Strait of Hormuz after Iran threatened to target ships amid the U.S.-Israeli conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T01:11:48Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "S&P 500 heads for fourth straight weekly loss amid oil surge",
