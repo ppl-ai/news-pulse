@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Fed rate hike odds climb as Iran war drives oil surge",
+      "url": "https://www.perplexity.ai/page/fed-rate-hike-odds-climb-as-ir-u5UljT6JTQOj8O85hpQ0_w",
+      "description": "Prediction markets now assign roughly a 20% chance of a rate increase before year-end, up more than 10 points since early March.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T21:42:32Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Hegseth faces backlash for invoking faith in Iran briefings",
+      "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
+      "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T21:22:40Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Aid ships depart Mexico for Cuba amid island's worst energy crisis in decades",
       "url": "https://www.perplexity.ai/page/aid-ships-depart-mexico-for-cu-2SqMBQcFTtu1jdEEhcVEvg",
       "description": "The Nuestra América Convoy is delivering over 20 tons of food, medicine, and solar panels as Cuba endures crippling blackouts and a fuel shortage.",
@@ -10,13 +28,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
-      "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
+      "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
+      "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T20:47:33Z",
-      "sourceCount": "62 sources"
+      "pubDate": "2026-03-20T18:36:15Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
@@ -37,13 +55,13 @@
       "sourceCount": "33 sources"
     },
     {
-      "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
-      "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+      "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
+      "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T18:36:15Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-20T20:47:33Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
@@ -521,15 +539,6 @@
       "topic": "top",
       "pubDate": "2026-03-18T18:11:06Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
-      "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
-      "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T20:43:46Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "FAA ends visual separation for helicopters near airports nationwide",
@@ -1225,9 +1234,27 @@
       "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-20T21:34:09Z",
+  "cached_at": "2026-03-20T21:48:45Z",
   "topics": {
     "top": [
+      {
+        "title": "Fed rate hike odds climb as Iran war drives oil surge",
+        "url": "https://www.perplexity.ai/page/fed-rate-hike-odds-climb-as-ir-u5UljT6JTQOj8O85hpQ0_w",
+        "description": "Prediction markets now assign roughly a 20% chance of a rate increase before year-end, up more than 10 points since early March.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T21:42:32Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Hegseth faces backlash for invoking faith in Iran briefings",
+        "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
+        "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T21:22:40Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "Aid ships depart Mexico for Cuba amid island's worst energy crisis in decades",
         "url": "https://www.perplexity.ai/page/aid-ships-depart-mexico-for-cu-2SqMBQcFTtu1jdEEhcVEvg",
@@ -1238,13 +1265,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
-        "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
+        "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
+        "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T20:47:33Z",
-        "sourceCount": "62 sources"
+        "pubDate": "2026-03-20T18:36:15Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Oil prices spike as Israel, Iran trade strikes on energy infrastructure",
@@ -1265,13 +1292,13 @@
         "sourceCount": "33 sources"
       },
       {
-        "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
-        "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+        "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
+        "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T18:36:15Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-20T20:47:33Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
@@ -1749,15 +1776,6 @@
         "topic": "top",
         "pubDate": "2026-03-18T18:11:06Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Fed holds rates steady, raises inflation forecast amid Iran war uncertainty",
-        "url": "https://www.perplexity.ai/page/fed-holds-rates-steady-raises-8MrZpzguT.2qmaNOcv23ig",
-        "description": "Powell said the oil shock clouds the outlook, as officials raised their 2026 inflation projection to 2.7% and signaled at most one rate cut this year.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T20:43:46Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "FAA ends visual separation for helicopters near airports nationwide",
