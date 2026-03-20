@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "DOJ sues Harvard over alleged antisemitism on campus",
+      "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
+      "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T16:23:35Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
       "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
       "description": "Brent crude pulled back Friday after Israel pledged to halt attacks on Iranian energy facilities and Trump warned Tehran against further Gulf strikes.",
@@ -1216,9 +1225,18 @@
       "sourceCount": "81 sources"
     }
   ],
-  "cached_at": "2026-03-20T16:50:44Z",
+  "cached_at": "2026-03-20T17:09:57Z",
   "topics": {
     "top": [
+      {
+        "title": "DOJ sues Harvard over alleged antisemitism on campus",
+        "url": "https://www.perplexity.ai/page/doj-sues-harvard-over-alleged-sn_Hn06aTDW9HsaEVhuV_w",
+        "description": "The lawsuit seeks billions in taxpayer funds back and accuses the university of being \"deliberately indifferent\" to harassment of Jewish and Israeli students.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T16:23:35Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Oil prices dip as Israel, US vow to ease Gulf energy strikes",
         "url": "https://www.perplexity.ai/page/oil-prices-dip-as-israel-us-vo-uW1pb_0wRsSXt.hwFEnlxw",
