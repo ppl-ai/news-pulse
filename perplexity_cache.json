@@ -1,22 +1,13 @@
 {
   "stories": [
     {
-      "title": "Georgia suspends gas tax as national average nears $4",
-      "url": "https://www.perplexity.ai/page/georgia-suspends-gas-tax-as-na-pAwTz9OcRTuWSbON5cFbtg",
-      "description": "Gov. Brian Kemp signed a 60-day fuel tax suspension Friday, cutting about 33 cents per gallon as prices surge amid the Iran conflict.",
+      "title": "Appeals court strikes down FTC ban on TurboTax 'free' ads",
+      "url": "https://www.perplexity.ai/page/appeals-court-strikes-down-ftc-ZwPVpf2dTk6.PsHbzduE_Q",
+      "description": "The 5th Circuit ruled unanimously that the FTC's in-house adjudication of the deceptive advertising case violated constitutional separation of powers.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T23:49:31Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "QatarEnergy CEO says he warned U.S. before Iran struck Gulf gas facilities",
-      "url": "https://www.perplexity.ai/page/qatarenergy-ceo-says-he-warned-8Bdap1mqRCGjAT7HgD.HYg",
-      "description": "Saad al-Kaabi told Reuters he cautioned American officials daily about risks to energy infrastructure before Iranian strikes destroyed key LNG equipment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T23:40:06Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-21T00:34:25Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "White House offers immigration concessions as TSA crisis deepens in fifth week of shutdown",
@@ -28,6 +19,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Oil dips as Iran allows more ships through Hormuz",
+      "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
+      "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T22:41:30Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Judge blocks Pentagon policy restricting press access",
       "url": "https://www.perplexity.ai/page/judge-blocks-pentagon-policy-r-MtMnkml0SkuvaDrGrcREZQ",
       "description": "U.S. District Judge Paul Friedman sided with The New York Times, ruling that key parts of the credentialing restrictions imposed under Defense Secretary Hegseth are illegal.",
@@ -37,12 +37,12 @@
       "sourceCount": "76 sources"
     },
     {
-      "title": "Oil dips as Iran allows more ships through Hormuz",
-      "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
-      "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
+      "title": "Senate fails to advance DHS funding for 5th time as shutdown nears 5 weeks",
+      "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-2fXiOikqS3q6__b7d0if3g",
+      "description": "Democrats launched a discharge petition to fund most of DHS without ICE, but the broader impasse deepened Friday with another failed Senate vote.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T22:41:30Z",
+      "pubDate": "2026-03-20T22:44:04Z",
       "sourceCount": "29 sources"
     },
     {
@@ -1189,26 +1189,17 @@
       "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-20T23:57:17Z",
+  "cached_at": "2026-03-21T00:45:03Z",
   "topics": {
     "top": [
       {
-        "title": "Georgia suspends gas tax as national average nears $4",
-        "url": "https://www.perplexity.ai/page/georgia-suspends-gas-tax-as-na-pAwTz9OcRTuWSbON5cFbtg",
-        "description": "Gov. Brian Kemp signed a 60-day fuel tax suspension Friday, cutting about 33 cents per gallon as prices surge amid the Iran conflict.",
+        "title": "Appeals court strikes down FTC ban on TurboTax 'free' ads",
+        "url": "https://www.perplexity.ai/page/appeals-court-strikes-down-ftc-ZwPVpf2dTk6.PsHbzduE_Q",
+        "description": "The 5th Circuit ruled unanimously that the FTC's in-house adjudication of the deceptive advertising case violated constitutional separation of powers.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T23:49:31Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "QatarEnergy CEO says he warned U.S. before Iran struck Gulf gas facilities",
-        "url": "https://www.perplexity.ai/page/qatarenergy-ceo-says-he-warned-8Bdap1mqRCGjAT7HgD.HYg",
-        "description": "Saad al-Kaabi told Reuters he cautioned American officials daily about risks to energy infrastructure before Iranian strikes destroyed key LNG equipment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T23:40:06Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-21T00:34:25Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "White House offers immigration concessions as TSA crisis deepens in fifth week of shutdown",
@@ -1220,6 +1211,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Oil dips as Iran allows more ships through Hormuz",
+        "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
+        "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T22:41:30Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Judge blocks Pentagon policy restricting press access",
         "url": "https://www.perplexity.ai/page/judge-blocks-pentagon-policy-r-MtMnkml0SkuvaDrGrcREZQ",
         "description": "U.S. District Judge Paul Friedman sided with The New York Times, ruling that key parts of the credentialing restrictions imposed under Defense Secretary Hegseth are illegal.",
@@ -1229,12 +1229,12 @@
         "sourceCount": "76 sources"
       },
       {
-        "title": "Oil dips as Iran allows more ships through Hormuz",
-        "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
-        "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
+        "title": "Senate fails to advance DHS funding for 5th time as shutdown nears 5 weeks",
+        "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-2fXiOikqS3q6__b7d0if3g",
+        "description": "Democrats launched a discharge petition to fund most of DHS without ICE, but the broader impasse deepened Friday with another failed Senate vote.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T22:41:30Z",
+        "pubDate": "2026-03-20T22:44:04Z",
         "sourceCount": "29 sources"
       },
       {
