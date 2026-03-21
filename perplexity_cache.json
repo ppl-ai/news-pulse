@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "IEA warns Iran war could disrupt oil flows for six months",
+      "url": "https://www.perplexity.ai/page/iea-warns-iran-war-could-disru-fvs4LdxJSduo2P6B.Xayqw",
+      "description": "The agency's chief said politicians and markets are underestimating the scale of the crisis, calling it the greatest energy security challenge in history.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T11:37:56Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
       "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
       "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
@@ -28,15 +37,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
-      "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
-      "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T06:51:30Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Cambridge memristor could cut AI energy use by 70%",
       "url": "https://www.perplexity.ai/page/cambridge-memristor-could-cut-ZvGjGi6NQLagYPqpqlyrIA",
       "description": "A new hafnium oxide device mimics brain neurons to store and process data in the same place, slashing power demands of AI hardware.",
@@ -46,15 +46,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Himalayan glaciers melting twice as fast as in 2000, ICIMOD reports find",
-      "url": "https://www.perplexity.ai/page/himalayan-glaciers-melting-twi-Ml2C9Sw9S3eNCgwc2XDGQg",
-      "description": "Two landmark studies released on World Glacier Day warn that accelerating ice loss threatens water security for nearly two billion people across Asia.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T10:08:14Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Senate fails to advance DHS funding on day 35 of shutdown",
       "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
       "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
@@ -62,6 +53,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T03:21:40Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Himalayan glaciers melting twice as fast as in 2000, ICIMOD reports find",
+      "url": "https://www.perplexity.ai/page/himalayan-glaciers-melting-twi-Ml2C9Sw9S3eNCgwc2XDGQg",
+      "description": "Two landmark studies released on World Glacier Day warn that accelerating ice loss threatens water security for nearly two billion people across Asia.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T10:08:14Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "International aid convoys converge on Havana amid U.S. oil blockade",
@@ -1198,9 +1198,18 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-21T11:37:09Z",
+  "cached_at": "2026-03-21T11:48:17Z",
   "topics": {
     "top": [
+      {
+        "title": "IEA warns Iran war could disrupt oil flows for six months",
+        "url": "https://www.perplexity.ai/page/iea-warns-iran-war-could-disru-fvs4LdxJSduo2P6B.Xayqw",
+        "description": "The agency's chief said politicians and markets are underestimating the scale of the crisis, calling it the greatest energy security challenge in history.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T11:37:56Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
         "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
@@ -1229,15 +1238,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Trump lifts sanctions on Iranian oil at sea to ease surging prices",
-        "url": "https://www.perplexity.ai/page/trump-lifts-sanctions-on-irani-ck75RJYFRs.ezOexHpDnAg",
-        "description": "The Treasury Department issued a general license Friday permitting global sale of roughly 140 million barrels of Iranian crude through April 19.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T06:51:30Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Cambridge memristor could cut AI energy use by 70%",
         "url": "https://www.perplexity.ai/page/cambridge-memristor-could-cut-ZvGjGi6NQLagYPqpqlyrIA",
         "description": "A new hafnium oxide device mimics brain neurons to store and process data in the same place, slashing power demands of AI hardware.",
@@ -1247,15 +1247,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Himalayan glaciers melting twice as fast as in 2000, ICIMOD reports find",
-        "url": "https://www.perplexity.ai/page/himalayan-glaciers-melting-twi-Ml2C9Sw9S3eNCgwc2XDGQg",
-        "description": "Two landmark studies released on World Glacier Day warn that accelerating ice loss threatens water security for nearly two billion people across Asia.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T10:08:14Z",
-        "sourceCount": "24 sources"
-      },
-      {
         "title": "Senate fails to advance DHS funding on day 35 of shutdown",
         "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
         "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
@@ -1263,6 +1254,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T03:21:40Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Himalayan glaciers melting twice as fast as in 2000, ICIMOD reports find",
+        "url": "https://www.perplexity.ai/page/himalayan-glaciers-melting-twi-Ml2C9Sw9S3eNCgwc2XDGQg",
+        "description": "Two landmark studies released on World Glacier Day warn that accelerating ice loss threatens water security for nearly two billion people across Asia.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T10:08:14Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "International aid convoys converge on Havana amid U.S. oil blockade",
