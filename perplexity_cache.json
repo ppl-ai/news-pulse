@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Senate fails to advance DHS funding on day 35 of shutdown",
+      "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
+      "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T03:21:40Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "International aid convoys converge on Havana amid U.S. oil blockade",
       "url": "https://www.perplexity.ai/page/international-aid-convoys-conv-KUGWM0obQDC2GZHX0Ya32Q",
       "description": "Activists from 19 countries are delivering over 20 tons of medical supplies, food, and solar equipment as Cuba faces its worst economic crisis in decades.",
@@ -19,39 +28,12 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "White House offers immigration concessions as TSA crisis deepens in fifth week of shutdown",
-      "url": "https://www.perplexity.ai/page/white-house-offers-immigration-RsnA.lCsRdOeycdM8sudcA",
-      "description": "With airports nearing a breaking point, the White House released details of proposed immigration enforcement changes for the first time in an effort to end the standoff.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T23:04:00Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Oil dips as Iran allows more ships through Hormuz",
       "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
       "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-20T22:41:30Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
-      "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T02:05:55Z",
-      "sourceCount": "37 sources"
-    },
-    {
-      "title": "Senate fails to advance DHS funding for 5th time as shutdown nears 5 weeks",
-      "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-2fXiOikqS3q6__b7d0if3g",
-      "description": "Democrats launched a discharge petition to fund most of DHS without ICE, but the broader impasse deepened Friday with another failed Senate vote.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T22:44:04Z",
       "sourceCount": "29 sources"
     },
     {
@@ -64,6 +46,15 @@
       "sourceCount": "76 sources"
     },
     {
+      "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
+      "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T02:05:55Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "Jury finds Musk liable for misleading Twitter investors",
       "url": "https://www.perplexity.ai/page/jury-finds-musk-liable-for-mis-Az5cR_hjTI2gEnotZ1MHVQ",
       "description": "A San Francisco jury found that two of Musk's tweets during his 2022 Twitter acquisition constituted securities fraud, with damages likely in the billions.",
@@ -73,22 +64,13 @@
       "sourceCount": "66 sources"
     },
     {
-      "title": "Over 20 nations back Hormuz statement as Trump presses Japan to 'step up'",
-      "url": "https://www.perplexity.ai/page/over-20-nations-back-hormuz-st-rvvUR4WvSPuz3_Y8V8MvzA",
-      "description": "A joint declaration condemning Iran's blockade of the Strait of Hormuz grew from seven signatories to more than 20, though no country has committed warships.",
+      "title": "Trump says US 'getting close' to Iran goals, eyes winding down operations",
+      "url": "https://www.perplexity.ai/page/trump-says-us-getting-close-to-8uDolaDsRaSXuYWWOZsbjQ",
+      "description": "On day 21 of the conflict, Trump listed five military objectives on Truth Social while rejecting a ceasefire and calling NATO allies \"cowards.\"",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T22:04:26Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Hegseth faces backlash for invoking faith in Iran briefings",
-      "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
-      "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T21:22:40Z",
-      "sourceCount": "39 sources"
+      "pubDate": "2026-03-20T21:51:01Z",
+      "sourceCount": "84 sources"
     },
     {
       "title": "U.S. prosecutors open criminal probes into Colombia's President",
@@ -100,15 +82,6 @@
       "sourceCount": "33 sources"
     },
     {
-      "title": "Denmark planned to destroy Greenland runways if US invaded",
-      "url": "https://www.perplexity.ai/page/denmark-planned-to-destroy-gre-NRyRUjPjQneQG5uppmE03Q",
-      "description": "Danish broadcaster DR revealed that troops deployed to Greenland in January carried explosives to sabotage airstrips, with orders to fight if the U.S. attacked.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T21:20:46Z",
-      "sourceCount": "23 sources"
-    },
-    {
       "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
       "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
       "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
@@ -116,6 +89,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T16:29:28Z",
       "sourceCount": "72 sources"
+    },
+    {
+      "title": "Over 20 nations back Hormuz statement as Trump presses Japan to 'step up'",
+      "url": "https://www.perplexity.ai/page/over-20-nations-back-hormuz-st-rvvUR4WvSPuz3_Y8V8MvzA",
+      "description": "A joint declaration condemning Iran's blockade of the Strait of Hormuz grew from seven signatories to more than 20, though no country has committed warships.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T22:04:26Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "DOJ sues Harvard over alleged antisemitism on campus",
@@ -127,13 +109,22 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Trump says US 'getting close' to Iran goals, eyes winding down operations",
-      "url": "https://www.perplexity.ai/page/trump-says-us-getting-close-to-8uDolaDsRaSXuYWWOZsbjQ",
-      "description": "On day 21 of the conflict, Trump listed five military objectives on Truth Social while rejecting a ceasefire and calling NATO allies \"cowards.\"",
+      "title": "Hegseth faces backlash for invoking faith in Iran briefings",
+      "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
+      "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T21:51:01Z",
-      "sourceCount": "84 sources"
+      "pubDate": "2026-03-20T21:22:40Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "Denmark planned to destroy Greenland runways if US invaded",
+      "url": "https://www.perplexity.ai/page/denmark-planned-to-destroy-gre-NRyRUjPjQneQG5uppmE03Q",
+      "description": "Danish broadcaster DR revealed that troops deployed to Greenland in January carried explosives to sabotage airstrips, with orders to fight if the U.S. attacked.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T21:20:46Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
@@ -154,13 +145,22 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
-      "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
+      "title": "Trump ally asked ICE to detain his ex in custody fight, NYT reports",
+      "url": "https://www.perplexity.ai/page/trump-ally-asked-ice-to-detain-iOm2UAl2SvGPMR9EvUJcWQ",
+      "description": "Paolo Zampolli contacted a senior ICE official to have his Brazilian ex-girlfriend detained and deported, aiding his bid for custody of their son.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T20:47:33Z",
-      "sourceCount": "62 sources"
+      "pubDate": "2026-03-20T21:19:48Z",
+      "sourceCount": "8 sources"
+    },
+    {
+      "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
+      "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
+      "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T17:25:26Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
@@ -172,6 +172,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Trump privately concedes deportation push went too far, WSJ reports",
+      "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
+      "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T17:25:01Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
       "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
       "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
@@ -181,13 +190,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
-      "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+      "title": "Netanyahu says 'ground component' needed for Iran regime change",
+      "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
+      "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T18:36:15Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-20T10:03:52Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Old-growth forests store far more carbon than logged ones, study finds",
@@ -208,22 +217,13 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
-      "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
-      "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+      "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
+      "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T17:25:26Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump privately concedes deportation push went too far, WSJ reports",
-      "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
-      "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T17:25:01Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-20T20:47:33Z",
+      "sourceCount": "62 sources"
     },
     {
       "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -235,15 +235,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Netanyahu says 'ground component' needed for Iran regime change",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
-      "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T10:03:52Z",
-      "sourceCount": "23 sources"
-    },
-    {
       "title": "Live Nation CEO admits pay tied to 'solving' DOJ antitrust case",
       "url": "https://www.perplexity.ai/page/live-nation-ceo-admits-pay-tie-CMuSsm7XQoa9Sdp_ByQCZg",
       "description": "Michael Rapino testified Thursday that about 90% of his compensation depends on profit targets and resolving the federal government's antitrust challenge.",
@@ -251,6 +242,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T04:19:15Z",
       "sourceCount": "25 sources"
+    },
+    {
+      "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
+      "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T18:36:15Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Sailor's Strava jog exposes French carrier's location amid Iran conflict",
@@ -1171,9 +1171,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-21T03:05:47Z",
+  "cached_at": "2026-03-21T03:52:15Z",
   "topics": {
     "top": [
+      {
+        "title": "Senate fails to advance DHS funding on day 35 of shutdown",
+        "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-e3dH29mmQveYFAf3KL2WMg",
+        "description": "The 47-37 vote fell short of the 60 needed as TSA absenteeism hits 10% nationally, with some airports losing a third of screeners ahead of spring break.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T03:21:40Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "International aid convoys converge on Havana amid U.S. oil blockade",
         "url": "https://www.perplexity.ai/page/international-aid-convoys-conv-KUGWM0obQDC2GZHX0Ya32Q",
@@ -1193,39 +1202,12 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "White House offers immigration concessions as TSA crisis deepens in fifth week of shutdown",
-        "url": "https://www.perplexity.ai/page/white-house-offers-immigration-RsnA.lCsRdOeycdM8sudcA",
-        "description": "With airports nearing a breaking point, the White House released details of proposed immigration enforcement changes for the first time in an effort to end the standoff.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T23:04:00Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Oil dips as Iran allows more ships through Hormuz",
         "url": "https://www.perplexity.ai/page/oil-dips-as-iran-allows-more-s-qC8uvh9rQgCxQI6WJhe7qw",
         "description": "Brent crude eased from 2022 highs after ship-tracking data showed Iran letting more vessels transit the strait, though prices remain elevated.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-20T22:41:30Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
-        "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T02:05:55Z",
-        "sourceCount": "37 sources"
-      },
-      {
-        "title": "Senate fails to advance DHS funding for 5th time as shutdown nears 5 weeks",
-        "url": "https://www.perplexity.ai/page/senate-fails-to-advance-dhs-fu-2fXiOikqS3q6__b7d0if3g",
-        "description": "Democrats launched a discharge petition to fund most of DHS without ICE, but the broader impasse deepened Friday with another failed Senate vote.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T22:44:04Z",
         "sourceCount": "29 sources"
       },
       {
@@ -1238,6 +1220,15 @@
         "sourceCount": "76 sources"
       },
       {
+        "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
+        "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T02:05:55Z",
+        "sourceCount": "37 sources"
+      },
+      {
         "title": "Jury finds Musk liable for misleading Twitter investors",
         "url": "https://www.perplexity.ai/page/jury-finds-musk-liable-for-mis-Az5cR_hjTI2gEnotZ1MHVQ",
         "description": "A San Francisco jury found that two of Musk's tweets during his 2022 Twitter acquisition constituted securities fraud, with damages likely in the billions.",
@@ -1247,22 +1238,13 @@
         "sourceCount": "66 sources"
       },
       {
-        "title": "Over 20 nations back Hormuz statement as Trump presses Japan to 'step up'",
-        "url": "https://www.perplexity.ai/page/over-20-nations-back-hormuz-st-rvvUR4WvSPuz3_Y8V8MvzA",
-        "description": "A joint declaration condemning Iran's blockade of the Strait of Hormuz grew from seven signatories to more than 20, though no country has committed warships.",
+        "title": "Trump says US 'getting close' to Iran goals, eyes winding down operations",
+        "url": "https://www.perplexity.ai/page/trump-says-us-getting-close-to-8uDolaDsRaSXuYWWOZsbjQ",
+        "description": "On day 21 of the conflict, Trump listed five military objectives on Truth Social while rejecting a ceasefire and calling NATO allies \"cowards.\"",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T22:04:26Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Hegseth faces backlash for invoking faith in Iran briefings",
-        "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
-        "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T21:22:40Z",
-        "sourceCount": "39 sources"
+        "pubDate": "2026-03-20T21:51:01Z",
+        "sourceCount": "84 sources"
       },
       {
         "title": "U.S. prosecutors open criminal probes into Colombia's President",
@@ -1274,15 +1256,6 @@
         "sourceCount": "33 sources"
       },
       {
-        "title": "Denmark planned to destroy Greenland runways if US invaded",
-        "url": "https://www.perplexity.ai/page/denmark-planned-to-destroy-gre-NRyRUjPjQneQG5uppmE03Q",
-        "description": "Danish broadcaster DR revealed that troops deployed to Greenland in January carried explosives to sabotage airstrips, with orders to fight if the U.S. attacked.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T21:20:46Z",
-        "sourceCount": "23 sources"
-      },
-      {
         "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
         "url": "https://www.perplexity.ai/page/us-military-readies-guantanamo-6Zidvow_TvGMCNXm4a.VmA",
         "description": "DeSantis warned of mass migration to Florida as the SOUTHCOM commander told Congress the military has plans to handle refugees at Guantanamo Bay.",
@@ -1290,6 +1263,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T16:29:28Z",
         "sourceCount": "72 sources"
+      },
+      {
+        "title": "Over 20 nations back Hormuz statement as Trump presses Japan to 'step up'",
+        "url": "https://www.perplexity.ai/page/over-20-nations-back-hormuz-st-rvvUR4WvSPuz3_Y8V8MvzA",
+        "description": "A joint declaration condemning Iran's blockade of the Strait of Hormuz grew from seven signatories to more than 20, though no country has committed warships.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T22:04:26Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "DOJ sues Harvard over alleged antisemitism on campus",
@@ -1301,13 +1283,22 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Trump says US 'getting close' to Iran goals, eyes winding down operations",
-        "url": "https://www.perplexity.ai/page/trump-says-us-getting-close-to-8uDolaDsRaSXuYWWOZsbjQ",
-        "description": "On day 21 of the conflict, Trump listed five military objectives on Truth Social while rejecting a ceasefire and calling NATO allies \"cowards.\"",
+        "title": "Hegseth faces backlash for invoking faith in Iran briefings",
+        "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
+        "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T21:51:01Z",
-        "sourceCount": "84 sources"
+        "pubDate": "2026-03-20T21:22:40Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "Denmark planned to destroy Greenland runways if US invaded",
+        "url": "https://www.perplexity.ai/page/denmark-planned-to-destroy-gre-NRyRUjPjQneQG5uppmE03Q",
+        "description": "Danish broadcaster DR revealed that troops deployed to Greenland in January carried explosives to sabotage airstrips, with orders to fight if the U.S. attacked.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T21:20:46Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Amazon developing AI-powered smartphone a decade after Fire Phone flop",
@@ -1328,13 +1319,22 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
-        "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
+        "title": "Trump ally asked ICE to detain his ex in custody fight, NYT reports",
+        "url": "https://www.perplexity.ai/page/trump-ally-asked-ice-to-detain-iOm2UAl2SvGPMR9EvUJcWQ",
+        "description": "Paolo Zampolli contacted a senior ICE official to have his Brazilian ex-girlfriend detained and deported, aiding his bid for custody of their son.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T20:47:33Z",
-        "sourceCount": "62 sources"
+        "pubDate": "2026-03-20T21:19:48Z",
+        "sourceCount": "8 sources"
+      },
+      {
+        "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
+        "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
+        "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T17:25:26Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
@@ -1346,6 +1346,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Trump privately concedes deportation push went too far, WSJ reports",
+        "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
+        "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T17:25:01Z",
+        "sourceCount": "42 sources"
+      },
+      {
         "title": "NASA's Artemis II moon rocket begins rollout to launch pad",
         "url": "https://www.perplexity.ai/page/nasa-s-artemis-ii-moon-rocket-NnpokAUZQEeFVhU7VTs3uw",
         "description": "The SLS rocket started its 4-mile trek to Pad 39B early Friday, setting up a targeted April 1 crewed lunar launch.",
@@ -1355,13 +1364,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
-        "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+        "title": "Netanyahu says 'ground component' needed for Iran regime change",
+        "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
+        "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T18:36:15Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-20T10:03:52Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Old-growth forests store far more carbon than logged ones, study finds",
@@ -1382,22 +1391,13 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "Pentagon rushes Marines, warships to Middle East as Iran war widens",
-        "url": "https://www.perplexity.ai/page/pentagon-rushes-marines-warshi-YefoS2bURCGs4kCOJuSdow",
-        "description": "The USS Boxer group and about 8,000 additional service members are headed to the region as the U.S. weighs further operations, including along Iran's coastline.",
+        "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
+        "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T17:25:26Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump privately concedes deportation push went too far, WSJ reports",
-        "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
-        "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T17:25:01Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-20T20:47:33Z",
+        "sourceCount": "62 sources"
       },
       {
         "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -1409,15 +1409,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Netanyahu says 'ground component' needed for Iran regime change",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
-        "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T10:03:52Z",
-        "sourceCount": "23 sources"
-      },
-      {
         "title": "Live Nation CEO admits pay tied to 'solving' DOJ antitrust case",
         "url": "https://www.perplexity.ai/page/live-nation-ceo-admits-pay-tie-CMuSsm7XQoa9Sdp_ByQCZg",
         "description": "Michael Rapino testified Thursday that about 90% of his compensation depends on profit targets and resolving the federal government's antitrust challenge.",
@@ -1425,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T04:19:15Z",
         "sourceCount": "25 sources"
+      },
+      {
+        "title": "Trump weighs seizing Iran's Kharg Island to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/trump-weighs-seizing-iran-s-kh-ys7jQfd2QCmNMygX_Kv5QQ",
+        "description": "The administration is considering occupying or blockading the island that handles 90% of Iran's oil exports, according to Axios.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T18:36:15Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Sailor's Strava jog exposes French carrier's location amid Iran conflict",
