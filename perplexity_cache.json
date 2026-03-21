@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
+      "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
+      "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T11:19:15Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "NASA opens vast data archive on interstellar comet 3I/ATLAS",
+      "url": "https://www.perplexity.ai/page/nasa-opens-vast-data-archive-o-42snaBOSQ.Sh1JWoJ9eaNg",
+      "description": "Over a dozen NASA missions observed the rare interstellar visitor, and the full dataset is now publicly available to power future discoveries.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T11:07:21Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Historic heat wave pushes California snowpack toward record low",
       "url": "https://www.perplexity.ai/page/historic-heat-wave-pushes-cali-MIz.NHV9Ru2njUD.LPFQoQ",
       "description": "More than 800 daily temperature records have broken this month as Sierra snow melts at about 1% per day.",
@@ -1180,9 +1198,27 @@
       "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-21T11:09:45Z",
+  "cached_at": "2026-03-21T11:23:51Z",
   "topics": {
     "top": [
+      {
+        "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
+        "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
+        "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T11:19:15Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "NASA opens vast data archive on interstellar comet 3I/ATLAS",
+        "url": "https://www.perplexity.ai/page/nasa-opens-vast-data-archive-o-42snaBOSQ.Sh1JWoJ9eaNg",
+        "description": "Over a dozen NASA missions observed the rare interstellar visitor, and the full dataset is now publicly available to power future discoveries.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T11:07:21Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Historic heat wave pushes California snowpack toward record low",
         "url": "https://www.perplexity.ai/page/historic-heat-wave-pushes-cali-MIz.NHV9Ru2njUD.LPFQoQ",
