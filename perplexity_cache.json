@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. intensifies strikes to reopen Strait of Hormuz as Iran war roils global energy markets",
+      "url": "https://www.perplexity.ai/page/u-s-intensifies-strikes-to-reo-0DBx02IDQty6fBwXWFz.Bw",
+      "description": "Oil prices have roughly doubled and gas costs jumped since Iran blockaded the strait three weeks ago, stranding thousands of vessels.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T23:19:24Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "22 nations demand Iran end Strait of Hormuz blockade",
       "url": "https://www.perplexity.ai/page/22-nations-demand-iran-end-str-qnzsJsEURzyELxKx26.oHA",
       "description": "Australia and the UAE joined a growing coalition condemning Iran's closure of the vital waterway and its attacks on commercial vessels.",
@@ -341,15 +350,6 @@
       "topic": "top",
       "pubDate": "2026-03-20T03:53:51Z",
       "sourceCount": "20 sources"
-    },
-    {
-      "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/allies-resist-trump-s-push-for-PCZAQFxvQzut0WB3kFUHMw",
-      "description": "The U.S. has sunk over 120 Iranian naval vessels and is ramping up strikes, but Japan and France have stopped short of committing to escort operations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T12:30:18Z",
-      "sourceCount": "54 sources"
     },
     {
       "title": "Saudi officials warn oil could hit $180 if Iran war persists past April",
@@ -1196,20 +1196,20 @@
       "topic": "top",
       "pubDate": "2026-03-16T05:44:27Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Iran war hits $12B as Tehran rejects ceasefire talks",
-      "url": "https://www.perplexity.ai/page/iran-war-hits-12b-as-tehran-re-65bCpdBERSqAE2HFnEa3jg",
-      "description": "White House adviser Kevin Hassett disclosed the cost on Sunday as Iran's foreign minister denied requesting a ceasefire, contradicting Trump's claims.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T05:03:13Z",
-      "sourceCount": "45 sources"
     }
   ],
-  "cached_at": "2026-03-21T23:20:41Z",
+  "cached_at": "2026-03-21T23:36:23Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. intensifies strikes to reopen Strait of Hormuz as Iran war roils global energy markets",
+        "url": "https://www.perplexity.ai/page/u-s-intensifies-strikes-to-reo-0DBx02IDQty6fBwXWFz.Bw",
+        "description": "Oil prices have roughly doubled and gas costs jumped since Iran blockaded the strait three weeks ago, stranding thousands of vessels.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T23:19:24Z",
+        "sourceCount": "43 sources"
+      },
       {
         "title": "22 nations demand Iran end Strait of Hormuz blockade",
         "url": "https://www.perplexity.ai/page/22-nations-demand-iran-end-str-qnzsJsEURzyELxKx26.oHA",
@@ -1551,15 +1551,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T03:53:51Z",
         "sourceCount": "20 sources"
-      },
-      {
-        "title": "Allies resist Trump's push for coalition to reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/allies-resist-trump-s-push-for-PCZAQFxvQzut0WB3kFUHMw",
-        "description": "The U.S. has sunk over 120 Iranian naval vessels and is ramping up strikes, but Japan and France have stopped short of committing to escort operations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T12:30:18Z",
-        "sourceCount": "54 sources"
       },
       {
         "title": "Saudi officials warn oil could hit $180 if Iran war persists past April",
@@ -2406,15 +2397,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T05:44:27Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Iran war hits $12B as Tehran rejects ceasefire talks",
-        "url": "https://www.perplexity.ai/page/iran-war-hits-12b-as-tehran-re-65bCpdBERSqAE2HFnEa3jg",
-        "description": "White House adviser Kevin Hassett disclosed the cost on Sunday as Iran's foreign minister denied requesting a ceasefire, contradicting Trump's claims.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T05:03:13Z",
-        "sourceCount": "45 sources"
       }
     ],
     "tech": [],
