@@ -253,15 +253,6 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Unilever in talks to merge food unit with McCormick",
-      "url": "https://www.perplexity.ai/page/unilever-in-talks-to-merge-foo-K8CtMWfKQMSBwOOgGNkfnQ",
-      "description": "The all-stock deal could be structured as a tax-free Reverse Morris Trust and finalized by month's end, according to Bloomberg.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T03:19:56Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "S&P 500 heads for fourth straight weekly loss amid oil surge",
       "url": "https://www.perplexity.ai/page/s-p-500-heads-for-fourth-strai-HLmvr0TyR_qXmqBrkvOpOQ",
       "description": "Oil prices spiked after Trump threatened to strike Iran's South Pars gas field, compounding Wednesday's Fed-driven selloff.",
@@ -1169,18 +1160,9 @@
       "topic": "top",
       "pubDate": "2026-03-15T13:04:20Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "China unveils robotic workforce for lunar base construction by 2035",
-      "url": "https://www.perplexity.ai/page/china-unveils-robotic-workforc-br7UuVeqS8ujSz8xubFnwg",
-      "description": "Researchers proposed a wheeled semi-humanoid robot and a six-legged cargo platform to support the planned International Lunar Research Station.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-15T07:33:10Z",
-      "sourceCount": "62 sources"
     }
   ],
-  "cached_at": "2026-03-21T01:18:18Z",
+  "cached_at": "2026-03-21T02:06:41Z",
   "topics": {
     "top": [
       {
@@ -1434,15 +1416,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T03:20:04Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Unilever in talks to merge food unit with McCormick",
-        "url": "https://www.perplexity.ai/page/unilever-in-talks-to-merge-foo-K8CtMWfKQMSBwOOgGNkfnQ",
-        "description": "The all-stock deal could be structured as a tax-free Reverse Morris Trust and finalized by month's end, according to Bloomberg.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T03:19:56Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "S&P 500 heads for fourth straight weekly loss amid oil surge",
@@ -2352,15 +2325,6 @@
         "topic": "top",
         "pubDate": "2026-03-15T13:04:20Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "China unveils robotic workforce for lunar base construction by 2035",
-        "url": "https://www.perplexity.ai/page/china-unveils-robotic-workforc-br7UuVeqS8ujSz8xubFnwg",
-        "description": "Researchers proposed a wheeled semi-humanoid robot and a six-legged cargo platform to support the planned International Lunar Research Station.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-15T07:33:10Z",
-        "sourceCount": "62 sources"
       }
     ],
     "tech": [],
