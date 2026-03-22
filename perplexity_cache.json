@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Saudi Aramco CEO skips CERAWeek to manage Iran crisis",
+      "url": "https://www.perplexity.ai/page/saudi-aramco-ceo-skips-cerawee-uU0wQj71Qcy7gCoUn3rmog",
+      "description": "Amin Nasser canceled his appearance at the Houston energy conference to remain in Saudi Arabia amid ongoing Iranian strikes on the kingdom.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T22:36:21Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Iran vows to destroy regional infrastructure if Trump strikes its power plants",
       "url": "https://www.perplexity.ai/page/iran-vows-to-destroy-regional-XZUVrskESHyAgK0SkJP5Hw",
       "description": "Tehran warned that energy and desalination facilities would become \"legitimate targets\" after Trump's 48-hour ultimatum to reopen the Strait of Hormuz.",
@@ -1243,9 +1252,18 @@
       "sourceCount": "90 sources"
     }
   ],
-  "cached_at": "2026-03-22T22:32:59Z",
+  "cached_at": "2026-03-22T22:47:25Z",
   "topics": {
     "top": [
+      {
+        "title": "Saudi Aramco CEO skips CERAWeek to manage Iran crisis",
+        "url": "https://www.perplexity.ai/page/saudi-aramco-ceo-skips-cerawee-uU0wQj71Qcy7gCoUn3rmog",
+        "description": "Amin Nasser canceled his appearance at the Houston energy conference to remain in Saudi Arabia amid ongoing Iranian strikes on the kingdom.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T22:36:21Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Iran vows to destroy regional infrastructure if Trump strikes its power plants",
         "url": "https://www.perplexity.ai/page/iran-vows-to-destroy-regional-XZUVrskESHyAgK0SkJP5Hw",
