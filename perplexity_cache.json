@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Newark Airport grounds flights after smoke forces tower evacuation",
+      "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
+      "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T13:11:18Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "EU broadcasters urge gatekeeper rules for smart TVs, virtual assistants",
       "url": "https://www.perplexity.ai/page/eu-broadcasters-urge-gatekeepe-9GNFxchjRZeaP1wjV.EOdw",
       "description": "Major European broadcasters asked antitrust chief Teresa Ribera to designate smart TV platforms and AI assistants as gatekeepers under the Digital Markets Act.",
@@ -1052,20 +1061,20 @@
       "topic": "top",
       "pubDate": "2026-03-17T07:03:54Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Fire on USS Gerald R. Ford burned 30 hours, displaced 600 sailors",
-      "url": "https://www.perplexity.ai/page/fire-on-uss-gerald-r-ford-burn-iS8pFNpgQeS0gKGsq34skQ",
-      "description": "A New York Times report reveals the full scope of the blaze aboard the carrier, now approaching 10 months at sea in the Red Sea.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T03:07:57Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-23T13:09:20Z",
+  "cached_at": "2026-03-23T13:47:36Z",
   "topics": {
     "top": [
+      {
+        "title": "Newark Airport grounds flights after smoke forces tower evacuation",
+        "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
+        "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T13:11:18Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "EU broadcasters urge gatekeeper rules for smart TVs, virtual assistants",
         "url": "https://www.perplexity.ai/page/eu-broadcasters-urge-gatekeepe-9GNFxchjRZeaP1wjV.EOdw",
@@ -2118,15 +2127,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T07:03:54Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Fire on USS Gerald R. Ford burned 30 hours, displaced 600 sailors",
-        "url": "https://www.perplexity.ai/page/fire-on-uss-gerald-r-ford-burn-iS8pFNpgQeS0gKGsq34skQ",
-        "description": "A New York Times report reveals the full scope of the blaze aboard the carrier, now approaching 10 months at sea in the Red Sea.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T03:07:57Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
