@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "World Water Day highlights UN warning of 'global water bankruptcy'",
+      "url": "https://www.perplexity.ai/page/world-water-day-highlights-un-bv2QZX.HSAueYpFrZuAa0Q",
+      "description": "The 2026 observance, themed \"Water and Gender,\" arrives as UN scientists say the planet's freshwater systems are in a \"post-crisis state of failure.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T14:32:40Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "ICE agents begin deploying to 14 U.S. airports amid DHS shutdown",
+      "url": "https://www.perplexity.ai/page/ice-agents-begin-deploying-to-3KXiBNRAQZ2TBKSkCa1MRA",
+      "description": "The deployment, directed by border czar Tom Homan, aims to ease security lines that have stretched to three hours as unpaid TSA officers quit or call out.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T14:08:49Z",
+      "sourceCount": "23 sources"
+    },
+    {
       "title": "Both pilots killed as jet hits fire truck at LaGuardia",
       "url": "https://www.perplexity.ai/page/both-pilots-killed-as-jet-hits-750hnM4QSo.2mLUYWOhSOA",
       "description": "Air traffic control audio reveals a controller frantically shouting \"stop\" before an Air Canada Express plane struck a fire truck on the runway.",
@@ -1036,9 +1054,27 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-23T14:18:51Z",
+  "cached_at": "2026-03-23T14:43:50Z",
   "topics": {
     "top": [
+      {
+        "title": "World Water Day highlights UN warning of 'global water bankruptcy'",
+        "url": "https://www.perplexity.ai/page/world-water-day-highlights-un-bv2QZX.HSAueYpFrZuAa0Q",
+        "description": "The 2026 observance, themed \"Water and Gender,\" arrives as UN scientists say the planet's freshwater systems are in a \"post-crisis state of failure.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T14:32:40Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "ICE agents begin deploying to 14 U.S. airports amid DHS shutdown",
+        "url": "https://www.perplexity.ai/page/ice-agents-begin-deploying-to-3KXiBNRAQZ2TBKSkCa1MRA",
+        "description": "The deployment, directed by border czar Tom Homan, aims to ease security lines that have stretched to three hours as unpaid TSA officers quit or call out.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T14:08:49Z",
+        "sourceCount": "23 sources"
+      },
       {
         "title": "Both pilots killed as jet hits fire truck at LaGuardia",
         "url": "https://www.perplexity.ai/page/both-pilots-killed-as-jet-hits-750hnM4QSo.2mLUYWOhSOA",
