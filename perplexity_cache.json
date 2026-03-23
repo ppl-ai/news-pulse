@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
+      "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
+      "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T10:39:12Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "IEA says energy crisis now worse than 1970s oil shocks combined",
       "url": "https://www.perplexity.ai/page/iea-says-energy-crisis-now-wor-QTWhqoVsTvuAOrlSrpUjLA",
       "description": "The agency's chief cited 11 million barrels per day in lost oil supply as Trump's 48-hour ultimatum to Iran nears its Monday evening deadline.",
@@ -1151,29 +1160,20 @@
       "topic": "top",
       "pubDate": "2026-03-16T22:14:05Z",
       "sourceCount": "70 sources"
-    },
-    {
-      "title": "Trump says he'll have the 'honor of taking Cuba'",
-      "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
-      "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T21:41:16Z",
-      "sourceCount": "73 sources"
-    },
-    {
-      "title": "EU sanctions 13 over Bucha massacre and Kremlin disinformation",
-      "url": "https://www.perplexity.ai/page/eu-sanctions-13-over-bucha-mas-i2Pi4A3gQZiUZhEyRDQ.Rw",
-      "description": "The measures target nine Russian military officers linked to the 2022 killings and four individuals accused of spreading pro-Kremlin propaganda.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:39:07Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-23T10:29:20Z",
+  "cached_at": "2026-03-23T10:53:22Z",
   "topics": {
     "top": [
+      {
+        "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
+        "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
+        "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T10:39:12Z",
+        "sourceCount": "36 sources"
+      },
       {
         "title": "IEA says energy crisis now worse than 1970s oil shocks combined",
         "url": "https://www.perplexity.ai/page/iea-says-energy-crisis-now-wor-QTWhqoVsTvuAOrlSrpUjLA",
@@ -2325,24 +2325,6 @@
         "topic": "top",
         "pubDate": "2026-03-16T22:14:05Z",
         "sourceCount": "70 sources"
-      },
-      {
-        "title": "Trump says he'll have the 'honor of taking Cuba'",
-        "url": "https://www.perplexity.ai/page/trump-says-he-ll-have-the-hono-QSNDg0odTjKmIapZkObNDQ",
-        "description": "The president's most aggressive remarks yet on Cuba came during a White House event, as both governments have confirmed ongoing diplomatic talks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T21:41:16Z",
-        "sourceCount": "73 sources"
-      },
-      {
-        "title": "EU sanctions 13 over Bucha massacre and Kremlin disinformation",
-        "url": "https://www.perplexity.ai/page/eu-sanctions-13-over-bucha-mas-i2Pi4A3gQZiUZhEyRDQ.Rw",
-        "description": "The measures target nine Russian military officers linked to the 2022 killings and four individuals accused of spreading pro-Kremlin propaganda.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:39:07Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
