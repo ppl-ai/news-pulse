@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "EU broadcasters urge gatekeeper rules for smart TVs, virtual assistants",
+      "url": "https://www.perplexity.ai/page/eu-broadcasters-urge-gatekeepe-9GNFxchjRZeaP1wjV.EOdw",
+      "description": "Major European broadcasters asked antitrust chief Teresa Ribera to designate smart TV platforms and AI assistants as gatekeepers under the Digital Markets Act.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T12:27:23Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
       "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
       "description": "China's largest refiner is cutting runs by 5% and pushing Beijing to release state oil reserves as the Strait of Hormuz crisis squeezes supply.",
@@ -1061,29 +1070,20 @@
       "topic": "top",
       "pubDate": "2026-03-17T02:25:11Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "UCAR sues to block dismantling of NCAR weather research center",
-      "url": "https://www.perplexity.ai/page/ucar-sues-to-block-dismantling-7FGdiMijSGiwOK4vSA54JA",
-      "description": "The 129-university consortium filed a federal lawsuit alleging political retaliation and constitutional violations over the Trump administration's bid to break up the facility.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T00:49:59Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
-      "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
-      "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T02:23:59Z",
-      "sourceCount": "40 sources"
     }
   ],
-  "cached_at": "2026-03-23T12:18:44Z",
+  "cached_at": "2026-03-23T12:39:49Z",
   "topics": {
     "top": [
+      {
+        "title": "EU broadcasters urge gatekeeper rules for smart TVs, virtual assistants",
+        "url": "https://www.perplexity.ai/page/eu-broadcasters-urge-gatekeepe-9GNFxchjRZeaP1wjV.EOdw",
+        "description": "Major European broadcasters asked antitrust chief Teresa Ribera to designate smart TV platforms and AI assistants as gatekeepers under the Digital Markets Act.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T12:27:23Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Sinopec says it won't buy Iranian crude despite U.S. sanctions waiver",
         "url": "https://www.perplexity.ai/page/sinopec-says-it-won-t-buy-iran-6oGKiiYmQSCm5Q7bVZe.jA",
@@ -2145,24 +2145,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T02:25:11Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "UCAR sues to block dismantling of NCAR weather research center",
-        "url": "https://www.perplexity.ai/page/ucar-sues-to-block-dismantling-7FGdiMijSGiwOK4vSA54JA",
-        "description": "The 129-university consortium filed a federal lawsuit alleging political retaliation and constitutional violations over the Trump administration's bid to break up the facility.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T00:49:59Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "U.S. transfers sacred Oak Flat land to Rio Tinto-BHP copper venture",
-        "url": "https://www.perplexity.ai/page/u-s-transfers-sacred-oak-flat-or.76aKOQOSS4Wowu2pODg",
-        "description": "The Forest Service handed over 2,400 acres of Arizona's Tonto National Forest, clearing the way for one of North America's largest copper mines despite tribal opposition.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T02:23:59Z",
-        "sourceCount": "40 sources"
       }
     ],
     "tech": [],
