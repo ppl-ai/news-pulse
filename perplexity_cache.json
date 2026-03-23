@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
+      "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
+      "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T15:54:47Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "EU-Mercosur trade deal to take effect provisionally May 1",
+      "url": "https://www.perplexity.ai/page/eu-mercosur-trade-deal-to-take-CF6K6HX7Q_WV0cOZaGPAHQ",
+      "description": "The European Commission announced the provisional start date for the landmark pact, which will eliminate tariffs on over 90% of trade between the two blocs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T15:35:58Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Stocks surge as Trump postpones strikes on Iran",
       "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-postpone-LkLsDlDETnyttiNAUlye2g",
       "description": "The Dow jumped more than 900 points and oil prices tumbled after Trump announced a five-day pause on military action, citing productive talks.",
@@ -28,7 +46,7 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "ICE agents begin deploying to 14 U.S. airports amid DHS shutdown",
+      "title": "ICE agents begin deploying to 14 US airports amid DHS shutdown",
       "url": "https://www.perplexity.ai/page/ice-agents-begin-deploying-to-3KXiBNRAQZ2TBKSkCa1MRA",
       "description": "The deployment, directed by border czar Tom Homan, aims to ease security lines that have stretched to three hours as unpaid TSA officers quit or call out.",
       "source": "Perplexity",
@@ -44,6 +62,24 @@
       "topic": "top",
       "pubDate": "2026-03-23T10:39:12Z",
       "sourceCount": "36 sources"
+    },
+    {
+      "title": "Supreme Court hears case that could end mail ballot grace periods in 14-plus states",
+      "url": "https://www.perplexity.ai/page/supreme-court-hears-case-that-wf8H_vWkTmScIrut67jmQg",
+      "description": "Justices weighed whether federal law bars states from counting mail ballots that arrive after Election Day, with a ruling expected by summer.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T10:13:52Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Trump ties DHS funding to SAVE Act as shutdown hits day 37",
+      "url": "https://www.perplexity.ai/page/trump-ties-dhs-funding-to-save-UhTl4B_6TRyOGxPCtA9gkg",
+      "description": "The president said Republicans should reject any deal unless Democrats back voter ID mandates, mail-in voting limits and other priorities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T10:24:22Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "IAEA chief says no war can end Iran's nuclear program",
@@ -1043,20 +1079,29 @@
       "topic": "top",
       "pubDate": "2026-03-17T10:41:10Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "NASA taps Mars rover to watch the Sun ahead of Artemis II launch",
-      "url": "https://www.perplexity.ai/page/nasa-taps-mars-rover-to-watch-Qhvk4_ivQBuROafgCqattw",
-      "description": "The Perseverance rover can spot sunspots two weeks early from Mars, giving mission teams advance warning as the April 1 launch window nears.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T07:03:54Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-23T15:39:05Z",
+  "cached_at": "2026-03-23T16:08:21Z",
   "topics": {
     "top": [
+      {
+        "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
+        "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
+        "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T15:54:47Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "EU-Mercosur trade deal to take effect provisionally May 1",
+        "url": "https://www.perplexity.ai/page/eu-mercosur-trade-deal-to-take-CF6K6HX7Q_WV0cOZaGPAHQ",
+        "description": "The European Commission announced the provisional start date for the landmark pact, which will eliminate tariffs on over 90% of trade between the two blocs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T15:35:58Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Stocks surge as Trump postpones strikes on Iran",
         "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-postpone-LkLsDlDETnyttiNAUlye2g",
@@ -1085,7 +1130,7 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "ICE agents begin deploying to 14 U.S. airports amid DHS shutdown",
+        "title": "ICE agents begin deploying to 14 US airports amid DHS shutdown",
         "url": "https://www.perplexity.ai/page/ice-agents-begin-deploying-to-3KXiBNRAQZ2TBKSkCa1MRA",
         "description": "The deployment, directed by border czar Tom Homan, aims to ease security lines that have stretched to three hours as unpaid TSA officers quit or call out.",
         "source": "Perplexity",
@@ -1101,6 +1146,24 @@
         "topic": "top",
         "pubDate": "2026-03-23T10:39:12Z",
         "sourceCount": "36 sources"
+      },
+      {
+        "title": "Supreme Court hears case that could end mail ballot grace periods in 14-plus states",
+        "url": "https://www.perplexity.ai/page/supreme-court-hears-case-that-wf8H_vWkTmScIrut67jmQg",
+        "description": "Justices weighed whether federal law bars states from counting mail ballots that arrive after Election Day, with a ruling expected by summer.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T10:13:52Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Trump ties DHS funding to SAVE Act as shutdown hits day 37",
+        "url": "https://www.perplexity.ai/page/trump-ties-dhs-funding-to-save-UhTl4B_6TRyOGxPCtA9gkg",
+        "description": "The president said Republicans should reject any deal unless Democrats back voter ID mandates, mail-in voting limits and other priorities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T10:24:22Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "IAEA chief says no war can end Iran's nuclear program",
@@ -2100,15 +2163,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T10:41:10Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "NASA taps Mars rover to watch the Sun ahead of Artemis II launch",
-        "url": "https://www.perplexity.ai/page/nasa-taps-mars-rover-to-watch-Qhvk4_ivQBuROafgCqattw",
-        "description": "The Perseverance rover can spot sunspots two weeks early from Mars, giving mission teams advance warning as the April 1 launch window nears.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T07:03:54Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
