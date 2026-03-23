@@ -1,8 +1,17 @@
 {
   "stories": [
     {
-      "title": "Trump claims Iran agreed to give up nuclear program as Tehran denies any talks",
-      "url": "https://www.perplexity.ai/page/trump-claims-iran-agreed-to-gi-EwAHMeQYQveAA7lxPJ2xRg",
+      "title": "CBS poll: 57% say Iran war not going well as economic fears grow",
+      "url": "https://www.perplexity.ai/page/cbs-poll-57-say-iran-war-not-g-Wpr5WJOkTZq.yFAhVoVBjw",
+      "description": "Most Americans call the conflict a \"war of choice,\" with rising gas prices fueling recession fears and eroding support for the military campaign.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T17:40:21Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Trump claims Iran agreed to endnuclear program as Tehran denies any talks",
+      "url": "https://www.perplexity.ai/page/trump-claims-iran-agreed-to-en-EwAHMeQYQveAA7lxPJ2xRg",
       "description": "Trump said talks led by Witkoff and Kushner \"went perfectly\" and proposed joint U.S.-Iran control of the Strait of Hormuz. Iran's foreign ministry denied negotiations are occurring.",
       "source": "Perplexity",
       "topic": "top",
@@ -91,6 +100,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Zelensky warns Patriot missile deficit is inevitable as Iran war drains stockpiles",
+      "url": "https://www.perplexity.ai/page/zelensky-warns-patriot-missile-VvV1IrmjRk2id0XedU4_QQ",
+      "description": "The Ukrainian president said 803 interceptors were used on the first day of the Middle East war — more than the U.S. produces in a year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T10:23:24Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "Supreme Court hears case that could end mail ballot grace periods in 14-plus states",
       "url": "https://www.perplexity.ai/page/supreme-court-hears-case-that-wf8H_vWkTmScIrut67jmQg",
       "description": "Justices weighed whether federal law bars states from counting mail ballots that arrive after Election Day, with a ruling expected by summer.",
@@ -98,15 +116,6 @@
       "topic": "top",
       "pubDate": "2026-03-23T10:13:52Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "IAEA chief says no war can end Iran's nuclear program",
-      "url": "https://www.perplexity.ai/page/iaea-chief-says-no-war-can-end-7o_kQhsCRku9GrR8ka9xnQ",
-      "description": "Rafael Grossi told CBS News that Iran retains the knowledge and capacity to restart enrichment despite extensive U.S.-Israeli strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T07:23:41Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "ICE agents begin deploying to 14 US airports amid DHS shutdown",
@@ -118,6 +127,15 @@
       "sourceCount": "23 sources"
     },
     {
+      "title": "IAEA chief says no war can end Iran's nuclear program",
+      "url": "https://www.perplexity.ai/page/iaea-chief-says-no-war-can-end-7o_kQhsCRku9GrR8ka9xnQ",
+      "description": "Rafael Grossi told CBS News that Iran retains the knowledge and capacity to restart enrichment despite extensive U.S.-Israeli strikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T07:23:41Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "WMO says Earth's climate 'more out of balance' than ever",
       "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
       "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
@@ -125,15 +143,6 @@
       "topic": "top",
       "pubDate": "2026-03-23T06:06:56Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
-      "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
-      "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T01:23:19Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "NATO chief says 22 nations joining effort to reopen Strait of Hormuz",
@@ -145,6 +154,15 @@
       "sourceCount": "39 sources"
     },
     {
+      "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
+      "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
+      "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T01:23:19Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Mossad plan to spark Iran uprising stalls three weeks into war",
       "url": "https://www.perplexity.ai/page/mossad-plan-to-spark-iran-upri-iPGWn325RBCRqLu906F1eg",
       "description": "Intelligence chief Barnea promised Netanyahu that Israeli operations could trigger regime-toppling unrest, but no uprising has materialized.",
@@ -152,15 +170,6 @@
       "topic": "top",
       "pubDate": "2026-03-22T22:18:48Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Senate advances Mullin's nomination for DHS secretary",
-      "url": "https://www.perplexity.ai/page/senate-advances-mullin-s-nomin-GzE.rCRSSIe7f.lXj6.U_g",
-      "description": "The 54-37 vote clears a key procedural hurdle, setting up a final confirmation vote as early as Monday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T19:23:16Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Cuba says its military is preparing for possible U.S. aggression",
@@ -172,6 +181,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Senate advances Mullin's nomination for DHS secretary",
+      "url": "https://www.perplexity.ai/page/senate-advances-mullin-s-nomin-GzE.rCRSSIe7f.lXj6.U_g",
+      "description": "The 54-37 vote clears a key procedural hurdle, setting up a final confirmation vote as early as Monday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T19:23:16Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Zelenskyy demands tighter Russia sanctions as Florida peace talks enter day two",
       "url": "https://www.perplexity.ai/page/zelenskyy-demands-tighter-russ-AMbU3.hbTkWWgfrwbd4a8g",
       "description": "Ukraine's president cited 1,550 drone strikes in one week, saying eased oil sanctions fund Russia's war as bilateral talks with the U.S. continue.",
@@ -179,15 +197,6 @@
       "topic": "top",
       "pubDate": "2026-03-22T19:18:55Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Houthis could enter Iran war as soon as Monday",
-      "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
-      "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T16:34:28Z",
-      "sourceCount": "40 sources"
     },
     {
       "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
@@ -199,6 +208,15 @@
       "sourceCount": "26 sources"
     },
     {
+      "title": "Houthis could enter Iran war as soon as Monday",
+      "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
+      "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T16:34:28Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Bessent says US has 'plenty of money' for Iran war",
       "url": "https://www.perplexity.ai/page/bessent-says-us-has-plenty-of-VfJt41s4ShG8CYss16LEwQ",
       "description": "Treasury Secretary Scott Bessent ruled out tax increases to fund the conflict and defended the Pentagon's request for $200 billion in supplemental funding.",
@@ -208,21 +226,21 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "IAEA says no radiation leaks after strikes near nuclear sites in Iran, Israel",
-      "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-leaks-a-RV0HTJkITx6bYoFT8Lkm4A",
-      "description": "Tit-for-tat attacks hit near Natanz and Dimona on day 23 of the war, with IAEA chief Grossi urging \"maximum military restraint.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T16:34:00Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Cuba suffers third nationwide blackout in March as US oil blockade tightens",
       "url": "https://www.perplexity.ai/page/cuba-suffers-third-nationwide-VsMuW5ghTR6gv_DpF.Wv5A",
       "description": "The grid collapse left millions without power as aging infrastructure buckles under fuel shortages caused by the Trump administration's economic pressure campaign.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-22T13:08:38Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "IAEA says no radiation leaks after strikes near nuclear sites in Iran, Israel",
+      "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-leaks-a-RV0HTJkITx6bYoFT8Lkm4A",
+      "description": "Tit-for-tat attacks hit near Natanz and Dimona on day 23 of the war, with IAEA chief Grossi urging \"maximum military restraint.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T16:34:00Z",
       "sourceCount": "29 sources"
     },
     {
@@ -235,15 +253,6 @@
       "sourceCount": "38 sources"
     },
     {
-      "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
-      "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
-      "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T01:18:47Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "Rising gas prices are wiping out Trump tax refunds, economists warn",
       "url": "https://www.perplexity.ai/page/rising-gas-prices-are-wiping-o-e7kDFH07Rh6XPVjXiU8lgA",
       "description": "Stanford economists found the typical household will spend $740 more on gas this year, nearly matching the $748 boost in tax refunds from the One Big Beautiful Bill Act.",
@@ -251,6 +260,15 @@
       "topic": "top",
       "pubDate": "2026-03-22T12:32:53Z",
       "sourceCount": "29 sources"
+    },
+    {
+      "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
+      "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
+      "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-22T01:18:47Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "US says it struck 8,000 Iranian targets in three weeks of war",
@@ -262,15 +280,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-      "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-      "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T16:35:05Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
       "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
       "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
@@ -278,6 +287,15 @@
       "topic": "top",
       "pubDate": "2026-03-21T18:59:26Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
+      "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
+      "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T16:35:05Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
@@ -1108,12 +1126,21 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-23T17:25:22Z",
+  "cached_at": "2026-03-23T17:48:35Z",
   "topics": {
     "top": [
       {
-        "title": "Trump claims Iran agreed to give up nuclear program as Tehran denies any talks",
-        "url": "https://www.perplexity.ai/page/trump-claims-iran-agreed-to-gi-EwAHMeQYQveAA7lxPJ2xRg",
+        "title": "CBS poll: 57% say Iran war not going well as economic fears grow",
+        "url": "https://www.perplexity.ai/page/cbs-poll-57-say-iran-war-not-g-Wpr5WJOkTZq.yFAhVoVBjw",
+        "description": "Most Americans call the conflict a \"war of choice,\" with rising gas prices fueling recession fears and eroding support for the military campaign.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T17:40:21Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Trump claims Iran agreed to endnuclear program as Tehran denies any talks",
+        "url": "https://www.perplexity.ai/page/trump-claims-iran-agreed-to-en-EwAHMeQYQveAA7lxPJ2xRg",
         "description": "Trump said talks led by Witkoff and Kushner \"went perfectly\" and proposed joint U.S.-Iran control of the Strait of Hormuz. Iran's foreign ministry denied negotiations are occurring.",
         "source": "Perplexity",
         "topic": "top",
@@ -1202,6 +1229,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Zelensky warns Patriot missile deficit is inevitable as Iran war drains stockpiles",
+        "url": "https://www.perplexity.ai/page/zelensky-warns-patriot-missile-VvV1IrmjRk2id0XedU4_QQ",
+        "description": "The Ukrainian president said 803 interceptors were used on the first day of the Middle East war — more than the U.S. produces in a year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T10:23:24Z",
+        "sourceCount": "24 sources"
+      },
+      {
         "title": "Supreme Court hears case that could end mail ballot grace periods in 14-plus states",
         "url": "https://www.perplexity.ai/page/supreme-court-hears-case-that-wf8H_vWkTmScIrut67jmQg",
         "description": "Justices weighed whether federal law bars states from counting mail ballots that arrive after Election Day, with a ruling expected by summer.",
@@ -1209,15 +1245,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T10:13:52Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "IAEA chief says no war can end Iran's nuclear program",
-        "url": "https://www.perplexity.ai/page/iaea-chief-says-no-war-can-end-7o_kQhsCRku9GrR8ka9xnQ",
-        "description": "Rafael Grossi told CBS News that Iran retains the knowledge and capacity to restart enrichment despite extensive U.S.-Israeli strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T07:23:41Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "ICE agents begin deploying to 14 US airports amid DHS shutdown",
@@ -1229,6 +1256,15 @@
         "sourceCount": "23 sources"
       },
       {
+        "title": "IAEA chief says no war can end Iran's nuclear program",
+        "url": "https://www.perplexity.ai/page/iaea-chief-says-no-war-can-end-7o_kQhsCRku9GrR8ka9xnQ",
+        "description": "Rafael Grossi told CBS News that Iran retains the knowledge and capacity to restart enrichment despite extensive U.S.-Israeli strikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T07:23:41Z",
+        "sourceCount": "30 sources"
+      },
+      {
         "title": "WMO says Earth's climate 'more out of balance' than ever",
         "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
         "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
@@ -1236,15 +1272,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T06:06:56Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
-        "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
-        "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T01:23:19Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "NATO chief says 22 nations joining effort to reopen Strait of Hormuz",
@@ -1256,6 +1283,15 @@
         "sourceCount": "39 sources"
       },
       {
+        "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
+        "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
+        "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T01:23:19Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Mossad plan to spark Iran uprising stalls three weeks into war",
         "url": "https://www.perplexity.ai/page/mossad-plan-to-spark-iran-upri-iPGWn325RBCRqLu906F1eg",
         "description": "Intelligence chief Barnea promised Netanyahu that Israeli operations could trigger regime-toppling unrest, but no uprising has materialized.",
@@ -1263,15 +1299,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T22:18:48Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Senate advances Mullin's nomination for DHS secretary",
-        "url": "https://www.perplexity.ai/page/senate-advances-mullin-s-nomin-GzE.rCRSSIe7f.lXj6.U_g",
-        "description": "The 54-37 vote clears a key procedural hurdle, setting up a final confirmation vote as early as Monday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T19:23:16Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Cuba says its military is preparing for possible U.S. aggression",
@@ -1283,6 +1310,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Senate advances Mullin's nomination for DHS secretary",
+        "url": "https://www.perplexity.ai/page/senate-advances-mullin-s-nomin-GzE.rCRSSIe7f.lXj6.U_g",
+        "description": "The 54-37 vote clears a key procedural hurdle, setting up a final confirmation vote as early as Monday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T19:23:16Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Zelenskyy demands tighter Russia sanctions as Florida peace talks enter day two",
         "url": "https://www.perplexity.ai/page/zelenskyy-demands-tighter-russ-AMbU3.hbTkWWgfrwbd4a8g",
         "description": "Ukraine's president cited 1,550 drone strikes in one week, saying eased oil sanctions fund Russia's war as bilateral talks with the U.S. continue.",
@@ -1290,15 +1326,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T19:18:55Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Houthis could enter Iran war as soon as Monday",
-        "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
-        "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T16:34:28Z",
-        "sourceCount": "40 sources"
       },
       {
         "title": "Trump draws bipartisan rebuke for celebrating Mueller's death",
@@ -1310,6 +1337,15 @@
         "sourceCount": "26 sources"
       },
       {
+        "title": "Houthis could enter Iran war as soon as Monday",
+        "url": "https://www.perplexity.ai/page/houthis-could-enter-iran-war-a-0dPFR0cxSsuPbbfuL9Ef0g",
+        "description": "Saudi Arabia is working to deter the group as it reinforces positions near a key Red Sea port, threatening a second maritime front.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T16:34:28Z",
+        "sourceCount": "40 sources"
+      },
+      {
         "title": "Bessent says US has 'plenty of money' for Iran war",
         "url": "https://www.perplexity.ai/page/bessent-says-us-has-plenty-of-VfJt41s4ShG8CYss16LEwQ",
         "description": "Treasury Secretary Scott Bessent ruled out tax increases to fund the conflict and defended the Pentagon's request for $200 billion in supplemental funding.",
@@ -1319,21 +1355,21 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "IAEA says no radiation leaks after strikes near nuclear sites in Iran, Israel",
-        "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-leaks-a-RV0HTJkITx6bYoFT8Lkm4A",
-        "description": "Tit-for-tat attacks hit near Natanz and Dimona on day 23 of the war, with IAEA chief Grossi urging \"maximum military restraint.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T16:34:00Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Cuba suffers third nationwide blackout in March as US oil blockade tightens",
         "url": "https://www.perplexity.ai/page/cuba-suffers-third-nationwide-VsMuW5ghTR6gv_DpF.Wv5A",
         "description": "The grid collapse left millions without power as aging infrastructure buckles under fuel shortages caused by the Trump administration's economic pressure campaign.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-22T13:08:38Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "IAEA says no radiation leaks after strikes near nuclear sites in Iran, Israel",
+        "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-leaks-a-RV0HTJkITx6bYoFT8Lkm4A",
+        "description": "Tit-for-tat attacks hit near Natanz and Dimona on day 23 of the war, with IAEA chief Grossi urging \"maximum military restraint.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T16:34:00Z",
         "sourceCount": "29 sources"
       },
       {
@@ -1346,15 +1382,6 @@
         "sourceCount": "38 sources"
       },
       {
-        "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
-        "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
-        "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T01:18:47Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "Rising gas prices are wiping out Trump tax refunds, economists warn",
         "url": "https://www.perplexity.ai/page/rising-gas-prices-are-wiping-o-e7kDFH07Rh6XPVjXiU8lgA",
         "description": "Stanford economists found the typical household will spend $740 more on gas this year, nearly matching the $748 boost in tax refunds from the One Big Beautiful Bill Act.",
@@ -1362,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-03-22T12:32:53Z",
         "sourceCount": "29 sources"
+      },
+      {
+        "title": "US envoy calls Miami talks with Ukraine 'constructive' amid deadly attacks",
+        "url": "https://www.perplexity.ai/page/us-envoy-calls-miami-talks-wit-q0fDj1ghQ360f48y9yCRGA",
+        "description": "Special Envoy Steve Witkoff said discussions with Ukrainian officials focused on narrowing gaps toward a peace deal as both sides traded fire Saturday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-22T01:18:47Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "US says it struck 8,000 Iranian targets in three weeks of war",
@@ -1373,15 +1409,6 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-        "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-        "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T16:35:05Z",
-        "sourceCount": "26 sources"
-      },
-      {
         "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
         "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
         "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
@@ -1389,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T18:59:26Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
+        "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
+        "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T16:35:05Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
