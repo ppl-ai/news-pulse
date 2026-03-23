@@ -244,6 +244,15 @@
       "sourceCount": "75 sources"
     },
     {
+      "title": "Israel launches new wave of strikes on Beirut targeting Hezbollah",
+      "url": "https://www.perplexity.ai/page/israel-launches-new-wave-of-st-P_NaKy30RPquChr7TrrBzg",
+      "description": "Saturday's airstrikes follow evacuation warnings as the ground offensive in southern Lebanon widens into its third week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T06:55:52Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Switzerland halts new arms exports to US over Iran war",
       "url": "https://www.perplexity.ai/page/switzerland-halts-new-arms-exp-0DKDpQ4OTaqhsi3pj1GpJg",
       "description": "Bern cited its neutrality obligations, saying no new weapons licenses have been issued to Washington since the conflict began Feb. 28.",
@@ -352,22 +361,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
-      "url": "https://www.perplexity.ai/page/us-bars-cuba-north-korea-from-NpUleBM_SS66VySnmOGzFA",
-      "description": "OFAC amended its temporary Russian oil license after a tanker reportedly delivered diesel to fuel-starved Cuba using deceptive shipping practices.",
+      "title": "US launches air campaign to reopen Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
+      "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T10:23:48Z",
+      "pubDate": "2026-03-20T10:46:46Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
-      "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T20:47:33Z",
-      "sourceCount": "62 sources"
     },
     {
       "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
@@ -415,13 +415,22 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Netanyahu says 'ground component' needed for Iran regime change",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
-      "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
+      "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
+      "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-20T10:03:52Z",
-      "sourceCount": "23 sources"
+      "pubDate": "2026-03-20T20:47:33Z",
+      "sourceCount": "62 sources"
+    },
+    {
+      "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
+      "url": "https://www.perplexity.ai/page/us-bars-cuba-north-korea-from-NpUleBM_SS66VySnmOGzFA",
+      "description": "OFAC amended its temporary Russian oil license after a tanker reportedly delivered diesel to fuel-starved Cuba using deceptive shipping practices.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T10:23:48Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
@@ -431,6 +440,15 @@
       "topic": "top",
       "pubDate": "2026-03-20T05:20:03Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Netanyahu says 'ground component' needed for Iran regime change",
+      "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
+      "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-20T10:03:52Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
@@ -1036,7 +1054,7 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-23T15:11:42Z",
+  "cached_at": "2026-03-23T15:39:05Z",
   "topics": {
     "top": [
       {
@@ -1283,6 +1301,15 @@
         "sourceCount": "75 sources"
       },
       {
+        "title": "Israel launches new wave of strikes on Beirut targeting Hezbollah",
+        "url": "https://www.perplexity.ai/page/israel-launches-new-wave-of-st-P_NaKy30RPquChr7TrrBzg",
+        "description": "Saturday's airstrikes follow evacuation warnings as the ground offensive in southern Lebanon widens into its third week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T06:55:52Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Switzerland halts new arms exports to US over Iran war",
         "url": "https://www.perplexity.ai/page/switzerland-halts-new-arms-exp-0DKDpQ4OTaqhsi3pj1GpJg",
         "description": "Bern cited its neutrality obligations, saying no new weapons licenses have been issued to Washington since the conflict began Feb. 28.",
@@ -1391,22 +1418,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
-        "url": "https://www.perplexity.ai/page/us-bars-cuba-north-korea-from-NpUleBM_SS66VySnmOGzFA",
-        "description": "OFAC amended its temporary Russian oil license after a tanker reportedly delivered diesel to fuel-starved Cuba using deceptive shipping practices.",
+        "title": "US launches air campaign to reopen Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/us-launches-air-campaign-to-re-dDGM4HFSQN2KhBm8K.xD7Q",
+        "description": "Warplanes and attack helicopters are targeting Iranian naval assets as daily shipping traffic through the vital energy corridor has dropped roughly 95%.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T10:23:48Z",
+        "pubDate": "2026-03-20T10:46:46Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
-        "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T20:47:33Z",
-        "sourceCount": "62 sources"
       },
       {
         "title": "US military readies Guantanamo Bay camp for potential Cuban exodus",
@@ -1454,13 +1472,22 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Netanyahu says 'ground component' needed for Iran regime change",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
-        "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
+        "title": "Trump says Iran's military is 'gone,' rejects ceasefire talks",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-s-military-is-BXCFS2MHSnaMRvVPAuzZ_Q",
+        "description": "As the U.S.-Israeli war enters its fourth week, the Pentagon says there is no timeline for ending the conflict.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-20T10:03:52Z",
-        "sourceCount": "23 sources"
+        "pubDate": "2026-03-20T20:47:33Z",
+        "sourceCount": "62 sources"
+      },
+      {
+        "title": "US bars Cuba, North Korea from Russia oil sanctions waiver",
+        "url": "https://www.perplexity.ai/page/us-bars-cuba-north-korea-from-NpUleBM_SS66VySnmOGzFA",
+        "description": "OFAC amended its temporary Russian oil license after a tanker reportedly delivered diesel to fuel-starved Cuba using deceptive shipping practices.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T10:23:48Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Alibaba, Tencent shed $66 billion as AI plans fail to convince investors",
@@ -1470,6 +1497,15 @@
         "topic": "top",
         "pubDate": "2026-03-20T05:20:03Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Netanyahu says 'ground component' needed for Iran regime change",
+        "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
+        "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-20T10:03:52Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "EU leaders endorse tax cuts, ETS overhaul to fight energy price surge",
