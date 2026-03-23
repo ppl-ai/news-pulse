@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump tells ICE agents to drop masks at airports as deployment begins",
+      "url": "https://www.perplexity.ai/page/trump-tells-ice-agents-to-drop-Rb32EpISSkCVyzIAES.Pzw",
+      "description": "ICE agents arrived at 14 major U.S. airports Monday to ease TSA staffing shortages caused by the five-week partial DHS shutdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-23T16:07:32Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
       "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
       "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
@@ -1081,9 +1090,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-23T16:08:21Z",
+  "cached_at": "2026-03-23T16:32:07Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump tells ICE agents to drop masks at airports as deployment begins",
+        "url": "https://www.perplexity.ai/page/trump-tells-ice-agents-to-drop-Rb32EpISSkCVyzIAES.Pzw",
+        "description": "ICE agents arrived at 14 major U.S. airports Monday to ease TSA staffing shortages caused by the five-week partial DHS shutdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-23T16:07:32Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
         "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
