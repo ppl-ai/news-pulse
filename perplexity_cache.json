@@ -1097,36 +1097,9 @@
       "topic": "top",
       "pubDate": "2026-03-17T02:23:59Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Zambia balks at US deal tying HIV aid to mineral access",
-      "url": "https://www.perplexity.ai/page/zambia-balks-at-us-deal-tying-aU5qFtDXSlCG8cNiBFzqaQ",
-      "description": "The draft agreement would cut health funding while requiring mining concessions, data sharing, and domestic co-investment far exceeding terms offered to other African nations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T23:37:27Z",
-      "sourceCount": "60 sources"
-    },
-    {
-      "title": "Iran's Mojtaba Khamenei names ex-IRGC chief as military adviser",
-      "url": "https://www.perplexity.ai/page/iran-s-mojtaba-khamenei-names-TG5Zh_MARJWL83KrfN06Yg",
-      "description": "Mohsen Rezaei, a hardline former Revolutionary Guards commander, takes the role amid Iran's escalating conflict with the U.S. and Israel.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T23:13:15Z",
-      "sourceCount": "25 sources"
-    },
-    {
-      "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
-      "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
-      "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-16T22:58:01Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-23T11:35:05Z",
+  "cached_at": "2026-03-23T11:54:47Z",
   "topics": {
     "top": [
       {
@@ -2226,33 +2199,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T02:23:59Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Zambia balks at US deal tying HIV aid to mineral access",
-        "url": "https://www.perplexity.ai/page/zambia-balks-at-us-deal-tying-aU5qFtDXSlCG8cNiBFzqaQ",
-        "description": "The draft agreement would cut health funding while requiring mining concessions, data sharing, and domestic co-investment far exceeding terms offered to other African nations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T23:37:27Z",
-        "sourceCount": "60 sources"
-      },
-      {
-        "title": "Iran's Mojtaba Khamenei names ex-IRGC chief as military adviser",
-        "url": "https://www.perplexity.ai/page/iran-s-mojtaba-khamenei-names-TG5Zh_MARJWL83KrfN06Yg",
-        "description": "Mohsen Rezaei, a hardline former Revolutionary Guards commander, takes the role amid Iran's escalating conflict with the U.S. and Israel.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T23:13:15Z",
-        "sourceCount": "25 sources"
-      },
-      {
-        "title": "Judge blocks RFK Jr.'s childhood vaccine schedule overhaul",
-        "url": "https://www.perplexity.ai/page/judge-blocks-rfk-jr-s-childhoo-RrN6Yj6EQjyTOYenejEllQ",
-        "description": "A federal judge said medical groups are likely to prove that Kennedy’s overhaul of the childhood vaccine schedule and his replacement of the CDC’s vaccine advisory panel violated federal law.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-16T22:58:01Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
