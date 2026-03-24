@@ -1178,27 +1178,9 @@
       "topic": "top",
       "pubDate": "2026-03-17T18:47:37Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Microsoft unifies Copilot teams, shifts Suleyman to superintelligence role",
-      "url": "https://www.perplexity.ai/page/microsoft-unifies-copilot-team-OSxbgf.OSuK5z7zY9yBY3w",
-      "description": "CEO Satya Nadella merged commercial and consumer Copilot divisions under new EVP Jacob Andreou while redirecting AI chief Mustafa Suleyman to frontier model development.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T18:35:15Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Pentagon begins engineering work to replace Anthropic AI",
-      "url": "https://www.perplexity.ai/page/pentagon-begins-engineering-wo-p2KwN4zOT0Wq4kodi5zArw",
-      "description": "The Defense Department's top AI official said integration of a new large language model is already underway as the military moves past Anthropic's Claude.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T18:29:48Z",
-      "sourceCount": "87 sources"
     }
   ],
-  "cached_at": "2026-03-24T10:50:48Z",
+  "cached_at": "2026-03-24T11:12:28Z",
   "topics": {
     "top": [
       {
@@ -2379,24 +2361,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T18:47:37Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Microsoft unifies Copilot teams, shifts Suleyman to superintelligence role",
-        "url": "https://www.perplexity.ai/page/microsoft-unifies-copilot-team-OSxbgf.OSuK5z7zY9yBY3w",
-        "description": "CEO Satya Nadella merged commercial and consumer Copilot divisions under new EVP Jacob Andreou while redirecting AI chief Mustafa Suleyman to frontier model development.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T18:35:15Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Pentagon begins engineering work to replace Anthropic AI",
-        "url": "https://www.perplexity.ai/page/pentagon-begins-engineering-wo-p2KwN4zOT0Wq4kodi5zArw",
-        "description": "The Defense Department's top AI official said integration of a new large language model is already underway as the military moves past Anthropic's Claude.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T18:29:48Z",
-        "sourceCount": "87 sources"
       }
     ],
     "tech": [],
