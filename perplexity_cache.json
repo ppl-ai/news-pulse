@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Modi warns of 'serious consequences' as Hormuz crisis deepens",
+      "url": "https://www.perplexity.ai/page/modi-warns-of-serious-conseque-DW0nKMZHQ5.yUIsVZO8sqA",
+      "description": "The PM addressed Parliament and spoke with Trump on Tuesday, calling for de-escalation as India's energy supplies face severe disruption.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T18:16:02Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
+      "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
+      "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T17:59:26Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Pentagon to deploy 3,000 82nd Airborne troops to Middle East",
       "url": "https://www.perplexity.ai/page/pentagon-to-deploy-3000-82nd-a-3vkJhfUqQR2EWSz_tvuwRQ",
       "description": "The deployment order for the Army's rapid-response paratroopers is expected within hours, marking a major ground force escalation in the Iran conflict.",
@@ -26,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-03-24T16:31:51Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "EU delays proposal to permanently ban Russian oil imports",
+      "url": "https://www.perplexity.ai/page/eu-delays-proposal-to-permanen-nuKSUoIDSNWcQn5QWWqKwQ",
+      "description": "The European Commission cited \"current geopolitical developments\" as the Iran war roils global energy markets with crude prices above $100 a barrel.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T16:28:39Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "Iran war oil crisis revives US renewable energy debate",
@@ -1099,9 +1126,27 @@
       "sourceCount": "52 sources"
     }
   ],
-  "cached_at": "2026-03-24T18:00:10Z",
+  "cached_at": "2026-03-24T18:30:28Z",
   "topics": {
     "top": [
+      {
+        "title": "Modi warns of 'serious consequences' as Hormuz crisis deepens",
+        "url": "https://www.perplexity.ai/page/modi-warns-of-serious-conseque-DW0nKMZHQ5.yUIsVZO8sqA",
+        "description": "The PM addressed Parliament and spoke with Trump on Tuesday, calling for de-escalation as India's energy supplies face severe disruption.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T18:16:02Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
+        "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
+        "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T17:59:26Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Pentagon to deploy 3,000 82nd Airborne troops to Middle East",
         "url": "https://www.perplexity.ai/page/pentagon-to-deploy-3000-82nd-a-3vkJhfUqQR2EWSz_tvuwRQ",
@@ -1128,6 +1173,15 @@
         "topic": "top",
         "pubDate": "2026-03-24T16:31:51Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "EU delays proposal to permanently ban Russian oil imports",
+        "url": "https://www.perplexity.ai/page/eu-delays-proposal-to-permanen-nuKSUoIDSNWcQn5QWWqKwQ",
+        "description": "The European Commission cited \"current geopolitical developments\" as the Iran war roils global energy markets with crude prices above $100 a barrel.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T16:28:39Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "Iran war oil crisis revives US renewable energy debate",
