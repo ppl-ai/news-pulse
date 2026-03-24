@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Japan to release 53M barrels from national oil reserves starting March 26",
+      "url": "https://www.perplexity.ai/page/japan-to-release-53m-barrels-f-n8fa9MB4RFS.McLFZR.lsg",
+      "description": "The drawdown from 11 stockpiling bases is part of an 80-million-barrel effort and the IEA's coordinated 400-million-barrel emergency release amid the Strait of Hormuz crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T11:46:46Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "U.S. stock futures slip as Iran denies peace talks with Washington",
       "url": "https://www.perplexity.ai/page/u-s-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
       "description": "Monday's rally faded after Tehran rejected Trump's claims of \"productive\" negotiations, sending oil prices back up and rattling investors.",
@@ -1169,29 +1178,20 @@
       "topic": "top",
       "pubDate": "2026-03-17T19:30:07Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
-      "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
-      "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:11:11Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
-      "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
-      "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:02:14Z",
-      "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-03-24T11:34:11Z",
+  "cached_at": "2026-03-24T11:55:19Z",
   "topics": {
     "top": [
+      {
+        "title": "Japan to release 53M barrels from national oil reserves starting March 26",
+        "url": "https://www.perplexity.ai/page/japan-to-release-53m-barrels-f-n8fa9MB4RFS.McLFZR.lsg",
+        "description": "The drawdown from 11 stockpiling bases is part of an 80-million-barrel effort and the IEA's coordinated 400-million-barrel emergency release amid the Strait of Hormuz crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T11:46:46Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "U.S. stock futures slip as Iran denies peace talks with Washington",
         "url": "https://www.perplexity.ai/page/u-s-stock-futures-slip-as-iran-JEz2eyQHQL6zTsoa_Uvmyw",
@@ -2361,24 +2361,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T19:30:07Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Pentagon raises Golden Dome cost to $185B to speed space systems",
-        "url": "https://www.perplexity.ai/page/pentagon-raises-golden-dome-co-q_gZwgomRsCxY.j_F_wuww",
-        "description": "The $10 billion increase will accelerate satellite tracking, sensor and communications programs central to the homeland missile defense shield.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:11:11Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "UC Irvine, Tel Aviv team build ion pump with no moving parts",
-        "url": "https://www.perplexity.ai/page/uc-irvine-tel-aviv-team-build-.Cr9CjleTHCzxyU8xSlVhg",
-        "description": "The ratchet-based device removes salt and heavy metals from water using only a low-voltage electrical signal, with no chemical reactions required.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:02:14Z",
-        "sourceCount": "13 sources"
       }
     ],
     "tech": [],
