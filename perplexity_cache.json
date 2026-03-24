@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
+      "url": "https://www.perplexity.ai/page/magnitude-7-6-earthquake-strik-S_.mDH.UQm2xSSuHMg2GFg",
+      "description": "The deep quake hit 153 km west of Neiafu on Tuesday with no immediate reports of damage or casualties, according to USGS.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T06:12:31Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "AWS Bahrain region disrupted by drones for second time this month",
       "url": "https://www.perplexity.ai/page/aws-bahrain-region-disrupted-b-ebLMwO8LS_iRhh0ByFuseg",
       "description": "Amazon confirmed drone activity knocked out its cloud computing region in Bahrain again, as the company urges customers to migrate workloads elsewhere.",
@@ -1234,9 +1243,18 @@
       "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-24T06:41:30Z",
+  "cached_at": "2026-03-24T07:10:52Z",
   "topics": {
     "top": [
+      {
+        "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
+        "url": "https://www.perplexity.ai/page/magnitude-7-6-earthquake-strik-S_.mDH.UQm2xSSuHMg2GFg",
+        "description": "The deep quake hit 153 km west of Neiafu on Tuesday with no immediate reports of damage or casualties, according to USGS.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T06:12:31Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "AWS Bahrain region disrupted by drones for second time this month",
         "url": "https://www.perplexity.ai/page/aws-bahrain-region-disrupted-b-ebLMwO8LS_iRhh0ByFuseg",
