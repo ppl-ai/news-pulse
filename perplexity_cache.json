@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NASA cancels Lunar Gateway, will build $20B moon base",
+      "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
+      "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T17:17:22Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
       "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
       "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
@@ -1108,9 +1117,18 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-24T17:09:48Z",
+  "cached_at": "2026-03-24T17:34:23Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA cancels Lunar Gateway, will build $20B moon base",
+        "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
+        "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T17:17:22Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
         "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
