@@ -1160,27 +1160,9 @@
       "topic": "top",
       "pubDate": "2026-03-17T21:36:25Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "UK and Ukraine sign drone defense pact during Zelenskyy's London visit",
-      "url": "https://www.perplexity.ai/page/uk-and-ukraine-sign-drone-defe-LKCTOrYNR5arOjm2vPTegw",
-      "description": "Zelenskyy met with Starmer, Rutte, and King Charles, urging allies to keep focus on Ukraine as the Iran war shifts global attention toward the Middle East.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:56:43Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
-      "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
-      "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T19:30:07Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-24T12:21:36Z",
+  "cached_at": "2026-03-24T12:43:53Z",
   "topics": {
     "top": [
       {
@@ -2343,24 +2325,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T21:36:25Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "UK and Ukraine sign drone defense pact during Zelenskyy's London visit",
-        "url": "https://www.perplexity.ai/page/uk-and-ukraine-sign-drone-defe-LKCTOrYNR5arOjm2vPTegw",
-        "description": "Zelenskyy met with Starmer, Rutte, and King Charles, urging allies to keep focus on Ukraine as the Iran war shifts global attention toward the Middle East.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:56:43Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "Moldova summons Russian envoy over oil spill from Ukraine strike",
-        "url": "https://www.perplexity.ai/page/moldova-summons-russian-envoy-HLrqaGBJS9WrFvBE3KqmRA",
-        "description": "Officials presented the ambassador with contaminated river water as cities remain without supply after a March 7 attack on a Ukrainian hydropower plant.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T19:30:07Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
