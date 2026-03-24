@@ -1142,27 +1142,9 @@
       "topic": "top",
       "pubDate": "2026-03-17T21:17:43Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Roberts calls personal attacks on judges 'dangerous' after Trump tirade",
-      "url": "https://www.perplexity.ai/page/roberts-calls-personal-attacks-aNX8i2LVS5yIG_CDZ2A7aw",
-      "description": "The chief justice urged critics across the political spectrum to stop targeting judges personally, days after Trump called the Supreme Court \"inept.\"",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T20:07:13Z",
-      "sourceCount": "24 sources"
-    },
-    {
-      "title": "Russia sharing satellite imagery, drone tech with Iran",
-      "url": "https://www.perplexity.ai/page/russia-sharing-satellite-image-nnudmokNSWSnX5LDEaddSw",
-      "description": "Moscow has expanded military cooperation to include satellite data and drone tactics refined during the Ukraine war, according to The Wall Street Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T21:36:25Z",
-      "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-03-24T12:43:53Z",
+  "cached_at": "2026-03-24T13:15:22Z",
   "topics": {
     "top": [
       {
@@ -2307,24 +2289,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T21:17:43Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Roberts calls personal attacks on judges 'dangerous' after Trump tirade",
-        "url": "https://www.perplexity.ai/page/roberts-calls-personal-attacks-aNX8i2LVS5yIG_CDZ2A7aw",
-        "description": "The chief justice urged critics across the political spectrum to stop targeting judges personally, days after Trump called the Supreme Court \"inept.\"",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T20:07:13Z",
-        "sourceCount": "24 sources"
-      },
-      {
-        "title": "Russia sharing satellite imagery, drone tech with Iran",
-        "url": "https://www.perplexity.ai/page/russia-sharing-satellite-image-nnudmokNSWSnX5LDEaddSw",
-        "description": "Moscow has expanded military cooperation to include satellite data and drone tactics refined during the Ukraine war, according to The Wall Street Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T21:36:25Z",
-        "sourceCount": "36 sources"
       }
     ],
     "tech": [],
