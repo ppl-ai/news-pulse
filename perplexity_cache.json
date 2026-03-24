@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Senate nears deal to end six-week DHS shutdown after Trump meeting",
+      "url": "https://www.perplexity.ai/page/senate-nears-deal-to-end-six-w-VCPV7Bm7SduZswbPzbFqzQ",
+      "description": "Republicans proposed funding most of DHS while moving ICE money and election legislation through reconciliation separately.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T15:10:58Z",
+      "sourceCount": "34 sources"
+    },
+    {
       "title": "Russia launches 16 Rassvet satellites to rival Starlink",
       "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
       "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
@@ -1088,29 +1097,20 @@
       "topic": "top",
       "pubDate": "2026-03-18T12:03:46Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump asks to delay Xi summit by a month over Iran war",
-      "url": "https://www.perplexity.ai/page/trump-asks-to-delay-xi-summit-XIfumgrVRD2055o3Vkg_eA",
-      "description": "The president told reporters the ongoing conflict requires him to stay in Washington, pushing back a Beijing trip planned for late March.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-18T07:32:16Z",
-      "sourceCount": "21 sources"
-    },
-    {
-      "title": "Senate nears deal to end six-week DHS shutdown after Trump meeting",
-      "url": "https://www.perplexity.ai/page/senate-nears-deal-to-end-six-w-VCPV7Bm7SduZswbPzbFqzQ",
-      "description": "Republicans proposed funding most of DHS while moving ICE money and election legislation through reconciliation separately.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-03-24T15:10:58Z",
-      "sourceCount": "34 sources"
     }
   ],
-  "cached_at": "2026-03-24T15:17:09Z",
+  "cached_at": "2026-03-24T15:45:03Z",
   "topics": {
     "top": [
+      {
+        "title": "Senate nears deal to end six-week DHS shutdown after Trump meeting",
+        "url": "https://www.perplexity.ai/page/senate-nears-deal-to-end-six-w-VCPV7Bm7SduZswbPzbFqzQ",
+        "description": "Republicans proposed funding most of DHS while moving ICE money and election legislation through reconciliation separately.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T15:10:58Z",
+        "sourceCount": "34 sources"
+      },
       {
         "title": "Russia launches 16 Rassvet satellites to rival Starlink",
         "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
@@ -2199,28 +2199,9 @@
         "topic": "top",
         "pubDate": "2026-03-18T12:03:46Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump asks to delay Xi summit by a month over Iran war",
-        "url": "https://www.perplexity.ai/page/trump-asks-to-delay-xi-summit-XIfumgrVRD2055o3Vkg_eA",
-        "description": "The president told reporters the ongoing conflict requires him to stay in Washington, pushing back a Beijing trip planned for late March.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-18T07:32:16Z",
-        "sourceCount": "21 sources"
       }
     ],
-    "tech": [
-      {
-        "title": "Senate nears deal to end six-week DHS shutdown after Trump meeting",
-        "url": "https://www.perplexity.ai/page/senate-nears-deal-to-end-six-w-VCPV7Bm7SduZswbPzbFqzQ",
-        "description": "Republicans proposed funding most of DHS while moving ICE money and election legislation through reconciliation separately.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-03-24T15:10:58Z",
-        "sourceCount": "34 sources"
-      }
-    ],
+    "tech": [],
     "finance": []
   }
 }
