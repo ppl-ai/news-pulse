@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Iran hits Tel Aviv with cluster missiles as war enters fourth week",
-      "url": "https://www.perplexity.ai/page/iran-hits-tel-aviv-with-cluste-xuj6.ElVQYCZnqkfI0pzig",
-      "description": "Cluster warhead-equipped missiles struck residential areas near Tel Aviv, wounding over 100, as Tehran denied any peace talks with the US.",
+      "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
+      "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
+      "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T08:52:50Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-24T09:54:04Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "China mapping ocean floor for submarine warfare, Reuters finds",
@@ -1223,28 +1223,19 @@
       "topic": "top",
       "pubDate": "2026-03-17T17:39:47Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Russia vows solidarity with Cuba after Trump says he could 'take' the island",
-      "url": "https://www.perplexity.ai/page/russia-vows-solidarity-with-cu-mcaCyk21RDme7rAEgCSW6w",
-      "description": "Moscow condemned U.S. \"interference\" and pledged financial support to Havana after Trump told reporters he could do \"anything I want\" with Cuba.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-17T15:42:53Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-24T09:36:34Z",
+  "cached_at": "2026-03-24T10:02:34Z",
   "topics": {
     "top": [
       {
-        "title": "Iran hits Tel Aviv with cluster missiles as war enters fourth week",
-        "url": "https://www.perplexity.ai/page/iran-hits-tel-aviv-with-cluste-xuj6.ElVQYCZnqkfI0pzig",
-        "description": "Cluster warhead-equipped missiles struck residential areas near Tel Aviv, wounding over 100, as Tehran denied any peace talks with the US.",
+        "title": "Iran fires missiles at Israel as IRGC rejects Trump's peace talk claims",
+        "url": "https://www.perplexity.ai/page/iran-fires-missiles-at-israel-OzB9vLUnRRaukju8EfelJg",
+        "description": "Salvos hit Tel Aviv and Haifa overnight as Trump postponed strikes on Iran for five days, citing progress in talks Tehran says never happened.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T08:52:50Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-24T09:54:04Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "China mapping ocean floor for submarine warfare, Reuters finds",
@@ -2460,15 +2451,6 @@
         "topic": "top",
         "pubDate": "2026-03-17T17:39:47Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Russia vows solidarity with Cuba after Trump says he could 'take' the island",
-        "url": "https://www.perplexity.ai/page/russia-vows-solidarity-with-cu-mcaCyk21RDme7rAEgCSW6w",
-        "description": "Moscow condemned U.S. \"interference\" and pledged financial support to Havana after Trump told reporters he could do \"anything I want\" with Cuba.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-17T15:42:53Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
