@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Erdogan vows to keep Turkey out of Iran war's 'ring of fire'",
-      "url": "https://www.perplexity.ai/page/erdogan-vows-to-keep-turkey-ou-zy9lEjtaSPC2UTlm4blrhQ",
-      "description": "On the 25th day of the US-Israeli air campaign against Iran, Turkey's president blamed Netanyahu and warned against traps to draw Ankara into the conflict.",
+      "title": "Lebanon expels Iran's ambassador as Israel vows to occupy southern Lebanon",
+      "url": "https://www.perplexity.ai/page/lebanon-expels-iran-s-ambassad-ziil3cQjTIW9yPhsF19quA",
+      "description": "Beirut declared Tehran's envoy persona non grata on Tuesday as Israel announced plans to seize territory up to the Litani River.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T22:59:12Z",
-      "sourceCount": "40 sources"
+      "pubDate": "2026-03-24T23:19:10Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Judge orders Trump to unfreeze $3B in Chicago transit funds",
+      "url": "https://www.perplexity.ai/page/judge-orders-trump-to-unfreeze-k1Wtd9yeSFS6Esgv2catmQ",
+      "description": "A federal judge granted a temporary restraining order releasing frozen rail funding, calling the administration's selective enforcement \"pretextual.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T23:13:17Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Iran stops all gas exports to Turkey after South Pars strike",
@@ -19,12 +28,39 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "China presses Iran to start peace talks as Gulf war escalates",
+      "url": "https://www.perplexity.ai/page/china-presses-iran-to-start-pe-nx2KmZqnSd.g3Xo3eK3m.A",
+      "description": "Wang Yi told counterpart Abbas Araghchi that \"talking is always better than fighting,\" urging all sides to seize \"every opportunity\" for negotiations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T23:15:49Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Erdogan vows to keep Turkey out of Iran war's 'ring of fire'",
+      "url": "https://www.perplexity.ai/page/erdogan-vows-to-keep-turkey-ou-zy9lEjtaSPC2UTlm4blrhQ",
+      "description": "On the 25th day of the US-Israeli air campaign against Iran, Turkey's president blamed Netanyahu and warned against traps to draw Ankara into the conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T22:59:12Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Democrats reject GOP offer to end DHS shutdown, demand ICE reforms",
       "url": "https://www.perplexity.ai/page/democrats-reject-gop-offer-to-jnGYPw30Q6q6AKHtbZYYlQ",
       "description": "Senate Republicans proposed funding 94% of the DHS budget, but Democrats said the plan lacks immigration enforcement changes they have required since January.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-24T22:34:10Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Macron urges Iran to negotiate in third call with Pezeshkian since war began",
+      "url": "https://www.perplexity.ai/page/macron-urges-iran-to-negotiate-GLC6Pi22RUmYvEqYEA5lLA",
+      "description": "The French president demanded an end to \"unacceptable\" attacks and the reopening of the Strait of Hormuz as U.S. peace efforts intensify.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T23:04:07Z",
       "sourceCount": "28 sources"
     },
     {
@@ -1153,17 +1189,26 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-24T23:18:01Z",
+  "cached_at": "2026-03-24T23:35:51Z",
   "topics": {
     "top": [
       {
-        "title": "Erdogan vows to keep Turkey out of Iran war's 'ring of fire'",
-        "url": "https://www.perplexity.ai/page/erdogan-vows-to-keep-turkey-ou-zy9lEjtaSPC2UTlm4blrhQ",
-        "description": "On the 25th day of the US-Israeli air campaign against Iran, Turkey's president blamed Netanyahu and warned against traps to draw Ankara into the conflict.",
+        "title": "Lebanon expels Iran's ambassador as Israel vows to occupy southern Lebanon",
+        "url": "https://www.perplexity.ai/page/lebanon-expels-iran-s-ambassad-ziil3cQjTIW9yPhsF19quA",
+        "description": "Beirut declared Tehran's envoy persona non grata on Tuesday as Israel announced plans to seize territory up to the Litani River.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T22:59:12Z",
-        "sourceCount": "40 sources"
+        "pubDate": "2026-03-24T23:19:10Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Judge orders Trump to unfreeze $3B in Chicago transit funds",
+        "url": "https://www.perplexity.ai/page/judge-orders-trump-to-unfreeze-k1Wtd9yeSFS6Esgv2catmQ",
+        "description": "A federal judge granted a temporary restraining order releasing frozen rail funding, calling the administration's selective enforcement \"pretextual.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T23:13:17Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Iran stops all gas exports to Turkey after South Pars strike",
@@ -1175,12 +1220,39 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "China presses Iran to start peace talks as Gulf war escalates",
+        "url": "https://www.perplexity.ai/page/china-presses-iran-to-start-pe-nx2KmZqnSd.g3Xo3eK3m.A",
+        "description": "Wang Yi told counterpart Abbas Araghchi that \"talking is always better than fighting,\" urging all sides to seize \"every opportunity\" for negotiations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T23:15:49Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Erdogan vows to keep Turkey out of Iran war's 'ring of fire'",
+        "url": "https://www.perplexity.ai/page/erdogan-vows-to-keep-turkey-ou-zy9lEjtaSPC2UTlm4blrhQ",
+        "description": "On the 25th day of the US-Israeli air campaign against Iran, Turkey's president blamed Netanyahu and warned against traps to draw Ankara into the conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T22:59:12Z",
+        "sourceCount": "40 sources"
+      },
+      {
         "title": "Democrats reject GOP offer to end DHS shutdown, demand ICE reforms",
         "url": "https://www.perplexity.ai/page/democrats-reject-gop-offer-to-jnGYPw30Q6q6AKHtbZYYlQ",
         "description": "Senate Republicans proposed funding 94% of the DHS budget, but Democrats said the plan lacks immigration enforcement changes they have required since January.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-24T22:34:10Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Macron urges Iran to negotiate in third call with Pezeshkian since war began",
+        "url": "https://www.perplexity.ai/page/macron-urges-iran-to-negotiate-GLC6Pi22RUmYvEqYEA5lLA",
+        "description": "The French president demanded an end to \"unacceptable\" attacks and the reopening of the Strait of Hormuz as U.S. peace efforts intensify.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T23:04:07Z",
         "sourceCount": "28 sources"
       },
       {
