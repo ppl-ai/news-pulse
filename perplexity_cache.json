@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "China mapping ocean floor for submarine warfare, Reuters finds",
+      "url": "https://www.perplexity.ai/page/china-mapping-ocean-floor-for-WRZPQzOGRxqXIAIN6EuAdA",
+      "description": "A Reuters investigation tracked 42 Chinese research vessels systematically charting seabeds across the Pacific, Indian, and Arctic oceans over five years.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T07:56:57Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Sunken Soviet sub is leaking radioactive material, study finds",
       "url": "https://www.perplexity.ai/page/sunken-soviet-sub-is-leaking-r-31bv2h4yS66cxO_4dtAT6A",
       "description": "A new PNAS study confirms the Komsomolets submarine is releasing strontium, cesium, uranium, and plutonium into the Norwegian Sea from its corroding hull.",
@@ -1225,9 +1234,18 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-24T08:00:31Z",
+  "cached_at": "2026-03-24T08:25:58Z",
   "topics": {
     "top": [
+      {
+        "title": "China mapping ocean floor for submarine warfare, Reuters finds",
+        "url": "https://www.perplexity.ai/page/china-mapping-ocean-floor-for-WRZPQzOGRxqXIAIN6EuAdA",
+        "description": "A Reuters investigation tracked 42 Chinese research vessels systematically charting seabeds across the Pacific, Indian, and Arctic oceans over five years.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T07:56:57Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Sunken Soviet sub is leaking radioactive material, study finds",
         "url": "https://www.perplexity.ai/page/sunken-soviet-sub-is-leaking-r-31bv2h4yS66cxO_4dtAT6A",
