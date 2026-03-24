@@ -1,13 +1,31 @@
 {
   "stories": [
     {
-      "title": "Study finds Europe's last Neanderthals descended from one small group",
-      "url": "https://www.perplexity.ai/page/study-finds-europe-s-last-nean-IU7FziIETl6s5rU1MDiK0g",
-      "description": "New DNA analysis traced nearly all Late Neanderthals to a single lineage that emerged from a climate refuge in southwestern France around 65,000 years ago.",
+      "title": "NASA visualization shows GUARDIAN spotted tsunami 32 minutes before tide gauges",
+      "url": "https://www.perplexity.ai/page/nasa-visualization-shows-guard-Pb.itZqMQSSQUt1Vi0ZELg",
+      "description": "The experimental system detected atmospheric disturbances from last summer's Kamchatka earthquake tsunami before it reached Hawaii.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T13:38:40Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-24T14:36:51Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Russia launches 16 Rassvet satellites to rival Starlink",
+      "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
+      "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T14:25:17Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
+      "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
+      "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T14:14:43Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Japan to release 53M barrels from national oil reserves starting March 26",
@@ -1090,17 +1108,35 @@
       "sourceCount": "21 sources"
     }
   ],
-  "cached_at": "2026-03-24T14:22:49Z",
+  "cached_at": "2026-03-24T14:47:39Z",
   "topics": {
     "top": [
       {
-        "title": "Study finds Europe's last Neanderthals descended from one small group",
-        "url": "https://www.perplexity.ai/page/study-finds-europe-s-last-nean-IU7FziIETl6s5rU1MDiK0g",
-        "description": "New DNA analysis traced nearly all Late Neanderthals to a single lineage that emerged from a climate refuge in southwestern France around 65,000 years ago.",
+        "title": "NASA visualization shows GUARDIAN spotted tsunami 32 minutes before tide gauges",
+        "url": "https://www.perplexity.ai/page/nasa-visualization-shows-guard-Pb.itZqMQSSQUt1Vi0ZELg",
+        "description": "The experimental system detected atmospheric disturbances from last summer's Kamchatka earthquake tsunami before it reached Hawaii.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T13:38:40Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-24T14:36:51Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Russia launches 16 Rassvet satellites to rival Starlink",
+        "url": "https://www.perplexity.ai/page/russia-launches-16-rassvet-sat-BK9BTBQ8TOSEERnHhB2X_g",
+        "description": "Bureau 1440 deployed its first operational batch from Plesetsk Cosmodrome on March 23, targeting commercial broadband service by 2027.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T14:25:17Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Israel to occupy southern Lebanon up to Litani River, defence minister says",
+        "url": "https://www.perplexity.ai/page/israel-to-occupy-southern-leba-2G0lTlYJTj68MPsMF9hIgQ",
+        "description": "Defense Minister Katz declared Israel will seize a \"defensive buffer\" covering nearly a tenth of Lebanon, the first explicit statement of such intent.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T14:14:43Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Japan to release 53M barrels from national oil reserves starting March 26",
