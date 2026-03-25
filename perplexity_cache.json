@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
+      "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
+      "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T19:05:38Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "TSA chief warns of airport closures as DHS shutdown hits Day 40",
+      "url": "https://www.perplexity.ai/page/tsa-chief-warns-of-airport-clo-ZXdMpw6lR9C4K4LhW1ir1w",
+      "description": "Acting administrator told Congress that 480 officers have quit, wait times have topped four hours, and nearly $1 billion in paychecks have been missed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T18:47:08Z",
+      "sourceCount": "39 sources"
+    },
+    {
       "title": "Pentagon signs deals to quadruple missile output amid Iran war",
       "url": "https://www.perplexity.ai/page/pentagon-signs-deals-to-quadru-aTON_wFkSIWzaYnyy8fxVA",
       "description": "Lockheed Martin, BAE Systems, and Honeywell Aerospace agreed to accelerate production of key weapons as the U.S. replenishes wartime stockpiles.",
@@ -37,6 +55,15 @@
       "sourceCount": "26 sources"
     },
     {
+      "title": "Iran rejects U.S. ceasefire plan, issues five demands",
+      "url": "https://www.perplexity.ai/page/iran-rejects-u-s-ceasefire-pla-Kqra0UH4Tg20F6x_aGr6yQ",
+      "description": "Tehran dismissed Washington's 15-point proposal as \"excessive and disconnected from reality\" and countered with its own conditions to end the war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T18:30:45Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Meta, YouTube found negligent in social media addiction trial",
       "url": "https://www.perplexity.ai/page/meta-youtube-found-negligent-i-e__o2o_zRfGTjolGHgWrBQ",
       "description": "A Los Angeles jury awarded $3 million in damages to a young woman who alleged the platforms' addictive design features caused her mental health struggles.",
@@ -55,6 +82,15 @@
       "sourceCount": "72 sources"
     },
     {
+      "title": "Iran signals preference for Vance as US negotiator, rejecting Witkoff and Kushner",
+      "url": "https://www.perplexity.ai/page/iran-signals-preference-for-va-xOWfFtFTSyODVD3IWW2fcg",
+      "description": "Tehran conveyed through back channels that it views Vance as more inclined to end the war, citing a \"deficit of trust\" with prior negotiators.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T17:58:40Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Supreme Court rules ISPs not liable for users' piracy",
       "url": "https://www.perplexity.ai/page/supreme-court-rules-isps-not-l-wnKeHG8gR8yNPA_hTyZTTg",
       "description": "The unanimous decision reverses a jury verdict against Cox Communications in a lawsuit led by Sony Music over illegal downloads of more than 10,000 songs.",
@@ -64,13 +100,13 @@
       "sourceCount": "41 sources"
     },
     {
-      "title": "Trump gets daily strike montage on Iran war, raising concerns",
-      "url": "https://www.perplexity.ai/page/trump-gets-daily-strike-montag-T9f_XpV5SLaIsQ2rS.9Nxg",
-      "description": "Officials told NBC News the curated two-minute videos emphasize U.S. successes while offering little detail on Iranian attacks or setbacks.",
+      "title": "TSA chief tells Congress agency won't be ready for World Cup",
+      "url": "https://www.perplexity.ai/page/tsa-chief-tells-congress-agenc-RWCH5.xsQaafWSMzydFXDw",
+      "description": "Nearly 460 officers have quit and unpaid payroll nears $1 billion as the DHS shutdown enters its 39th day, the acting TSA administrator testified.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-25T14:18:39Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-03-25T15:48:42Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "US gas prices hit $3.98 as lawmakers push tax suspensions",
@@ -91,13 +127,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "TSA chief tells Congress agency won't be ready for World Cup",
-      "url": "https://www.perplexity.ai/page/tsa-chief-tells-congress-agenc-RWCH5.xsQaafWSMzydFXDw",
-      "description": "Nearly 460 officers have quit and unpaid payroll nears $1 billion as the DHS shutdown enters its 39th day, the acting TSA administrator testified.",
+      "title": "Trump gets daily strike montage on Iran war, raising concerns",
+      "url": "https://www.perplexity.ai/page/trump-gets-daily-strike-montag-T9f_XpV5SLaIsQ2rS.9Nxg",
+      "description": "Officials told NBC News the curated two-minute videos emphasize U.S. successes while offering little detail on Iranian attacks or setbacks.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-25T15:48:42Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-25T14:18:39Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Pentagon orders 82nd Airborne troops to Middle East amid Iran ceasefire push",
@@ -145,13 +181,13 @@
       "sourceCount": "24 sources"
     },
     {
-      "title": "Iran dismisses US ceasefire plan as war nears one-month mark",
-      "url": "https://www.perplexity.ai/page/iran-dismisses-us-ceasefire-pl-khPaXGevRga8Ju49Kf2_hg",
-      "description": "Tehran's military command declared it will \"never come to terms\" with Washington, even as Trump insisted negotiations are underway.",
+      "title": "Senate Republicans block 9th TSA funding bid as shutdown nears 40 days",
+      "url": "https://www.perplexity.ai/page/senate-republicans-block-9th-t-zdhaxogWSRCh5AU3Nf3JZw",
+      "description": "Travelers face hours-long waits at major airports as over 50,000 TSA officers work without pay during the DHS funding standoff.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-25T13:53:27Z",
-      "sourceCount": "14 sources"
+      "pubDate": "2026-03-25T01:45:06Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "US Army raises max enlistment age to 42, eases marijuana rules",
@@ -163,15 +199,6 @@
       "sourceCount": "62 sources"
     },
     {
-      "title": "Senate Republicans block 9th TSA funding bid as shutdown nears 40 days",
-      "url": "https://www.perplexity.ai/page/senate-republicans-block-9th-t-zdhaxogWSRCh5AU3Nf3JZw",
-      "description": "Travelers face hours-long waits at major airports as over 50,000 TSA officers work without pay during the DHS funding standoff.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T01:45:06Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Israeli airstrike hits Christian town north of Beirut for first time",
       "url": "https://www.perplexity.ai/page/israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
       "description": "The strike on Sahel Alma marks a widening of Israel's air campaign into previously untouched areas of Lebanon amid the escalating war with Hezbollah.",
@@ -181,15 +208,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "US assessing how to resume nuclear weapons testing",
-      "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
-      "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T00:58:37Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
       "url": "https://www.perplexity.ai/page/spacex-aims-to-file-for-record-nONBVN4bR_2QfF.uTj.NMA",
       "description": "The rocket and satellite company is moving toward what could be the largest public offering in history, with a June listing as the target.",
@@ -197,6 +215,15 @@
       "topic": "top",
       "pubDate": "2026-03-25T00:37:25Z",
       "sourceCount": "65 sources"
+    },
+    {
+      "title": "US assessing how to resume nuclear weapons testing",
+      "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
+      "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:58:37Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "DHS shutdown delayed NTSB investigators probing deadly LaGuardia crash",
@@ -1324,9 +1351,27 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-25T18:55:22Z",
+  "cached_at": "2026-03-25T19:20:43Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
+        "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
+        "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T19:05:38Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "TSA chief warns of airport closures as DHS shutdown hits Day 40",
+        "url": "https://www.perplexity.ai/page/tsa-chief-warns-of-airport-clo-ZXdMpw6lR9C4K4LhW1ir1w",
+        "description": "Acting administrator told Congress that 480 officers have quit, wait times have topped four hours, and nearly $1 billion in paychecks have been missed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T18:47:08Z",
+        "sourceCount": "39 sources"
+      },
       {
         "title": "Pentagon signs deals to quadruple missile output amid Iran war",
         "url": "https://www.perplexity.ai/page/pentagon-signs-deals-to-quadru-aTON_wFkSIWzaYnyy8fxVA",
@@ -1364,6 +1409,15 @@
         "sourceCount": "26 sources"
       },
       {
+        "title": "Iran rejects U.S. ceasefire plan, issues five demands",
+        "url": "https://www.perplexity.ai/page/iran-rejects-u-s-ceasefire-pla-Kqra0UH4Tg20F6x_aGr6yQ",
+        "description": "Tehran dismissed Washington's 15-point proposal as \"excessive and disconnected from reality\" and countered with its own conditions to end the war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T18:30:45Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "Meta, YouTube found negligent in social media addiction trial",
         "url": "https://www.perplexity.ai/page/meta-youtube-found-negligent-i-e__o2o_zRfGTjolGHgWrBQ",
         "description": "A Los Angeles jury awarded $3 million in damages to a young woman who alleged the platforms' addictive design features caused her mental health struggles.",
@@ -1382,6 +1436,15 @@
         "sourceCount": "72 sources"
       },
       {
+        "title": "Iran signals preference for Vance as US negotiator, rejecting Witkoff and Kushner",
+        "url": "https://www.perplexity.ai/page/iran-signals-preference-for-va-xOWfFtFTSyODVD3IWW2fcg",
+        "description": "Tehran conveyed through back channels that it views Vance as more inclined to end the war, citing a \"deficit of trust\" with prior negotiators.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T17:58:40Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Supreme Court rules ISPs not liable for users' piracy",
         "url": "https://www.perplexity.ai/page/supreme-court-rules-isps-not-l-wnKeHG8gR8yNPA_hTyZTTg",
         "description": "The unanimous decision reverses a jury verdict against Cox Communications in a lawsuit led by Sony Music over illegal downloads of more than 10,000 songs.",
@@ -1391,13 +1454,13 @@
         "sourceCount": "41 sources"
       },
       {
-        "title": "Trump gets daily strike montage on Iran war, raising concerns",
-        "url": "https://www.perplexity.ai/page/trump-gets-daily-strike-montag-T9f_XpV5SLaIsQ2rS.9Nxg",
-        "description": "Officials told NBC News the curated two-minute videos emphasize U.S. successes while offering little detail on Iranian attacks or setbacks.",
+        "title": "TSA chief tells Congress agency won't be ready for World Cup",
+        "url": "https://www.perplexity.ai/page/tsa-chief-tells-congress-agenc-RWCH5.xsQaafWSMzydFXDw",
+        "description": "Nearly 460 officers have quit and unpaid payroll nears $1 billion as the DHS shutdown enters its 39th day, the acting TSA administrator testified.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-25T14:18:39Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-03-25T15:48:42Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "US gas prices hit $3.98 as lawmakers push tax suspensions",
@@ -1418,13 +1481,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "TSA chief tells Congress agency won't be ready for World Cup",
-        "url": "https://www.perplexity.ai/page/tsa-chief-tells-congress-agenc-RWCH5.xsQaafWSMzydFXDw",
-        "description": "Nearly 460 officers have quit and unpaid payroll nears $1 billion as the DHS shutdown enters its 39th day, the acting TSA administrator testified.",
+        "title": "Trump gets daily strike montage on Iran war, raising concerns",
+        "url": "https://www.perplexity.ai/page/trump-gets-daily-strike-montag-T9f_XpV5SLaIsQ2rS.9Nxg",
+        "description": "Officials told NBC News the curated two-minute videos emphasize U.S. successes while offering little detail on Iranian attacks or setbacks.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-25T15:48:42Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-25T14:18:39Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Pentagon orders 82nd Airborne troops to Middle East amid Iran ceasefire push",
@@ -1472,13 +1535,13 @@
         "sourceCount": "24 sources"
       },
       {
-        "title": "Iran dismisses US ceasefire plan as war nears one-month mark",
-        "url": "https://www.perplexity.ai/page/iran-dismisses-us-ceasefire-pl-khPaXGevRga8Ju49Kf2_hg",
-        "description": "Tehran's military command declared it will \"never come to terms\" with Washington, even as Trump insisted negotiations are underway.",
+        "title": "Senate Republicans block 9th TSA funding bid as shutdown nears 40 days",
+        "url": "https://www.perplexity.ai/page/senate-republicans-block-9th-t-zdhaxogWSRCh5AU3Nf3JZw",
+        "description": "Travelers face hours-long waits at major airports as over 50,000 TSA officers work without pay during the DHS funding standoff.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-25T13:53:27Z",
-        "sourceCount": "14 sources"
+        "pubDate": "2026-03-25T01:45:06Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "US Army raises max enlistment age to 42, eases marijuana rules",
@@ -1490,15 +1553,6 @@
         "sourceCount": "62 sources"
       },
       {
-        "title": "Senate Republicans block 9th TSA funding bid as shutdown nears 40 days",
-        "url": "https://www.perplexity.ai/page/senate-republicans-block-9th-t-zdhaxogWSRCh5AU3Nf3JZw",
-        "description": "Travelers face hours-long waits at major airports as over 50,000 TSA officers work without pay during the DHS funding standoff.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T01:45:06Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Israeli airstrike hits Christian town north of Beirut for first time",
         "url": "https://www.perplexity.ai/page/israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
         "description": "The strike on Sahel Alma marks a widening of Israel's air campaign into previously untouched areas of Lebanon amid the escalating war with Hezbollah.",
@@ -1508,15 +1562,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "US assessing how to resume nuclear weapons testing",
-        "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
-        "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T00:58:37Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
         "url": "https://www.perplexity.ai/page/spacex-aims-to-file-for-record-nONBVN4bR_2QfF.uTj.NMA",
         "description": "The rocket and satellite company is moving toward what could be the largest public offering in history, with a June listing as the target.",
@@ -1524,6 +1569,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T00:37:25Z",
         "sourceCount": "65 sources"
+      },
+      {
+        "title": "US assessing how to resume nuclear weapons testing",
+        "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
+        "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:58:37Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "DHS shutdown delayed NTSB investigators probing deadly LaGuardia crash",
