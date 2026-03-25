@@ -442,15 +442,6 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Pentagon to deploy 3,000 82nd Airborne troops to Middle East",
-      "url": "https://www.perplexity.ai/page/pentagon-to-deploy-3000-82nd-a-3vkJhfUqQR2EWSz_tvuwRQ",
-      "description": "The deployment order for the Army's rapid-response paratroopers is expected within hours, marking a major ground force escalation in the Iran conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T17:36:53Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
       "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
       "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
@@ -1117,15 +1108,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Netanyahu says 'ground component' needed for Iran regime change",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
-      "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T10:03:52Z",
-      "sourceCount": "23 sources"
-    },
-    {
       "title": "Live Nation CEO admits pay tied to 'solving' DOJ antitrust case",
       "url": "https://www.perplexity.ai/page/live-nation-ceo-admits-pay-tie-CMuSsm7XQoa9Sdp_ByQCZg",
       "description": "Michael Rapino testified Thursday that about 90% of his compensation depends on profit targets and resolving the federal government's antitrust challenge.",
@@ -1349,9 +1331,18 @@
       "topic": "top",
       "pubDate": "2026-03-19T07:34:39Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
+      "url": "https://www.perplexity.ai/page/iaea-chief-says-status-of-iran-1B8nJ.gWRTqcZSTM8C6Bdw",
+      "description": "Rafael Grossi said inspectors have never visited the Isfahan facility and cannot determine whether centrifuges have been installed.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-19T07:04:03Z",
+      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-25T10:24:52Z",
+  "cached_at": "2026-03-25T10:47:07Z",
   "topics": {
     "top": [
       {
@@ -1794,15 +1785,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T19:34:04Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Pentagon to deploy 3,000 82nd Airborne troops to Middle East",
-        "url": "https://www.perplexity.ai/page/pentagon-to-deploy-3000-82nd-a-3vkJhfUqQR2EWSz_tvuwRQ",
-        "description": "The deployment order for the Army's rapid-response paratroopers is expected within hours, marking a major ground force escalation in the Iran conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T17:36:53Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
@@ -2471,15 +2453,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Netanyahu says 'ground component' needed for Iran regime change",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-ground-componen-SvW24D9aQJ650jfuK8gG_w",
-        "description": "The Israeli PM declared victory from the air but acknowledged airstrikes alone cannot topple Iran's government, hinting at ground options.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T10:03:52Z",
-        "sourceCount": "23 sources"
-      },
-      {
         "title": "Live Nation CEO admits pay tied to 'solving' DOJ antitrust case",
         "url": "https://www.perplexity.ai/page/live-nation-ceo-admits-pay-tie-CMuSsm7XQoa9Sdp_ByQCZg",
         "description": "Michael Rapino testified Thursday that about 90% of his compensation depends on profit targets and resolving the federal government's antitrust challenge.",
@@ -2703,6 +2676,15 @@
         "topic": "top",
         "pubDate": "2026-03-19T07:34:39Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "IAEA chief says status of Iran's new underground enrichment site is unknown",
+        "url": "https://www.perplexity.ai/page/iaea-chief-says-status-of-iran-1B8nJ.gWRTqcZSTM8C6Bdw",
+        "description": "Rafael Grossi said inspectors have never visited the Isfahan facility and cannot determine whether centrifuges have been installed.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-19T07:04:03Z",
+        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
