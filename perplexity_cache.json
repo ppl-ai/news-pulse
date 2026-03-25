@@ -1,6 +1,96 @@
 {
   "stories": [
     {
+      "title": "Vast freshwater reservoir found beneath Great Salt Lake",
+      "url": "https://www.perplexity.ai/page/vast-freshwater-reservoir-foun-OU4faBgeTTybnFrf4exsBw",
+      "description": "University of Utah geophysicists say water-saturated sediments may extend up to 4 kilometers below the lake's hypersaline surface.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:44:03Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
+      "url": "https://www.perplexity.ai/page/spacex-aims-to-file-for-record-nONBVN4bR_2QfF.uTj.NMA",
+      "description": "The rocket and satellite company is moving toward what could be the largest public offering in history, with a June listing as the target.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:37:25Z",
+      "sourceCount": "65 sources"
+    },
+    {
+      "title": "DHS shutdown delayed NTSB investigators probing deadly LaGuardia crash",
+      "url": "https://www.perplexity.ai/page/dhs-shutdown-delayed-ntsb-inve-_TIJDMbNRhetCvVrLJWe5w",
+      "description": "NTSB Chair Jennifer Homendy said investigators waited hours in TSA lines, preventing the team from completing a full first day of work at the crash site.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:28:55Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Democrat flips Florida House seat in Trump's Mar-a-Lago district",
+      "url": "https://www.perplexity.ai/page/democrat-flips-florida-house-s-WYjQosYfTDqmwtN_Cu9pTQ",
+      "description": "Emily Gregory defeated Trump-endorsed Republican Jon Maples in a district the president carried by about 10 points in 2024.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:26:58Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "US airstrikes kill 15 Iraq PMF fighters, including Anbar commander",
+      "url": "https://www.perplexity.ai/page/us-airstrikes-kill-15-iraq-pmf-eA1FDbkrTXq0Gszv3XiEqA",
+      "description": "The deadliest single strike since the US-Israeli war on Iran began also targeted PMF leader Falih al-Fayadh's residence in a separate attack.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:19:26Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Iran charges ships up to $2M for Hormuz passage",
+      "url": "https://www.perplexity.ai/page/iran-charges-ships-up-to-2m-fo-XmZ2Qp3gS6uh.bQB.fZnCg",
+      "description": "Some vessels have already paid the ad hoc fees, according to Bloomberg, as shipping through the strait remains near collapse amid the Iran war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:13:54Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Senate blocks third Democratic bid to curb Trump's Iran war powers",
+      "url": "https://www.perplexity.ai/page/senate-blocks-third-democratic-nsfBBMtGS8auoxqvnWQ4Qw",
+      "description": "The 47-53 vote marked the third time this month Republicans defeated a resolution demanding congressional authorization for the military campaign.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:15:37Z",
+      "sourceCount": "57 sources"
+    },
+    {
+      "title": "Netanyahu taps top aide Dermer to vet US-Iran deal",
+      "url": "https://www.perplexity.ai/page/netanyahu-taps-top-aide-dermer-Vt5S.zf3Q5KGRF8V6GsQTw",
+      "description": "Ron Dermer's mission focuses on ensuring Iran's nuclear program is dismantled and its enriched uranium stockpile eliminated, according to Bloomberg.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:13:29Z",
+      "sourceCount": "15 sources"
+    },
+    {
+      "title": "Anduril, Palantir building Golden Dome missile shield software",
+      "url": "https://www.perplexity.ai/page/anduril-palantir-building-gold-odXTNF47SOSSAFK9rewBmg",
+      "description": "The Wall Street Journal reported the two firms are part of a nine-company consortium developing the $185 billion antimissile system's command-and-control layer.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:11:54Z",
+      "sourceCount": "37 sources"
+    },
+    {
+      "title": "Denmark's left bloc wins election but falls short of majority",
+      "url": "https://www.perplexity.ai/page/denmark-s-left-bloc-wins-elect-mwRtXdYCTEO6SfVFtm2E7g",
+      "description": "Centrist leader Lars Løkke Rasmussen emerges as kingmaker with 14 seats as weeks of coalition talks loom.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T23:55:37Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Death toll rises to 69 in Colombia military plane crash",
       "url": "https://www.perplexity.ai/page/death-toll-rises-to-69-in-colo-Zjj.vRA5QiSzkSjbi2r1Ag",
       "description": "A C-130 Hercules went down shortly after takeoff Monday in the Amazon jungle, marking one of Colombia's deadliest military air disasters.",
@@ -298,13 +388,22 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Iran toughens negotiation stance, presses US for major concessions",
-      "url": "https://www.perplexity.ai/page/iran-toughens-negotiation-stan-ug1TvoUIRYGLsaI8MaR2rQ",
-      "description": "Tehran's Revolutionary Guards are driving a harder negotiating line, with senior sources saying Iran will refuse to discuss limits on its missile program.",
+      "title": "Iran refuses talks with Witkoff and Kushner, eyes Vance",
+      "url": "https://www.perplexity.ai/page/iran-refuses-talks-with-witkof-8xCOzdIxT8WIulxRxIVuvA",
+      "description": "Tehran accuses Trump's top negotiators of betrayal after U.S.-Israeli strikes followed February diplomacy, with Vance now seen as the preferred counterpart.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T19:28:38Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-24T19:34:04Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Pentagon to deploy 3,000 82nd Airborne troops to Middle East",
+      "url": "https://www.perplexity.ai/page/pentagon-to-deploy-3000-82nd-a-3vkJhfUqQR2EWSz_tvuwRQ",
+      "description": "The deployment order for the Army's rapid-response paratroopers is expected within hours, marking a major ground force escalation in the Iran conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T17:36:53Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "EU delays proposal to permanently ban Russian oil imports",
@@ -325,22 +424,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Iran fears ceasefire talks are a trap to kill its remaining leaders",
-      "url": "https://www.perplexity.ai/page/iran-fears-ceasefire-talks-are-4duYOEaOQqWPXyogxQvlug",
-      "description": "Tehran suspects face-to-face negotiations could be used to target parliament speaker Ghalibaf, one of few surviving senior officials.",
+      "title": "Iran toughens negotiation stance, presses US for major concessions",
+      "url": "https://www.perplexity.ai/page/iran-toughens-negotiation-stan-ug1TvoUIRYGLsaI8MaR2rQ",
+      "description": "Tehran's Revolutionary Guards are driving a harder negotiating line, with senior sources saying Iran will refuse to discuss limits on its missile program.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T16:06:17Z",
+      "pubDate": "2026-03-24T19:28:38Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Taliban frees American academic Dennis Coyle after over a year in detention",
-      "url": "https://www.perplexity.ai/page/taliban-frees-american-academi-Dv79KBHhR5CqJHLAkxtciQ",
-      "description": "Coyle, a 64-year-old linguist held in near-solitary confinement since January 2025, was reunited with his family in Kabul on Eid al-Fitr.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T14:47:26Z",
-      "sourceCount": "23 sources"
     },
     {
       "title": "Russia launches 16 Rassvet satellites to rival Starlink",
@@ -359,6 +449,24 @@
       "topic": "top",
       "pubDate": "2026-03-24T14:14:43Z",
       "sourceCount": "15 sources"
+    },
+    {
+      "title": "Iran fears ceasefire talks are a trap to kill its remaining leaders",
+      "url": "https://www.perplexity.ai/page/iran-fears-ceasefire-talks-are-4duYOEaOQqWPXyogxQvlug",
+      "description": "Tehran suspects face-to-face negotiations could be used to target parliament speaker Ghalibaf, one of few surviving senior officials.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T16:06:17Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Taliban frees American academic Dennis Coyle after over a year in detention",
+      "url": "https://www.perplexity.ai/page/taliban-frees-american-academi-Dv79KBHhR5CqJHLAkxtciQ",
+      "description": "Coyle, a 64-year-old linguist held in near-solitary confinement since January 2025, was reunited with his family in Kabul on Eid al-Fitr.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T14:47:26Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Japan to release 53M barrels from national oil reserves starting March 26",
@@ -1241,20 +1349,101 @@
       "topic": "top",
       "pubDate": "2026-03-19T04:44:19Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "China pledges solar energy aid to Cuba after grid collapse",
-      "url": "https://www.perplexity.ai/page/china-pledges-solar-energy-aid-IKLs5zcbSVOlRi9gM8u05g",
-      "description": "Beijing vowed to accelerate renewable energy projects as Cuba's power grid failed, leaving nearly 11 million people without electricity for 29 hours.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T03:25:35Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-25T00:02:01Z",
+  "cached_at": "2026-03-25T00:51:35Z",
   "topics": {
     "top": [
+      {
+        "title": "Vast freshwater reservoir found beneath Great Salt Lake",
+        "url": "https://www.perplexity.ai/page/vast-freshwater-reservoir-foun-OU4faBgeTTybnFrf4exsBw",
+        "description": "University of Utah geophysicists say water-saturated sediments may extend up to 4 kilometers below the lake's hypersaline surface.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:44:03Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
+        "url": "https://www.perplexity.ai/page/spacex-aims-to-file-for-record-nONBVN4bR_2QfF.uTj.NMA",
+        "description": "The rocket and satellite company is moving toward what could be the largest public offering in history, with a June listing as the target.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:37:25Z",
+        "sourceCount": "65 sources"
+      },
+      {
+        "title": "DHS shutdown delayed NTSB investigators probing deadly LaGuardia crash",
+        "url": "https://www.perplexity.ai/page/dhs-shutdown-delayed-ntsb-inve-_TIJDMbNRhetCvVrLJWe5w",
+        "description": "NTSB Chair Jennifer Homendy said investigators waited hours in TSA lines, preventing the team from completing a full first day of work at the crash site.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:28:55Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Democrat flips Florida House seat in Trump's Mar-a-Lago district",
+        "url": "https://www.perplexity.ai/page/democrat-flips-florida-house-s-WYjQosYfTDqmwtN_Cu9pTQ",
+        "description": "Emily Gregory defeated Trump-endorsed Republican Jon Maples in a district the president carried by about 10 points in 2024.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:26:58Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "US airstrikes kill 15 Iraq PMF fighters, including Anbar commander",
+        "url": "https://www.perplexity.ai/page/us-airstrikes-kill-15-iraq-pmf-eA1FDbkrTXq0Gszv3XiEqA",
+        "description": "The deadliest single strike since the US-Israeli war on Iran began also targeted PMF leader Falih al-Fayadh's residence in a separate attack.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:19:26Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Iran charges ships up to $2M for Hormuz passage",
+        "url": "https://www.perplexity.ai/page/iran-charges-ships-up-to-2m-fo-XmZ2Qp3gS6uh.bQB.fZnCg",
+        "description": "Some vessels have already paid the ad hoc fees, according to Bloomberg, as shipping through the strait remains near collapse amid the Iran war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:13:54Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Senate blocks third Democratic bid to curb Trump's Iran war powers",
+        "url": "https://www.perplexity.ai/page/senate-blocks-third-democratic-nsfBBMtGS8auoxqvnWQ4Qw",
+        "description": "The 47-53 vote marked the third time this month Republicans defeated a resolution demanding congressional authorization for the military campaign.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:15:37Z",
+        "sourceCount": "57 sources"
+      },
+      {
+        "title": "Netanyahu taps top aide Dermer to vet US-Iran deal",
+        "url": "https://www.perplexity.ai/page/netanyahu-taps-top-aide-dermer-Vt5S.zf3Q5KGRF8V6GsQTw",
+        "description": "Ron Dermer's mission focuses on ensuring Iran's nuclear program is dismantled and its enriched uranium stockpile eliminated, according to Bloomberg.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:13:29Z",
+        "sourceCount": "15 sources"
+      },
+      {
+        "title": "Anduril, Palantir building Golden Dome missile shield software",
+        "url": "https://www.perplexity.ai/page/anduril-palantir-building-gold-odXTNF47SOSSAFK9rewBmg",
+        "description": "The Wall Street Journal reported the two firms are part of a nine-company consortium developing the $185 billion antimissile system's command-and-control layer.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:11:54Z",
+        "sourceCount": "37 sources"
+      },
+      {
+        "title": "Denmark's left bloc wins election but falls short of majority",
+        "url": "https://www.perplexity.ai/page/denmark-s-left-bloc-wins-elect-mwRtXdYCTEO6SfVFtm2E7g",
+        "description": "Centrist leader Lars Løkke Rasmussen emerges as kingmaker with 14 seats as weeks of coalition talks loom.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T23:55:37Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Death toll rises to 69 in Colombia military plane crash",
         "url": "https://www.perplexity.ai/page/death-toll-rises-to-69-in-colo-Zjj.vRA5QiSzkSjbi2r1Ag",
@@ -1553,13 +1742,22 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Iran toughens negotiation stance, presses US for major concessions",
-        "url": "https://www.perplexity.ai/page/iran-toughens-negotiation-stan-ug1TvoUIRYGLsaI8MaR2rQ",
-        "description": "Tehran's Revolutionary Guards are driving a harder negotiating line, with senior sources saying Iran will refuse to discuss limits on its missile program.",
+        "title": "Iran refuses talks with Witkoff and Kushner, eyes Vance",
+        "url": "https://www.perplexity.ai/page/iran-refuses-talks-with-witkof-8xCOzdIxT8WIulxRxIVuvA",
+        "description": "Tehran accuses Trump's top negotiators of betrayal after U.S.-Israeli strikes followed February diplomacy, with Vance now seen as the preferred counterpart.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T19:28:38Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-24T19:34:04Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Pentagon to deploy 3,000 82nd Airborne troops to Middle East",
+        "url": "https://www.perplexity.ai/page/pentagon-to-deploy-3000-82nd-a-3vkJhfUqQR2EWSz_tvuwRQ",
+        "description": "The deployment order for the Army's rapid-response paratroopers is expected within hours, marking a major ground force escalation in the Iran conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T17:36:53Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "EU delays proposal to permanently ban Russian oil imports",
@@ -1580,22 +1778,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Iran fears ceasefire talks are a trap to kill its remaining leaders",
-        "url": "https://www.perplexity.ai/page/iran-fears-ceasefire-talks-are-4duYOEaOQqWPXyogxQvlug",
-        "description": "Tehran suspects face-to-face negotiations could be used to target parliament speaker Ghalibaf, one of few surviving senior officials.",
+        "title": "Iran toughens negotiation stance, presses US for major concessions",
+        "url": "https://www.perplexity.ai/page/iran-toughens-negotiation-stan-ug1TvoUIRYGLsaI8MaR2rQ",
+        "description": "Tehran's Revolutionary Guards are driving a harder negotiating line, with senior sources saying Iran will refuse to discuss limits on its missile program.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T16:06:17Z",
+        "pubDate": "2026-03-24T19:28:38Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Taliban frees American academic Dennis Coyle after over a year in detention",
-        "url": "https://www.perplexity.ai/page/taliban-frees-american-academi-Dv79KBHhR5CqJHLAkxtciQ",
-        "description": "Coyle, a 64-year-old linguist held in near-solitary confinement since January 2025, was reunited with his family in Kabul on Eid al-Fitr.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T14:47:26Z",
-        "sourceCount": "23 sources"
       },
       {
         "title": "Russia launches 16 Rassvet satellites to rival Starlink",
@@ -1614,6 +1803,24 @@
         "topic": "top",
         "pubDate": "2026-03-24T14:14:43Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Iran fears ceasefire talks are a trap to kill its remaining leaders",
+        "url": "https://www.perplexity.ai/page/iran-fears-ceasefire-talks-are-4duYOEaOQqWPXyogxQvlug",
+        "description": "Tehran suspects face-to-face negotiations could be used to target parliament speaker Ghalibaf, one of few surviving senior officials.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T16:06:17Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Taliban frees American academic Dennis Coyle after over a year in detention",
+        "url": "https://www.perplexity.ai/page/taliban-frees-american-academi-Dv79KBHhR5CqJHLAkxtciQ",
+        "description": "Coyle, a 64-year-old linguist held in near-solitary confinement since January 2025, was reunited with his family in Kabul on Eid al-Fitr.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T14:47:26Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Japan to release 53M barrels from national oil reserves starting March 26",
@@ -2496,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-19T04:44:19Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "China pledges solar energy aid to Cuba after grid collapse",
-        "url": "https://www.perplexity.ai/page/china-pledges-solar-energy-aid-IKLs5zcbSVOlRi9gM8u05g",
-        "description": "Beijing vowed to accelerate renewable energy projects as Cuba's power grid failed, leaving nearly 11 million people without electricity for 29 hours.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T03:25:35Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
