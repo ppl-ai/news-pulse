@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Vast freshwater reservoir found beneath Great Salt Lake",
-      "url": "https://www.perplexity.ai/page/vast-freshwater-reservoir-foun-OU4faBgeTTybnFrf4exsBw",
-      "description": "University of Utah geophysicists say water-saturated sediments may extend up to 4 kilometers below the lake's hypersaline surface.",
+      "title": "Israeli airstrike hits Christian town north of Beirut for first time",
+      "url": "https://www.perplexity.ai/page/israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
+      "description": "The strike on Sahel Alma marks a widening of Israel's air campaign into previously untouched areas of Lebanon amid the escalating war with Hezbollah.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-25T00:44:03Z",
-      "sourceCount": "15 sources"
+      "pubDate": "2026-03-25T01:04:05Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "US assessing how to resume nuclear weapons testing",
+      "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
+      "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T00:58:37Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
@@ -1340,28 +1349,28 @@
       "topic": "top",
       "pubDate": "2026-03-19T05:09:14Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Gabbard defers to Trump on whether Iran posed imminent threat before war",
-      "url": "https://www.perplexity.ai/page/gabbard-defers-to-trump-on-whe-1OHZKmwtT4Wnn8vy5Ng7YQ",
-      "description": "At a Senate hearing, the DNI refused to say whether U.S. intelligence assessed an imminent Iranian threat, saying only the president can make that call.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T04:44:19Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-25T00:51:35Z",
+  "cached_at": "2026-03-25T01:28:10Z",
   "topics": {
     "top": [
       {
-        "title": "Vast freshwater reservoir found beneath Great Salt Lake",
-        "url": "https://www.perplexity.ai/page/vast-freshwater-reservoir-foun-OU4faBgeTTybnFrf4exsBw",
-        "description": "University of Utah geophysicists say water-saturated sediments may extend up to 4 kilometers below the lake's hypersaline surface.",
+        "title": "Israeli airstrike hits Christian town north of Beirut for first time",
+        "url": "https://www.perplexity.ai/page/israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
+        "description": "The strike on Sahel Alma marks a widening of Israel's air campaign into previously untouched areas of Lebanon amid the escalating war with Hezbollah.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-25T00:44:03Z",
-        "sourceCount": "15 sources"
+        "pubDate": "2026-03-25T01:04:05Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "US assessing how to resume nuclear weapons testing",
+        "url": "https://www.perplexity.ai/page/us-assessing-how-to-resume-nuc-g5WuWF3.RbmwHdjReGxzNg",
+        "description": "Undersecretary DiNanno told lawmakers the administration has made no decisions on a testing program but did not rule out underground explosive tests.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T00:58:37Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "SpaceX aims to file for record-setting IPO in the next two weeks",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-19T05:09:14Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Gabbard defers to Trump on whether Iran posed imminent threat before war",
-        "url": "https://www.perplexity.ai/page/gabbard-defers-to-trump-on-whe-1OHZKmwtT4Wnn8vy5Ng7YQ",
-        "description": "At a Senate hearing, the DNI refused to say whether U.S. intelligence assessed an imminent Iranian threat, saying only the president can make that call.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T04:44:19Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
