@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump rebuffed Netanyahu's push to call for Iranian uprising",
+      "url": "https://www.perplexity.ai/page/trump-rebuffed-netanyahu-s-pus-B3EwGSPlSViQTaDV3FLD2A",
+      "description": "The president told Netanyahu protesters would \"get mowed down,\" highlighting a growing rift over war strategy nearly four weeks into the Iran campaign.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T19:44:38Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "JetBlue shares surge on report it hired advisers to explore sale",
       "url": "https://www.perplexity.ai/page/jetblue-shares-surge-on-report-NkHTUFHTSyegPJE1_QWQog",
       "description": "The struggling airline is reportedly evaluating potential deals with United Airlines, Alaska Airlines, or Southwest Airlines.",
@@ -1333,9 +1342,18 @@
       "sourceCount": "41 sources"
     }
   ],
-  "cached_at": "2026-03-25T19:42:10Z",
+  "cached_at": "2026-03-25T19:59:01Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump rebuffed Netanyahu's push to call for Iranian uprising",
+        "url": "https://www.perplexity.ai/page/trump-rebuffed-netanyahu-s-pus-B3EwGSPlSViQTaDV3FLD2A",
+        "description": "The president told Netanyahu protesters would \"get mowed down,\" highlighting a growing rift over war strategy nearly four weeks into the Iran campaign.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T19:44:38Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "JetBlue shares surge on report it hired advisers to explore sale",
         "url": "https://www.perplexity.ai/page/jetblue-shares-surge-on-report-NkHTUFHTSyegPJE1_QWQog",
