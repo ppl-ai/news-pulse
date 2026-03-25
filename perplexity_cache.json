@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Senate GOP launches reconciliation bill for Iran war, ICE and voter ID",
+      "url": "https://www.perplexity.ai/page/senate-gop-launches-reconcilia-vda7AOR0RLCUO_1mPmyDAg",
+      "description": "Sen. Lindsey Graham said his Budget Committee will \"expeditiously\" draft a second party-line bill to bypass the filibuster, but key Republicans are skeptical.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T20:46:53Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "White House rejects Musk's offer to pay TSA workers",
+      "url": "https://www.perplexity.ai/page/white-house-rejects-musk-s-off-nBN2b_FYRBakEDnzP87rvA",
+      "description": "The rejection came as the DHS shutdown hit day 40, with a TSA official telling Congress that wait times have reached historic highs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T20:40:28Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "US and Israel temporarily spare two Iranian leaders to allow peace talks",
       "url": "https://www.perplexity.ai/page/us-and-israel-temporarily-spar-kj4eqjiDQgaUwvqs_H_ssA",
       "description": "Ghalibaf and Araghchi will not be targeted for four to five days as mediators push for ceasefire negotiations amid the ongoing conflict.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-20T00:08:27Z",
       "sourceCount": "40 sources"
-    },
-    {
-      "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
-      "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
-      "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T23:48:38Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Trump says he is 'not putting troops' in Iran amid uranium seizure debate",
-      "url": "https://www.perplexity.ai/page/trump-says-he-is-not-putting-t-HwshyQK9TMKypdD2o3cxKw",
-      "description": "The president's denial came as the Pentagon prepared options for a ground operation to secure enriched uranium that could yield up to 10 nuclear bombs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-19T22:08:48Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-25T20:57:07Z",
+  "cached_at": "2026-03-25T21:18:20Z",
   "topics": {
     "top": [
+      {
+        "title": "Senate GOP launches reconciliation bill for Iran war, ICE and voter ID",
+        "url": "https://www.perplexity.ai/page/senate-gop-launches-reconcilia-vda7AOR0RLCUO_1mPmyDAg",
+        "description": "Sen. Lindsey Graham said his Budget Committee will \"expeditiously\" draft a second party-line bill to bypass the filibuster, but key Republicans are skeptical.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T20:46:53Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "White House rejects Musk's offer to pay TSA workers",
+        "url": "https://www.perplexity.ai/page/white-house-rejects-musk-s-off-nBN2b_FYRBakEDnzP87rvA",
+        "description": "The rejection came as the DHS shutdown hit day 40, with a TSA official telling Congress that wait times have reached historic highs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T20:40:28Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "US and Israel temporarily spare two Iranian leaders to allow peace talks",
         "url": "https://www.perplexity.ai/page/us-and-israel-temporarily-spar-kj4eqjiDQgaUwvqs_H_ssA",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T00:08:27Z",
         "sourceCount": "40 sources"
-      },
-      {
-        "title": "Cuba braces for first Russian oil delivery in months amid energy crisis",
-        "url": "https://www.perplexity.ai/page/cuba-braces-for-first-russian-xDo3QWRjTw6QuYARjSN__w",
-        "description": "Two tankers carrying fuel are crossing the Atlantic after a U.S. blockade cut off foreign oil shipments, triggering blackouts lasting up to 29 hours.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T23:48:38Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Trump says he is 'not putting troops' in Iran amid uranium seizure debate",
-        "url": "https://www.perplexity.ai/page/trump-says-he-is-not-putting-t-HwshyQK9TMKypdD2o3cxKw",
-        "description": "The president's denial came as the Pentagon prepared options for a ground operation to secure enriched uranium that could yield up to 10 nuclear bombs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-19T22:08:48Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
