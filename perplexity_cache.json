@@ -28,8 +28,8 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "U.S. gas prices hit $3.98 as lawmakers push tax suspensions",
-      "url": "https://www.perplexity.ai/page/u-s-gas-prices-hit-3-98-as-law-U4bm6CfuSSmn_fWW47jprQ",
+      "title": "US gas prices hit $3.98 as lawmakers push tax suspensions",
+      "url": "https://www.perplexity.ai/page/us-gas-prices-hit-3-98-as-lawm-U4bm6CfuSSmn_fWW47jprQ",
       "description": "The national average has surged more than $1 in under a month, driven by the Iran conflict, with Georgia suspending its gas tax and Congress weighing a federal pause.",
       "source": "Perplexity",
       "topic": "top",
@@ -1331,18 +1331,9 @@
       "topic": "top",
       "pubDate": "2026-03-19T13:06:54Z",
       "sourceCount": "46 sources"
-    },
-    {
-      "title": "US gas prices hit $3.98 as lawmakers push tax suspensions",
-      "url": "https://www.perplexity.ai/page/us-gas-prices-hit-3-98-as-lawm-U4bm6CfuSSmn_fWW47jprQ",
-      "description": "The national average has surged more than $1 in under a month, driven by the Iran conflict, with Georgia suspending its gas tax and Congress weighing a federal pause.",
-      "source": "Perplexity",
-      "topic": "tech",
-      "pubDate": "2026-03-25T12:26:23Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-25T16:42:01Z",
+  "cached_at": "2026-03-25T17:11:38Z",
   "topics": {
     "top": [
       {
@@ -1373,8 +1364,8 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "U.S. gas prices hit $3.98 as lawmakers push tax suspensions",
-        "url": "https://www.perplexity.ai/page/u-s-gas-prices-hit-3-98-as-law-U4bm6CfuSSmn_fWW47jprQ",
+        "title": "US gas prices hit $3.98 as lawmakers push tax suspensions",
+        "url": "https://www.perplexity.ai/page/us-gas-prices-hit-3-98-as-lawm-U4bm6CfuSSmn_fWW47jprQ",
         "description": "The national average has surged more than $1 in under a month, driven by the Iran conflict, with Georgia suspending its gas tax and Congress weighing a federal pause.",
         "source": "Perplexity",
         "topic": "top",
@@ -2678,17 +2669,7 @@
         "sourceCount": "46 sources"
       }
     ],
-    "tech": [
-      {
-        "title": "US gas prices hit $3.98 as lawmakers push tax suspensions",
-        "url": "https://www.perplexity.ai/page/us-gas-prices-hit-3-98-as-lawm-U4bm6CfuSSmn_fWW47jprQ",
-        "description": "The national average has surged more than $1 in under a month, driven by the Iran conflict, with Georgia suspending its gas tax and Congress weighing a federal pause.",
-        "source": "Perplexity",
-        "topic": "tech",
-        "pubDate": "2026-03-25T12:26:23Z",
-        "sourceCount": "29 sources"
-      }
-    ],
+    "tech": [],
     "finance": []
   }
 }
