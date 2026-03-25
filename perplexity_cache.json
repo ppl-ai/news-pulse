@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Fed's operating losses fell to $19B in 2025 from $78B",
+      "url": "https://www.perplexity.ai/page/fed-s-operating-losses-fell-to-7TmbWOauTGO.7wqouL9Ljg",
+      "description": "The central bank's audited financial statements show interest expenses dropped sharply as rate cuts reduced what the Fed pays on bank reserves.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T17:54:26Z",
+      "sourceCount": "33 sources"
+    },
+    {
+      "title": "Meta, YouTube found negligent in social media addiction trial",
+      "url": "https://www.perplexity.ai/page/meta-youtube-found-negligent-i-e__o2o_zRfGTjolGHgWrBQ",
+      "description": "A Los Angeles jury awarded $3 million in damages to a young woman who alleged the platforms' addictive design features caused her mental health struggles.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T17:48:24Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Indiana bars Piece by Piece Autism Centers from Medicaid",
       "url": "https://www.perplexity.ai/page/indiana-bars-piece-by-piece-au-Mv4Fw23.R1OPOCvJbqfX1A",
       "description": "The provider collected $29 million in 2023 to treat just 84 patients by exploiting a billing loophole that allowed reimbursements of up to $640 per hour.",
@@ -1333,9 +1351,27 @@
       "sourceCount": "46 sources"
     }
   ],
-  "cached_at": "2026-03-25T17:38:07Z",
+  "cached_at": "2026-03-25T18:04:43Z",
   "topics": {
     "top": [
+      {
+        "title": "Fed's operating losses fell to $19B in 2025 from $78B",
+        "url": "https://www.perplexity.ai/page/fed-s-operating-losses-fell-to-7TmbWOauTGO.7wqouL9Ljg",
+        "description": "The central bank's audited financial statements show interest expenses dropped sharply as rate cuts reduced what the Fed pays on bank reserves.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T17:54:26Z",
+        "sourceCount": "33 sources"
+      },
+      {
+        "title": "Meta, YouTube found negligent in social media addiction trial",
+        "url": "https://www.perplexity.ai/page/meta-youtube-found-negligent-i-e__o2o_zRfGTjolGHgWrBQ",
+        "description": "A Los Angeles jury awarded $3 million in damages to a young woman who alleged the platforms' addictive design features caused her mental health struggles.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T17:48:24Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Indiana bars Piece by Piece Autism Centers from Medicaid",
         "url": "https://www.perplexity.ai/page/indiana-bars-piece-by-piece-au-Mv4Fw23.R1OPOCvJbqfX1A",
