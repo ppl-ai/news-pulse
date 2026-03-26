@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "UK authorizes military to board Russian shadow fleet tankers",
+      "url": "https://www.perplexity.ai/page/uk-authorizes-military-to-boar-9Omge8FkRh69m.E0TGefbQ",
+      "description": "Starmer announced the move at a Helsinki summit as a drone struck a sanctioned oil tanker laden with Russian crude near the Bosporus.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T15:56:04Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Iran formalizes Strait of Hormuz toll as US troops head to region",
       "url": "https://www.perplexity.ai/page/iran-formalizes-strait-of-horm-DruC6qpRTmimilQ3t1mCQA",
       "description": "Ships are paying up to $2 million in Chinese yuan to transit the strait as Iran's parliament moves to codify fees on the critical waterway.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-21T01:57:19Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "Hegseth faces backlash for invoking faith in Iran briefings",
-      "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
-      "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T21:22:40Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-26T15:51:37Z",
+  "cached_at": "2026-03-26T16:20:37Z",
   "topics": {
     "top": [
+      {
+        "title": "UK authorizes military to board Russian shadow fleet tankers",
+        "url": "https://www.perplexity.ai/page/uk-authorizes-military-to-boar-9Omge8FkRh69m.E0TGefbQ",
+        "description": "Starmer announced the move at a Helsinki summit as a drone struck a sanctioned oil tanker laden with Russian crude near the Bosporus.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T15:56:04Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Iran formalizes Strait of Hormuz toll as US troops head to region",
         "url": "https://www.perplexity.ai/page/iran-formalizes-strait-of-horm-DruC6qpRTmimilQ3t1mCQA",
@@ -2693,15 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-21T01:57:19Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Hegseth faces backlash for invoking faith in Iran briefings",
-        "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
-        "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T21:22:40Z",
         "sourceCount": "39 sources"
       }
     ],
