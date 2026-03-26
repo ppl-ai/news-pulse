@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "IBM says quantum computer matched lab data in materials simulation",
+      "url": "https://www.perplexity.ai/page/ibm-says-quantum-computer-matc-PYd11JDgSmCPpc2K8kCH1w",
+      "description": "Researchers say quantum simulations of a magnetic crystal reproduced neutron scattering experiments, a feat many believed was beyond current hardware.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T10:23:55Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Gold slides, oil holds above $100 as Iran rejects U.S. ceasefire plan",
       "url": "https://www.perplexity.ai/page/gold-slides-oil-holds-above-10-F0BCGCS9TVKLN56QmhY97A",
       "description": "Commodity markets whipsawed after Tehran dismissed a 15-point proposal and issued its own conditions widely seen as unacceptable to Washington.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-21T01:57:19Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "Hegseth faces backlash for invoking faith in Iran briefings",
-      "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
-      "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T21:22:40Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-26T10:25:36Z",
+  "cached_at": "2026-03-26T10:48:54Z",
   "topics": {
     "top": [
+      {
+        "title": "IBM says quantum computer matched lab data in materials simulation",
+        "url": "https://www.perplexity.ai/page/ibm-says-quantum-computer-matc-PYd11JDgSmCPpc2K8kCH1w",
+        "description": "Researchers say quantum simulations of a magnetic crystal reproduced neutron scattering experiments, a feat many believed was beyond current hardware.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T10:23:55Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Gold slides, oil holds above $100 as Iran rejects U.S. ceasefire plan",
         "url": "https://www.perplexity.ai/page/gold-slides-oil-holds-above-10-F0BCGCS9TVKLN56QmhY97A",
@@ -2693,15 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-21T01:57:19Z",
-        "sourceCount": "39 sources"
-      },
-      {
-        "title": "Hegseth faces backlash for invoking faith in Iran briefings",
-        "url": "https://www.perplexity.ai/page/hegseth-faces-backlash-for-inv-Jd1nwEJpTiaEJIBGQiGmTg",
-        "description": "The defense secretary's explicitly Christian rhetoric at Pentagon briefings has drawn sharp criticism as the U.S. enters its third week of war with Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T21:22:40Z",
         "sourceCount": "39 sources"
       }
     ],
