@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Dollar slips in Asia as Iran diplomacy doubts dim Fed hike bets",
+      "url": "https://www.perplexity.ai/page/dollar-slips-in-asia-as-iran-d-E7BMVhyRRL2mp51MPSxfNg",
+      "description": "Traders scaled back expectations for Federal Reserve rate increases as mixed signals on the U.S.-Iran war clouded the outlook.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T10:57:24Z",
+      "sourceCount": "54 sources"
+    },
+    {
       "title": "IBM says quantum computer matched lab data in materials simulation",
       "url": "https://www.perplexity.ai/page/ibm-says-quantum-computer-matc-PYd11JDgSmCPpc2K8kCH1w",
       "description": "Researchers say quantum simulations of a magnetic crystal reproduced neutron scattering experiments, a feat many believed was beyond current hardware.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-21T02:05:55Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Iran fires ballistic missiles at Diego Garcia base",
-      "url": "https://www.perplexity.ai/page/iran-fires-ballistic-missiles-r48qUq0xTA69p.NXaFKsWQ",
-      "description": "Tehran launched two IRBMs at the joint U.S.-U.K. Indian Ocean base, marking its first known attempt to strike a target roughly 2,500 miles away.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T01:57:19Z",
-      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-26T10:48:54Z",
+  "cached_at": "2026-03-26T11:13:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Dollar slips in Asia as Iran diplomacy doubts dim Fed hike bets",
+        "url": "https://www.perplexity.ai/page/dollar-slips-in-asia-as-iran-d-E7BMVhyRRL2mp51MPSxfNg",
+        "description": "Traders scaled back expectations for Federal Reserve rate increases as mixed signals on the U.S.-Iran war clouded the outlook.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T10:57:24Z",
+        "sourceCount": "54 sources"
+      },
       {
         "title": "IBM says quantum computer matched lab data in materials simulation",
         "url": "https://www.perplexity.ai/page/ibm-says-quantum-computer-matc-PYd11JDgSmCPpc2K8kCH1w",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T02:05:55Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Iran fires ballistic missiles at Diego Garcia base",
-        "url": "https://www.perplexity.ai/page/iran-fires-ballistic-missiles-r48qUq0xTA69p.NXaFKsWQ",
-        "description": "Tehran launched two IRBMs at the joint U.S.-U.K. Indian Ocean base, marking its first known attempt to strike a target roughly 2,500 miles away.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T01:57:19Z",
-        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
