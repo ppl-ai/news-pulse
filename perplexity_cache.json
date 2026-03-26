@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "LaGuardia wreckage towed off runway four days after fatal Air Canada crash",
+      "url": "https://www.perplexity.ai/page/laguardia-wreckage-towed-off-r-mHNwayo5TWORsYuZftTmww",
+      "description": "Most of the roughly 40 hospitalized passengers have been released, while the NTSB investigates overlapping failures including a missing transponder on the fire truck.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T01:03:10Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Thai tanker crosses Strait of Hormuz fee-free after Tehran diplomacy",
       "url": "https://www.perplexity.ai/page/thai-tanker-crosses-strait-of-7i66USfGQkCCp1RoEu8Yaw",
       "description": "Bangchak Corporation's oil tanker safely transited the blockaded waterway Monday with no payment to Iran, Thai officials confirmed.",
@@ -1063,15 +1072,6 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Both pilots killed as jet hits fire truck at LaGuardia",
-      "url": "https://www.perplexity.ai/page/both-pilots-killed-as-jet-hits-750hnM4QSo.2mLUYWOhSOA",
-      "description": "Air traffic control audio reveals a controller frantically shouting \"stop\" before an Air Canada Express plane struck a fire truck on the runway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T14:08:14Z",
-      "sourceCount": "23 sources"
-    },
-    {
       "title": "Newark Airport grounds flights after smoke forces tower evacuation",
       "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
       "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
@@ -1351,9 +1351,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-26T00:53:40Z",
+  "cached_at": "2026-03-26T01:33:00Z",
   "topics": {
     "top": [
+      {
+        "title": "LaGuardia wreckage towed off runway four days after fatal Air Canada crash",
+        "url": "https://www.perplexity.ai/page/laguardia-wreckage-towed-off-r-mHNwayo5TWORsYuZftTmww",
+        "description": "Most of the roughly 40 hospitalized passengers have been released, while the NTSB investigates overlapping failures including a missing transponder on the fire truck.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T01:03:10Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Thai tanker crosses Strait of Hormuz fee-free after Tehran diplomacy",
         "url": "https://www.perplexity.ai/page/thai-tanker-crosses-strait-of-7i66USfGQkCCp1RoEu8Yaw",
@@ -2415,15 +2424,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T15:54:47Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Both pilots killed as jet hits fire truck at LaGuardia",
-        "url": "https://www.perplexity.ai/page/both-pilots-killed-as-jet-hits-750hnM4QSo.2mLUYWOhSOA",
-        "description": "Air traffic control audio reveals a controller frantically shouting \"stop\" before an Air Canada Express plane struck a fire truck on the runway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T14:08:14Z",
-        "sourceCount": "23 sources"
       },
       {
         "title": "Newark Airport grounds flights after smoke forces tower evacuation",
