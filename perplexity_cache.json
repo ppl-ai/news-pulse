@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Colorado snowpack hits lowest level in over 40 years",
-      "url": "https://www.perplexity.ai/page/colorado-snowpack-hits-lowest-vPi_hZ7QSFmP29RL3oqPgA",
-      "description": "March heat wave compounds historic snow drought across the West, with fire scientists warning of an early and extreme wildfire season.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T14:33:22Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "US jobless claims rise to 210,000; continuing claims hit lowest since May 2024",
       "url": "https://www.perplexity.ai/page/us-jobless-claims-rise-to-2100-ZslyszXkQUyuRA3WXOXLzA",
       "description": "Continuing claims fell to 1.819 million, suggesting laid-off workers are finding new jobs quickly despite broader economic uncertainty.",
@@ -1349,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-03-21T02:05:55Z",
       "sourceCount": "37 sources"
+    },
+    {
+      "title": "Iran fires ballistic missiles at Diego Garcia base",
+      "url": "https://www.perplexity.ai/page/iran-fires-ballistic-missiles-r48qUq0xTA69p.NXaFKsWQ",
+      "description": "Tehran launched two IRBMs at the joint U.S.-U.K. Indian Ocean base, marking its first known attempt to strike a target roughly 2,500 miles away.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-21T01:57:19Z",
+      "sourceCount": "39 sources"
     }
   ],
-  "cached_at": "2026-03-26T14:47:14Z",
+  "cached_at": "2026-03-26T15:18:37Z",
   "topics": {
     "top": [
-      {
-        "title": "Colorado snowpack hits lowest level in over 40 years",
-        "url": "https://www.perplexity.ai/page/colorado-snowpack-hits-lowest-vPi_hZ7QSFmP29RL3oqPgA",
-        "description": "March heat wave compounds historic snow drought across the West, with fire scientists warning of an early and extreme wildfire season.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T14:33:22Z",
-        "sourceCount": "28 sources"
-      },
       {
         "title": "US jobless claims rise to 210,000; continuing claims hit lowest since May 2024",
         "url": "https://www.perplexity.ai/page/us-jobless-claims-rise-to-2100-ZslyszXkQUyuRA3WXOXLzA",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-21T02:05:55Z",
         "sourceCount": "37 sources"
+      },
+      {
+        "title": "Iran fires ballistic missiles at Diego Garcia base",
+        "url": "https://www.perplexity.ai/page/iran-fires-ballistic-missiles-r48qUq0xTA69p.NXaFKsWQ",
+        "description": "Tehran launched two IRBMs at the joint U.S.-U.K. Indian Ocean base, marking its first known attempt to strike a target roughly 2,500 miles away.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-21T01:57:19Z",
+        "sourceCount": "39 sources"
       }
     ],
     "tech": [],
