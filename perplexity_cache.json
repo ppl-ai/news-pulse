@@ -1,12 +1,21 @@
 {
   "stories": [
     {
-      "title": "Asian stocks waver as Iran sets five conditions for ceasefire",
-      "url": "https://www.perplexity.ai/page/asian-stocks-waver-as-iran-set-m.h5XSp0RXqogUeC3_3YGA",
-      "description": "Wall Street closed higher Wednesday on hopes for a Middle East peace deal, but Iran's demands left Thursday's Asian markets struggling for direction.",
+      "title": "Asian stocks slide as Iran rejects U.S. ceasefire plan",
+      "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-rej-gxHJRwKaQZavETn6VVv9vA",
+      "description": "Tehran dismissed a 15-point proposal and issued its own demands, keeping oil prices elevated and the Strait of Hormuz effectively closed.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T05:23:12Z",
+      "pubDate": "2026-03-26T08:03:05Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Southeast Asia turns to nuclear power to fuel AI data center boom",
+      "url": "https://www.perplexity.ai/page/southeast-asia-turns-to-nuclea-6EmYSboPSiWgvRsRAuz9XA",
+      "description": "Five ASEAN nations are pursuing nuclear energy as AI-driven electricity demand surges and the Iran conflict disrupts fossil fuel supplies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T08:03:02Z",
       "sourceCount": "30 sources"
     },
     {
@@ -1340,27 +1349,27 @@
       "topic": "top",
       "pubDate": "2026-03-20T14:26:09Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Trump privately concedes deportation push went too far, WSJ reports",
-      "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
-      "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T17:25:01Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-26T07:49:36Z",
+  "cached_at": "2026-03-26T08:10:26Z",
   "topics": {
     "top": [
       {
-        "title": "Asian stocks waver as Iran sets five conditions for ceasefire",
-        "url": "https://www.perplexity.ai/page/asian-stocks-waver-as-iran-set-m.h5XSp0RXqogUeC3_3YGA",
-        "description": "Wall Street closed higher Wednesday on hopes for a Middle East peace deal, but Iran's demands left Thursday's Asian markets struggling for direction.",
+        "title": "Asian stocks slide as Iran rejects U.S. ceasefire plan",
+        "url": "https://www.perplexity.ai/page/asian-stocks-slide-as-iran-rej-gxHJRwKaQZavETn6VVv9vA",
+        "description": "Tehran dismissed a 15-point proposal and issued its own demands, keeping oil prices elevated and the Strait of Hormuz effectively closed.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T05:23:12Z",
+        "pubDate": "2026-03-26T08:03:05Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Southeast Asia turns to nuclear power to fuel AI data center boom",
+        "url": "https://www.perplexity.ai/page/southeast-asia-turns-to-nuclea-6EmYSboPSiWgvRsRAuz9XA",
+        "description": "Five ASEAN nations are pursuing nuclear energy as AI-driven electricity demand surges and the Iran conflict disrupts fossil fuel supplies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T08:03:02Z",
         "sourceCount": "30 sources"
       },
       {
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T14:26:09Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "Trump privately concedes deportation push went too far, WSJ reports",
-        "url": "https://www.perplexity.ai/page/trump-privately-concedes-depor-NrbqIR9nRVaohtaV8Vqwdg",
-        "description": "The president directed aides to rebrand the effort around arresting \"bad guys\" as polls show most Americans think enforcement has gone too far.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T17:25:01Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
