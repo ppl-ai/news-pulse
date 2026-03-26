@@ -73,6 +73,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Senate Democrats block photo ID voting amendment on party-line vote",
+      "url": "https://www.perplexity.ai/page/senate-democrats-block-photo-i-SRvPXdygQfKTuXbze23VNQ",
+      "description": "All 47 Senate Democrats voted against a standalone photo ID requirement for federal elections, handing Republicans a midterm messaging win.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T19:31:27Z",
+      "sourceCount": "24 sources"
+    },
+    {
       "title": "US conducts hypersonic missile test at Cape Canaveral",
       "url": "https://www.perplexity.ai/page/us-conducts-hypersonic-missile-SmQM_laMRzul1kXVBGTL.Q",
       "description": "Witnesses spotted an unscheduled launch Thursday from Cape Canaveral Space Force Station, identified by observers as a hypersonic missile test during a pre-announced window.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-21T16:46:40Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
-      "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
-      "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T18:59:26Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-26T23:14:34Z",
+  "cached_at": "2026-03-26T23:31:43Z",
   "topics": {
     "top": [
       {
@@ -1425,6 +1425,15 @@
         "topic": "top",
         "pubDate": "2026-03-26T19:54:15Z",
         "sourceCount": "15 sources"
+      },
+      {
+        "title": "Senate Democrats block photo ID voting amendment on party-line vote",
+        "url": "https://www.perplexity.ai/page/senate-democrats-block-photo-i-SRvPXdygQfKTuXbze23VNQ",
+        "description": "All 47 Senate Democrats voted against a standalone photo ID requirement for federal elections, handing Republicans a midterm messaging win.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T19:31:27Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "US conducts hypersonic missile test at Cape Canaveral",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T16:46:40Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
-        "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
-        "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T18:59:26Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
