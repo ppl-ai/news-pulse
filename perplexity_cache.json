@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "OECD warns U.S. inflation could hit 4.2% amid Iran war oil shock",
+      "url": "https://www.perplexity.ai/page/oecd-warns-u-s-inflation-could-HJE.l1sfSimmKMYm0sSTug",
+      "description": "The organization sharply raised its forecast from 3%, citing surging energy prices from the Middle East conflict that have disrupted global oil supplies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T13:00:59Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
       "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
       "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-03-26T12:04:32Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Dollar slips in Asia as Iran diplomacy doubts dim Fed hike bets",
-      "url": "https://www.perplexity.ai/page/dollar-slips-in-asia-as-iran-d-E7BMVhyRRL2mp51MPSxfNg",
-      "description": "Traders scaled back expectations for Federal Reserve rate increases as mixed signals on the U.S.-Iran war clouded the outlook.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T10:57:24Z",
-      "sourceCount": "54 sources"
     },
     {
       "title": "IBM says quantum computer matched lab data in materials simulation",
@@ -28,8 +28,26 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Gold slides, oil holds above $100 as Iran rejects U.S. ceasefire plan",
-      "url": "https://www.perplexity.ai/page/gold-slides-oil-holds-above-10-F0BCGCS9TVKLN56QmhY97A",
+      "title": "Dollar slips in Asia as Iran diplomacy doubts dim Fed hike bets",
+      "url": "https://www.perplexity.ai/page/dollar-slips-in-asia-as-iran-d-E7BMVhyRRL2mp51MPSxfNg",
+      "description": "Traders scaled back expectations for Federal Reserve rate increases as mixed signals on the U.S.-Iran war clouded the outlook.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T10:57:24Z",
+      "sourceCount": "54 sources"
+    },
+    {
+      "title": "IRGC Navy chief killed in Israeli strike on Bandar Abbas",
+      "url": "https://www.perplexity.ai/page/irgc-navy-chief-killed-in-isra-4fVMh.8NTUm4U0Onx7SNNw",
+      "description": "Alireza Tangsiri oversaw Iranian naval operations near the Strait of Hormuz. Iran has not confirmed the killing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T09:37:23Z",
+      "sourceCount": "50 sources"
+    },
+    {
+      "title": "Gold slides, oil rises above $100 as Iran rejects US ceasefire plan",
+      "url": "https://www.perplexity.ai/page/gold-slides-oil-rises-above-10-F0BCGCS9TVKLN56QmhY97A",
       "description": "Commodity markets whipsawed after Tehran dismissed a 15-point proposal and issued its own conditions widely seen as unacceptable to Washington.",
       "source": "Perplexity",
       "topic": "top",
@@ -37,8 +55,8 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Rice researchers recover 95% of battery metals using plasma and citric acid",
-      "url": "https://www.perplexity.ai/page/rice-researchers-recover-95-of-U010ivklQUCv5KfRI2oQUw",
+      "title": "Researchers recover 95% of battery metals using plasma and citric acid",
+      "url": "https://www.perplexity.ai/page/researchers-recover-95-of-batt-U010ivklQUCv5KfRI2oQUw",
       "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
       "source": "Perplexity",
       "topic": "top",
@@ -55,15 +73,6 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Southeast Asia turns to nuclear power to fuel AI data center boom",
-      "url": "https://www.perplexity.ai/page/southeast-asia-turns-to-nuclea-6EmYSboPSiWgvRsRAuz9XA",
-      "description": "Five ASEAN nations are pursuing nuclear energy as AI-driven electricity demand surges and the Iran conflict disrupts fossil fuel supplies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T08:03:02Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "Artemis 2 crew flies to Florida ahead of April 1 Moon launch",
       "url": "https://www.perplexity.ai/page/artemis-2-crew-flies-to-florid-DsT0K.6YR.yvCmAAFkoRCA",
       "description": "The four astronauts are set to arrive at Kennedy Space Center on Friday as final pad preparations continue for the first crewed lunar mission since Apollo.",
@@ -71,15 +80,6 @@
       "topic": "top",
       "pubDate": "2026-03-26T04:44:21Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran drafts law to formalize tolls on Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-drafts-law-to-formalize-t-KpJ2NwpfRye9BxjGaEA1Bw",
-      "description": "Parliament aims to codify an IRGC-enforced toll system already charging some ships up to $2 million per transit of the vital waterway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T02:50:55Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "LaGuardia wreckage towed off runway four days after fatal Air Canada crash",
@@ -91,21 +91,21 @@
       "sourceCount": "40 sources"
     },
     {
+      "title": "Iran drafts law to formalize tolls on Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/iran-drafts-law-to-formalize-t-KpJ2NwpfRye9BxjGaEA1Bw",
+      "description": "Parliament aims to codify an IRGC-enforced toll system already charging some ships up to $2 million per transit of the vital waterway.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T02:50:55Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Thai tanker crosses Strait of Hormuz fee-free after Tehran diplomacy",
       "url": "https://www.perplexity.ai/page/thai-tanker-crosses-strait-of-7i66USfGQkCCp1RoEu8Yaw",
       "description": "Bangchak Corporation's oil tanker safely transited the blockaded waterway Monday with no payment to Iran, Thai officials confirmed.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-26T00:05:58Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iran demands Lebanon be included in any ceasefire deal",
-      "url": "https://www.perplexity.ai/page/iran-demands-lebanon-be-includ-zTSjlBVKRxKLI2L4cIfetA",
-      "description": "Tehran told mediators it will not accept a deal with the U.S. and Israel that does not halt the Israeli military campaign against Hezbollah.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T02:22:59Z",
       "sourceCount": "27 sources"
     },
     {
@@ -116,6 +116,15 @@
       "topic": "top",
       "pubDate": "2026-03-25T23:49:47Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "Iran demands Lebanon be included in any ceasefire deal",
+      "url": "https://www.perplexity.ai/page/iran-demands-lebanon-be-includ-zTSjlBVKRxKLI2L4cIfetA",
+      "description": "Tehran told mediators it will not accept a deal with the U.S. and Israel that does not halt the Israeli military campaign against Hezbollah.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T02:22:59Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "France rules out military action to reopen Strait of Hormuz",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-20T22:10:04Z",
       "sourceCount": "66 sources"
-    },
-    {
-      "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
-      "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T02:05:55Z",
-      "sourceCount": "37 sources"
     }
   ],
-  "cached_at": "2026-03-26T12:59:32Z",
+  "cached_at": "2026-03-26T13:39:11Z",
   "topics": {
     "top": [
+      {
+        "title": "OECD warns U.S. inflation could hit 4.2% amid Iran war oil shock",
+        "url": "https://www.perplexity.ai/page/oecd-warns-u-s-inflation-could-HJE.l1sfSimmKMYm0sSTug",
+        "description": "The organization sharply raised its forecast from 3%, citing surging energy prices from the Middle East conflict that have disrupted global oil supplies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T13:00:59Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
         "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
@@ -1362,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T12:04:32Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Dollar slips in Asia as Iran diplomacy doubts dim Fed hike bets",
-        "url": "https://www.perplexity.ai/page/dollar-slips-in-asia-as-iran-d-E7BMVhyRRL2mp51MPSxfNg",
-        "description": "Traders scaled back expectations for Federal Reserve rate increases as mixed signals on the U.S.-Iran war clouded the outlook.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T10:57:24Z",
-        "sourceCount": "54 sources"
       },
       {
         "title": "IBM says quantum computer matched lab data in materials simulation",
@@ -1382,8 +1382,26 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Gold slides, oil holds above $100 as Iran rejects U.S. ceasefire plan",
-        "url": "https://www.perplexity.ai/page/gold-slides-oil-holds-above-10-F0BCGCS9TVKLN56QmhY97A",
+        "title": "Dollar slips in Asia as Iran diplomacy doubts dim Fed hike bets",
+        "url": "https://www.perplexity.ai/page/dollar-slips-in-asia-as-iran-d-E7BMVhyRRL2mp51MPSxfNg",
+        "description": "Traders scaled back expectations for Federal Reserve rate increases as mixed signals on the U.S.-Iran war clouded the outlook.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T10:57:24Z",
+        "sourceCount": "54 sources"
+      },
+      {
+        "title": "IRGC Navy chief killed in Israeli strike on Bandar Abbas",
+        "url": "https://www.perplexity.ai/page/irgc-navy-chief-killed-in-isra-4fVMh.8NTUm4U0Onx7SNNw",
+        "description": "Alireza Tangsiri oversaw Iranian naval operations near the Strait of Hormuz. Iran has not confirmed the killing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T09:37:23Z",
+        "sourceCount": "50 sources"
+      },
+      {
+        "title": "Gold slides, oil rises above $100 as Iran rejects US ceasefire plan",
+        "url": "https://www.perplexity.ai/page/gold-slides-oil-rises-above-10-F0BCGCS9TVKLN56QmhY97A",
         "description": "Commodity markets whipsawed after Tehran dismissed a 15-point proposal and issued its own conditions widely seen as unacceptable to Washington.",
         "source": "Perplexity",
         "topic": "top",
@@ -1391,8 +1409,8 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Rice researchers recover 95% of battery metals using plasma and citric acid",
-        "url": "https://www.perplexity.ai/page/rice-researchers-recover-95-of-U010ivklQUCv5KfRI2oQUw",
+        "title": "Researchers recover 95% of battery metals using plasma and citric acid",
+        "url": "https://www.perplexity.ai/page/researchers-recover-95-of-batt-U010ivklQUCv5KfRI2oQUw",
         "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
         "source": "Perplexity",
         "topic": "top",
@@ -1409,15 +1427,6 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "Southeast Asia turns to nuclear power to fuel AI data center boom",
-        "url": "https://www.perplexity.ai/page/southeast-asia-turns-to-nuclea-6EmYSboPSiWgvRsRAuz9XA",
-        "description": "Five ASEAN nations are pursuing nuclear energy as AI-driven electricity demand surges and the Iran conflict disrupts fossil fuel supplies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T08:03:02Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "Artemis 2 crew flies to Florida ahead of April 1 Moon launch",
         "url": "https://www.perplexity.ai/page/artemis-2-crew-flies-to-florid-DsT0K.6YR.yvCmAAFkoRCA",
         "description": "The four astronauts are set to arrive at Kennedy Space Center on Friday as final pad preparations continue for the first crewed lunar mission since Apollo.",
@@ -1425,15 +1434,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T04:44:21Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran drafts law to formalize tolls on Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-drafts-law-to-formalize-t-KpJ2NwpfRye9BxjGaEA1Bw",
-        "description": "Parliament aims to codify an IRGC-enforced toll system already charging some ships up to $2 million per transit of the vital waterway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T02:50:55Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "LaGuardia wreckage towed off runway four days after fatal Air Canada crash",
@@ -1445,21 +1445,21 @@
         "sourceCount": "40 sources"
       },
       {
+        "title": "Iran drafts law to formalize tolls on Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/iran-drafts-law-to-formalize-t-KpJ2NwpfRye9BxjGaEA1Bw",
+        "description": "Parliament aims to codify an IRGC-enforced toll system already charging some ships up to $2 million per transit of the vital waterway.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T02:50:55Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Thai tanker crosses Strait of Hormuz fee-free after Tehran diplomacy",
         "url": "https://www.perplexity.ai/page/thai-tanker-crosses-strait-of-7i66USfGQkCCp1RoEu8Yaw",
         "description": "Bangchak Corporation's oil tanker safely transited the blockaded waterway Monday with no payment to Iran, Thai officials confirmed.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-26T00:05:58Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iran demands Lebanon be included in any ceasefire deal",
-        "url": "https://www.perplexity.ai/page/iran-demands-lebanon-be-includ-zTSjlBVKRxKLI2L4cIfetA",
-        "description": "Tehran told mediators it will not accept a deal with the U.S. and Israel that does not halt the Israeli military campaign against Hezbollah.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T02:22:59Z",
         "sourceCount": "27 sources"
       },
       {
@@ -1470,6 +1470,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T23:49:47Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "Iran demands Lebanon be included in any ceasefire deal",
+        "url": "https://www.perplexity.ai/page/iran-demands-lebanon-be-includ-zTSjlBVKRxKLI2L4cIfetA",
+        "description": "Tehran told mediators it will not accept a deal with the U.S. and Israel that does not halt the Israeli military campaign against Hezbollah.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T02:22:59Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "France rules out military action to reopen Strait of Hormuz",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-20T22:10:04Z",
         "sourceCount": "66 sources"
-      },
-      {
-        "title": "Iran offers to let Japanese ships pass through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-offers-to-let-japanese-sh-05IpBGBdQY.yZwH8aQ6bfQ",
-        "description": "Foreign Minister Araghchi said Tehran is ready to facilitate transit for Japanese vessels if Tokyo coordinates with Iran, as negotiations continue.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T02:05:55Z",
-        "sourceCount": "37 sources"
       }
     ],
     "tech": [],
