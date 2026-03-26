@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump's signature to appear on US currency, ending 165-year tradition",
+      "url": "https://www.perplexity.ai/page/trump-s-signature-to-appear-on-iPaKhY5dRo6W0U2D8XUnfw",
+      "description": "The Treasury Department said $100 bills with the president's name will begin printing in June, replacing the Treasurer's signature for the first time since 1861.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T22:11:46Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Iran offers Spain Hormuz access in first such EU overture",
       "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
       "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-21T18:59:26Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-      "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-      "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T16:35:05Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-26T22:24:11Z",
+  "cached_at": "2026-03-26T22:43:14Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump's signature to appear on US currency, ending 165-year tradition",
+        "url": "https://www.perplexity.ai/page/trump-s-signature-to-appear-on-iPaKhY5dRo6W0U2D8XUnfw",
+        "description": "The Treasury Department said $100 bills with the president's name will begin printing in June, replacing the Treasurer's signature for the first time since 1861.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T22:11:46Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Iran offers Spain Hormuz access in first such EU overture",
         "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T18:59:26Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "US quietly lifts sanctions on Russian nationals in fourth wave this month",
-        "url": "https://www.perplexity.ai/page/us-quietly-lifts-sanctions-on-nOZY4.4SSNe2hU_rjIRkOQ",
-        "description": "The Treasury Department removed two Russian citizens and several other entities from its sanctions list on March 20, offering no explanation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T16:35:05Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
