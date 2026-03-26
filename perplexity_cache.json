@@ -1,31 +1,13 @@
 {
   "stories": [
     {
-      "title": "GOP senators urge Trump to declare emergency to pay TSA agents",
-      "url": "https://www.perplexity.ai/page/gop-senators-urge-trump-to-dec-IP_8sHjTTUOckzwkVCs.tA",
-      "description": "Senate Republicans are exploring a national emergency declaration to unlock funds for unpaid TSA workers as the DHS shutdown hits day 41.",
+      "title": "House passes DHS funding bill again as Senate deadlock hits Day 41",
+      "url": "https://www.perplexity.ai/page/house-passes-dhs-funding-bill-PKQSMcm1S4ODm3S9cbf1fw",
+      "description": "The Senate remains unable to clear the 60-vote filibuster threshold, with lawmakers facing a two-week recess starting Friday and no deal in sight.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T20:40:19Z",
-      "sourceCount": "42 sources"
-    },
-    {
-      "title": "Study finds AI chatbots affirm users 49% more than humans do",
-      "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
-      "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T19:54:15Z",
-      "sourceCount": "15 sources"
-    },
-    {
-      "title": "Thune issues 'last and final' DHS offer on Day 42 of shutdown",
-      "url": "https://www.perplexity.ai/page/thune-issues-last-and-final-dh-P8oVyWBtSmiorR6Yl2K7Dg",
-      "description": "The Senate is set to vote Thursday afternoon as Republicans pressure Democrats to accept a deal funding most of DHS but excluding ICE deportation operations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T18:33:36Z",
-      "sourceCount": "34 sources"
+      "pubDate": "2026-03-26T21:03:52Z",
+      "sourceCount": "37 sources"
     },
     {
       "title": "Trump extends pause on Iran energy strikes to April 6",
@@ -37,12 +19,30 @@
       "sourceCount": "41 sources"
     },
     {
+      "title": "Study finds AI chatbots affirm users 49% more than humans do",
+      "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
+      "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T19:54:15Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "US conducts hypersonic missile test at Cape Canaveral",
       "url": "https://www.perplexity.ai/page/us-conducts-hypersonic-missile-SmQM_laMRzul1kXVBGTL.Q",
       "description": "Witnesses spotted an unscheduled launch Thursday from Cape Canaveral Space Force Station, identified by observers as a hypersonic missile test during a pre-announced window.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-26T18:31:34Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "GOP senators urge Trump to declare emergency to pay TSA agents",
+      "url": "https://www.perplexity.ai/page/gop-senators-urge-trump-to-dec-IP_8sHjTTUOckzwkVCs.tA",
+      "description": "Senate Republicans are exploring a national emergency declaration to unlock funds for unpaid TSA workers as the DHS shutdown hits day 41.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T20:40:19Z",
       "sourceCount": "42 sources"
     },
     {
@@ -55,15 +55,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump says Iran let 10 oil tankers through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-let-10-oil-tan-MqieyiTrTkum0Fv2viZv_Q",
-      "description": "The disclosure explains what Trump called a \"very big present\" from Tehran this week, as the two sides send mixed signals on ending the war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T16:43:08Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Judge refuses to dismiss drug charges against Maduro",
       "url": "https://www.perplexity.ai/page/judge-refuses-to-dismiss-drug-Go_8VCYyQkC2_Idrr3bcRQ",
       "description": "The former Venezuelan president appeared in a Manhattan federal court Thursday as his defense sought to toss the case over a legal fees dispute.",
@@ -71,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-03-26T17:19:27Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Trump says Iran let 10 oil tankers through Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/trump-says-iran-let-10-oil-tan-MqieyiTrTkum0Fv2viZv_Q",
+      "description": "The disclosure explains what Trump called a \"very big present\" from Tehran this week, as the two sides send mixed signals on ending the war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T16:43:08Z",
+      "sourceCount": "25 sources"
     },
     {
       "title": "US jobless claims rise to 210,000; continuing claims hit lowest since May 2024",
@@ -82,15 +82,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
-      "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
-      "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T12:04:32Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "DOJ sues NewYork-Presbyterian over contracts that block cheaper care",
       "url": "https://www.perplexity.ai/page/doj-sues-newyork-presbyterian-FvQvshLkQZa2VnsFfOQx8g",
       "description": "The Justice Department alleges the hospital system's deals with insurers prevented New Yorkers from accessing lower-cost health plans.",
@@ -98,6 +89,15 @@
       "topic": "top",
       "pubDate": "2026-03-26T16:43:03Z",
       "sourceCount": "23 sources"
+    },
+    {
+      "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
+      "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
+      "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T12:04:32Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "OECD warns US inflation could hit 4.2% amid Iran war oil shock",
@@ -1351,35 +1351,17 @@
       "sourceCount": "75 sources"
     }
   ],
-  "cached_at": "2026-03-26T21:20:00Z",
+  "cached_at": "2026-03-26T21:38:17Z",
   "topics": {
     "top": [
       {
-        "title": "GOP senators urge Trump to declare emergency to pay TSA agents",
-        "url": "https://www.perplexity.ai/page/gop-senators-urge-trump-to-dec-IP_8sHjTTUOckzwkVCs.tA",
-        "description": "Senate Republicans are exploring a national emergency declaration to unlock funds for unpaid TSA workers as the DHS shutdown hits day 41.",
+        "title": "House passes DHS funding bill again as Senate deadlock hits Day 41",
+        "url": "https://www.perplexity.ai/page/house-passes-dhs-funding-bill-PKQSMcm1S4ODm3S9cbf1fw",
+        "description": "The Senate remains unable to clear the 60-vote filibuster threshold, with lawmakers facing a two-week recess starting Friday and no deal in sight.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T20:40:19Z",
-        "sourceCount": "42 sources"
-      },
-      {
-        "title": "Study finds AI chatbots affirm users 49% more than humans do",
-        "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
-        "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T19:54:15Z",
-        "sourceCount": "15 sources"
-      },
-      {
-        "title": "Thune issues 'last and final' DHS offer on Day 42 of shutdown",
-        "url": "https://www.perplexity.ai/page/thune-issues-last-and-final-dh-P8oVyWBtSmiorR6Yl2K7Dg",
-        "description": "The Senate is set to vote Thursday afternoon as Republicans pressure Democrats to accept a deal funding most of DHS but excluding ICE deportation operations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T18:33:36Z",
-        "sourceCount": "34 sources"
+        "pubDate": "2026-03-26T21:03:52Z",
+        "sourceCount": "37 sources"
       },
       {
         "title": "Trump extends pause on Iran energy strikes to April 6",
@@ -1391,12 +1373,30 @@
         "sourceCount": "41 sources"
       },
       {
+        "title": "Study finds AI chatbots affirm users 49% more than humans do",
+        "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
+        "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T19:54:15Z",
+        "sourceCount": "15 sources"
+      },
+      {
         "title": "US conducts hypersonic missile test at Cape Canaveral",
         "url": "https://www.perplexity.ai/page/us-conducts-hypersonic-missile-SmQM_laMRzul1kXVBGTL.Q",
         "description": "Witnesses spotted an unscheduled launch Thursday from Cape Canaveral Space Force Station, identified by observers as a hypersonic missile test during a pre-announced window.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-26T18:31:34Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "GOP senators urge Trump to declare emergency to pay TSA agents",
+        "url": "https://www.perplexity.ai/page/gop-senators-urge-trump-to-dec-IP_8sHjTTUOckzwkVCs.tA",
+        "description": "Senate Republicans are exploring a national emergency declaration to unlock funds for unpaid TSA workers as the DHS shutdown hits day 41.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T20:40:19Z",
         "sourceCount": "42 sources"
       },
       {
@@ -1409,15 +1409,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump says Iran let 10 oil tankers through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-let-10-oil-tan-MqieyiTrTkum0Fv2viZv_Q",
-        "description": "The disclosure explains what Trump called a \"very big present\" from Tehran this week, as the two sides send mixed signals on ending the war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T16:43:08Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Judge refuses to dismiss drug charges against Maduro",
         "url": "https://www.perplexity.ai/page/judge-refuses-to-dismiss-drug-Go_8VCYyQkC2_Idrr3bcRQ",
         "description": "The former Venezuelan president appeared in a Manhattan federal court Thursday as his defense sought to toss the case over a legal fees dispute.",
@@ -1425,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-03-26T17:19:27Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Trump says Iran let 10 oil tankers through Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/trump-says-iran-let-10-oil-tan-MqieyiTrTkum0Fv2viZv_Q",
+        "description": "The disclosure explains what Trump called a \"very big present\" from Tehran this week, as the two sides send mixed signals on ending the war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T16:43:08Z",
+        "sourceCount": "25 sources"
       },
       {
         "title": "US jobless claims rise to 210,000; continuing claims hit lowest since May 2024",
@@ -1436,15 +1436,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
-        "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
-        "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T12:04:32Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "DOJ sues NewYork-Presbyterian over contracts that block cheaper care",
         "url": "https://www.perplexity.ai/page/doj-sues-newyork-presbyterian-FvQvshLkQZa2VnsFfOQx8g",
         "description": "The Justice Department alleges the hospital system's deals with insurers prevented New Yorkers from accessing lower-cost health plans.",
@@ -1452,6 +1443,15 @@
         "topic": "top",
         "pubDate": "2026-03-26T16:43:03Z",
         "sourceCount": "23 sources"
+      },
+      {
+        "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
+        "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
+        "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T12:04:32Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "OECD warns US inflation could hit 4.2% amid Iran war oil shock",
