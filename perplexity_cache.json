@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran offers Spain Hormuz access in first such EU overture",
+      "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
+      "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T21:39:00Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Bipartisan Senate bill targets insider trading on prediction markets",
       "url": "https://www.perplexity.ai/page/bipartisan-senate-bill-targets-FBYmqL7UTUWzl6toMQ5YDw",
       "description": "Four senators introduced legislation Thursday to ban government officials from using nonpublic information to trade on prediction market platforms.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-21T16:35:05Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
-      "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
-      "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T11:19:15Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-26T22:09:15Z",
+  "cached_at": "2026-03-26T22:24:11Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran offers Spain Hormuz access in first such EU overture",
+        "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
+        "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T21:39:00Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Bipartisan Senate bill targets insider trading on prediction markets",
         "url": "https://www.perplexity.ai/page/bipartisan-senate-bill-targets-FBYmqL7UTUWzl6toMQ5YDw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T16:35:05Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Indian, Asian refiners move to buy Iranian oil after US sanctions waiver",
-        "url": "https://www.perplexity.ai/page/indian-asian-refiners-move-to-7lA2_aiiTIaW_NWVTjn6oA",
-        "description": "The 30-day exemption covers roughly 170 million barrels of Iranian crude already at sea, the third such waiver in two weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T11:19:15Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
