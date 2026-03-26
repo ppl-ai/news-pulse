@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Denver enacts water restrictions as historic snow drought grips West",
+      "url": "https://www.perplexity.ai/page/denver-enacts-water-restrictio-3hilKn1bQqqrCPDOFW6FUw",
+      "description": "Denver Water imposed mandatory watering limits for the first time in over a decade as record-low snowpack threatens water supplies and raises wildfire fears.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T17:32:04Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Researchers encode data using three light properties in holographic storage first",
+      "url": "https://www.perplexity.ai/page/researchers-encode-data-using-NVT_KLEDS2mOUfEpkLMx2A",
+      "description": "A team at Fujian Normal University combined amplitude, phase and polarization in a single holographic page, using AI to decode the stored information.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T17:31:59Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Trump says Iran let 10 oil tankers through Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/trump-says-iran-let-10-oil-tan-MqieyiTrTkum0Fv2viZv_Q",
       "description": "The disclosure explains what Trump called a \"very big present\" from Tehran this week, as the two sides send mixed signals on ending the war.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-21T02:10:46Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Judge blocks Pentagon policy restricting press access",
-      "url": "https://www.perplexity.ai/page/judge-blocks-pentagon-policy-r-MtMnkml0SkuvaDrGrcREZQ",
-      "description": "U.S. District Judge Paul Friedman sided with The New York Times, ruling that key parts of the credentialing restrictions imposed under Defense Secretary Hegseth are illegal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T22:15:01Z",
-      "sourceCount": "76 sources"
-    },
-    {
-      "title": "Jury finds Musk liable for misleading Twitter investors",
-      "url": "https://www.perplexity.ai/page/jury-finds-musk-liable-for-mis-Az5cR_hjTI2gEnotZ1MHVQ",
-      "description": "A San Francisco jury found that two of Musk's tweets during his 2022 Twitter acquisition constituted securities fraud, with damages likely in the billions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-20T22:10:04Z",
-      "sourceCount": "66 sources"
     }
   ],
-  "cached_at": "2026-03-26T17:16:07Z",
+  "cached_at": "2026-03-26T17:41:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Denver enacts water restrictions as historic snow drought grips West",
+        "url": "https://www.perplexity.ai/page/denver-enacts-water-restrictio-3hilKn1bQqqrCPDOFW6FUw",
+        "description": "Denver Water imposed mandatory watering limits for the first time in over a decade as record-low snowpack threatens water supplies and raises wildfire fears.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T17:32:04Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Researchers encode data using three light properties in holographic storage first",
+        "url": "https://www.perplexity.ai/page/researchers-encode-data-using-NVT_KLEDS2mOUfEpkLMx2A",
+        "description": "A team at Fujian Normal University combined amplitude, phase and polarization in a single holographic page, using AI to decode the stored information.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T17:31:59Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Trump says Iran let 10 oil tankers through Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/trump-says-iran-let-10-oil-tan-MqieyiTrTkum0Fv2viZv_Q",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-21T02:10:46Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Judge blocks Pentagon policy restricting press access",
-        "url": "https://www.perplexity.ai/page/judge-blocks-pentagon-policy-r-MtMnkml0SkuvaDrGrcREZQ",
-        "description": "U.S. District Judge Paul Friedman sided with The New York Times, ruling that key parts of the credentialing restrictions imposed under Defense Secretary Hegseth are illegal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T22:15:01Z",
-        "sourceCount": "76 sources"
-      },
-      {
-        "title": "Jury finds Musk liable for misleading Twitter investors",
-        "url": "https://www.perplexity.ai/page/jury-finds-musk-liable-for-mis-Az5cR_hjTI2gEnotZ1MHVQ",
-        "description": "A San Francisco jury found that two of Musk's tweets during his 2022 Twitter acquisition constituted securities fraud, with damages likely in the billions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-20T22:10:04Z",
-        "sourceCount": "66 sources"
       }
     ],
     "tech": [],
