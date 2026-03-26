@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Bipartisan Senate bill targets insider trading on prediction markets",
+      "url": "https://www.perplexity.ai/page/bipartisan-senate-bill-targets-FBYmqL7UTUWzl6toMQ5YDw",
+      "description": "Four senators introduced legislation Thursday to ban government officials from using nonpublic information to trade on prediction market platforms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T21:30:14Z",
+      "sourceCount": "73 sources"
+    },
+    {
       "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
       "url": "https://www.perplexity.ai/page/us-senators-introduce-bill-to-1QyC4tgoQPy9k_CcUX9pdw",
       "description": "Sens. Shaheen and Tillis unveiled the bipartisan Block Putin Act targeting Hungarian officials as Orban continues to hold up a €90 billion EU loan to Kyiv.",
@@ -1072,15 +1081,6 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "Kalshi, Polymarket ban insider trading as senators target industry",
-      "url": "https://www.perplexity.ai/page/kalshi-polymarket-ban-insider-E2455h3lTMeo7BKprSLHLA",
-      "description": "The two largest prediction market platforms rushed to announce new guardrails after bipartisan legislation threatened to ban sports contracts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T02:38:19Z",
-      "sourceCount": "26 sources"
-    },
-    {
       "title": "Pentagon closes press workspace, moves reporters off-site after court loss",
       "url": "https://www.perplexity.ai/page/pentagon-closes-press-workspac-yUq5HyPfSlWbbeHk6ZT.VQ",
       "description": "Three days after a judge ruled its press restrictions unconstitutional, the Defense Department is relocating journalists to an annex outside the building.",
@@ -1351,9 +1351,18 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-26T21:55:28Z",
+  "cached_at": "2026-03-26T22:09:15Z",
   "topics": {
     "top": [
+      {
+        "title": "Bipartisan Senate bill targets insider trading on prediction markets",
+        "url": "https://www.perplexity.ai/page/bipartisan-senate-bill-targets-FBYmqL7UTUWzl6toMQ5YDw",
+        "description": "Four senators introduced legislation Thursday to ban government officials from using nonpublic information to trade on prediction market platforms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T21:30:14Z",
+        "sourceCount": "73 sources"
+      },
       {
         "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
         "url": "https://www.perplexity.ai/page/us-senators-introduce-bill-to-1QyC4tgoQPy9k_CcUX9pdw",
@@ -2424,15 +2433,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T03:22:08Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Kalshi, Polymarket ban insider trading as senators target industry",
-        "url": "https://www.perplexity.ai/page/kalshi-polymarket-ban-insider-E2455h3lTMeo7BKprSLHLA",
-        "description": "The two largest prediction market platforms rushed to announce new guardrails after bipartisan legislation threatened to ban sports contracts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T02:38:19Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "Pentagon closes press workspace, moves reporters off-site after court loss",
