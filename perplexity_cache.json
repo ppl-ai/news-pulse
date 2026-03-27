@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran-linked hackers breach FBI director's personal email",
+      "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-oYWQ.s1.S5SsENFXMVIYnQ",
+      "description": "The Handala Hack Team posted photos and documents from Kash Patel's Gmail account; the DOJ confirmed the materials appear authentic.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T19:39:43Z",
+      "sourceCount": "22 sources"
+    },
+    {
+      "title": "Idaho passes strictest transgender bathroom ban with felony penalties",
+      "url": "https://www.perplexity.ai/page/idaho-passes-strictest-transge-G_HisdIXSrOf0qBsoWuu7g",
+      "description": "The bill, which now heads to the governor's desk, criminalizes restroom use in both government buildings and private businesses.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T19:32:40Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "G7 agrees to multinational Hormuz escort mission after Iran war ends",
       "url": "https://www.perplexity.ai/page/g7-agrees-to-multinational-hor-MxrlYAyuSO.1FMgGcw0pDw",
       "description": "Foreign ministers meeting in France committed to restoring freedom of navigation in the strait, with over 30 nations signaling readiness to contribute.",
@@ -62,15 +80,6 @@
       "topic": "top",
       "pubDate": "2026-03-27T16:08:39Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Iran-linked hackers breach FBI director's personal email",
-      "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-64Lhjl.CT6W03m1aa5c8Ag",
-      "description": "A DOJ official confirmed the hack of Kash Patel's Gmail account, with the Handala group publishing photos and correspondence online.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T15:08:56Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Deployed nuclear warheads rose again in 2025, report finds",
@@ -1063,13 +1072,13 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "Erdogan vows to keep Turkey out of Iran war's 'ring of fire'",
-      "url": "https://www.perplexity.ai/page/erdogan-vows-to-keep-turkey-ou-zy9lEjtaSPC2UTlm4blrhQ",
-      "description": "On the 25th day of the US-Israeli air campaign against Iran, Turkey's president blamed Netanyahu and warned against traps to draw Ankara into the conflict.",
+      "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
+      "url": "https://www.perplexity.ai/page/hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
+      "description": "Israel's military estimates the Iranian-backed group retains between 11,000 and 13,000 missiles and rockets, down from roughly 75,000 before October 2023.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-24T22:59:12Z",
-      "sourceCount": "40 sources"
+      "pubDate": "2026-03-24T22:11:30Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "Aid flotilla docks in Havana as US oil blockade deepens Cuba's crisis",
@@ -1088,15 +1097,6 @@
       "topic": "top",
       "pubDate": "2026-03-24T19:37:34Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
-      "url": "https://www.perplexity.ai/page/hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
-      "description": "Israel's military estimates the Iranian-backed group retains between 11,000 and 13,000 missiles and rockets, down from roughly 75,000 before October 2023.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T22:11:30Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
@@ -1351,9 +1351,27 @@
       "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-27T19:35:34Z",
+  "cached_at": "2026-03-27T19:53:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran-linked hackers breach FBI director's personal email",
+        "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-oYWQ.s1.S5SsENFXMVIYnQ",
+        "description": "The Handala Hack Team posted photos and documents from Kash Patel's Gmail account; the DOJ confirmed the materials appear authentic.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T19:39:43Z",
+        "sourceCount": "22 sources"
+      },
+      {
+        "title": "Idaho passes strictest transgender bathroom ban with felony penalties",
+        "url": "https://www.perplexity.ai/page/idaho-passes-strictest-transge-G_HisdIXSrOf0qBsoWuu7g",
+        "description": "The bill, which now heads to the governor's desk, criminalizes restroom use in both government buildings and private businesses.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T19:32:40Z",
+        "sourceCount": "37 sources"
+      },
       {
         "title": "G7 agrees to multinational Hormuz escort mission after Iran war ends",
         "url": "https://www.perplexity.ai/page/g7-agrees-to-multinational-hor-MxrlYAyuSO.1FMgGcw0pDw",
@@ -1416,15 +1434,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T16:08:39Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Iran-linked hackers breach FBI director's personal email",
-        "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-64Lhjl.CT6W03m1aa5c8Ag",
-        "description": "A DOJ official confirmed the hack of Kash Patel's Gmail account, with the Handala group publishing photos and correspondence online.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T15:08:56Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Deployed nuclear warheads rose again in 2025, report finds",
@@ -2417,13 +2426,13 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "Erdogan vows to keep Turkey out of Iran war's 'ring of fire'",
-        "url": "https://www.perplexity.ai/page/erdogan-vows-to-keep-turkey-ou-zy9lEjtaSPC2UTlm4blrhQ",
-        "description": "On the 25th day of the US-Israeli air campaign against Iran, Turkey's president blamed Netanyahu and warned against traps to draw Ankara into the conflict.",
+        "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
+        "url": "https://www.perplexity.ai/page/hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
+        "description": "Israel's military estimates the Iranian-backed group retains between 11,000 and 13,000 missiles and rockets, down from roughly 75,000 before October 2023.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-24T22:59:12Z",
-        "sourceCount": "40 sources"
+        "pubDate": "2026-03-24T22:11:30Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "Aid flotilla docks in Havana as US oil blockade deepens Cuba's crisis",
@@ -2442,15 +2451,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T19:37:34Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
-        "url": "https://www.perplexity.ai/page/hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
-        "description": "Israel's military estimates the Iranian-backed group retains between 11,000 and 13,000 missiles and rockets, down from roughly 75,000 before October 2023.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T22:11:30Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
