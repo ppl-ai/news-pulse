@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "TUM team finds fix for perovskite solar cell weathering",
+      "url": "https://www.perplexity.ai/page/tum-team-finds-fix-for-perovsk-8jbMCl0XTOStRXin_rFkzA",
+      "description": "Researchers identified why perovskite cells lose up to 60% of performance and developed molecular \"anchors\" to stabilize them.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T09:28:32Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "China boycotts top AI conference over US sanctions ban",
       "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
       "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-22T22:18:48Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Zelenskyy demands tighter Russia sanctions as Florida peace talks enter day two",
-      "url": "https://www.perplexity.ai/page/zelenskyy-demands-tighter-russ-AMbU3.hbTkWWgfrwbd4a8g",
-      "description": "Ukraine's president cited 1,550 drone strikes in one week, saying eased oil sanctions fund Russia's war as bilateral talks with the U.S. continue.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T19:18:55Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-27T09:35:22Z",
+  "cached_at": "2026-03-27T10:00:32Z",
   "topics": {
     "top": [
+      {
+        "title": "TUM team finds fix for perovskite solar cell weathering",
+        "url": "https://www.perplexity.ai/page/tum-team-finds-fix-for-perovsk-8jbMCl0XTOStRXin_rFkzA",
+        "description": "Researchers identified why perovskite cells lose up to 60% of performance and developed molecular \"anchors\" to stabilize them.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T09:28:32Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "China boycotts top AI conference over US sanctions ban",
         "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T22:18:48Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Zelenskyy demands tighter Russia sanctions as Florida peace talks enter day two",
-        "url": "https://www.perplexity.ai/page/zelenskyy-demands-tighter-russ-AMbU3.hbTkWWgfrwbd4a8g",
-        "description": "Ukraine's president cited 1,550 drone strikes in one week, saying eased oil sanctions fund Russia's war as bilateral talks with the U.S. continue.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T19:18:55Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
