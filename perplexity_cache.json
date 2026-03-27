@@ -100,6 +100,24 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Iran accuses US-Israel of genocide at UN Human Rights Council",
+      "url": "https://www.perplexity.ai/page/iran-accuses-us-israel-of-geno-3onSm93eQ8W3R1fgq3WO6g",
+      "description": "Foreign Minister Araghchi addressed an emergency session Friday, calling the Minab school airstrike the \"tip of a far larger iceberg\" of war crimes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T14:49:21Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "US can confirm only a third of Iran's missiles destroyed",
+      "url": "https://www.perplexity.ai/page/us-can-confirm-only-a-third-of-hURK9jveS3mjFjPzzcuLhg",
+      "description": "Intelligence assessments contradict Trump's claim that Iran has \"very few rockets left\" as the war nears its one-month mark.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T14:36:56Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "SpaceX IPO sparks $15M in ticker bets before filing",
       "url": "https://www.perplexity.ai/page/spacex-ipo-sparks-15m-in-ticke-XDmL9.pXRNO5j8WrV57cCQ",
       "description": "Polymarket wagers on SpaceX's ticker symbol, valuation, and exchange have topped $15.2 million even though the company has yet to file IPO paperwork.",
@@ -1331,27 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-23T16:07:32Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
-      "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
-      "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T15:54:47Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Newark Airport grounds flights after smoke forces tower evacuation",
-      "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
-      "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T13:11:18Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-27T20:23:23Z",
+  "cached_at": "2026-03-27T20:43:50Z",
   "topics": {
     "top": [
       {
@@ -1451,6 +1451,24 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-27T14:49:48Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Iran accuses US-Israel of genocide at UN Human Rights Council",
+        "url": "https://www.perplexity.ai/page/iran-accuses-us-israel-of-geno-3onSm93eQ8W3R1fgq3WO6g",
+        "description": "Foreign Minister Araghchi addressed an emergency session Friday, calling the Minab school airstrike the \"tip of a far larger iceberg\" of war crimes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T14:49:21Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "US can confirm only a third of Iran's missiles destroyed",
+        "url": "https://www.perplexity.ai/page/us-can-confirm-only-a-third-of-hURK9jveS3mjFjPzzcuLhg",
+        "description": "Intelligence assessments contradict Trump's claim that Iran has \"very few rockets left\" as the war nears its one-month mark.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T14:36:56Z",
         "sourceCount": "28 sources"
       },
       {
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T16:07:32Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Wright calls oil disruptions 'temporary,' urges producers to boost output",
-        "url": "https://www.perplexity.ai/page/wright-calls-oil-disruptions-t-RiChN1yTRO.Y1LgsG.f4kw",
-        "description": "At CERAWeek, the energy secretary said prices haven't risen enough to curb demand as the U.S. ramps up its historic SPR drawdown.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T15:54:47Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Newark Airport grounds flights after smoke forces tower evacuation",
-        "url": "https://www.perplexity.ai/page/newark-airport-grounds-flights-R27P_lYUQY.xQTJ_Z.YBWg",
-        "description": "An elevator malfunction caused a burning smell that led controllers to evacuate to a backup facility, halting arrivals and departures.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T13:11:18Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
