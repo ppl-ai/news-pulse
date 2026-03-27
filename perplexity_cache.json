@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Pentagon weighs sending 10,000 more troops to Middle East",
+      "url": "https://www.perplexity.ai/page/pentagon-weighs-sending-10000-3kQqQ8JjQpOsiXsVkJGN1Q",
+      "description": "The potential deployment would supplement roughly 50,000 U.S. personnel already in the region as the war against Iran enters its fourth week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T00:41:27Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Anthropic discusses Q4 2026 IPO that could raise over $60B",
       "url": "https://www.perplexity.ai/page/anthropic-discusses-q4-2026-ip-h3jhQHHGSEqiISxmhzKfTw",
       "description": "Bankers competing for the mandate expect the AI startup's listing to rank among the largest IPOs in history, according to The Information.",
@@ -172,13 +181,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
-      "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
-      "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
+      "title": "Trump pushes aides to end Iran war within weeks",
+      "url": "https://www.perplexity.ai/page/trump-pushes-aides-to-end-iran-m8J7MSgQSoWBictfkRj07A",
+      "description": "The president privately told advisers the conflict is in its final stages, urging them to stick to a four-to-six-week timeline.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T12:04:32Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-26T14:15:20Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "DOJ sues NewYork-Presbyterian over contracts that block cheaper care",
@@ -199,6 +208,15 @@
       "sourceCount": "25 sources"
     },
     {
+      "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
+      "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
+      "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T12:04:32Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "IBM says quantum computer matched lab data in materials simulation",
       "url": "https://www.perplexity.ai/page/ibm-says-quantum-computer-matc-PYd11JDgSmCPpc2K8kCH1w",
       "description": "Researchers say quantum simulations of a magnetic crystal reproduced neutron scattering experiments, a feat many believed was beyond current hardware.",
@@ -208,15 +226,6 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "IRGC Navy chief killed in Israeli strike on Bandar Abbas",
-      "url": "https://www.perplexity.ai/page/irgc-navy-chief-killed-in-isra-4fVMh.8NTUm4U0Onx7SNNw",
-      "description": "Alireza Tangsiri oversaw Iranian naval operations near the Strait of Hormuz. Iran has not confirmed the killing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T09:37:23Z",
-      "sourceCount": "50 sources"
-    },
-    {
       "title": "Researchers recover 95% of battery metals using plasma and citric acid",
       "url": "https://www.perplexity.ai/page/researchers-recover-95-of-batt-U010ivklQUCv5KfRI2oQUw",
       "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
@@ -224,6 +233,15 @@
       "topic": "top",
       "pubDate": "2026-03-26T09:25:14Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "IRGC Navy chief killed in Israeli strike on Bandar Abbas",
+      "url": "https://www.perplexity.ai/page/irgc-navy-chief-killed-in-isra-4fVMh.8NTUm4U0Onx7SNNw",
+      "description": "Alireza Tangsiri oversaw Iranian naval operations near the Strait of Hormuz. Iran has not confirmed the killing.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T09:37:23Z",
+      "sourceCount": "50 sources"
     },
     {
       "title": "Census: U.S. metro growth slowed sharply as immigration declined",
@@ -991,15 +1009,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Iran toughens negotiation stance, presses US for major concessions",
-      "url": "https://www.perplexity.ai/page/iran-toughens-negotiation-stan-ug1TvoUIRYGLsaI8MaR2rQ",
-      "description": "Tehran's Revolutionary Guards are driving a harder negotiating line, with senior sources saying Iran will refuse to discuss limits on its missile program.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T19:28:38Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "NASA cancels Lunar Gateway, will build $20B moon base",
       "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
       "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-22T01:24:07Z",
       "sourceCount": "38 sources"
-    },
-    {
-      "title": "Cuba suffers third nationwide blackout in March as US oil blockade tightens",
-      "url": "https://www.perplexity.ai/page/cuba-suffers-third-nationwide-VsMuW5ghTR6gv_DpF.Wv5A",
-      "description": "The grid collapse left millions without power as aging infrastructure buckles under fuel shortages caused by the Trump administration's economic pressure campaign.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T13:08:38Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-27T00:55:02Z",
+  "cached_at": "2026-03-27T01:37:07Z",
   "topics": {
     "top": [
+      {
+        "title": "Pentagon weighs sending 10,000 more troops to Middle East",
+        "url": "https://www.perplexity.ai/page/pentagon-weighs-sending-10000-3kQqQ8JjQpOsiXsVkJGN1Q",
+        "description": "The potential deployment would supplement roughly 50,000 U.S. personnel already in the region as the war against Iran enters its fourth week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T00:41:27Z",
+        "sourceCount": "26 sources"
+      },
       {
         "title": "Anthropic discusses Q4 2026 IPO that could raise over $60B",
         "url": "https://www.perplexity.ai/page/anthropic-discusses-q4-2026-ip-h3jhQHHGSEqiISxmhzKfTw",
@@ -1526,13 +1535,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
-        "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
-        "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
+        "title": "Trump pushes aides to end Iran war within weeks",
+        "url": "https://www.perplexity.ai/page/trump-pushes-aides-to-end-iran-m8J7MSgQSoWBictfkRj07A",
+        "description": "The president privately told advisers the conflict is in its final stages, urging them to stick to a four-to-six-week timeline.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T12:04:32Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-26T14:15:20Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "DOJ sues NewYork-Presbyterian over contracts that block cheaper care",
@@ -1553,6 +1562,15 @@
         "sourceCount": "25 sources"
       },
       {
+        "title": "Israel strikes Isfahan as Iran fires missiles at Tel Aviv",
+        "url": "https://www.perplexity.ai/page/israel-strikes-isfahan-as-iran-EEr_4L4hQGagbbQbWgSa7Q",
+        "description": "Iran rejected a U.S. ceasefire plan as both sides intensified attacks on day 26 of the war, with Trump still claiming Tehran wants a deal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T12:04:32Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "IBM says quantum computer matched lab data in materials simulation",
         "url": "https://www.perplexity.ai/page/ibm-says-quantum-computer-matc-PYd11JDgSmCPpc2K8kCH1w",
         "description": "Researchers say quantum simulations of a magnetic crystal reproduced neutron scattering experiments, a feat many believed was beyond current hardware.",
@@ -1562,15 +1580,6 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "IRGC Navy chief killed in Israeli strike on Bandar Abbas",
-        "url": "https://www.perplexity.ai/page/irgc-navy-chief-killed-in-isra-4fVMh.8NTUm4U0Onx7SNNw",
-        "description": "Alireza Tangsiri oversaw Iranian naval operations near the Strait of Hormuz. Iran has not confirmed the killing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T09:37:23Z",
-        "sourceCount": "50 sources"
-      },
-      {
         "title": "Researchers recover 95% of battery metals using plasma and citric acid",
         "url": "https://www.perplexity.ai/page/researchers-recover-95-of-batt-U010ivklQUCv5KfRI2oQUw",
         "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
@@ -1578,6 +1587,15 @@
         "topic": "top",
         "pubDate": "2026-03-26T09:25:14Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "IRGC Navy chief killed in Israeli strike on Bandar Abbas",
+        "url": "https://www.perplexity.ai/page/irgc-navy-chief-killed-in-isra-4fVMh.8NTUm4U0Onx7SNNw",
+        "description": "Alireza Tangsiri oversaw Iranian naval operations near the Strait of Hormuz. Iran has not confirmed the killing.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T09:37:23Z",
+        "sourceCount": "50 sources"
       },
       {
         "title": "Census: U.S. metro growth slowed sharply as immigration declined",
@@ -2345,15 +2363,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Iran toughens negotiation stance, presses US for major concessions",
-        "url": "https://www.perplexity.ai/page/iran-toughens-negotiation-stan-ug1TvoUIRYGLsaI8MaR2rQ",
-        "description": "Tehran's Revolutionary Guards are driving a harder negotiating line, with senior sources saying Iran will refuse to discuss limits on its missile program.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T19:28:38Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "NASA cancels Lunar Gateway, will build $20B moon base",
         "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
         "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T01:24:07Z",
         "sourceCount": "38 sources"
-      },
-      {
-        "title": "Cuba suffers third nationwide blackout in March as US oil blockade tightens",
-        "url": "https://www.perplexity.ai/page/cuba-suffers-third-nationwide-VsMuW5ghTR6gv_DpF.Wv5A",
-        "description": "The grid collapse left millions without power as aging infrastructure buckles under fuel shortages caused by the Trump administration's economic pressure campaign.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T13:08:38Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
