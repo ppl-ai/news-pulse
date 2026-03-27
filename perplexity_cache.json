@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Scientists train to dive beneath polar ice as warming accelerates Arctic research",
+      "url": "https://www.perplexity.ai/page/scientists-train-to-dive-benea-K8vcf9ecSPe9x9VPOS_zWQ",
+      "description": "Finland's Scientific Diving Academy is preparing researchers for underwater exploration beneath Arctic and Antarctic ice as the region warms four times faster than average.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T12:14:23Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "USPTO reaffirms Broad Institute's CRISPR patent win over UC Berkeley",
+      "url": "https://www.perplexity.ai/page/uspto-reaffirms-broad-institut-pYvoXPHwSOy_3sMYKFV4BQ",
+      "description": "The PTAB ruled Thursday that Broad Institute scientists were first to use CRISPR-Cas9 gene editing in eukaryotic cells, blocking 14 UC Berkeley patent applications.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T12:13:56Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Asia-Pacific governments rush to calm markets as Middle East war drives energy crisis",
+      "url": "https://www.perplexity.ai/page/asia-pacific-governments-rush-LotXGYZPTCO5E6rwz930bg",
+      "description": "From emergency budgets to fuel rationing plans, countries across the region are deploying fiscal packages and liquidity measures to counter the economic fallout.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T12:05:15Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Kremlin denies Putin asked oligarchs to fund Ukraine war costs",
       "url": "https://www.perplexity.ai/page/kremlin-denies-putin-asked-oli-3Yc3jo5fTq6Ai_1UoQF08A",
       "description": "Spokesman Peskov said a billionaire volunteered a large donation on his own, contradicting reports that Putin directly appealed for budget contributions.",
@@ -1322,38 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-03-23T07:23:41Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "WMO says Earth's climate 'more out of balance' than ever",
-      "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
-      "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T06:06:56Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
-      "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
-      "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T01:23:19Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Cuba says its military is preparing for possible U.S. aggression",
-      "url": "https://www.perplexity.ai/page/cuba-says-its-military-is-prep-X2daRVQNRA6MBrkU6Ysvqw",
-      "description": "Deputy Foreign Minister Carlos Fernandez de Cossio said regime change is \"absolutely\" off the table despite Trump's talk of \"taking\" the island.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-22T22:19:11Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-27T12:07:28Z",
+  "cached_at": "2026-03-27T12:28:41Z",
   "topics": {
     "top": [
+      {
+        "title": "Scientists train to dive beneath polar ice as warming accelerates Arctic research",
+        "url": "https://www.perplexity.ai/page/scientists-train-to-dive-benea-K8vcf9ecSPe9x9VPOS_zWQ",
+        "description": "Finland's Scientific Diving Academy is preparing researchers for underwater exploration beneath Arctic and Antarctic ice as the region warms four times faster than average.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T12:14:23Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "USPTO reaffirms Broad Institute's CRISPR patent win over UC Berkeley",
+        "url": "https://www.perplexity.ai/page/uspto-reaffirms-broad-institut-pYvoXPHwSOy_3sMYKFV4BQ",
+        "description": "The PTAB ruled Thursday that Broad Institute scientists were first to use CRISPR-Cas9 gene editing in eukaryotic cells, blocking 14 UC Berkeley patent applications.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T12:13:56Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Asia-Pacific governments rush to calm markets as Middle East war drives energy crisis",
+        "url": "https://www.perplexity.ai/page/asia-pacific-governments-rush-LotXGYZPTCO5E6rwz930bg",
+        "description": "From emergency budgets to fuel rationing plans, countries across the region are deploying fiscal packages and liquidity measures to counter the economic fallout.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T12:05:15Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Kremlin denies Putin asked oligarchs to fund Ukraine war costs",
         "url": "https://www.perplexity.ai/page/kremlin-denies-putin-asked-oli-3Yc3jo5fTq6Ai_1UoQF08A",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T07:23:41Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "WMO says Earth's climate 'more out of balance' than ever",
-        "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
-        "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T06:06:56Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Bessent defends easing Russia, Iran oil sanctions on Meet the Press",
-        "url": "https://www.perplexity.ai/page/bessent-defends-easing-russia-J6eKwfYrTu2eTx4ZZOqprQ",
-        "description": "Treasury Secretary said Russia would gain at most $2 billion from the waiver — or face $150-per-barrel oil prices without it.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T01:23:19Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Cuba says its military is preparing for possible U.S. aggression",
-        "url": "https://www.perplexity.ai/page/cuba-says-its-military-is-prep-X2daRVQNRA6MBrkU6Ysvqw",
-        "description": "Deputy Foreign Minister Carlos Fernandez de Cossio said regime change is \"absolutely\" off the table despite Trump's talk of \"taking\" the island.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-22T22:19:11Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
