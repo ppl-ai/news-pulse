@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Trump extends Iran strike deadline to April 6 as markets tumble, oil tops $100",
+      "url": "https://www.perplexity.ai/page/trump-extends-iran-strike-dead-y7Ox6m1nQ_eEKnlqqnV40Q",
+      "description": "Wall Street sold off sharply Thursday as oil surged and the OECD warned the Iran war could push U.S. inflation above 4% this year.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T23:50:44Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "UK pledges £100M more for Ukraine's air defenses",
+      "url": "https://www.perplexity.ai/page/uk-pledges-ps100m-more-for-ukr-7mW1qcmRT4eSZ3vLSKcHNw",
+      "description": "The additional funding brings Britain's air defense contributions to roughly £600 million over two months as Russia's aerial attacks persist.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T23:04:02Z",
+      "sourceCount": "71 sources"
+    },
+    {
       "title": "Pentagon confirms first use of drone boats in Iran conflict",
       "url": "https://www.perplexity.ai/page/pentagon-confirms-first-use-of-i8GXD5U1TlebTfquH2QeXA",
       "description": "Uncrewed speedboats built by BlackSea Technologies have been patrolling in support of Operation Epic Fury, the Pentagon said Thursday.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-22T01:18:47Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
-      "url": "https://www.perplexity.ai/page/uk-expands-us-base-access-to-s-JrazaoqPSxOB1vYETvjOTA",
-      "description": "Starmer had initially limited US use of British bases to defensive measures but broadened the terms Friday to include protecting commercial shipping.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T16:46:40Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
-      "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
-      "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-21T18:59:26Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-26T23:48:44Z",
+  "cached_at": "2026-03-27T00:01:41Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump extends Iran strike deadline to April 6 as markets tumble, oil tops $100",
+        "url": "https://www.perplexity.ai/page/trump-extends-iran-strike-dead-y7Ox6m1nQ_eEKnlqqnV40Q",
+        "description": "Wall Street sold off sharply Thursday as oil surged and the OECD warned the Iran war could push U.S. inflation above 4% this year.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T23:50:44Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "UK pledges £100M more for Ukraine's air defenses",
+        "url": "https://www.perplexity.ai/page/uk-pledges-ps100m-more-for-ukr-7mW1qcmRT4eSZ3vLSKcHNw",
+        "description": "The additional funding brings Britain's air defense contributions to roughly £600 million over two months as Russia's aerial attacks persist.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T23:04:02Z",
+        "sourceCount": "71 sources"
+      },
       {
         "title": "Pentagon confirms first use of drone boats in Iran conflict",
         "url": "https://www.perplexity.ai/page/pentagon-confirms-first-use-of-i8GXD5U1TlebTfquH2QeXA",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-22T01:18:47Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "UK expands US base access to strike Iran's Strait of Hormuz missile sites",
-        "url": "https://www.perplexity.ai/page/uk-expands-us-base-access-to-s-JrazaoqPSxOB1vYETvjOTA",
-        "description": "Starmer had initially limited US use of British bases to defensive measures but broadened the terms Friday to include protecting commercial shipping.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T16:46:40Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Robert Mueller, former FBI director and special counsel, dies at 81",
-        "url": "https://www.perplexity.ai/page/robert-mueller-former-fbi-dire-nMHjdDY1Rx6SZkUVhknK6Q",
-        "description": "Mueller reshaped the FBI after 9/11 and led the investigation into Russian interference in the 2016 election during Trump's first term.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-21T18:59:26Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
