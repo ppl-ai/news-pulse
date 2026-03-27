@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Kremlin denies Putin asked oligarchs to fund Ukraine war costs",
+      "url": "https://www.perplexity.ai/page/kremlin-denies-putin-asked-oli-3Yc3jo5fTq6Ai_1UoQF08A",
+      "description": "Spokesman Peskov said a billionaire volunteered a large donation on his own, contradicting reports that Putin directly appealed for budget contributions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T11:37:20Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "SpaceX eyes IPO filing as Shotwell lands TIME cover",
       "url": "https://www.perplexity.ai/page/spacex-eyes-ipo-filing-as-shot-iWglG8s5ToKO3z_hK.QTGg",
       "description": "TIME profiles Gwynne Shotwell as SpaceX absorbs xAI and reportedly moves closer to filing IPO paperwork that could value the company above $1.75 trillion.",
@@ -226,13 +235,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Trump says Iran let 10 oil tankers through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/trump-says-iran-let-10-oil-tan-MqieyiTrTkum0Fv2viZv_Q",
-      "description": "The disclosure explains what Trump called a \"very big present\" from Tehran this week, as the two sides send mixed signals on ending the war.",
+      "title": "Iran formalizes Strait of Hormuz toll as US troops head to region",
+      "url": "https://www.perplexity.ai/page/iran-formalizes-strait-of-horm-DruC6qpRTmimilQ3t1mCQA",
+      "description": "Ships are paying up to $2 million in Chinese yuan to transit the strait as Iran's parliament moves to codify fees on the critical waterway.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T16:43:08Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-26T15:19:02Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "DOJ opens civil rights probes into three medical schools' admissions",
@@ -298,15 +307,6 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "IRGC Navy chief killed in Israeli strike on Bandar Abbas",
-      "url": "https://www.perplexity.ai/page/irgc-navy-chief-killed-in-isra-4fVMh.8NTUm4U0Onx7SNNw",
-      "description": "Alireza Tangsiri oversaw Iranian naval operations near the Strait of Hormuz. Iran has not confirmed the killing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T09:37:23Z",
-      "sourceCount": "50 sources"
-    },
-    {
       "title": "Researchers recover 95% of battery metals using plasma and citric acid",
       "url": "https://www.perplexity.ai/page/researchers-recover-95-of-batt-U010ivklQUCv5KfRI2oQUw",
       "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
@@ -316,15 +316,6 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "Census: U.S. metro growth slowed sharply as immigration declined",
-      "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
-      "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T09:10:12Z",
-      "sourceCount": "47 sources"
-    },
-    {
       "title": "Artemis 2 crew flies to Florida ahead of April 1 Moon launch",
       "url": "https://www.perplexity.ai/page/artemis-2-crew-flies-to-florid-DsT0K.6YR.yvCmAAFkoRCA",
       "description": "The four astronauts are set to arrive at Kennedy Space Center on Friday as final pad preparations continue for the first crewed lunar mission since Apollo.",
@@ -332,6 +323,15 @@
       "topic": "top",
       "pubDate": "2026-03-26T04:44:21Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Census: U.S. metro growth slowed sharply as immigration declined",
+      "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
+      "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T09:10:12Z",
+      "sourceCount": "47 sources"
     },
     {
       "title": "Iran-backed FPV drones hit US helicopter, radar at Baghdad base",
@@ -1351,9 +1351,18 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-27T11:30:19Z",
+  "cached_at": "2026-03-27T11:51:34Z",
   "topics": {
     "top": [
+      {
+        "title": "Kremlin denies Putin asked oligarchs to fund Ukraine war costs",
+        "url": "https://www.perplexity.ai/page/kremlin-denies-putin-asked-oli-3Yc3jo5fTq6Ai_1UoQF08A",
+        "description": "Spokesman Peskov said a billionaire volunteered a large donation on his own, contradicting reports that Putin directly appealed for budget contributions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T11:37:20Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "SpaceX eyes IPO filing as Shotwell lands TIME cover",
         "url": "https://www.perplexity.ai/page/spacex-eyes-ipo-filing-as-shot-iWglG8s5ToKO3z_hK.QTGg",
@@ -1580,13 +1589,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Trump says Iran let 10 oil tankers through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/trump-says-iran-let-10-oil-tan-MqieyiTrTkum0Fv2viZv_Q",
-        "description": "The disclosure explains what Trump called a \"very big present\" from Tehran this week, as the two sides send mixed signals on ending the war.",
+        "title": "Iran formalizes Strait of Hormuz toll as US troops head to region",
+        "url": "https://www.perplexity.ai/page/iran-formalizes-strait-of-horm-DruC6qpRTmimilQ3t1mCQA",
+        "description": "Ships are paying up to $2 million in Chinese yuan to transit the strait as Iran's parliament moves to codify fees on the critical waterway.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T16:43:08Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-26T15:19:02Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "DOJ opens civil rights probes into three medical schools' admissions",
@@ -1652,15 +1661,6 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "IRGC Navy chief killed in Israeli strike on Bandar Abbas",
-        "url": "https://www.perplexity.ai/page/irgc-navy-chief-killed-in-isra-4fVMh.8NTUm4U0Onx7SNNw",
-        "description": "Alireza Tangsiri oversaw Iranian naval operations near the Strait of Hormuz. Iran has not confirmed the killing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T09:37:23Z",
-        "sourceCount": "50 sources"
-      },
-      {
         "title": "Researchers recover 95% of battery metals using plasma and citric acid",
         "url": "https://www.perplexity.ai/page/researchers-recover-95-of-batt-U010ivklQUCv5KfRI2oQUw",
         "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
@@ -1670,15 +1670,6 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "Census: U.S. metro growth slowed sharply as immigration declined",
-        "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
-        "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T09:10:12Z",
-        "sourceCount": "47 sources"
-      },
-      {
         "title": "Artemis 2 crew flies to Florida ahead of April 1 Moon launch",
         "url": "https://www.perplexity.ai/page/artemis-2-crew-flies-to-florid-DsT0K.6YR.yvCmAAFkoRCA",
         "description": "The four astronauts are set to arrive at Kennedy Space Center on Friday as final pad preparations continue for the first crewed lunar mission since Apollo.",
@@ -1686,6 +1677,15 @@
         "topic": "top",
         "pubDate": "2026-03-26T04:44:21Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Census: U.S. metro growth slowed sharply as immigration declined",
+        "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
+        "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T09:10:12Z",
+        "sourceCount": "47 sources"
       },
       {
         "title": "Iran-backed FPV drones hit US helicopter, radar at Baghdad base",
