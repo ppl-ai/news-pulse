@@ -406,6 +406,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Mediators say Iran never requested strike pause Trump cited",
+      "url": "https://www.perplexity.ai/page/mediators-say-iran-never-reque-IqljSLhCRTyd8y_F0T.4cQ",
+      "description": "President Trump extended the deadline for energy strikes to April 6, but mediators told the WSJ that Tehran made no such request.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T00:38:42Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Experts warn Iran war's environmental toll could persist for decades",
       "url": "https://www.perplexity.ai/page/experts-warn-iran-war-s-enviro-bbOi3GVCR9uKwhh8TZJwuw",
       "description": "Over 400 environmentally harmful incidents have been logged since the conflict began, with toxic pollution threatening air, water, and soil across the Gulf.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-24T07:33:54Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
-      "url": "https://www.perplexity.ai/page/magnitude-7-6-earthquake-strik-S_.mDH.UQm2xSSuHMg2GFg",
-      "description": "The deep quake hit 153 km west of Neiafu on Tuesday with no immediate reports of damage or casualties, according to USGS.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T06:12:31Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-27T23:34:25Z",
+  "cached_at": "2026-03-27T23:49:17Z",
   "topics": {
     "top": [
       {
@@ -1757,6 +1757,15 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-27T02:18:35Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Mediators say Iran never requested strike pause Trump cited",
+        "url": "https://www.perplexity.ai/page/mediators-say-iran-never-reque-IqljSLhCRTyd8y_F0T.4cQ",
+        "description": "President Trump extended the deadline for energy strikes to April 6, but mediators told the WSJ that Tehran made no such request.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T00:38:42Z",
         "sourceCount": "29 sources"
       },
       {
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T07:33:54Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
-        "url": "https://www.perplexity.ai/page/magnitude-7-6-earthquake-strik-S_.mDH.UQm2xSSuHMg2GFg",
-        "description": "The deep quake hit 153 km west of Neiafu on Tuesday with no immediate reports of damage or casualties, according to USGS.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T06:12:31Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
