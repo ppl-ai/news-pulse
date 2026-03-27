@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Space Command HQ on track for 2031 in Huntsville",
+      "url": "https://www.perplexity.ai/page/space-command-hq-on-track-for-Gbnlwq2GQ1CzhYX_3xarRA",
+      "description": "Gen. Whiting told senators the Redstone Arsenal move is advancing, with groundbreaking expected next year and a new SCIF opening in April.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T14:41:00Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "SpaceX IPO sparks $15M in ticker bets before filing",
       "url": "https://www.perplexity.ai/page/spacex-ipo-sparks-15m-in-ticke-XDmL9.pXRNO5j8WrV57cCQ",
       "description": "Polymarket wagers on SpaceX's ticker symbol, valuation, and exchange have topped $15.2 million even though the company has yet to file IPO paperwork.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-23T07:23:41Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "WMO says Earth's climate 'more out of balance' than ever",
-      "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
-      "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T06:06:56Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-27T14:29:09Z",
+  "cached_at": "2026-03-27T14:53:05Z",
   "topics": {
     "top": [
+      {
+        "title": "Space Command HQ on track for 2031 in Huntsville",
+        "url": "https://www.perplexity.ai/page/space-command-hq-on-track-for-Gbnlwq2GQ1CzhYX_3xarRA",
+        "description": "Gen. Whiting told senators the Redstone Arsenal move is advancing, with groundbreaking expected next year and a new SCIF opening in April.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T14:41:00Z",
+        "sourceCount": "36 sources"
+      },
       {
         "title": "SpaceX IPO sparks $15M in ticker bets before filing",
         "url": "https://www.perplexity.ai/page/spacex-ipo-sparks-15m-in-ticke-XDmL9.pXRNO5j8WrV57cCQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T07:23:41Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "WMO says Earth's climate 'more out of balance' than ever",
-        "url": "https://www.perplexity.ai/page/wmo-says-earth-s-climate-more-lFponMlOTYC_4cCeubFOUQ",
-        "description": "The agency's annual report finds 2015-2025 was the hottest 11-year stretch on record, with energy imbalance at a 65-year high.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T06:06:56Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
