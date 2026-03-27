@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump takes aim at Cuba in closing address at Miami summit",
+      "url": "https://www.perplexity.ai/page/trump-takes-aim-at-cuba-in-clo-zc4uSDC6SzW3QLbX06i2Bw",
+      "description": "Havana has turned to Pope Leo XIV to mediate with Washington as a U.S. oil embargo pushes the island toward economic collapse.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T23:09:33Z",
+      "sourceCount": "63 sources"
+    },
+    {
       "title": "Iranian strike injures 10 US troops at Saudi base",
       "url": "https://www.perplexity.ai/page/iranian-strike-injures-10-us-t-Qrwjbt9vTnqPtwlyrgmAIg",
       "description": "Friday's missile and drone attack on Prince Sultan Air Base also damaged multiple U.S. refueling aircraft, according to officials.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-24T02:24:45Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Senate confirms Mullin as homeland security secretary",
-      "url": "https://www.perplexity.ai/page/senate-confirms-mullin-as-home-wHb41u8PTie41fMkfS0B8Q",
-      "description": "The Oklahoma Republican replaces Kristi Noem and inherits a department partially shut down since mid-February over immigration enforcement disputes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T00:52:28Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-27T22:59:58Z",
+  "cached_at": "2026-03-27T23:16:47Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump takes aim at Cuba in closing address at Miami summit",
+        "url": "https://www.perplexity.ai/page/trump-takes-aim-at-cuba-in-clo-zc4uSDC6SzW3QLbX06i2Bw",
+        "description": "Havana has turned to Pope Leo XIV to mediate with Washington as a U.S. oil embargo pushes the island toward economic collapse.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T23:09:33Z",
+        "sourceCount": "63 sources"
+      },
       {
         "title": "Iranian strike injures 10 US troops at Saudi base",
         "url": "https://www.perplexity.ai/page/iranian-strike-injures-10-us-t-Qrwjbt9vTnqPtwlyrgmAIg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T02:24:45Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Senate confirms Mullin as homeland security secretary",
-        "url": "https://www.perplexity.ai/page/senate-confirms-mullin-as-home-wHb41u8PTie41fMkfS0B8Q",
-        "description": "The Oklahoma Republican replaces Kristi Noem and inherits a department partially shut down since mid-February over immigration enforcement disputes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T00:52:28Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
