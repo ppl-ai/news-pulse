@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Controllers say LaGuardia needed more staff night of deadly crash",
+      "url": "https://www.perplexity.ai/page/controllers-say-laguardia-need-xhr3_v7FSPiuayKW3xE3ww",
+      "description": "Six air traffic controllers told Reuters the airport's workload on March 22 warranted additional staffing before the fatal collision.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T16:48:08Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "RFK Jr. ally says White House now sees vaccines as 'losing issue'",
       "url": "https://www.perplexity.ai/page/rfk-jr-ally-says-white-house-n-peGgehzgRHKorWXz7tRc3Q",
       "description": "A federal court ruling, a key adviser's resignation, and growing Senate resistance are forcing the administration to retreat from Kennedy's vaccine overhaul.",
@@ -62,6 +71,15 @@
       "topic": "top",
       "pubDate": "2026-03-27T12:05:15Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Iran halts two Chinese ships near Hormuz in rare reversal",
+      "url": "https://www.perplexity.ai/page/iran-halts-two-chinese-ships-n-Tn7tBew8Qdi6ns329tJNuQ",
+      "description": "Iran's Revolutionary Guard hardened its blockade Friday, intercepting vessels and declaring the strait closed to ships linked to U.S. allies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T12:01:32Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Kremlin denies Putin asked oligarchs to fund Ukraine war costs",
@@ -1331,29 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-23T10:23:24Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Supreme Court hears case that could end mail ballot grace periods in 14-plus states",
-      "url": "https://www.perplexity.ai/page/supreme-court-hears-case-that-wf8H_vWkTmScIrut67jmQg",
-      "description": "Justices weighed whether federal law bars states from counting mail ballots that arrive after Election Day, with a ruling expected by summer.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T10:13:52Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "IAEA chief says no war can end Iran's nuclear program",
-      "url": "https://www.perplexity.ai/page/iaea-chief-says-no-war-can-end-7o_kQhsCRku9GrR8ka9xnQ",
-      "description": "Rafael Grossi told CBS News that Iran retains the knowledge and capacity to restart enrichment despite extensive U.S.-Israeli strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T07:23:41Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-27T16:51:48Z",
+  "cached_at": "2026-03-27T17:14:18Z",
   "topics": {
     "top": [
+      {
+        "title": "Controllers say LaGuardia needed more staff night of deadly crash",
+        "url": "https://www.perplexity.ai/page/controllers-say-laguardia-need-xhr3_v7FSPiuayKW3xE3ww",
+        "description": "Six air traffic controllers told Reuters the airport's workload on March 22 warranted additional staffing before the fatal collision.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T16:48:08Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "RFK Jr. ally says White House now sees vaccines as 'losing issue'",
         "url": "https://www.perplexity.ai/page/rfk-jr-ally-says-white-house-n-peGgehzgRHKorWXz7tRc3Q",
@@ -1416,6 +1425,15 @@
         "topic": "top",
         "pubDate": "2026-03-27T12:05:15Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Iran halts two Chinese ships near Hormuz in rare reversal",
+        "url": "https://www.perplexity.ai/page/iran-halts-two-chinese-ships-n-Tn7tBew8Qdi6ns329tJNuQ",
+        "description": "Iran's Revolutionary Guard hardened its blockade Friday, intercepting vessels and declaring the strait closed to ships linked to U.S. allies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T12:01:32Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Kremlin denies Putin asked oligarchs to fund Ukraine war costs",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T10:23:24Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Supreme Court hears case that could end mail ballot grace periods in 14-plus states",
-        "url": "https://www.perplexity.ai/page/supreme-court-hears-case-that-wf8H_vWkTmScIrut67jmQg",
-        "description": "Justices weighed whether federal law bars states from counting mail ballots that arrive after Election Day, with a ruling expected by summer.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T10:13:52Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "IAEA chief says no war can end Iran's nuclear program",
-        "url": "https://www.perplexity.ai/page/iaea-chief-says-no-war-can-end-7o_kQhsCRku9GrR8ka9xnQ",
-        "description": "Rafael Grossi told CBS News that Iran retains the knowledge and capacity to restart enrichment despite extensive U.S.-Israeli strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T07:23:41Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
