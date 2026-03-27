@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran-linked hackers breach FBI director's personal email",
+      "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-64Lhjl.CT6W03m1aa5c8Ag",
+      "description": "A DOJ official confirmed the hack of Kash Patel's Gmail account, with the Handala group publishing photos and correspondence online.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T15:08:56Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Deployed nuclear warheads rose again in 2025, report finds",
       "url": "https://www.perplexity.ai/page/deployed-nuclear-warheads-rose-ta6lbAk3Qy2dU.4NgY2R8A",
       "description": "The annual Nuclear Weapons Ban Monitor counted 4,012 warheads on missiles, submarines, and bomber bases, up 108 from 2024.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-23T10:13:52Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "IAEA chief says no war can end Iran's nuclear program",
-      "url": "https://www.perplexity.ai/page/iaea-chief-says-no-war-can-end-7o_kQhsCRku9GrR8ka9xnQ",
-      "description": "Rafael Grossi told CBS News that Iran retains the knowledge and capacity to restart enrichment despite extensive U.S.-Israeli strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-23T07:23:41Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-27T15:37:14Z",
+  "cached_at": "2026-03-27T16:02:00Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran-linked hackers breach FBI director's personal email",
+        "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-64Lhjl.CT6W03m1aa5c8Ag",
+        "description": "A DOJ official confirmed the hack of Kash Patel's Gmail account, with the Handala group publishing photos and correspondence online.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T15:08:56Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Deployed nuclear warheads rose again in 2025, report finds",
         "url": "https://www.perplexity.ai/page/deployed-nuclear-warheads-rose-ta6lbAk3Qy2dU.4NgY2R8A",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-23T10:13:52Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "IAEA chief says no war can end Iran's nuclear program",
-        "url": "https://www.perplexity.ai/page/iaea-chief-says-no-war-can-end-7o_kQhsCRku9GrR8ka9xnQ",
-        "description": "Rafael Grossi told CBS News that Iran retains the knowledge and capacity to restart enrichment despite extensive U.S.-Israeli strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-23T07:23:41Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
