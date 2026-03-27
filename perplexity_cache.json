@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Rubio says US expects Iran war to end in weeks",
+      "url": "https://www.perplexity.ai/page/rubio-says-us-expects-iran-war-zS6DGSkFTO6kBVbYcOuDhA",
+      "description": "The secretary of state told G7 ministers that U.S. objectives can be met without ground troops, calling the campaign ahead of schedule.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T18:09:04Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "DOJ issues subpoenas in Paramount-Warner Bros merger probe",
       "url": "https://www.perplexity.ai/page/doj-issues-subpoenas-in-paramo-jgcQYuQgQqKe03BmtafKaA",
       "description": "Federal investigators are examining the $110 billion deal's impact on streaming competition, content rights, and movie theaters.",
@@ -163,15 +172,6 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "China boycotts top AI conference over US sanctions ban",
-      "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
-      "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T08:10:33Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Anthropic discusses Q4 2026 IPO that could raise over $60B",
       "url": "https://www.perplexity.ai/page/anthropic-discusses-q4-2026-ip-h3jhQHHGSEqiISxmhzKfTw",
       "description": "Bankers competing for the mandate expect the AI startup's listing to rank among the largest IPOs in history, according to The Information.",
@@ -179,15 +179,6 @@
       "topic": "top",
       "pubDate": "2026-03-27T00:24:35Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "Iran claims 1 million fighters ready for US ground invasion",
-      "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
-      "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T02:18:35Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Experts warn Iran war's environmental toll could persist for decades",
@@ -199,6 +190,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Iran claims 1 million fighters ready for US ground invasion",
+      "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
+      "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T02:18:35Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Iranian hardliners push for nuclear weapon as war escalates",
       "url": "https://www.perplexity.ai/page/iranian-hardliners-push-for-nu-A18UoN3sTj.hA_qkYWd0ew",
       "description": "Reports say IRGC-aligned figures are urging Tehran to quit the Non-Proliferation Treaty after repeated strikes on Iran's atomic sites.",
@@ -206,15 +206,6 @@
       "topic": "top",
       "pubDate": "2026-03-26T23:45:23Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Pentagon weighs sending 10,000 more troops to Middle East",
-      "url": "https://www.perplexity.ai/page/pentagon-weighs-sending-10000-3kQqQ8JjQpOsiXsVkJGN1Q",
-      "description": "The potential deployment would supplement roughly 50,000 U.S. personnel already in the region as the war against Iran enters its fourth week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T00:41:27Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "UK pledges £100M more for Ukraine's air defenses",
@@ -226,6 +217,15 @@
       "sourceCount": "71 sources"
     },
     {
+      "title": "Pentagon weighs sending 10,000 more troops to Middle East",
+      "url": "https://www.perplexity.ai/page/pentagon-weighs-sending-10000-3kQqQ8JjQpOsiXsVkJGN1Q",
+      "description": "The potential deployment would supplement roughly 50,000 U.S. personnel already in the region as the war against Iran enters its fourth week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T00:41:27Z",
+      "sourceCount": "26 sources"
+    },
+    {
       "title": "Houthi leader signals readiness to join Iran war against US and Israel",
       "url": "https://www.perplexity.ai/page/houthi-leader-signals-readines-tOU4MBwsRi.mxT7vUDDoBg",
       "description": "Ansarallah has refrained from entering the conflict since it began Feb. 28 but controls the strategic Bab al-Mandeb Strait.",
@@ -235,13 +235,22 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Trump pushes back on report he wants speedy Iran deal",
-      "url": "https://www.perplexity.ai/page/trump-pushes-back-on-report-he-BLU.r9QhSiCg_QeVzcTK7w",
-      "description": "At a Thursday cabinet meeting, the president called The Wall Street Journal \"terrible\" and said Iran, not the U.S., is the side seeking a resolution.",
+      "title": "Trump's signature to appear on US currency, ending 165-year tradition",
+      "url": "https://www.perplexity.ai/page/trump-s-signature-to-appear-on-iPaKhY5dRo6W0U2D8XUnfw",
+      "description": "The Treasury Department said $100 bills with the president's name will begin printing in June, replacing the Treasurer's signature for the first time since 1861.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T22:48:43Z",
-      "sourceCount": "36 sources"
+      "pubDate": "2026-03-26T22:11:46Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Pentagon confirms first use of drone boats in Iran conflict",
+      "url": "https://www.perplexity.ai/page/pentagon-confirms-first-use-of-i8GXD5U1TlebTfquH2QeXA",
+      "description": "Uncrewed speedboats built by BlackSea Technologies have been patrolling in support of Operation Epic Fury, the Pentagon said Thursday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T22:43:17Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Iran offers Spain Hormuz access in first such EU overture",
@@ -262,22 +271,13 @@
       "sourceCount": "73 sources"
     },
     {
-      "title": "Pentagon confirms first use of drone boats in Iran conflict",
-      "url": "https://www.perplexity.ai/page/pentagon-confirms-first-use-of-i8GXD5U1TlebTfquH2QeXA",
-      "description": "Uncrewed speedboats built by BlackSea Technologies have been patrolling in support of Operation Epic Fury, the Pentagon said Thursday.",
+      "title": "Trump pushes back on report he wants speedy Iran deal",
+      "url": "https://www.perplexity.ai/page/trump-pushes-back-on-report-he-BLU.r9QhSiCg_QeVzcTK7w",
+      "description": "At a Thursday cabinet meeting, the president called The Wall Street Journal \"terrible\" and said Iran, not the U.S., is the side seeking a resolution.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-26T22:43:17Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Trump's signature to appear on US currency, ending 165-year tradition",
-      "url": "https://www.perplexity.ai/page/trump-s-signature-to-appear-on-iPaKhY5dRo6W0U2D8XUnfw",
-      "description": "The Treasury Department said $100 bills with the president's name will begin printing in June, replacing the Treasurer's signature for the first time since 1861.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T22:11:46Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-26T22:48:43Z",
+      "sourceCount": "36 sources"
     },
     {
       "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
@@ -1351,9 +1351,18 @@
       "sourceCount": "36 sources"
     }
   ],
-  "cached_at": "2026-03-27T18:00:28Z",
+  "cached_at": "2026-03-27T18:28:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Rubio says US expects Iran war to end in weeks",
+        "url": "https://www.perplexity.ai/page/rubio-says-us-expects-iran-war-zS6DGSkFTO6kBVbYcOuDhA",
+        "description": "The secretary of state told G7 ministers that U.S. objectives can be met without ground troops, calling the campaign ahead of schedule.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T18:09:04Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "DOJ issues subpoenas in Paramount-Warner Bros merger probe",
         "url": "https://www.perplexity.ai/page/doj-issues-subpoenas-in-paramo-jgcQYuQgQqKe03BmtafKaA",
@@ -1517,15 +1526,6 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "China boycotts top AI conference over US sanctions ban",
-        "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
-        "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T08:10:33Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Anthropic discusses Q4 2026 IPO that could raise over $60B",
         "url": "https://www.perplexity.ai/page/anthropic-discusses-q4-2026-ip-h3jhQHHGSEqiISxmhzKfTw",
         "description": "Bankers competing for the mandate expect the AI startup's listing to rank among the largest IPOs in history, according to The Information.",
@@ -1533,15 +1533,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T00:24:35Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "Iran claims 1 million fighters ready for US ground invasion",
-        "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
-        "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T02:18:35Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Experts warn Iran war's environmental toll could persist for decades",
@@ -1553,6 +1544,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Iran claims 1 million fighters ready for US ground invasion",
+        "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
+        "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T02:18:35Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Iranian hardliners push for nuclear weapon as war escalates",
         "url": "https://www.perplexity.ai/page/iranian-hardliners-push-for-nu-A18UoN3sTj.hA_qkYWd0ew",
         "description": "Reports say IRGC-aligned figures are urging Tehran to quit the Non-Proliferation Treaty after repeated strikes on Iran's atomic sites.",
@@ -1560,15 +1560,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T23:45:23Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Pentagon weighs sending 10,000 more troops to Middle East",
-        "url": "https://www.perplexity.ai/page/pentagon-weighs-sending-10000-3kQqQ8JjQpOsiXsVkJGN1Q",
-        "description": "The potential deployment would supplement roughly 50,000 U.S. personnel already in the region as the war against Iran enters its fourth week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T00:41:27Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "UK pledges £100M more for Ukraine's air defenses",
@@ -1580,6 +1571,15 @@
         "sourceCount": "71 sources"
       },
       {
+        "title": "Pentagon weighs sending 10,000 more troops to Middle East",
+        "url": "https://www.perplexity.ai/page/pentagon-weighs-sending-10000-3kQqQ8JjQpOsiXsVkJGN1Q",
+        "description": "The potential deployment would supplement roughly 50,000 U.S. personnel already in the region as the war against Iran enters its fourth week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T00:41:27Z",
+        "sourceCount": "26 sources"
+      },
+      {
         "title": "Houthi leader signals readiness to join Iran war against US and Israel",
         "url": "https://www.perplexity.ai/page/houthi-leader-signals-readines-tOU4MBwsRi.mxT7vUDDoBg",
         "description": "Ansarallah has refrained from entering the conflict since it began Feb. 28 but controls the strategic Bab al-Mandeb Strait.",
@@ -1589,13 +1589,22 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Trump pushes back on report he wants speedy Iran deal",
-        "url": "https://www.perplexity.ai/page/trump-pushes-back-on-report-he-BLU.r9QhSiCg_QeVzcTK7w",
-        "description": "At a Thursday cabinet meeting, the president called The Wall Street Journal \"terrible\" and said Iran, not the U.S., is the side seeking a resolution.",
+        "title": "Trump's signature to appear on US currency, ending 165-year tradition",
+        "url": "https://www.perplexity.ai/page/trump-s-signature-to-appear-on-iPaKhY5dRo6W0U2D8XUnfw",
+        "description": "The Treasury Department said $100 bills with the president's name will begin printing in June, replacing the Treasurer's signature for the first time since 1861.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T22:48:43Z",
-        "sourceCount": "36 sources"
+        "pubDate": "2026-03-26T22:11:46Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Pentagon confirms first use of drone boats in Iran conflict",
+        "url": "https://www.perplexity.ai/page/pentagon-confirms-first-use-of-i8GXD5U1TlebTfquH2QeXA",
+        "description": "Uncrewed speedboats built by BlackSea Technologies have been patrolling in support of Operation Epic Fury, the Pentagon said Thursday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T22:43:17Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Iran offers Spain Hormuz access in first such EU overture",
@@ -1616,22 +1625,13 @@
         "sourceCount": "73 sources"
       },
       {
-        "title": "Pentagon confirms first use of drone boats in Iran conflict",
-        "url": "https://www.perplexity.ai/page/pentagon-confirms-first-use-of-i8GXD5U1TlebTfquH2QeXA",
-        "description": "Uncrewed speedboats built by BlackSea Technologies have been patrolling in support of Operation Epic Fury, the Pentagon said Thursday.",
+        "title": "Trump pushes back on report he wants speedy Iran deal",
+        "url": "https://www.perplexity.ai/page/trump-pushes-back-on-report-he-BLU.r9QhSiCg_QeVzcTK7w",
+        "description": "At a Thursday cabinet meeting, the president called The Wall Street Journal \"terrible\" and said Iran, not the U.S., is the side seeking a resolution.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-26T22:43:17Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Trump's signature to appear on US currency, ending 165-year tradition",
-        "url": "https://www.perplexity.ai/page/trump-s-signature-to-appear-on-iPaKhY5dRo6W0U2D8XUnfw",
-        "description": "The Treasury Department said $100 bills with the president's name will begin printing in June, replacing the Treasurer's signature for the first time since 1861.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T22:11:46Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-26T22:48:43Z",
+        "sourceCount": "36 sources"
       },
       {
         "title": "US senators introduce bill to sanction Hungary over Ukraine aid blockade",
