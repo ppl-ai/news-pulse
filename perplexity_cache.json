@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "House GOP blocks Senate DHS deal, pushes 60-day bill",
+      "url": "https://www.perplexity.ai/page/house-gop-blocks-senate-dhs-de-CYzqmpirSBibEuUURNewKw",
+      "description": "Speaker Johnson sided with the Freedom Caucus to advance a short-term funding measure, extending the 42-day partial shutdown.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T16:49:19Z",
+      "sourceCount": "74 sources"
+    },
+    {
       "title": "Controllers say LaGuardia needed more staff night of deadly crash",
       "url": "https://www.perplexity.ai/page/controllers-say-laguardia-need-xhr3_v7FSPiuayKW3xE3ww",
       "description": "Six air traffic controllers told Reuters the airport's workload on March 22 warranted additional staffing before the fatal collision.",
@@ -118,13 +127,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Senate votes to fund most of DHS, excluding ICE",
-      "url": "https://www.perplexity.ai/page/senate-votes-to-fund-most-of-d-25WcociUTWeuB41BqKciXQ",
-      "description": "The bill, passed by voice vote after a 42-day partial shutdown, now heads to the House, where its path remains uncertain.",
+      "title": "China launches two trade barrier probes against U.S.",
+      "url": "https://www.perplexity.ai/page/china-launches-two-trade-barri-FCVTjKWxTlKKGXY6yirhHg",
+      "description": "Beijing's Commerce Ministry opened investigations into U.S. supply chain disruptions and green trade restrictions, retaliating against Washington's Section 301 probes.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-27T10:03:38Z",
-      "sourceCount": "26 sources"
+      "pubDate": "2026-03-27T08:30:19Z",
+      "sourceCount": "63 sources"
     },
     {
       "title": "Rubio presses G7 allies on Iran as Europeans hold firm on Ukraine",
@@ -136,21 +145,21 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "China launches two trade barrier probes against U.S.",
-      "url": "https://www.perplexity.ai/page/china-launches-two-trade-barri-FCVTjKWxTlKKGXY6yirhHg",
-      "description": "Beijing's Commerce Ministry opened investigations into U.S. supply chain disruptions and green trade restrictions, retaliating against Washington's Section 301 probes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T08:30:19Z",
-      "sourceCount": "63 sources"
-    },
-    {
       "title": "US has lost at least 16 aircraft in Iran war as losses mount",
       "url": "https://www.perplexity.ai/page/us-has-lost-at-least-16-aircra-c2Ay8bCUTjKuegb9RQB1kA",
       "description": "The toll includes an F-35A damaged by Iranian ground fire on March 19 — the first time the stealth jet has been struck by enemy fire.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-27T02:18:45Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "China boycotts top AI conference over US sanctions ban",
+      "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
+      "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T08:10:33Z",
       "sourceCount": "25 sources"
     },
     {
@@ -161,15 +170,6 @@
       "topic": "top",
       "pubDate": "2026-03-27T00:24:35Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "China boycotts top AI conference over US sanctions ban",
-      "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
-      "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T08:10:33Z",
-      "sourceCount": "25 sources"
     },
     {
       "title": "Iran claims 1 million fighters ready for US ground invasion",
@@ -1351,9 +1351,18 @@
       "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-03-27T17:14:18Z",
+  "cached_at": "2026-03-27T17:37:09Z",
   "topics": {
     "top": [
+      {
+        "title": "House GOP blocks Senate DHS deal, pushes 60-day bill",
+        "url": "https://www.perplexity.ai/page/house-gop-blocks-senate-dhs-de-CYzqmpirSBibEuUURNewKw",
+        "description": "Speaker Johnson sided with the Freedom Caucus to advance a short-term funding measure, extending the 42-day partial shutdown.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T16:49:19Z",
+        "sourceCount": "74 sources"
+      },
       {
         "title": "Controllers say LaGuardia needed more staff night of deadly crash",
         "url": "https://www.perplexity.ai/page/controllers-say-laguardia-need-xhr3_v7FSPiuayKW3xE3ww",
@@ -1472,13 +1481,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Senate votes to fund most of DHS, excluding ICE",
-        "url": "https://www.perplexity.ai/page/senate-votes-to-fund-most-of-d-25WcociUTWeuB41BqKciXQ",
-        "description": "The bill, passed by voice vote after a 42-day partial shutdown, now heads to the House, where its path remains uncertain.",
+        "title": "China launches two trade barrier probes against U.S.",
+        "url": "https://www.perplexity.ai/page/china-launches-two-trade-barri-FCVTjKWxTlKKGXY6yirhHg",
+        "description": "Beijing's Commerce Ministry opened investigations into U.S. supply chain disruptions and green trade restrictions, retaliating against Washington's Section 301 probes.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-27T10:03:38Z",
-        "sourceCount": "26 sources"
+        "pubDate": "2026-03-27T08:30:19Z",
+        "sourceCount": "63 sources"
       },
       {
         "title": "Rubio presses G7 allies on Iran as Europeans hold firm on Ukraine",
@@ -1490,21 +1499,21 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "China launches two trade barrier probes against U.S.",
-        "url": "https://www.perplexity.ai/page/china-launches-two-trade-barri-FCVTjKWxTlKKGXY6yirhHg",
-        "description": "Beijing's Commerce Ministry opened investigations into U.S. supply chain disruptions and green trade restrictions, retaliating against Washington's Section 301 probes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T08:30:19Z",
-        "sourceCount": "63 sources"
-      },
-      {
         "title": "US has lost at least 16 aircraft in Iran war as losses mount",
         "url": "https://www.perplexity.ai/page/us-has-lost-at-least-16-aircra-c2Ay8bCUTjKuegb9RQB1kA",
         "description": "The toll includes an F-35A damaged by Iranian ground fire on March 19 — the first time the stealth jet has been struck by enemy fire.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-27T02:18:45Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "China boycotts top AI conference over US sanctions ban",
+        "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
+        "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T08:10:33Z",
         "sourceCount": "25 sources"
       },
       {
@@ -1515,15 +1524,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T00:24:35Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "China boycotts top AI conference over US sanctions ban",
-        "url": "https://www.perplexity.ai/page/china-boycotts-top-ai-conferen-WKoWNHEaRj.uJwDF14oOmQ",
-        "description": "CAST said Friday it will redirect researchers away from NeurIPS after the conference barred submissions from US-sanctioned entities.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T08:10:33Z",
-        "sourceCount": "25 sources"
       },
       {
         "title": "Iran claims 1 million fighters ready for US ground invasion",
