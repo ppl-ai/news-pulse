@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Leiden scientists 3D-print microrobots that swim without a brain",
+      "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
+      "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T06:20:04Z",
+      "sourceCount": "23 sources"
+    },
+    {
+      "title": "ASU method maps protein motion in hours, not months",
+      "url": "https://www.perplexity.ai/page/asu-method-maps-protein-motion-wizaJDRWSSWLHT7XUKMENw",
+      "description": "Published in Science Advances, the technique could accelerate drug design by revealing how proteins shift between functional shapes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T06:07:12Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "IAEA says no radiation risk after strikes hit Iranian nuclear sites",
       "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-risk-af-q72qwyvAT1euNMkTGzoHnw",
       "description": "The agency confirmed Khondab and Khuzestan facilities were struck but contained no risk, even as warnings over Bushehr intensified.",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-24T19:37:34Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
-      "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
-      "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T17:59:26Z",
-      "sourceCount": "26 sources"
-    },
-    {
-      "title": "NASA cancels Lunar Gateway, will build $20B moon base",
-      "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
-      "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T17:17:22Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-28T06:00:21Z",
+  "cached_at": "2026-03-28T06:31:10Z",
   "topics": {
     "top": [
+      {
+        "title": "Leiden scientists 3D-print microrobots that swim without a brain",
+        "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
+        "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T06:20:04Z",
+        "sourceCount": "23 sources"
+      },
+      {
+        "title": "ASU method maps protein motion in hours, not months",
+        "url": "https://www.perplexity.ai/page/asu-method-maps-protein-motion-wizaJDRWSSWLHT7XUKMENw",
+        "description": "Published in Science Advances, the technique could accelerate drug design by revealing how proteins shift between functional shapes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T06:07:12Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "IAEA says no radiation risk after strikes hit Iranian nuclear sites",
         "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-risk-af-q72qwyvAT1euNMkTGzoHnw",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T19:37:34Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Iran war drives fertilizer costs higher as U.S. planting season nears",
-        "url": "https://www.perplexity.ai/page/iran-war-drives-fertilizer-cos-fPsi0BiFRWiIQrsmy1k37A",
-        "description": "Surging nitrogen prices, supplier shortages, and Strait of Hormuz disruptions are compounding years of losses for American grain farmers.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T17:59:26Z",
-        "sourceCount": "26 sources"
-      },
-      {
-        "title": "NASA cancels Lunar Gateway, will build $20B moon base",
-        "url": "https://www.perplexity.ai/page/nasa-cancels-lunar-gateway-wil-OO_uNN_gQQOL88nunEcErQ",
-        "description": "Administrator Jared Isaacman said the agency will repurpose the orbital station's components for a permanent lunar surface base over seven years.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T17:17:22Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
