@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NeurIPS reverses ban on Chinese researchers after boycott threat",
+      "url": "https://www.perplexity.ai/page/neurips-reverses-ban-on-chines-hXv1FNU1RPmvgEdVYuu1Fg",
+      "description": "The top AI conference apologized Friday, saying the broad sanctions policy was a mistake, after China's academic bodies urged a full boycott.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T16:19:18Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "NASA days from launching first crewed moon mission since 1972",
       "url": "https://www.perplexity.ai/page/nasa-days-from-launching-first-3guZV5DeTn2c9EIOCLsVOw",
       "description": "Artemis 2 is set to lift off April 1, while a nuclear-powered Mars spacecraft announced last week targets a December 2028 departure.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-24T22:23:46Z",
       "sourceCount": "20 sources"
-    },
-    {
-      "title": "Moldova declares 60-day energy emergency after Russian strikes sever key power line",
-      "url": "https://www.perplexity.ai/page/moldova-declares-60-day-energy-5tIJjwVHSqC4wn1bAj3ucA",
-      "description": "Parliament voted 72-0 to impose the emergency after overnight drone strikes on Ukraine knocked out the line supplying up to 70% of Moldova's electricity.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T21:55:54Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-28T16:17:06Z",
+  "cached_at": "2026-03-28T16:35:08Z",
   "topics": {
     "top": [
+      {
+        "title": "NeurIPS reverses ban on Chinese researchers after boycott threat",
+        "url": "https://www.perplexity.ai/page/neurips-reverses-ban-on-chines-hXv1FNU1RPmvgEdVYuu1Fg",
+        "description": "The top AI conference apologized Friday, saying the broad sanctions policy was a mistake, after China's academic bodies urged a full boycott.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T16:19:18Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "NASA days from launching first crewed moon mission since 1972",
         "url": "https://www.perplexity.ai/page/nasa-days-from-launching-first-3guZV5DeTn2c9EIOCLsVOw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T22:23:46Z",
         "sourceCount": "20 sources"
-      },
-      {
-        "title": "Moldova declares 60-day energy emergency after Russian strikes sever key power line",
-        "url": "https://www.perplexity.ai/page/moldova-declares-60-day-energy-5tIJjwVHSqC4wn1bAj3ucA",
-        "description": "Parliament voted 72-0 to impose the emergency after overnight drone strikes on Ukraine knocked out the line supplying up to 70% of Moldova's electricity.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T21:55:54Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
