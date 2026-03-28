@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "IAEA warns strikes near Iran’s Bushehr Plant risk radiological crisis",
+      "url": "https://www.perplexity.ai/page/iaea-warns-strikes-near-irans-U9NMdufNRbCqKt2ePqLoKw",
+      "description": "Iran confirmed a projectile hit the plant Friday with no damage, as the IAEA warned of a potential radiological accident affecting the region and beyond.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T01:19:28Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Medvedev warns nuclear conflict between Israel and Iran is now 'inevitable'",
       "url": "https://www.perplexity.ai/page/medvedev-warns-nuclear-conflic-jGuUm0UyRxmlK91ccBFaAw",
       "description": "Russia's deputy Security Council chairman blamed U.S. and Israeli military action for accelerating nuclear proliferation risks across the Middle East.",
@@ -469,13 +478,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Rubio presses G7 allies on Iran as Europeans hold firm on Ukraine",
-      "url": "https://www.perplexity.ai/page/rubio-presses-g7-allies-on-ira-GMZtfUGDSjSwXWWrcJxjmw",
-      "description": "Secretary of State Rubio arrived in France Friday urging allies to help reopen the Strait of Hormuz, but European partners prioritized Ukraine support.",
+      "title": "Ukraine, Saudi Arabia sign defense deal during Zelensky's surprise visit",
+      "url": "https://www.perplexity.ai/page/ukraine-saudi-arabia-sign-defe-Mm0SnsSUT1eS5kAaTYgCCw",
+      "description": "Kyiv is trading its battle-tested drone warfare expertise for advanced weapons and investment as both nations face Iranian-made threats.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-27T10:38:54Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-03-27T10:13:22Z",
+      "sourceCount": "24 sources"
     },
     {
       "title": "China launches two trade barrier probes against U.S.",
@@ -496,30 +505,12 @@
       "sourceCount": "25 sources"
     },
     {
-      "title": "Ukraine, Saudi Arabia sign defense deal during Zelensky's surprise visit",
-      "url": "https://www.perplexity.ai/page/ukraine-saudi-arabia-sign-defe-Mm0SnsSUT1eS5kAaTYgCCw",
-      "description": "Kyiv is trading its battle-tested drone warfare expertise for advanced weapons and investment as both nations face Iranian-made threats.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T10:13:22Z",
-      "sourceCount": "24 sources"
-    },
-    {
       "title": "Mediators say Iran never requested strike pause Trump cited",
       "url": "https://www.perplexity.ai/page/mediators-say-iran-never-reque-IqljSLhCRTyd8y_F0T.4cQ",
       "description": "President Trump extended the deadline for energy strikes to April 6, but mediators told the WSJ that Tehran made no such request.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-27T00:38:42Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Iran claims 1 million fighters ready for US ground invasion",
-      "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
-      "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T02:18:35Z",
       "sourceCount": "29 sources"
     },
     {
@@ -532,6 +523,15 @@
       "sourceCount": "53 sources"
     },
     {
+      "title": "Iran claims 1 million fighters ready for US ground invasion",
+      "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
+      "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T02:18:35Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Experts warn Iran war's environmental toll could persist for decades",
       "url": "https://www.perplexity.ai/page/experts-warn-iran-war-s-enviro-bbOi3GVCR9uKwhh8TZJwuw",
       "description": "Over 400 environmentally harmful incidents have been logged since the conflict began, with toxic pollution threatening air, water, and soil across the Gulf.",
@@ -539,15 +539,6 @@
       "topic": "top",
       "pubDate": "2026-03-27T00:13:56Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iranian hardliners push for nuclear weapon as war escalates",
-      "url": "https://www.perplexity.ai/page/iranian-hardliners-push-for-nu-A18UoN3sTj.hA_qkYWd0ew",
-      "description": "Reports say IRGC-aligned figures are urging Tehran to quit the Non-Proliferation Treaty after repeated strikes on Iran's atomic sites.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T23:45:23Z",
-      "sourceCount": "43 sources"
     },
     {
       "title": "UK pledges £100M more for Ukraine's air defenses",
@@ -1349,11 +1340,29 @@
       "topic": "top",
       "pubDate": "2026-03-24T17:17:22Z",
       "sourceCount": "27 sources"
+    },
+    {
+      "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
+      "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
+      "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T16:31:51Z",
+      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-28T01:26:35Z",
+  "cached_at": "2026-03-28T02:21:18Z",
   "topics": {
     "top": [
+      {
+        "title": "IAEA warns strikes near Iran’s Bushehr Plant risk radiological crisis",
+        "url": "https://www.perplexity.ai/page/iaea-warns-strikes-near-irans-U9NMdufNRbCqKt2ePqLoKw",
+        "description": "Iran confirmed a projectile hit the plant Friday with no damage, as the IAEA warned of a potential radiological accident affecting the region and beyond.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T01:19:28Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Medvedev warns nuclear conflict between Israel and Iran is now 'inevitable'",
         "url": "https://www.perplexity.ai/page/medvedev-warns-nuclear-conflic-jGuUm0UyRxmlK91ccBFaAw",
@@ -1823,13 +1832,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Rubio presses G7 allies on Iran as Europeans hold firm on Ukraine",
-        "url": "https://www.perplexity.ai/page/rubio-presses-g7-allies-on-ira-GMZtfUGDSjSwXWWrcJxjmw",
-        "description": "Secretary of State Rubio arrived in France Friday urging allies to help reopen the Strait of Hormuz, but European partners prioritized Ukraine support.",
+        "title": "Ukraine, Saudi Arabia sign defense deal during Zelensky's surprise visit",
+        "url": "https://www.perplexity.ai/page/ukraine-saudi-arabia-sign-defe-Mm0SnsSUT1eS5kAaTYgCCw",
+        "description": "Kyiv is trading its battle-tested drone warfare expertise for advanced weapons and investment as both nations face Iranian-made threats.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-27T10:38:54Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-03-27T10:13:22Z",
+        "sourceCount": "24 sources"
       },
       {
         "title": "China launches two trade barrier probes against U.S.",
@@ -1850,30 +1859,12 @@
         "sourceCount": "25 sources"
       },
       {
-        "title": "Ukraine, Saudi Arabia sign defense deal during Zelensky's surprise visit",
-        "url": "https://www.perplexity.ai/page/ukraine-saudi-arabia-sign-defe-Mm0SnsSUT1eS5kAaTYgCCw",
-        "description": "Kyiv is trading its battle-tested drone warfare expertise for advanced weapons and investment as both nations face Iranian-made threats.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T10:13:22Z",
-        "sourceCount": "24 sources"
-      },
-      {
         "title": "Mediators say Iran never requested strike pause Trump cited",
         "url": "https://www.perplexity.ai/page/mediators-say-iran-never-reque-IqljSLhCRTyd8y_F0T.4cQ",
         "description": "President Trump extended the deadline for energy strikes to April 6, but mediators told the WSJ that Tehran made no such request.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-27T00:38:42Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Iran claims 1 million fighters ready for US ground invasion",
-        "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
-        "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T02:18:35Z",
         "sourceCount": "29 sources"
       },
       {
@@ -1886,6 +1877,15 @@
         "sourceCount": "53 sources"
       },
       {
+        "title": "Iran claims 1 million fighters ready for US ground invasion",
+        "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
+        "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T02:18:35Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Experts warn Iran war's environmental toll could persist for decades",
         "url": "https://www.perplexity.ai/page/experts-warn-iran-war-s-enviro-bbOi3GVCR9uKwhh8TZJwuw",
         "description": "Over 400 environmentally harmful incidents have been logged since the conflict began, with toxic pollution threatening air, water, and soil across the Gulf.",
@@ -1893,15 +1893,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T00:13:56Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iranian hardliners push for nuclear weapon as war escalates",
-        "url": "https://www.perplexity.ai/page/iranian-hardliners-push-for-nu-A18UoN3sTj.hA_qkYWd0ew",
-        "description": "Reports say IRGC-aligned figures are urging Tehran to quit the Non-Proliferation Treaty after repeated strikes on Iran's atomic sites.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T23:45:23Z",
-        "sourceCount": "43 sources"
       },
       {
         "title": "UK pledges £100M more for Ukraine's air defenses",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-24T17:17:22Z",
         "sourceCount": "27 sources"
+      },
+      {
+        "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
+        "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
+        "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T16:31:51Z",
+        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
