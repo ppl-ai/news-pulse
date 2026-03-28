@@ -64,25 +64,7 @@
       "sourceCount": "13 sources"
     },
     {
-      "title": "Leiden scientists 3D-print microrobots that swim without a brain",
-      "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
-      "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T06:20:04Z",
-      "sourceCount": "23 sources"
-    },
-    {
-      "title": "ASU method maps protein motion in hours, not months",
-      "url": "https://www.perplexity.ai/page/asu-method-maps-protein-motion-wizaJDRWSSWLHT7XUKMENw",
-      "description": "Published in Science Advances, the technique could accelerate drug design by revealing how proteins shift between functional shapes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T06:07:12Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "IAEA says no radiation risk after strikes hit Iranian nuclear sites",
+      "title": "IAEA says no radiation risk after strikes hit Iranian facilities",
       "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-risk-af-q72qwyvAT1euNMkTGzoHnw",
       "description": "The agency confirmed Khondab and Khuzestan facilities were struck but contained no risk, even as warnings over Bushehr intensified.",
       "source": "Perplexity",
@@ -1349,9 +1331,27 @@
       "topic": "top",
       "pubDate": "2026-03-24T22:23:46Z",
       "sourceCount": "20 sources"
+    },
+    {
+      "title": "Moldova declares 60-day energy emergency after Russian strikes sever key power line",
+      "url": "https://www.perplexity.ai/page/moldova-declares-60-day-energy-5tIJjwVHSqC4wn1bAj3ucA",
+      "description": "Parliament voted 72-0 to impose the emergency after overnight drone strikes on Ukraine knocked out the line supplying up to 70% of Moldova's electricity.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T21:55:54Z",
+      "sourceCount": "14 sources"
+    },
+    {
+      "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
+      "url": "https://www.perplexity.ai/page/hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
+      "description": "Israel's military estimates the Iranian-backed group retains between 11,000 and 13,000 missiles and rockets, down from roughly 75,000 before October 2023.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T22:11:30Z",
+      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-28T16:35:08Z",
+  "cached_at": "2026-03-28T16:52:46Z",
   "topics": {
     "top": [
       {
@@ -1418,25 +1418,7 @@
         "sourceCount": "13 sources"
       },
       {
-        "title": "Leiden scientists 3D-print microrobots that swim without a brain",
-        "url": "https://www.perplexity.ai/page/leiden-scientists-3d-print-mic-qQ6_q7PBT.K.020eA0H_BA",
-        "description": "The chain-like robots navigate obstacles and adapt to surroundings using only their physical shape — no sensors, software, or electronics required.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T06:20:04Z",
-        "sourceCount": "23 sources"
-      },
-      {
-        "title": "ASU method maps protein motion in hours, not months",
-        "url": "https://www.perplexity.ai/page/asu-method-maps-protein-motion-wizaJDRWSSWLHT7XUKMENw",
-        "description": "Published in Science Advances, the technique could accelerate drug design by revealing how proteins shift between functional shapes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T06:07:12Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "IAEA says no radiation risk after strikes hit Iranian nuclear sites",
+        "title": "IAEA says no radiation risk after strikes hit Iranian facilities",
         "url": "https://www.perplexity.ai/page/iaea-says-no-radiation-risk-af-q72qwyvAT1euNMkTGzoHnw",
         "description": "The agency confirmed Khondab and Khuzestan facilities were struck but contained no risk, even as warnings over Bushehr intensified.",
         "source": "Perplexity",
@@ -2703,6 +2685,24 @@
         "topic": "top",
         "pubDate": "2026-03-24T22:23:46Z",
         "sourceCount": "20 sources"
+      },
+      {
+        "title": "Moldova declares 60-day energy emergency after Russian strikes sever key power line",
+        "url": "https://www.perplexity.ai/page/moldova-declares-60-day-energy-5tIJjwVHSqC4wn1bAj3ucA",
+        "description": "Parliament voted 72-0 to impose the emergency after overnight drone strikes on Ukraine knocked out the line supplying up to 70% of Moldova's electricity.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T21:55:54Z",
+        "sourceCount": "14 sources"
+      },
+      {
+        "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
+        "url": "https://www.perplexity.ai/page/hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
+        "description": "Israel's military estimates the Iranian-backed group retains between 11,000 and 13,000 missiles and rockets, down from roughly 75,000 before October 2023.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T22:11:30Z",
+        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
