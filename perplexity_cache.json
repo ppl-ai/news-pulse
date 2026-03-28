@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran war wipes $11.5 trillion from global markets in one month",
+      "url": "https://www.perplexity.ai/page/iran-war-wipes-11-5-trillion-f-YUwCjPqXT62X1yJhnWvyLg",
+      "description": "The conflict's closure of the Strait of Hormuz has sent oil prices surging roughly 45% and left investors with few safe havens.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T09:37:17Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Japan's Kikai supervolcano is refilling with magma, study finds",
       "url": "https://www.perplexity.ai/page/japan-s-kikai-supervolcano-is-wf4wN.3MSqG5070uHUQQKA",
       "description": "Researchers mapped a 220-cubic-kilometer magma reservoir beneath the caldera that produced the Holocene's largest eruption 7,300 years ago.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-24T19:42:57Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Brazil court places Bolsonaro under house arrest on health grounds",
-      "url": "https://www.perplexity.ai/page/brazil-court-places-bolsonaro-2EFPRdWxQ2elNK6V6VBV5g",
-      "description": "Justice Alexandre de Moraes reversed months of denials, granting a 90-day house arrest after the ex-president was hospitalized with severe pneumonia.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T19:37:34Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-28T09:38:56Z",
+  "cached_at": "2026-03-28T09:56:00Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran war wipes $11.5 trillion from global markets in one month",
+        "url": "https://www.perplexity.ai/page/iran-war-wipes-11-5-trillion-f-YUwCjPqXT62X1yJhnWvyLg",
+        "description": "The conflict's closure of the Strait of Hormuz has sent oil prices surging roughly 45% and left investors with few safe havens.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T09:37:17Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Japan's Kikai supervolcano is refilling with magma, study finds",
         "url": "https://www.perplexity.ai/page/japan-s-kikai-supervolcano-is-wf4wN.3MSqG5070uHUQQKA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T19:42:57Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Brazil court places Bolsonaro under house arrest on health grounds",
-        "url": "https://www.perplexity.ai/page/brazil-court-places-bolsonaro-2EFPRdWxQ2elNK6V6VBV5g",
-        "description": "Justice Alexandre de Moraes reversed months of denials, granting a 90-day house arrest after the ex-president was hospitalized with severe pneumonia.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T19:37:34Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
