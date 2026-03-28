@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "China launches world's first floating deep-sea research island in Shanghai",
+      "url": "https://www.perplexity.ai/page/china-launches-world-s-first-f-5FFZmVSrSA2jy89FlxjMlA",
+      "description": "The 78,000-tonne platform, developed by Shanghai Jiao Tong University, comes as a Reuters probe reveals extensive Chinese seabed mapping near U.S. military sites.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T20:18:54Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
       "url": "https://www.perplexity.ai/page/rosatom-says-bushehr-nuclear-p-cLrMVv2HSxmtE0Wkz6jI0g",
       "description": "Russia's state nuclear agency warned Saturday that conditions at Iran's only operational nuclear power plant continue to deteriorate amid repeated attacks.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T00:19:26Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Netanyahu taps top aide Dermer to vet US-Iran deal",
-      "url": "https://www.perplexity.ai/page/netanyahu-taps-top-aide-dermer-Vt5S.zf3Q5KGRF8V6GsQTw",
-      "description": "Ron Dermer's mission focuses on ensuring Iran's nuclear program is dismantled and its enriched uranium stockpile eliminated, according to Bloomberg.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T00:13:29Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-03-28T20:13:47Z",
+  "cached_at": "2026-03-28T20:30:38Z",
   "topics": {
     "top": [
+      {
+        "title": "China launches world's first floating deep-sea research island in Shanghai",
+        "url": "https://www.perplexity.ai/page/china-launches-world-s-first-f-5FFZmVSrSA2jy89FlxjMlA",
+        "description": "The 78,000-tonne platform, developed by Shanghai Jiao Tong University, comes as a Reuters probe reveals extensive Chinese seabed mapping near U.S. military sites.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T20:18:54Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
         "url": "https://www.perplexity.ai/page/rosatom-says-bushehr-nuclear-p-cLrMVv2HSxmtE0Wkz6jI0g",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T00:19:26Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Netanyahu taps top aide Dermer to vet US-Iran deal",
-        "url": "https://www.perplexity.ai/page/netanyahu-taps-top-aide-dermer-Vt5S.zf3Q5KGRF8V6GsQTw",
-        "description": "Ron Dermer's mission focuses on ensuring Iran's nuclear program is dismantled and its enriched uranium stockpile eliminated, according to Bloomberg.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T00:13:29Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
