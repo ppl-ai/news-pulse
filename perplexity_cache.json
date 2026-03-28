@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Alaska's coastal ice season has shrunk by weeks, study finds",
+      "url": "https://www.perplexity.ai/page/alaska-s-coastal-ice-season-ha-UIsHsq6mSSmeC2X.NkDKjg",
+      "description": "Landfast ice along Alaska's northern shore is forming later and lasting shorter each year, with the Beaufort Sea now joining a decades-long decline.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T21:21:57Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
       "url": "https://www.perplexity.ai/page/rosatom-says-bushehr-nuclear-p-cLrMVv2HSxmtE0Wkz6jI0g",
       "description": "Russia's state nuclear agency warned Saturday that conditions at Iran's only operational nuclear power plant continue to deteriorate amid repeated attacks.",
@@ -8,6 +17,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T19:52:36Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "WHO says nine paramedics killed in southern Lebanon",
+      "url": "https://www.perplexity.ai/page/who-says-nine-paramedics-kille-rFhH5F10TXmgkE5k_dPhQA",
+      "description": "Saturday's strikes across five villages bring the health worker death toll to 51 since fighting escalated on March 2, the WHO says.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T19:43:12Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Drone strike hits Kurdistan president's home in Duhok",
@@ -100,22 +118,13 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Israel strikes kill paramedics, journalists as Lebanon crisis deepens",
-      "url": "https://www.perplexity.ai/page/israel-strikes-kill-paramedics-QS3B34EmSI2aZgGwBk2a9A",
-      "description": "Israeli attacks on ambulances and media workers drew international condemnation as the UN warned over 1.2 million people have been displaced.",
+      "title": "USS Gerald R. Ford arrives in Croatia for repairs after Red Sea fire",
+      "url": "https://www.perplexity.ai/page/uss-gerald-r-ford-arrives-in-c-mEcAQbLjRtGWN_YAmntL6g",
+      "description": "The carrier anchored in Split on Saturday after a laundry room fire injured sailors and displaced hundreds during its nine-month deployment.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-28T14:18:33Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Border Patrol agent indicted for strangling handcuffed detainee",
-      "url": "https://www.perplexity.ai/page/border-patrol-agent-indicted-f-KQPO8F_hRH.Eq5gcKWaABw",
-      "description": "Eduardo Prat also faces a charge for allegedly concealing body camera footage of the 2023 assault in southern New Mexico.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T13:29:40Z",
-      "sourceCount": "19 sources"
+      "pubDate": "2026-03-28T13:23:22Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Israeli airstrike kills three journalists in southern Lebanon",
@@ -127,33 +136,6 @@
       "sourceCount": "53 sources"
     },
     {
-      "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
-      "url": "https://www.perplexity.ai/page/trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
-      "description": "The president is considering a \"pay-to-play\" model that could exclude allies spending less than 5% of GDP on defense from key decisions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T13:08:49Z",
-      "sourceCount": "58 sources"
-    },
-    {
-      "title": "USS Gerald R. Ford arrives in Croatia for repairs after Red Sea fire",
-      "url": "https://www.perplexity.ai/page/uss-gerald-r-ford-arrives-in-c-mEcAQbLjRtGWN_YAmntL6g",
-      "description": "The carrier anchored in Split on Saturday after a laundry room fire injured sailors and displaced hundreds during its nine-month deployment.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T13:23:22Z",
-      "sourceCount": "27 sources"
-    },
-    {
-      "title": "Houthis fire missiles at Israel, warn of Red Sea blockade",
-      "url": "https://www.perplexity.ai/page/houthis-fire-missiles-at-israe-q.eRTC4STwaz0bKT66RPgg",
-      "description": "Yemen's Houthi rebels launched their first attack on Israel since the month-old Middle East war began, threatening to close the Bab el-Mandeb Strait.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T13:14:03Z",
-      "sourceCount": "44 sources"
-    },
-    {
       "title": "Supreme Court to hear birthright citizenship case Wednesday",
       "url": "https://www.perplexity.ai/page/supreme-court-to-hear-birthrig-MXzRqcxASIuuGjAlxv88Qg",
       "description": "The justices will weigh whether Trump's executive order denying automatic citizenship to some U.S.-born children violates the 14th Amendment.",
@@ -161,15 +143,6 @@
       "topic": "top",
       "pubDate": "2026-03-28T13:14:27Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "IRGC claims US Marines killed in strike on Kuwait",
-      "url": "https://www.perplexity.ai/page/irgc-claims-us-marines-killed-lp67uFnyTxu_Vy4z53h1zg",
-      "description": "Iran says its forces hit American positions on Bubiyan Island with drones and missiles, but the Pentagon has not confirmed casualties.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T11:43:37Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Explosion hits near Erbil airport as Kurdistan attacks persist",
@@ -181,12 +154,57 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "IRGC claims US Marines killed in strike on Kuwait",
+      "url": "https://www.perplexity.ai/page/irgc-claims-us-marines-killed-lp67uFnyTxu_Vy4z53h1zg",
+      "description": "Iran says its forces hit American positions on Bubiyan Island with drones and missiles, but the Pentagon has not confirmed casualties.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T11:43:37Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Border Patrol agent indicted for strangling handcuffed detainee",
+      "url": "https://www.perplexity.ai/page/border-patrol-agent-indicted-f-KQPO8F_hRH.Eq5gcKWaABw",
+      "description": "Eduardo Prat also faces a charge for allegedly concealing body camera footage of the 2023 assault in southern New Mexico.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T13:29:40Z",
+      "sourceCount": "19 sources"
+    },
+    {
+      "title": "Houthis fire missiles at Israel, warn of Red Sea blockade",
+      "url": "https://www.perplexity.ai/page/houthis-fire-missiles-at-israe-q.eRTC4STwaz0bKT66RPgg",
+      "description": "Yemen's Houthi rebels launched their first attack on Israel since the month-old Middle East war began, threatening to close the Bab el-Mandeb Strait.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T13:14:03Z",
+      "sourceCount": "44 sources"
+    },
+    {
+      "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
+      "url": "https://www.perplexity.ai/page/trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
+      "description": "The president is considering a \"pay-to-play\" model that could exclude allies spending less than 5% of GDP on defense from key decisions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T13:08:49Z",
+      "sourceCount": "58 sources"
+    },
+    {
       "title": "Judge dismisses DOJ suit over Minnesota tuition for undocumented students",
       "url": "https://www.perplexity.ai/page/judge-dismisses-doj-suit-over-A1Y2sX42SL.ppFa54mtwoA",
       "description": "The ruling found the federal government misread a 1996 law and failed to prove the programs discriminated against U.S. citizens.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-03-28T13:08:47Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
+      "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
+      "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T11:20:29Z",
       "sourceCount": "25 sources"
     },
     {
@@ -208,13 +226,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
-      "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
-      "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
+      "title": "Debris from intercepted Iranian missile injures 5 in Abu Dhabi",
+      "url": "https://www.perplexity.ai/page/debris-from-intercepted-irania-aIf4Sh9zRJepk2ZJso.0fQ",
+      "description": "The UAE has now intercepted 378 ballistic missiles, 15 cruise missiles, and 1,835 drones since Iran began strikes on Feb. 28.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-28T11:20:29Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-03-28T11:08:13Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Japan backs US deep sea mining push in new pact",
@@ -224,15 +242,6 @@
       "topic": "top",
       "pubDate": "2026-03-28T11:09:56Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Debris from intercepted Iranian missile injures 5 in Abu Dhabi",
-      "url": "https://www.perplexity.ai/page/debris-from-intercepted-irania-aIf4Sh9zRJepk2ZJso.0fQ",
-      "description": "The UAE has now intercepted 378 ballistic missiles, 15 cruise missiles, and 1,835 drones since Iran began strikes on Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T11:08:13Z",
-      "sourceCount": "38 sources"
     },
     {
       "title": "Judge drops charges against officers in Breonna Taylor case",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T12:23:04Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "US airstrikes kill 15 Iraq PMF fighters, including Anbar commander",
-      "url": "https://www.perplexity.ai/page/us-airstrikes-kill-15-iraq-pmf-eA1FDbkrTXq0Gszv3XiEqA",
-      "description": "The deadliest single strike since the US-Israeli war on Iran began also targeted PMF leader Falih al-Fayadh's residence in a separate attack.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T00:19:26Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-03-28T21:16:16Z",
+  "cached_at": "2026-03-28T21:33:25Z",
   "topics": {
     "top": [
+      {
+        "title": "Alaska's coastal ice season has shrunk by weeks, study finds",
+        "url": "https://www.perplexity.ai/page/alaska-s-coastal-ice-season-ha-UIsHsq6mSSmeC2X.NkDKjg",
+        "description": "Landfast ice along Alaska's northern shore is forming later and lasting shorter each year, with the Beaufort Sea now joining a decades-long decline.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T21:21:57Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
         "url": "https://www.perplexity.ai/page/rosatom-says-bushehr-nuclear-p-cLrMVv2HSxmtE0Wkz6jI0g",
@@ -1362,6 +1371,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T19:52:36Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "WHO says nine paramedics killed in southern Lebanon",
+        "url": "https://www.perplexity.ai/page/who-says-nine-paramedics-kille-rFhH5F10TXmgkE5k_dPhQA",
+        "description": "Saturday's strikes across five villages bring the health worker death toll to 51 since fighting escalated on March 2, the WHO says.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T19:43:12Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Drone strike hits Kurdistan president's home in Duhok",
@@ -1454,22 +1472,13 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Israel strikes kill paramedics, journalists as Lebanon crisis deepens",
-        "url": "https://www.perplexity.ai/page/israel-strikes-kill-paramedics-QS3B34EmSI2aZgGwBk2a9A",
-        "description": "Israeli attacks on ambulances and media workers drew international condemnation as the UN warned over 1.2 million people have been displaced.",
+        "title": "USS Gerald R. Ford arrives in Croatia for repairs after Red Sea fire",
+        "url": "https://www.perplexity.ai/page/uss-gerald-r-ford-arrives-in-c-mEcAQbLjRtGWN_YAmntL6g",
+        "description": "The carrier anchored in Split on Saturday after a laundry room fire injured sailors and displaced hundreds during its nine-month deployment.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-28T14:18:33Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Border Patrol agent indicted for strangling handcuffed detainee",
-        "url": "https://www.perplexity.ai/page/border-patrol-agent-indicted-f-KQPO8F_hRH.Eq5gcKWaABw",
-        "description": "Eduardo Prat also faces a charge for allegedly concealing body camera footage of the 2023 assault in southern New Mexico.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T13:29:40Z",
-        "sourceCount": "19 sources"
+        "pubDate": "2026-03-28T13:23:22Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Israeli airstrike kills three journalists in southern Lebanon",
@@ -1481,33 +1490,6 @@
         "sourceCount": "53 sources"
       },
       {
-        "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
-        "url": "https://www.perplexity.ai/page/trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
-        "description": "The president is considering a \"pay-to-play\" model that could exclude allies spending less than 5% of GDP on defense from key decisions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T13:08:49Z",
-        "sourceCount": "58 sources"
-      },
-      {
-        "title": "USS Gerald R. Ford arrives in Croatia for repairs after Red Sea fire",
-        "url": "https://www.perplexity.ai/page/uss-gerald-r-ford-arrives-in-c-mEcAQbLjRtGWN_YAmntL6g",
-        "description": "The carrier anchored in Split on Saturday after a laundry room fire injured sailors and displaced hundreds during its nine-month deployment.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T13:23:22Z",
-        "sourceCount": "27 sources"
-      },
-      {
-        "title": "Houthis fire missiles at Israel, warn of Red Sea blockade",
-        "url": "https://www.perplexity.ai/page/houthis-fire-missiles-at-israe-q.eRTC4STwaz0bKT66RPgg",
-        "description": "Yemen's Houthi rebels launched their first attack on Israel since the month-old Middle East war began, threatening to close the Bab el-Mandeb Strait.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T13:14:03Z",
-        "sourceCount": "44 sources"
-      },
-      {
         "title": "Supreme Court to hear birthright citizenship case Wednesday",
         "url": "https://www.perplexity.ai/page/supreme-court-to-hear-birthrig-MXzRqcxASIuuGjAlxv88Qg",
         "description": "The justices will weigh whether Trump's executive order denying automatic citizenship to some U.S.-born children violates the 14th Amendment.",
@@ -1515,15 +1497,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T13:14:27Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "IRGC claims US Marines killed in strike on Kuwait",
-        "url": "https://www.perplexity.ai/page/irgc-claims-us-marines-killed-lp67uFnyTxu_Vy4z53h1zg",
-        "description": "Iran says its forces hit American positions on Bubiyan Island with drones and missiles, but the Pentagon has not confirmed casualties.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T11:43:37Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Explosion hits near Erbil airport as Kurdistan attacks persist",
@@ -1535,12 +1508,57 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "IRGC claims US Marines killed in strike on Kuwait",
+        "url": "https://www.perplexity.ai/page/irgc-claims-us-marines-killed-lp67uFnyTxu_Vy4z53h1zg",
+        "description": "Iran says its forces hit American positions on Bubiyan Island with drones and missiles, but the Pentagon has not confirmed casualties.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T11:43:37Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Border Patrol agent indicted for strangling handcuffed detainee",
+        "url": "https://www.perplexity.ai/page/border-patrol-agent-indicted-f-KQPO8F_hRH.Eq5gcKWaABw",
+        "description": "Eduardo Prat also faces a charge for allegedly concealing body camera footage of the 2023 assault in southern New Mexico.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T13:29:40Z",
+        "sourceCount": "19 sources"
+      },
+      {
+        "title": "Houthis fire missiles at Israel, warn of Red Sea blockade",
+        "url": "https://www.perplexity.ai/page/houthis-fire-missiles-at-israe-q.eRTC4STwaz0bKT66RPgg",
+        "description": "Yemen's Houthi rebels launched their first attack on Israel since the month-old Middle East war began, threatening to close the Bab el-Mandeb Strait.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T13:14:03Z",
+        "sourceCount": "44 sources"
+      },
+      {
+        "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
+        "url": "https://www.perplexity.ai/page/trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
+        "description": "The president is considering a \"pay-to-play\" model that could exclude allies spending less than 5% of GDP on defense from key decisions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T13:08:49Z",
+        "sourceCount": "58 sources"
+      },
+      {
         "title": "Judge dismisses DOJ suit over Minnesota tuition for undocumented students",
         "url": "https://www.perplexity.ai/page/judge-dismisses-doj-suit-over-A1Y2sX42SL.ppFa54mtwoA",
         "description": "The ruling found the federal government misread a 1996 law and failed to prove the programs discriminated against U.S. citizens.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-28T13:08:47Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
+        "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
+        "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T11:20:29Z",
         "sourceCount": "25 sources"
       },
       {
@@ -1562,13 +1580,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
-        "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
-        "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
+        "title": "Debris from intercepted Iranian missile injures 5 in Abu Dhabi",
+        "url": "https://www.perplexity.ai/page/debris-from-intercepted-irania-aIf4Sh9zRJepk2ZJso.0fQ",
+        "description": "The UAE has now intercepted 378 ballistic missiles, 15 cruise missiles, and 1,835 drones since Iran began strikes on Feb. 28.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-28T11:20:29Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-03-28T11:08:13Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Japan backs US deep sea mining push in new pact",
@@ -1578,15 +1596,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T11:09:56Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Debris from intercepted Iranian missile injures 5 in Abu Dhabi",
-        "url": "https://www.perplexity.ai/page/debris-from-intercepted-irania-aIf4Sh9zRJepk2ZJso.0fQ",
-        "description": "The UAE has now intercepted 378 ballistic missiles, 15 cruise missiles, and 1,835 drones since Iran began strikes on Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T11:08:13Z",
-        "sourceCount": "38 sources"
       },
       {
         "title": "Judge drops charges against officers in Breonna Taylor case",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T12:23:04Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "US airstrikes kill 15 Iraq PMF fighters, including Anbar commander",
-        "url": "https://www.perplexity.ai/page/us-airstrikes-kill-15-iraq-pmf-eA1FDbkrTXq0Gszv3XiEqA",
-        "description": "The deadliest single strike since the US-Israeli war on Iran began also targeted PMF leader Falih al-Fayadh's residence in a separate attack.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T00:19:26Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
