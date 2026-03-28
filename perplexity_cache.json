@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump floats renaming Strait of Hormuz after himself",
+      "url": "https://www.perplexity.ai/page/trump-floats-renaming-strait-o-.THSPKHAQ4utiIlE9JKWCQ",
+      "description": "At a Saudi-backed investor summit in Miami Beach, the president jokingly called the contested waterway the \"Strait of Trump\" — but aides say the idea isn't entirely a joke.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T02:34:03Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "IAEA warns strikes near Iran’s Bushehr Plant risk radiological crisis",
       "url": "https://www.perplexity.ai/page/iaea-warns-strikes-near-irans-U9NMdufNRbCqKt2ePqLoKw",
       "description": "Iran confirmed a projectile hit the plant Friday with no damage, as the IAEA warned of a potential radiological accident affecting the region and beyond.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-24T17:17:22Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
-      "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
-      "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-24T16:31:51Z",
-      "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-03-28T02:21:18Z",
+  "cached_at": "2026-03-28T03:23:16Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump floats renaming Strait of Hormuz after himself",
+        "url": "https://www.perplexity.ai/page/trump-floats-renaming-strait-o-.THSPKHAQ4utiIlE9JKWCQ",
+        "description": "At a Saudi-backed investor summit in Miami Beach, the president jokingly called the contested waterway the \"Strait of Trump\" — but aides say the idea isn't entirely a joke.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T02:34:03Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "IAEA warns strikes near Iran’s Bushehr Plant risk radiological crisis",
         "url": "https://www.perplexity.ai/page/iaea-warns-strikes-near-irans-U9NMdufNRbCqKt2ePqLoKw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-24T17:17:22Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Pilots warned of LaGuardia hazards before deadly crash, CNN review finds",
-        "url": "https://www.perplexity.ai/page/pilots-warned-of-laguardia-haz-K6jtvLAQSIS06yITxC_4Gg",
-        "description": "A CNN review of two years of safety reports revealed repeated warnings about miscommunication and near-misses at the airport before Sunday's fatal collision.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-24T16:31:51Z",
-        "sourceCount": "30 sources"
       }
     ],
     "tech": [],
