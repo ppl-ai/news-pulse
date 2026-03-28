@@ -802,15 +802,6 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "Thai tanker crosses Strait of Hormuz fee-free after Tehran diplomacy",
-      "url": "https://www.perplexity.ai/page/thai-tanker-crosses-strait-of-7i66USfGQkCCp1RoEu8Yaw",
-      "description": "Bangchak Corporation's oil tanker safely transited the blockaded waterway Monday with no payment to Iran, Thai officials confirmed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T00:05:58Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "US kills four in 47th Caribbean boat strike since September",
       "url": "https://www.perplexity.ai/page/us-kills-four-in-47th-caribbea-0Ksu4ih_TCysVfbE9jtQoQ",
       "description": "Operation Southern Spear's death toll has reached roughly 163 as rights groups and victims' families challenge the legality of the campaign.",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-03-24T20:45:26Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Aid flotilla docks in Havana as US oil blockade deepens Cuba's crisis",
+      "url": "https://www.perplexity.ai/page/aid-flotilla-docks-in-havana-a-tA3L5BuGRrWS7nUPoUj3dQ",
+      "description": "The first vessel of the \"Our America Convoy\" delivered medical supplies, food, and solar panels, with two more ships expected this week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-24T19:42:57Z",
+      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-28T10:30:13Z",
+  "cached_at": "2026-03-28T10:49:25Z",
   "topics": {
     "top": [
       {
@@ -2156,15 +2156,6 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "Thai tanker crosses Strait of Hormuz fee-free after Tehran diplomacy",
-        "url": "https://www.perplexity.ai/page/thai-tanker-crosses-strait-of-7i66USfGQkCCp1RoEu8Yaw",
-        "description": "Bangchak Corporation's oil tanker safely transited the blockaded waterway Monday with no payment to Iran, Thai officials confirmed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T00:05:58Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "US kills four in 47th Caribbean boat strike since September",
         "url": "https://www.perplexity.ai/page/us-kills-four-in-47th-caribbea-0Ksu4ih_TCysVfbE9jtQoQ",
         "description": "Operation Southern Spear's death toll has reached roughly 163 as rights groups and victims' families challenge the legality of the campaign.",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-24T20:45:26Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Aid flotilla docks in Havana as US oil blockade deepens Cuba's crisis",
+        "url": "https://www.perplexity.ai/page/aid-flotilla-docks-in-havana-a-tA3L5BuGRrWS7nUPoUj3dQ",
+        "description": "The first vessel of the \"Our America Convoy\" delivered medical supplies, food, and solar panels, with two more ships expected this week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-24T19:42:57Z",
+        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
