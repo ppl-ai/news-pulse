@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "NASA begins final countdown for Artemis II moon launch",
+      "url": "https://www.perplexity.ai/page/nasa-begins-final-countdown-fo-okwndOamTUetRnrMI7tBUg",
+      "description": "Four astronauts are set to fly around the moon on April 1, the first crewed lunar voyage since Apollo 17 in 1972.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T19:23:17Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Netanyahu orders expansion of Israel's ground invasion in southern Lebanon",
       "url": "https://www.perplexity.ai/page/netanyahu-orders-expansion-of-y7szoOaxQ0ynlfhGhCN6yQ",
       "description": "The Israeli PM said the military will widen its \"security strip\" as fighting with Hezbollah enters a fourth week with over 1,100 dead.",
@@ -1036,15 +1045,6 @@
       "sourceCount": "23 sources"
     },
     {
-      "title": "Artemis 2 crew flies to Florida ahead of April 1 Moon launch",
-      "url": "https://www.perplexity.ai/page/artemis-2-crew-flies-to-florid-DsT0K.6YR.yvCmAAFkoRCA",
-      "description": "The four astronauts are set to arrive at Kennedy Space Center on Friday as final pad preparations continue for the first crewed lunar mission since Apollo.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T04:44:21Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Iran-backed FPV drones hit US helicopter, radar at Baghdad base",
       "url": "https://www.perplexity.ai/page/iran-backed-fpv-drones-hit-us-7g5GDaPDQsK1qDSibprfyg",
       "description": "Footage shows strikes on a Black Hawk and a NASAMS-linked radar at Victory Base, escalating cheap-drone threats to American forces in Iraq.",
@@ -1052,15 +1052,6 @@
       "topic": "top",
       "pubDate": "2026-03-26T03:08:48Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Census: U.S. metro growth slowed sharply as immigration declined",
-      "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
-      "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T09:10:12Z",
-      "sourceCount": "47 sources"
     },
     {
       "title": "Iran demands Lebanon be included in any ceasefire deal",
@@ -1072,6 +1063,15 @@
       "sourceCount": "27 sources"
     },
     {
+      "title": "Census: U.S. metro growth slowed sharply as immigration declined",
+      "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
+      "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T09:10:12Z",
+      "sourceCount": "47 sources"
+    },
+    {
       "title": "LaGuardia wreckage towed off runway four days after fatal Air Canada crash",
       "url": "https://www.perplexity.ai/page/laguardia-wreckage-towed-off-r-mHNwayo5TWORsYuZftTmww",
       "description": "Most of the roughly 40 hospitalized passengers have been released, while the NTSB investigates overlapping failures including a missing transponder on the fire truck.",
@@ -1081,15 +1081,6 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "US kills four in 47th Caribbean boat strike since September",
-      "url": "https://www.perplexity.ai/page/us-kills-four-in-47th-caribbea-0Ksu4ih_TCysVfbE9jtQoQ",
-      "description": "Operation Southern Spear's death toll has reached roughly 163 as rights groups and victims' families challenge the legality of the campaign.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T23:49:47Z",
-      "sourceCount": "30 sources"
-    },
-    {
       "title": "France rules out military action to reopen Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/france-rules-out-military-acti-2C5EOeONRFyiYZxSmumzzA",
       "description": "Prime Minister Lecornu told the National Assembly that France \"will not be drawn into a war that it did not choose\" but will help secure shipping routes.",
@@ -1097,6 +1088,15 @@
       "topic": "top",
       "pubDate": "2026-03-25T23:49:21Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "US kills four in 47th Caribbean boat strike since September",
+      "url": "https://www.perplexity.ai/page/us-kills-four-in-47th-caribbea-0Ksu4ih_TCysVfbE9jtQoQ",
+      "description": "Operation Southern Spear's death toll has reached roughly 163 as rights groups and victims' families challenge the legality of the campaign.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T23:49:47Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Iran’s expanding long-range missiles pose growing threat",
@@ -1351,9 +1351,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-29T19:21:30Z",
+  "cached_at": "2026-03-29T19:39:26Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA begins final countdown for Artemis II moon launch",
+        "url": "https://www.perplexity.ai/page/nasa-begins-final-countdown-fo-okwndOamTUetRnrMI7tBUg",
+        "description": "Four astronauts are set to fly around the moon on April 1, the first crewed lunar voyage since Apollo 17 in 1972.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T19:23:17Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Netanyahu orders expansion of Israel's ground invasion in southern Lebanon",
         "url": "https://www.perplexity.ai/page/netanyahu-orders-expansion-of-y7szoOaxQ0ynlfhGhCN6yQ",
@@ -2390,15 +2399,6 @@
         "sourceCount": "23 sources"
       },
       {
-        "title": "Artemis 2 crew flies to Florida ahead of April 1 Moon launch",
-        "url": "https://www.perplexity.ai/page/artemis-2-crew-flies-to-florid-DsT0K.6YR.yvCmAAFkoRCA",
-        "description": "The four astronauts are set to arrive at Kennedy Space Center on Friday as final pad preparations continue for the first crewed lunar mission since Apollo.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T04:44:21Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Iran-backed FPV drones hit US helicopter, radar at Baghdad base",
         "url": "https://www.perplexity.ai/page/iran-backed-fpv-drones-hit-us-7g5GDaPDQsK1qDSibprfyg",
         "description": "Footage shows strikes on a Black Hawk and a NASAMS-linked radar at Victory Base, escalating cheap-drone threats to American forces in Iraq.",
@@ -2406,15 +2406,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T03:08:48Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Census: U.S. metro growth slowed sharply as immigration declined",
-        "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
-        "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T09:10:12Z",
-        "sourceCount": "47 sources"
       },
       {
         "title": "Iran demands Lebanon be included in any ceasefire deal",
@@ -2426,6 +2417,15 @@
         "sourceCount": "27 sources"
       },
       {
+        "title": "Census: U.S. metro growth slowed sharply as immigration declined",
+        "url": "https://www.perplexity.ai/page/census-u-s-metro-growth-slowed-cI56KkyyQSCxQRgoBE92WQ",
+        "description": "Border communities saw the steepest drops, with Laredo's growth rate falling from 3.2% to 0.2% as net international migration was cut in half.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T09:10:12Z",
+        "sourceCount": "47 sources"
+      },
+      {
         "title": "LaGuardia wreckage towed off runway four days after fatal Air Canada crash",
         "url": "https://www.perplexity.ai/page/laguardia-wreckage-towed-off-r-mHNwayo5TWORsYuZftTmww",
         "description": "Most of the roughly 40 hospitalized passengers have been released, while the NTSB investigates overlapping failures including a missing transponder on the fire truck.",
@@ -2435,15 +2435,6 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "US kills four in 47th Caribbean boat strike since September",
-        "url": "https://www.perplexity.ai/page/us-kills-four-in-47th-caribbea-0Ksu4ih_TCysVfbE9jtQoQ",
-        "description": "Operation Southern Spear's death toll has reached roughly 163 as rights groups and victims' families challenge the legality of the campaign.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T23:49:47Z",
-        "sourceCount": "30 sources"
-      },
-      {
         "title": "France rules out military action to reopen Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/france-rules-out-military-acti-2C5EOeONRFyiYZxSmumzzA",
         "description": "Prime Minister Lecornu told the National Assembly that France \"will not be drawn into a war that it did not choose\" but will help secure shipping routes.",
@@ -2451,6 +2442,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T23:49:21Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "US kills four in 47th Caribbean boat strike since September",
+        "url": "https://www.perplexity.ai/page/us-kills-four-in-47th-caribbea-0Ksu4ih_TCysVfbE9jtQoQ",
+        "description": "Operation Southern Spear's death toll has reached roughly 163 as rights groups and victims' families challenge the legality of the campaign.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T23:49:47Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Iran’s expanding long-range missiles pose growing threat",
