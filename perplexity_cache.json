@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Iran hits Bahrain refinery, aluminum smelter near US base",
+      "url": "https://www.perplexity.ai/page/iran-hits-bahrain-refinery-alu-dLyBRyXrQw.eBeiWU78t1Q",
+      "description": "Massive fires erupted at the BAPCO refinery and ALBA smelter after Iranian missile and drone strikes also targeted areas near the US Fifth Fleet headquarters.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T00:53:49Z",
+      "sourceCount": "52 sources"
+    },
+    {
       "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
       "url": "https://www.perplexity.ai/page/houthis-launch-second-attack-o-cJzr86ZRRuGbrNaapHVHew",
       "description": "Yemen's Iran-aligned rebels formally entered the month-old Mideast war, firing missiles and drones at southern Israel in two waves on Saturday.",
@@ -244,15 +253,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
-      "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
-      "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T11:20:29Z",
-      "sourceCount": "25 sources"
-    },
-    {
       "title": "Debris from intercepted Iranian missile injures 5 in Abu Dhabi",
       "url": "https://www.perplexity.ai/page/debris-from-intercepted-irania-aIf4Sh9zRJepk2ZJso.0fQ",
       "description": "The UAE has now intercepted 378 ballistic missiles, 15 cruise missiles, and 1,835 drones since Iran began strikes on Feb. 28.",
@@ -260,6 +260,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T11:08:13Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "Iran war wipes $11.5 trillion from global markets in one month",
+      "url": "https://www.perplexity.ai/page/iran-war-wipes-11-5-trillion-f-YUwCjPqXT62X1yJhnWvyLg",
+      "description": "The conflict's closure of the Strait of Hormuz has sent oil prices surging roughly 45% and left investors with few safe havens.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T09:37:17Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Japan backs US deep sea mining push in new pact",
@@ -278,15 +287,6 @@
       "topic": "top",
       "pubDate": "2026-03-28T10:03:37Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Iran war wipes $11.5 trillion from global markets in one month",
-      "url": "https://www.perplexity.ai/page/iran-war-wipes-11-5-trillion-f-YUwCjPqXT62X1yJhnWvyLg",
-      "description": "The conflict's closure of the Strait of Hormuz has sent oil prices surging roughly 45% and left investors with few safe havens.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T09:37:17Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "IDF says it killed two senior Hezbollah operatives in Lebanon strikes",
@@ -1351,9 +1351,18 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-03-29T03:47:47Z",
+  "cached_at": "2026-03-29T04:44:23Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran hits Bahrain refinery, aluminum smelter near US base",
+        "url": "https://www.perplexity.ai/page/iran-hits-bahrain-refinery-alu-dLyBRyXrQw.eBeiWU78t1Q",
+        "description": "Massive fires erupted at the BAPCO refinery and ALBA smelter after Iranian missile and drone strikes also targeted areas near the US Fifth Fleet headquarters.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T00:53:49Z",
+        "sourceCount": "52 sources"
+      },
       {
         "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
         "url": "https://www.perplexity.ai/page/houthis-launch-second-attack-o-cJzr86ZRRuGbrNaapHVHew",
@@ -1598,15 +1607,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
-        "url": "https://www.perplexity.ai/page/bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
-        "description": "Updated figures released Saturday show 174 missiles and 385 drones destroyed since the U.S.-Israeli offensive against Iran began Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T11:20:29Z",
-        "sourceCount": "25 sources"
-      },
-      {
         "title": "Debris from intercepted Iranian missile injures 5 in Abu Dhabi",
         "url": "https://www.perplexity.ai/page/debris-from-intercepted-irania-aIf4Sh9zRJepk2ZJso.0fQ",
         "description": "The UAE has now intercepted 378 ballistic missiles, 15 cruise missiles, and 1,835 drones since Iran began strikes on Feb. 28.",
@@ -1614,6 +1614,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T11:08:13Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "Iran war wipes $11.5 trillion from global markets in one month",
+        "url": "https://www.perplexity.ai/page/iran-war-wipes-11-5-trillion-f-YUwCjPqXT62X1yJhnWvyLg",
+        "description": "The conflict's closure of the Strait of Hormuz has sent oil prices surging roughly 45% and left investors with few safe havens.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T09:37:17Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Japan backs US deep sea mining push in new pact",
@@ -1632,15 +1641,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T10:03:37Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Iran war wipes $11.5 trillion from global markets in one month",
-        "url": "https://www.perplexity.ai/page/iran-war-wipes-11-5-trillion-f-YUwCjPqXT62X1yJhnWvyLg",
-        "description": "The conflict's closure of the Strait of Hormuz has sent oil prices surging roughly 45% and left investors with few safe havens.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T09:37:17Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "IDF says it killed two senior Hezbollah operatives in Lebanon strikes",
