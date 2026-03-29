@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
+      "url": "https://www.perplexity.ai/page/houthis-launch-second-attack-o-cJzr86ZRRuGbrNaapHVHew",
+      "description": "Yemen's Iran-aligned rebels formally entered the month-old Mideast war, firing missiles and drones at southern Israel in two waves on Saturday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T23:28:20Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
+      "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
+      "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T22:44:44Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
       "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
       "description": "Secretary of State Rubio jumped from 3% last year to 35%, while Vice President Vance's support fell from 61% to 53%.",
@@ -26,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-03-28T21:56:26Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Houthis launch first missile attack on Israel as U.S. Marines reach Middle East",
-      "url": "https://www.perplexity.ai/page/houthis-launch-first-missile-a-aZB4wXpUTjapazUWUnflbg",
-      "description": "Yemen's Iran-backed rebels fired ballistic missiles at southern Israel on Saturday, opening a new front one month into Operation Epic Fury.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T20:58:51Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-25T00:58:37Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "DHS shutdown delayed NTSB investigators probing deadly LaGuardia crash",
-      "url": "https://www.perplexity.ai/page/dhs-shutdown-delayed-ntsb-inve-_TIJDMbNRhetCvVrLJWe5w",
-      "description": "NTSB Chair Jennifer Homendy said investigators waited hours in TSA lines, preventing the team from completing a full first day of work at the crash site.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T00:28:55Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-03-29T02:41:28Z",
+  "cached_at": "2026-03-29T03:47:47Z",
   "topics": {
     "top": [
+      {
+        "title": "Houthis launch second attack on Israel within 24 hours, vow more strikes",
+        "url": "https://www.perplexity.ai/page/houthis-launch-second-attack-o-cJzr86ZRRuGbrNaapHVHew",
+        "description": "Yemen's Iran-aligned rebels formally entered the month-old Mideast war, firing missiles and drones at southern Israel in two waves on Saturday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T23:28:20Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump claims Nobel snub, calls himself a peacemaker amid Iran war",
+        "url": "https://www.perplexity.ai/page/trump-claims-nobel-snub-calls-mNfFUJ92QsaUL6sohf__TQ",
+        "description": "At a Saudi-backed summit in Miami Beach, the president said he stopped eight wars and criticized Norway's Nobel committee while defending the conflict with Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T22:44:44Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "Vance wins CPAC 2028 straw poll as Rubio surges",
         "url": "https://www.perplexity.ai/page/vance-wins-cpac-2028-straw-pol-pgYdhFsrSo2eMHinthJxXw",
@@ -1380,15 +1398,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T21:56:26Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Houthis launch first missile attack on Israel as U.S. Marines reach Middle East",
-        "url": "https://www.perplexity.ai/page/houthis-launch-first-missile-a-aZB4wXpUTjapazUWUnflbg",
-        "description": "Yemen's Iran-backed rebels fired ballistic missiles at southern Israel on Saturday, opening a new front one month into Operation Epic Fury.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T20:58:51Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T00:58:37Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "DHS shutdown delayed NTSB investigators probing deadly LaGuardia crash",
-        "url": "https://www.perplexity.ai/page/dhs-shutdown-delayed-ntsb-inve-_TIJDMbNRhetCvVrLJWe5w",
-        "description": "NTSB Chair Jennifer Homendy said investigators waited hours in TSA lines, preventing the team from completing a full first day of work at the crash site.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T00:28:55Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
