@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Trump says military building 'massive complex' under White House ballroom",
+      "url": "https://www.perplexity.ai/page/trump-says-military-building-m-mNZFr4_oTGGXKfE7pPt24Q",
+      "description": "The president described the $400 million ballroom as a \"shed\" for a military bunker being built beneath it, as a federal judge's ruling looms.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T10:49:48Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "Researchers build laser that controls sound particles for jam-proof navigation",
       "url": "https://www.perplexity.ai/page/researchers-build-laser-that-c-vtVKYC_pTD.ZHBFjGQTziQ",
       "description": "The squeezed phonon laser, published today in Nature Communications, could enable ultra-precise gravity measurements as a step toward satellite-free quantum compasses.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T19:56:24Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "Pentagon signs deals to quadruple missile output amid Iran war",
-      "url": "https://www.perplexity.ai/page/pentagon-signs-deals-to-quadru-aTON_wFkSIWzaYnyy8fxVA",
-      "description": "Lockheed Martin, BAE Systems, and Honeywell Aerospace agreed to accelerate production of key weapons as the U.S. replenishes wartime stockpiles.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T18:36:50Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-30T10:37:35Z",
+  "cached_at": "2026-03-30T11:05:30Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump says military building 'massive complex' under White House ballroom",
+        "url": "https://www.perplexity.ai/page/trump-says-military-building-m-mNZFr4_oTGGXKfE7pPt24Q",
+        "description": "The president described the $400 million ballroom as a \"shed\" for a military bunker being built beneath it, as a federal judge's ruling looms.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T10:49:48Z",
+        "sourceCount": "40 sources"
+      },
       {
         "title": "Researchers build laser that controls sound particles for jam-proof navigation",
         "url": "https://www.perplexity.ai/page/researchers-build-laser-that-c-vtVKYC_pTD.ZHBFjGQTziQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T19:56:24Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "Pentagon signs deals to quadruple missile output amid Iran war",
-        "url": "https://www.perplexity.ai/page/pentagon-signs-deals-to-quadru-aTON_wFkSIWzaYnyy8fxVA",
-        "description": "Lockheed Martin, BAE Systems, and Honeywell Aerospace agreed to accelerate production of key weapons as the U.S. replenishes wartime stockpiles.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T18:36:50Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
