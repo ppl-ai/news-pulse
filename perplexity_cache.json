@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Russian oil tanker arrives in Cuba after Trump allows delivery despite blockade",
+      "url": "https://www.perplexity.ai/page/russian-oil-tanker-arrives-in-h.FbbCjBTDWmMu3ACYQpfg",
+      "description": "The sanctioned vessel carrying 730,000 barrels of crude is Cuba's first oil delivery since January, offering temporary relief from a severe energy crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T12:43:15Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Starcloud hits $1.1B valuation for space data centers",
       "url": "https://www.perplexity.ai/page/starcloud-hits-1-1b-valuation-dweSvzgsSLKn4fVHLlHgKg",
       "description": "The Y Combinator startup reached unicorn status faster than any company in YC history, raising $170 million in its Series A round.",
@@ -127,13 +136,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "U.S. to let Russian oil tanker reach Cuba after months-long blockade",
-      "url": "https://www.perplexity.ai/page/u-s-to-let-russian-oil-tanker-xFqd107_TYeHoolBrCINHQ",
-      "description": "The reversal ends a de facto energy embargo that left the island without fuel since January, deepening its worst crisis in decades.",
+      "title": "Politico names Jonathan Greenberger as editor in chief",
+      "url": "https://www.perplexity.ai/page/politico-names-jonathan-greenb-IdLi33lmQY.XEcTcW91gfA",
+      "description": "The former ABC News Washington bureau chief, who joined Politico in 2024, will succeed co-founder John Harris effective May 1.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-29T21:54:46Z",
-      "sourceCount": "44 sources"
+      "pubDate": "2026-03-29T21:28:06Z",
+      "sourceCount": "46 sources"
     },
     {
       "title": "Trump claims progress on Iran peace plan as Tehran denies any talks",
@@ -154,13 +163,13 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "Politico names Jonathan Greenberger as editor in chief",
-      "url": "https://www.perplexity.ai/page/politico-names-jonathan-greenb-IdLi33lmQY.XEcTcW91gfA",
-      "description": "The former ABC News Washington bureau chief, who joined Politico in 2024, will succeed co-founder John Harris effective May 1.",
+      "title": "NASA begins final countdown for Artemis II moon launch",
+      "url": "https://www.perplexity.ai/page/nasa-begins-final-countdown-fo-okwndOamTUetRnrMI7tBUg",
+      "description": "Four astronauts are set to fly around the moon on April 1, the first crewed lunar voyage since Apollo 17 in 1972.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-29T21:28:06Z",
-      "sourceCount": "46 sources"
+      "pubDate": "2026-03-29T19:23:17Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Architects slam Trump's White House ballroom ahead of Thursday's final vote",
@@ -172,15 +181,6 @@
       "sourceCount": "48 sources"
     },
     {
-      "title": "NASA begins final countdown for Artemis II moon launch",
-      "url": "https://www.perplexity.ai/page/nasa-begins-final-countdown-fo-okwndOamTUetRnrMI7tBUg",
-      "description": "Four astronauts are set to fly around the moon on April 1, the first crewed lunar voyage since Apollo 17 in 1972.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-29T19:23:17Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Netanyahu orders expansion of Israel's ground invasion in southern Lebanon",
       "url": "https://www.perplexity.ai/page/netanyahu-orders-expansion-of-y7szoOaxQ0ynlfhGhCN6yQ",
       "description": "The Israeli PM said the military will widen its \"security strip\" as fighting with Hezbollah enters a fourth week with over 1,100 dead.",
@@ -188,15 +188,6 @@
       "topic": "top",
       "pubDate": "2026-03-29T18:18:26Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Homan says ICE will stay at airports even after TSA pay resumes",
-      "url": "https://www.perplexity.ai/page/homan-says-ice-will-stay-at-ai-e9KhmmypTDqH5C4M__C4dg",
-      "description": "Border czar Tom Homan said Sunday that ICE agents will remain at airports until operations fully normalize, even as TSA paychecks are expected Monday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-29T19:33:50Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "Satellite images show 88 structures destroyed at key Iran missile site",
@@ -208,6 +199,15 @@
       "sourceCount": "47 sources"
     },
     {
+      "title": "Homan says ICE will stay at airports even after TSA pay resumes",
+      "url": "https://www.perplexity.ai/page/homan-says-ice-will-stay-at-ai-e9KhmmypTDqH5C4M__C4dg",
+      "description": "Border czar Tom Homan said Sunday that ICE agents will remain at airports until operations fully normalize, even as TSA paychecks are expected Monday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T19:33:50Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Ukrainian drones crash in Finland, extending NATO airspace breaches",
       "url": "https://www.perplexity.ai/page/ukrainian-drones-crash-in-finl-94gQhj2aR.S_SIsmJKGdXA",
       "description": "Finnish PM Orpo says Russian electronic warfare likely diverted the drones, which were identified as Ukrainian strike UAVs targeting Russian ports.",
@@ -217,15 +217,6 @@
       "sourceCount": "24 sources"
     },
     {
-      "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
-      "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
-      "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-29T16:56:43Z",
-      "sourceCount": "66 sources"
-    },
-    {
       "title": "Zelensky signs Gulf defense deals as Ukraine-Russia talks remain frozen",
       "url": "https://www.perplexity.ai/page/zelensky-signs-gulf-defense-de-fIBl1q8uS0SlyRdXJv3DfQ",
       "description": "Ukraine's president secured 10-year defense pacts with Saudi Arabia, the UAE, and Qatar while pushing the U.S. to restart trilateral peace talks.",
@@ -233,6 +224,15 @@
       "topic": "top",
       "pubDate": "2026-03-29T16:39:02Z",
       "sourceCount": "64 sources"
+    },
+    {
+      "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
+      "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
+      "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-29T16:56:43Z",
+      "sourceCount": "66 sources"
     },
     {
       "title": "Iran threatens Gulf university campuses as strikes pound region",
@@ -1351,9 +1351,18 @@
       "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-03-30T12:32:20Z",
+  "cached_at": "2026-03-30T12:59:30Z",
   "topics": {
     "top": [
+      {
+        "title": "Russian oil tanker arrives in Cuba after Trump allows delivery despite blockade",
+        "url": "https://www.perplexity.ai/page/russian-oil-tanker-arrives-in-h.FbbCjBTDWmMu3ACYQpfg",
+        "description": "The sanctioned vessel carrying 730,000 barrels of crude is Cuba's first oil delivery since January, offering temporary relief from a severe energy crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T12:43:15Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Starcloud hits $1.1B valuation for space data centers",
         "url": "https://www.perplexity.ai/page/starcloud-hits-1-1b-valuation-dweSvzgsSLKn4fVHLlHgKg",
@@ -1481,13 +1490,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "U.S. to let Russian oil tanker reach Cuba after months-long blockade",
-        "url": "https://www.perplexity.ai/page/u-s-to-let-russian-oil-tanker-xFqd107_TYeHoolBrCINHQ",
-        "description": "The reversal ends a de facto energy embargo that left the island without fuel since January, deepening its worst crisis in decades.",
+        "title": "Politico names Jonathan Greenberger as editor in chief",
+        "url": "https://www.perplexity.ai/page/politico-names-jonathan-greenb-IdLi33lmQY.XEcTcW91gfA",
+        "description": "The former ABC News Washington bureau chief, who joined Politico in 2024, will succeed co-founder John Harris effective May 1.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-29T21:54:46Z",
-        "sourceCount": "44 sources"
+        "pubDate": "2026-03-29T21:28:06Z",
+        "sourceCount": "46 sources"
       },
       {
         "title": "Trump claims progress on Iran peace plan as Tehran denies any talks",
@@ -1508,13 +1517,13 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "Politico names Jonathan Greenberger as editor in chief",
-        "url": "https://www.perplexity.ai/page/politico-names-jonathan-greenb-IdLi33lmQY.XEcTcW91gfA",
-        "description": "The former ABC News Washington bureau chief, who joined Politico in 2024, will succeed co-founder John Harris effective May 1.",
+        "title": "NASA begins final countdown for Artemis II moon launch",
+        "url": "https://www.perplexity.ai/page/nasa-begins-final-countdown-fo-okwndOamTUetRnrMI7tBUg",
+        "description": "Four astronauts are set to fly around the moon on April 1, the first crewed lunar voyage since Apollo 17 in 1972.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-29T21:28:06Z",
-        "sourceCount": "46 sources"
+        "pubDate": "2026-03-29T19:23:17Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Architects slam Trump's White House ballroom ahead of Thursday's final vote",
@@ -1526,15 +1535,6 @@
         "sourceCount": "48 sources"
       },
       {
-        "title": "NASA begins final countdown for Artemis II moon launch",
-        "url": "https://www.perplexity.ai/page/nasa-begins-final-countdown-fo-okwndOamTUetRnrMI7tBUg",
-        "description": "Four astronauts are set to fly around the moon on April 1, the first crewed lunar voyage since Apollo 17 in 1972.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-29T19:23:17Z",
-        "sourceCount": "15 sources"
-      },
-      {
         "title": "Netanyahu orders expansion of Israel's ground invasion in southern Lebanon",
         "url": "https://www.perplexity.ai/page/netanyahu-orders-expansion-of-y7szoOaxQ0ynlfhGhCN6yQ",
         "description": "The Israeli PM said the military will widen its \"security strip\" as fighting with Hezbollah enters a fourth week with over 1,100 dead.",
@@ -1542,15 +1542,6 @@
         "topic": "top",
         "pubDate": "2026-03-29T18:18:26Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Homan says ICE will stay at airports even after TSA pay resumes",
-        "url": "https://www.perplexity.ai/page/homan-says-ice-will-stay-at-ai-e9KhmmypTDqH5C4M__C4dg",
-        "description": "Border czar Tom Homan said Sunday that ICE agents will remain at airports until operations fully normalize, even as TSA paychecks are expected Monday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-29T19:33:50Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "Satellite images show 88 structures destroyed at key Iran missile site",
@@ -1562,6 +1553,15 @@
         "sourceCount": "47 sources"
       },
       {
+        "title": "Homan says ICE will stay at airports even after TSA pay resumes",
+        "url": "https://www.perplexity.ai/page/homan-says-ice-will-stay-at-ai-e9KhmmypTDqH5C4M__C4dg",
+        "description": "Border czar Tom Homan said Sunday that ICE agents will remain at airports until operations fully normalize, even as TSA paychecks are expected Monday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T19:33:50Z",
+        "sourceCount": "27 sources"
+      },
+      {
         "title": "Ukrainian drones crash in Finland, extending NATO airspace breaches",
         "url": "https://www.perplexity.ai/page/ukrainian-drones-crash-in-finl-94gQhj2aR.S_SIsmJKGdXA",
         "description": "Finnish PM Orpo says Russian electronic warfare likely diverted the drones, which were identified as Ukrainian strike UAVs targeting Russian ports.",
@@ -1571,15 +1571,6 @@
         "sourceCount": "24 sources"
       },
       {
-        "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
-        "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
-        "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-29T16:56:43Z",
-        "sourceCount": "66 sources"
-      },
-      {
         "title": "Zelensky signs Gulf defense deals as Ukraine-Russia talks remain frozen",
         "url": "https://www.perplexity.ai/page/zelensky-signs-gulf-defense-de-fIBl1q8uS0SlyRdXJv3DfQ",
         "description": "Ukraine's president secured 10-year defense pacts with Saudi Arabia, the UAE, and Qatar while pushing the U.S. to restart trilateral peace talks.",
@@ -1587,6 +1578,15 @@
         "topic": "top",
         "pubDate": "2026-03-29T16:39:02Z",
         "sourceCount": "64 sources"
+      },
+      {
+        "title": "DHS watchdog probes FEMA contractor tied to Noem, Lewandowski",
+        "url": "https://www.perplexity.ai/page/dhs-watchdog-probes-fema-contr-o3NshmwpR..tnmq4eHW9ww",
+        "description": "Kara Voorhies wielded broad influence over FEMA contracts but appeared on no organizational chart, according to The Wall Street Journal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-29T16:56:43Z",
+        "sourceCount": "66 sources"
       },
       {
         "title": "Iran threatens Gulf university campuses as strikes pound region",
