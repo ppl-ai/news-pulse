@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "3 Indonesian UNIFIL peacekeepers killed in Lebanon in 24 hours",
+      "url": "https://www.perplexity.ai/page/3-indonesian-unifil-peacekeepe-VBfzNptTRuWOt.k6VfjrHA",
+      "description": "Two separate explosions in southern Lebanon killed three Indonesian peacekeepers and wounded several others, drawing international condemnation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T18:09:26Z",
+      "sourceCount": "48 sources"
+    },
+    {
       "title": "Trump confirms US is negotiating with Iran's Ghalibaf",
       "url": "https://www.perplexity.ai/page/trump-confirms-us-is-negotiati-_jcDh2c3Rzex2S0hmHvfdA",
       "description": "The president identified Iran's parliament speaker as his counterpart in talks, while Ghalibaf denied any negotiations and threatened U.S. forces.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T15:30:27Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
-      "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
-      "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T19:05:38Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-30T18:52:27Z",
+  "cached_at": "2026-03-30T19:19:37Z",
   "topics": {
     "top": [
+      {
+        "title": "3 Indonesian UNIFIL peacekeepers killed in Lebanon in 24 hours",
+        "url": "https://www.perplexity.ai/page/3-indonesian-unifil-peacekeepe-VBfzNptTRuWOt.k6VfjrHA",
+        "description": "Two separate explosions in southern Lebanon killed three Indonesian peacekeepers and wounded several others, drawing international condemnation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T18:09:26Z",
+        "sourceCount": "48 sources"
+      },
       {
         "title": "Trump confirms US is negotiating with Iran's Ghalibaf",
         "url": "https://www.perplexity.ai/page/trump-confirms-us-is-negotiati-_jcDh2c3Rzex2S0hmHvfdA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T15:30:27Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
-        "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
-        "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T19:05:38Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
