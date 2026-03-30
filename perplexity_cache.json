@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Gold holds near $4,490 as surging oil kills Fed rate cut hopes",
+      "url": "https://www.perplexity.ai/page/gold-holds-near-4490-as-surgin-N.DtA7.0RmmXunMS1TXpQw",
+      "description": "The precious metal has dropped roughly 15% from its early-March peak, squeezed between safe-haven demand and inflation fears from triple-digit oil prices.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T08:39:39Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Artemis II set to launch Wednesday as NASA pivots to $20B moon base",
       "url": "https://www.perplexity.ai/page/artemis-ii-set-to-launch-wedne-RsjDn98HR.2_TWveIvlwhg",
       "description": "NASA's first crewed lunar mission since Apollo 17 lifts off April 1, days after Administrator Isaacman scrapped the Gateway station for a surface base.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T15:30:27Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
-      "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
-      "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T19:05:38Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-30T08:15:29Z",
+  "cached_at": "2026-03-30T08:51:56Z",
   "topics": {
     "top": [
+      {
+        "title": "Gold holds near $4,490 as surging oil kills Fed rate cut hopes",
+        "url": "https://www.perplexity.ai/page/gold-holds-near-4490-as-surgin-N.DtA7.0RmmXunMS1TXpQw",
+        "description": "The precious metal has dropped roughly 15% from its early-March peak, squeezed between safe-haven demand and inflation fears from triple-digit oil prices.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T08:39:39Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Artemis II set to launch Wednesday as NASA pivots to $20B moon base",
         "url": "https://www.perplexity.ai/page/artemis-ii-set-to-launch-wedne-RsjDn98HR.2_TWveIvlwhg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T15:30:27Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
-        "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
-        "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T19:05:38Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
