@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "New footage shows final seconds before deadly 2025 DC midair crash",
-      "url": "https://www.perplexity.ai/page/new-footage-shows-final-second-jJxyE._9QEuYDzIv35SYdw",
-      "description": "CBS News's \"60 Minutes\" aired video of American Airlines Flight 5342 colliding with a Black Hawk helicopter, killing all 67 aboard both aircraft.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T14:43:43Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Nasdaq adopts fast-entry rule to add large IPOs to index in 15 days",
       "url": "https://www.perplexity.ai/page/nasdaq-adopts-fast-entry-rule-dgYr93Q2TUufTh.EqFrnnQ",
       "description": "The new rules, effective May 1, cut the Nasdaq-100 waiting period from up to a year to just 15 trading days for mega-cap listings like SpaceX.",
@@ -1349,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T15:30:27Z",
       "sourceCount": "41 sources"
+    },
+    {
+      "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
+      "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
+      "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-25T19:05:38Z",
+      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-30T15:21:29Z",
+  "cached_at": "2026-03-30T15:52:31Z",
   "topics": {
     "top": [
-      {
-        "title": "New footage shows final seconds before deadly 2025 DC midair crash",
-        "url": "https://www.perplexity.ai/page/new-footage-shows-final-second-jJxyE._9QEuYDzIv35SYdw",
-        "description": "CBS News's \"60 Minutes\" aired video of American Airlines Flight 5342 colliding with a Black Hawk helicopter, killing all 67 aboard both aircraft.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T14:43:43Z",
-        "sourceCount": "28 sources"
-      },
       {
         "title": "Nasdaq adopts fast-entry rule to add large IPOs to index in 15 days",
         "url": "https://www.perplexity.ai/page/nasdaq-adopts-fast-entry-rule-dgYr93Q2TUufTh.EqFrnnQ",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-25T15:30:27Z",
         "sourceCount": "41 sources"
+      },
+      {
+        "title": "NASA climate scientist Kate Marvel quits, citing Trump's 'attacks on science'",
+        "url": "https://www.perplexity.ai/page/nasa-climate-scientist-kate-ma-R5o.2skISeirFtKYHi4Lng",
+        "description": "Marvel said a year of funding uncertainty and dismantled programs left her unable to do meaningful work at the Goddard Institute for Space Studies.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-25T19:05:38Z",
+        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
