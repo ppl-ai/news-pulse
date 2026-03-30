@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Starcloud hits $1.1B valuation for space data centers",
+      "url": "https://www.perplexity.ai/page/starcloud-hits-1-1b-valuation-dweSvzgsSLKn4fVHLlHgKg",
+      "description": "The Y Combinator startup reached unicorn status faster than any company in YC history, raising $170 million in its Series A round.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T12:14:05Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "TotalEnergies reaps over $1B from historic Middle East oil bet",
       "url": "https://www.perplexity.ai/page/totalenergies-reaps-over-1b-fr-YPuEQyRFRteo.9CoJpXYpw",
       "description": "The French energy giant bought nearly all available Dubai crude cargoes in March, exploiting war-driven market turmoil for record trading profits.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-25T19:55:53Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Fed's operating losses fell to $19B in 2025 from $78B",
-      "url": "https://www.perplexity.ai/page/fed-s-operating-losses-fell-to-7TmbWOauTGO.7wqouL9Ljg",
-      "description": "The central bank's audited financial statements show interest expenses dropped sharply as rate cuts reduced what the Fed pays on bank reserves.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T17:54:26Z",
-      "sourceCount": "33 sources"
     }
   ],
-  "cached_at": "2026-03-30T11:57:42Z",
+  "cached_at": "2026-03-30T12:32:20Z",
   "topics": {
     "top": [
+      {
+        "title": "Starcloud hits $1.1B valuation for space data centers",
+        "url": "https://www.perplexity.ai/page/starcloud-hits-1-1b-valuation-dweSvzgsSLKn4fVHLlHgKg",
+        "description": "The Y Combinator startup reached unicorn status faster than any company in YC history, raising $170 million in its Series A round.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T12:14:05Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "TotalEnergies reaps over $1B from historic Middle East oil bet",
         "url": "https://www.perplexity.ai/page/totalenergies-reaps-over-1b-fr-YPuEQyRFRteo.9CoJpXYpw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T19:55:53Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Fed's operating losses fell to $19B in 2025 from $78B",
-        "url": "https://www.perplexity.ai/page/fed-s-operating-losses-fell-to-7TmbWOauTGO.7wqouL9Ljg",
-        "description": "The central bank's audited financial statements show interest expenses dropped sharply as rate cuts reduced what the Fed pays on bank reserves.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T17:54:26Z",
-        "sourceCount": "33 sources"
       }
     ],
     "tech": [],
