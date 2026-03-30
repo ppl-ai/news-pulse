@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Senate panel schedules Warsh Fed chair hearing for April 13",
+      "url": "https://www.perplexity.ai/page/senate-panel-schedules-warsh-f-3GZkBw6vSn6SvEvdPWbu_Q",
+      "description": "The long-delayed confirmation process moves forward despite Sen. Tillis's ongoing blockade over the DOJ investigation into current Chair Powell.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T00:51:24Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "USS Tripoli arrives as Pentagon weighs troops that could push total above 55,000",
       "url": "https://www.perplexity.ai/page/uss-tripoli-arrives-as-pentago-MeLJo_aWSwmKYGcDZ5AxHg",
       "description": "The amphibious assault ship brought 3,500 Marines and sailors to the region as the U.S.-Iran conflict enters its second month.",
@@ -595,13 +604,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Trump signals to allies no imminent Iran ground invasion",
-      "url": "https://www.perplexity.ai/page/trump-signals-to-allies-no-imm-eiuhrUW3QWqF01X9a5JjAg",
-      "description": "The reassurance comes as the Pentagon weighs sending 10,000 more troops and Sen. Murkowski drafts a war authorization bill.",
+      "title": "Hegseth struck Black and female officers from Army promotion list",
+      "url": "https://www.perplexity.ai/page/hegseth-struck-black-and-femal-BaNudCZjQyOrqTG4lZZB.w",
+      "description": "The defense secretary overrode Army leaders' objections, removing two Black and two female officers from a one-star general list, according to the New York Times.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-27T21:48:43Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-03-27T21:45:14Z",
+      "sourceCount": "22 sources"
     },
     {
       "title": "Gas prices near $4 as states split on tax holidays",
@@ -620,15 +629,6 @@
       "topic": "top",
       "pubDate": "2026-03-27T19:54:15Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Hegseth struck Black and female officers from Army promotion list",
-      "url": "https://www.perplexity.ai/page/hegseth-struck-black-and-femal-BaNudCZjQyOrqTG4lZZB.w",
-      "description": "The defense secretary overrode Army leaders' objections, removing two Black and two female officers from a one-star general list, according to the New York Times.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T21:45:14Z",
-      "sourceCount": "22 sources"
     },
     {
       "title": "Iran-linked hackers breach FBI director's personal email",
@@ -1351,9 +1351,18 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-30T00:03:38Z",
+  "cached_at": "2026-03-30T00:58:05Z",
   "topics": {
     "top": [
+      {
+        "title": "Senate panel schedules Warsh Fed chair hearing for April 13",
+        "url": "https://www.perplexity.ai/page/senate-panel-schedules-warsh-f-3GZkBw6vSn6SvEvdPWbu_Q",
+        "description": "The long-delayed confirmation process moves forward despite Sen. Tillis's ongoing blockade over the DOJ investigation into current Chair Powell.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T00:51:24Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "USS Tripoli arrives as Pentagon weighs troops that could push total above 55,000",
         "url": "https://www.perplexity.ai/page/uss-tripoli-arrives-as-pentago-MeLJo_aWSwmKYGcDZ5AxHg",
@@ -1949,13 +1958,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Trump signals to allies no imminent Iran ground invasion",
-        "url": "https://www.perplexity.ai/page/trump-signals-to-allies-no-imm-eiuhrUW3QWqF01X9a5JjAg",
-        "description": "The reassurance comes as the Pentagon weighs sending 10,000 more troops and Sen. Murkowski drafts a war authorization bill.",
+        "title": "Hegseth struck Black and female officers from Army promotion list",
+        "url": "https://www.perplexity.ai/page/hegseth-struck-black-and-femal-BaNudCZjQyOrqTG4lZZB.w",
+        "description": "The defense secretary overrode Army leaders' objections, removing two Black and two female officers from a one-star general list, according to the New York Times.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-27T21:48:43Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-03-27T21:45:14Z",
+        "sourceCount": "22 sources"
       },
       {
         "title": "Gas prices near $4 as states split on tax holidays",
@@ -1974,15 +1983,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T19:54:15Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Hegseth struck Black and female officers from Army promotion list",
-        "url": "https://www.perplexity.ai/page/hegseth-struck-black-and-femal-BaNudCZjQyOrqTG4lZZB.w",
-        "description": "The defense secretary overrode Army leaders' objections, removing two Black and two female officers from a one-star general list, according to the New York Times.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T21:45:14Z",
-        "sourceCount": "22 sources"
       },
       {
         "title": "Iran-linked hackers breach FBI director's personal email",
