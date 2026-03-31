@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Judge orders UPenn to hand over Jewish employee records",
+      "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
+      "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T21:03:37Z",
+      "sourceCount": "64 sources"
+    },
+    {
       "title": "Indonesia rations fuel as Iran war drives oil prices higher",
       "url": "https://www.perplexity.ai/page/indonesia-rations-fuel-as-iran-DkUK_9KxRAayoaHjQCOZTQ",
       "description": "The government capped purchases at 50 litres per vehicle per day and ordered civil servants to work from home Fridays to conserve energy.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T03:08:48Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "DOJ sues NewYork-Presbyterian over contracts that block cheaper care",
-      "url": "https://www.perplexity.ai/page/doj-sues-newyork-presbyterian-FvQvshLkQZa2VnsFfOQx8g",
-      "description": "The Justice Department alleges the hospital system's deals with insurers prevented New Yorkers from accessing lower-cost health plans.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T16:43:03Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-31T21:09:40Z",
+  "cached_at": "2026-03-31T21:26:32Z",
   "topics": {
     "top": [
+      {
+        "title": "Judge orders UPenn to hand over Jewish employee records",
+        "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
+        "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T21:03:37Z",
+        "sourceCount": "64 sources"
+      },
       {
         "title": "Indonesia rations fuel as Iran war drives oil prices higher",
         "url": "https://www.perplexity.ai/page/indonesia-rations-fuel-as-iran-DkUK_9KxRAayoaHjQCOZTQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T03:08:48Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "DOJ sues NewYork-Presbyterian over contracts that block cheaper care",
-        "url": "https://www.perplexity.ai/page/doj-sues-newyork-presbyterian-FvQvshLkQZa2VnsFfOQx8g",
-        "description": "The Justice Department alleges the hospital system's deals with insurers prevented New Yorkers from accessing lower-cost health plans.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T16:43:03Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
