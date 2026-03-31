@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Trump says US will finish Iran war in 'two to three weeks'",
-      "url": "https://www.perplexity.ai/page/trump-says-us-will-finish-iran-l8WPP3iyQJeIP8ipS7_DwQ",
-      "description": "The president's latest estimate extends a pattern of shifting timelines as the conflict enters its second month with ceasefire talks ongoing.",
+      "title": "Trump says Strait of Hormuz will 'automatically' reopen when US exits Iran war",
+      "url": "https://www.perplexity.ai/page/trump-says-strait-of-hormuz-wi-e9np7TchR1i0FNVOE.64.g",
+      "description": "The president told the New York Post the war \"won't last much longer,\" but Iran denied any negotiations are underway to end the conflict.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-31T22:18:42Z",
-      "sourceCount": "64 sources"
+      "pubDate": "2026-03-31T22:39:03Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Judge blocks deal that would let churches endorse candidates",
@@ -217,15 +217,6 @@
       "sourceCount": "43 sources"
     },
     {
-      "title": "Stocks surge as Trump signals willingness to end Iran war",
-      "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
-      "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T14:44:22Z",
-      "sourceCount": "43 sources"
-    },
-    {
       "title": "Kuwaiti oil tanker hit by projectile near Dubai port",
       "url": "https://www.perplexity.ai/page/kuwaiti-oil-tanker-hit-by-proj-psb.skA7TF2XQhmW0OlqQw",
       "description": "Kuwait Petroleum Corporation says the fully loaded Al Salmi was targeted in an Iranian attack, warning of a possible oil spill.",
@@ -235,15 +226,6 @@
       "sourceCount": "53 sources"
     },
     {
-      "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
-      "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
-      "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T23:49:06Z",
-      "sourceCount": "52 sources"
-    },
-    {
       "title": "US struck Isfahan ammo depot with bunker busters",
       "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
       "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
@@ -251,6 +233,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T02:55:43Z",
       "sourceCount": "59 sources"
+    },
+    {
+      "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
+      "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
+      "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T23:49:06Z",
+      "sourceCount": "52 sources"
     },
     {
       "title": "Health groups sue EPA over mercury rule rollback for coal plants",
@@ -1349,19 +1340,28 @@
       "topic": "top",
       "pubDate": "2026-03-26T03:08:48Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "DOJ sues NewYork-Presbyterian over contracts that block cheaper care",
+      "url": "https://www.perplexity.ai/page/doj-sues-newyork-presbyterian-FvQvshLkQZa2VnsFfOQx8g",
+      "description": "The Justice Department alleges the hospital system's deals with insurers prevented New Yorkers from accessing lower-cost health plans.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-26T16:43:03Z",
+      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-03-31T22:40:19Z",
+  "cached_at": "2026-03-31T22:56:21Z",
   "topics": {
     "top": [
       {
-        "title": "Trump says US will finish Iran war in 'two to three weeks'",
-        "url": "https://www.perplexity.ai/page/trump-says-us-will-finish-iran-l8WPP3iyQJeIP8ipS7_DwQ",
-        "description": "The president's latest estimate extends a pattern of shifting timelines as the conflict enters its second month with ceasefire talks ongoing.",
+        "title": "Trump says Strait of Hormuz will 'automatically' reopen when US exits Iran war",
+        "url": "https://www.perplexity.ai/page/trump-says-strait-of-hormuz-wi-e9np7TchR1i0FNVOE.64.g",
+        "description": "The president told the New York Post the war \"won't last much longer,\" but Iran denied any negotiations are underway to end the conflict.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-31T22:18:42Z",
-        "sourceCount": "64 sources"
+        "pubDate": "2026-03-31T22:39:03Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Judge blocks deal that would let churches endorse candidates",
@@ -1571,15 +1571,6 @@
         "sourceCount": "43 sources"
       },
       {
-        "title": "Stocks surge as Trump signals willingness to end Iran war",
-        "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
-        "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T14:44:22Z",
-        "sourceCount": "43 sources"
-      },
-      {
         "title": "Kuwaiti oil tanker hit by projectile near Dubai port",
         "url": "https://www.perplexity.ai/page/kuwaiti-oil-tanker-hit-by-proj-psb.skA7TF2XQhmW0OlqQw",
         "description": "Kuwait Petroleum Corporation says the fully loaded Al Salmi was targeted in an Iranian attack, warning of a possible oil spill.",
@@ -1589,15 +1580,6 @@
         "sourceCount": "53 sources"
       },
       {
-        "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
-        "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
-        "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T23:49:06Z",
-        "sourceCount": "52 sources"
-      },
-      {
         "title": "US struck Isfahan ammo depot with bunker busters",
         "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
         "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
@@ -1605,6 +1587,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T02:55:43Z",
         "sourceCount": "59 sources"
+      },
+      {
+        "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
+        "url": "https://www.perplexity.ai/page/zelensky-says-russia-exploitin-MSM7RbOwTVGO_newvCdAfg",
+        "description": "In an exclusive interview, the Ukrainian president accused Moscow of sharing satellite imagery with Iran and profiting from loosened oil sanctions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T23:49:06Z",
+        "sourceCount": "52 sources"
       },
       {
         "title": "Health groups sue EPA over mercury rule rollback for coal plants",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-26T03:08:48Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "DOJ sues NewYork-Presbyterian over contracts that block cheaper care",
+        "url": "https://www.perplexity.ai/page/doj-sues-newyork-presbyterian-FvQvshLkQZa2VnsFfOQx8g",
+        "description": "The Justice Department alleges the hospital system's deals with insurers prevented New Yorkers from accessing lower-cost health plans.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-26T16:43:03Z",
+        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
