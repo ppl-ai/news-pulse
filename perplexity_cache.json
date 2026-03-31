@@ -118,6 +118,15 @@
       "sourceCount": "101 sources"
     },
     {
+      "title": "Iran says ambassador will stay in Beirut despite Lebanon's expulsion order",
+      "url": "https://www.perplexity.ai/page/iran-says-ambassador-will-stay-nU3jlA86QKuSbZPtiAD4Bg",
+      "description": "Tehran confirmed Monday its envoy remains in Lebanon past the March 29 departure deadline, deepening a diplomatic standoff backed by Hezbollah.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T21:34:00Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "3 Indonesian UNIFIL peacekeepers killed in Lebanon in 24 hours",
       "url": "https://www.perplexity.ai/page/3-indonesian-unifil-peacekeepe-VBfzNptTRuWOt.k6VfjrHA",
       "description": "Two separate explosions in southern Lebanon killed three Indonesian peacekeepers and wounded several others, drawing international condemnation.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-25T19:18:18Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Pew poll finds 61% of Americans disapprove of Trump's Iran war",
-      "url": "https://www.perplexity.ai/page/pew-poll-finds-61-of-americans-qAEWI3j6QCKCSSkp6j_oEg",
-      "description": "The survey of 3,524 adults, conducted March 16-22, also found 59% believe the U.S. made the wrong decision to use military force against Tehran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T21:03:34Z",
-      "sourceCount": "51 sources"
     }
   ],
-  "cached_at": "2026-03-31T00:57:50Z",
+  "cached_at": "2026-03-31T01:43:06Z",
   "topics": {
     "top": [
       {
@@ -1470,6 +1470,15 @@
         "topic": "top",
         "pubDate": "2026-03-30T18:10:45Z",
         "sourceCount": "101 sources"
+      },
+      {
+        "title": "Iran says ambassador will stay in Beirut despite Lebanon's expulsion order",
+        "url": "https://www.perplexity.ai/page/iran-says-ambassador-will-stay-nU3jlA86QKuSbZPtiAD4Bg",
+        "description": "Tehran confirmed Monday its envoy remains in Lebanon past the March 29 departure deadline, deepening a diplomatic standoff backed by Hezbollah.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T21:34:00Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "3 Indonesian UNIFIL peacekeepers killed in Lebanon in 24 hours",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-25T19:18:18Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Pew poll finds 61% of Americans disapprove of Trump's Iran war",
-        "url": "https://www.perplexity.ai/page/pew-poll-finds-61-of-americans-qAEWI3j6QCKCSSkp6j_oEg",
-        "description": "The survey of 3,524 adults, conducted March 16-22, also found 59% believe the U.S. made the wrong decision to use military force against Tehran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T21:03:34Z",
-        "sourceCount": "51 sources"
       }
     ],
     "tech": [],
