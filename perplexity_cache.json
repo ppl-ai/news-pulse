@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Hegseth calls upcoming days 'decisive' in Iran war",
+      "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
+      "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T13:13:53Z",
+      "sourceCount": "71 sources"
+    },
+    {
       "title": "Global banks turn to Chinese stocks as Iran war roils markets",
       "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
       "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
@@ -118,15 +127,6 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "Netanyahu says Iran war is 'beyond the halfway point'",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-iran-war-is-bey-4OxmfCCSSYmIt9VQAEulew",
-      "description": "The Israeli PM told Newsmax the focus has shifted to securing Iran's remaining enriched uranium stockpile, enough for roughly 11 nuclear weapons.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T22:08:00Z",
-      "sourceCount": "67 sources"
-    },
-    {
       "title": "White House urges Congress back from recess amid DHS shutdown",
       "url": "https://www.perplexity.ai/page/white-house-urges-congress-bac-r7NUcyq9Tu.2VGSjBBAo.g",
       "description": "Trump urged Congress to cancel Easter recess and return to Washington, offering to host lawmakers for dinner at the White House.",
@@ -134,15 +134,6 @@
       "topic": "top",
       "pubDate": "2026-03-30T22:04:55Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "Ukraine says Russia recruited 27,000 from 135 countries",
-      "url": "https://www.perplexity.ai/page/ukraine-says-russia-recruited-QhTT7QCmTEidkahfKPP_dA",
-      "description": "Ukrainian intelligence released data identifying 27,407 foreign nationals recruited into Russia's armed forces from 135 countries.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T19:34:14Z",
-      "sourceCount": "49 sources"
     },
     {
       "title": "Iran says ambassador will stay in Beirut despite Lebanon's expulsion order",
@@ -154,6 +145,15 @@
       "sourceCount": "41 sources"
     },
     {
+      "title": "Ukraine says Russia recruited 27,000 from 135 countries",
+      "url": "https://www.perplexity.ai/page/ukraine-says-russia-recruited-QhTT7QCmTEidkahfKPP_dA",
+      "description": "Ukrainian intelligence released data identifying 27,407 foreign nationals recruited into Russia's armed forces from 135 countries.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T19:34:14Z",
+      "sourceCount": "49 sources"
+    },
+    {
       "title": "Manhattan prosecutors probe insider trading on prediction markets",
       "url": "https://www.perplexity.ai/page/manhattan-prosecutors-probe-in-1SvDSCXxTiuocCKHesc00w",
       "description": "The SDNY recently met with Polymarket to discuss how fraud and insider trading laws apply to suspicious bets on the fast-growing platforms.",
@@ -163,15 +163,6 @@
       "sourceCount": "56 sources"
     },
     {
-      "title": "NYT identifies untested U.S. missile in deadly Iran civilian strike",
-      "url": "https://www.perplexity.ai/page/nyt-identifies-untested-u-s-mi-oIyQV9LKS2auY_4dP_pIYw",
-      "description": "A New York Times investigation found the Pentagon used a never-before-deployed Precision Strike Missile in a Feb. 28 strike that killed at least 21 people.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T19:08:31Z",
-      "sourceCount": "14 sources"
-    },
-    {
       "title": "Israel Knesset passes death penalty law for Palestinians",
       "url": "https://www.perplexity.ai/page/israel-knesset-passes-death-pe-WxOznw.DQIahaK4l989Okw",
       "description": "Military courts must now impose a mandatory death sentence for terrorism-related killings, with executions by hanging within 90 days of sentencing.",
@@ -179,6 +170,15 @@
       "topic": "top",
       "pubDate": "2026-03-30T19:21:09Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "NYT identifies untested U.S. missile in deadly Iran civilian strike",
+      "url": "https://www.perplexity.ai/page/nyt-identifies-untested-u-s-mi-oIyQV9LKS2auY_4dP_pIYw",
+      "description": "A New York Times investigation found the Pentagon used a never-before-deployed Precision Strike Missile in a Feb. 28 strike that killed at least 21 people.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T19:08:31Z",
+      "sourceCount": "14 sources"
     },
     {
       "title": "Trump floats asking Arab states to help pay for Iran war",
@@ -1351,9 +1351,18 @@
       "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-03-31T13:03:53Z",
+  "cached_at": "2026-03-31T13:44:34Z",
   "topics": {
     "top": [
+      {
+        "title": "Hegseth calls upcoming days 'decisive' in Iran war",
+        "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
+        "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T13:13:53Z",
+        "sourceCount": "71 sources"
+      },
       {
         "title": "Global banks turn to Chinese stocks as Iran war roils markets",
         "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
@@ -1472,15 +1481,6 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "Netanyahu says Iran war is 'beyond the halfway point'",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-iran-war-is-bey-4OxmfCCSSYmIt9VQAEulew",
-        "description": "The Israeli PM told Newsmax the focus has shifted to securing Iran's remaining enriched uranium stockpile, enough for roughly 11 nuclear weapons.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T22:08:00Z",
-        "sourceCount": "67 sources"
-      },
-      {
         "title": "White House urges Congress back from recess amid DHS shutdown",
         "url": "https://www.perplexity.ai/page/white-house-urges-congress-bac-r7NUcyq9Tu.2VGSjBBAo.g",
         "description": "Trump urged Congress to cancel Easter recess and return to Washington, offering to host lawmakers for dinner at the White House.",
@@ -1488,15 +1488,6 @@
         "topic": "top",
         "pubDate": "2026-03-30T22:04:55Z",
         "sourceCount": "39 sources"
-      },
-      {
-        "title": "Ukraine says Russia recruited 27,000 from 135 countries",
-        "url": "https://www.perplexity.ai/page/ukraine-says-russia-recruited-QhTT7QCmTEidkahfKPP_dA",
-        "description": "Ukrainian intelligence released data identifying 27,407 foreign nationals recruited into Russia's armed forces from 135 countries.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T19:34:14Z",
-        "sourceCount": "49 sources"
       },
       {
         "title": "Iran says ambassador will stay in Beirut despite Lebanon's expulsion order",
@@ -1508,6 +1499,15 @@
         "sourceCount": "41 sources"
       },
       {
+        "title": "Ukraine says Russia recruited 27,000 from 135 countries",
+        "url": "https://www.perplexity.ai/page/ukraine-says-russia-recruited-QhTT7QCmTEidkahfKPP_dA",
+        "description": "Ukrainian intelligence released data identifying 27,407 foreign nationals recruited into Russia's armed forces from 135 countries.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T19:34:14Z",
+        "sourceCount": "49 sources"
+      },
+      {
         "title": "Manhattan prosecutors probe insider trading on prediction markets",
         "url": "https://www.perplexity.ai/page/manhattan-prosecutors-probe-in-1SvDSCXxTiuocCKHesc00w",
         "description": "The SDNY recently met with Polymarket to discuss how fraud and insider trading laws apply to suspicious bets on the fast-growing platforms.",
@@ -1517,15 +1517,6 @@
         "sourceCount": "56 sources"
       },
       {
-        "title": "NYT identifies untested U.S. missile in deadly Iran civilian strike",
-        "url": "https://www.perplexity.ai/page/nyt-identifies-untested-u-s-mi-oIyQV9LKS2auY_4dP_pIYw",
-        "description": "A New York Times investigation found the Pentagon used a never-before-deployed Precision Strike Missile in a Feb. 28 strike that killed at least 21 people.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T19:08:31Z",
-        "sourceCount": "14 sources"
-      },
-      {
         "title": "Israel Knesset passes death penalty law for Palestinians",
         "url": "https://www.perplexity.ai/page/israel-knesset-passes-death-pe-WxOznw.DQIahaK4l989Okw",
         "description": "Military courts must now impose a mandatory death sentence for terrorism-related killings, with executions by hanging within 90 days of sentencing.",
@@ -1533,6 +1524,15 @@
         "topic": "top",
         "pubDate": "2026-03-30T19:21:09Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "NYT identifies untested U.S. missile in deadly Iran civilian strike",
+        "url": "https://www.perplexity.ai/page/nyt-identifies-untested-u-s-mi-oIyQV9LKS2auY_4dP_pIYw",
+        "description": "A New York Times investigation found the Pentagon used a never-before-deployed Precision Strike Missile in a Feb. 28 strike that killed at least 21 people.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T19:08:31Z",
+        "sourceCount": "14 sources"
       },
       {
         "title": "Trump floats asking Arab states to help pay for Iran war",
