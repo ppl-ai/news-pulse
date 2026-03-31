@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Fourth Greek tanker crosses Hormuz despite Iran blockade",
+      "url": "https://www.perplexity.ai/page/fourth-greek-tanker-crosses-ho-oXW6NWb7Q7aLK5x.cmRBGg",
+      "description": "Dynacom Tankers sent the Suezmax Pola through the strait with its transponder off, carrying 1 million barrels of crude to Thailand.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T16:54:12Z",
+      "sourceCount": "71 sources"
+    },
+    {
       "title": "Pentagon says B-52s now flying over Iran after 11,000 strikes in 30 days",
       "url": "https://www.perplexity.ai/page/pentagon-says-b-52s-now-flying-Bpsi853jQRiWbiwQiX_oww",
       "description": "Defense Secretary Hegseth and Gen. Caine said near-total destruction of Iran's air defenses enabled the first overland bomber missions.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T09:10:12Z",
       "sourceCount": "47 sources"
-    },
-    {
-      "title": "France rules out military action to reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/france-rules-out-military-acti-2C5EOeONRFyiYZxSmumzzA",
-      "description": "Prime Minister Lecornu told the National Assembly that France \"will not be drawn into a war that it did not choose\" but will help secure shipping routes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-25T23:49:21Z",
-      "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-03-31T17:09:12Z",
+  "cached_at": "2026-03-31T17:34:36Z",
   "topics": {
     "top": [
+      {
+        "title": "Fourth Greek tanker crosses Hormuz despite Iran blockade",
+        "url": "https://www.perplexity.ai/page/fourth-greek-tanker-crosses-ho-oXW6NWb7Q7aLK5x.cmRBGg",
+        "description": "Dynacom Tankers sent the Suezmax Pola through the strait with its transponder off, carrying 1 million barrels of crude to Thailand.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T16:54:12Z",
+        "sourceCount": "71 sources"
+      },
       {
         "title": "Pentagon says B-52s now flying over Iran after 11,000 strikes in 30 days",
         "url": "https://www.perplexity.ai/page/pentagon-says-b-52s-now-flying-Bpsi853jQRiWbiwQiX_oww",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T09:10:12Z",
         "sourceCount": "47 sources"
-      },
-      {
-        "title": "France rules out military action to reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/france-rules-out-military-acti-2C5EOeONRFyiYZxSmumzzA",
-        "description": "Prime Minister Lecornu told the National Assembly that France \"will not be drawn into a war that it did not choose\" but will help secure shipping routes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-25T23:49:21Z",
-        "sourceCount": "43 sources"
       }
     ],
     "tech": [],
