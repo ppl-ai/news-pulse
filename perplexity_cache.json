@@ -1,17 +1,26 @@
 {
   "stories": [
     {
-      "title": "Committee exempts Gulf oil drilling from Endangered Species Act",
-      "url": "https://www.perplexity.ai/page/committee-exempts-gulf-oil-dri-SnSLynaeSbC9.YB5Zthykw",
-      "description": "The rarely convened panel met Tuesday for the first time since 1992, granting a sweeping national security waiver sought by Defense Secretary Hegseth.",
+      "title": "Supreme Court strikes down Colorado conversion therapy ban in 8-1 ruling",
+      "url": "https://www.perplexity.ai/page/supreme-court-strikes-down-col-beD1Y1CkSeCPZPfAh4LBQw",
+      "description": "The decision in Chiles v. Salazar requires courts to apply heightened First Amendment scrutiny to laws restricting talk therapy for minors.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-31T14:37:49Z",
-      "sourceCount": "27 sources"
+      "pubDate": "2026-03-31T14:47:57Z",
+      "sourceCount": "33 sources"
     },
     {
-      "title": "U.S., Israel strike Isfahan and Tehran on Day 32 of Iran war",
-      "url": "https://www.perplexity.ai/page/u-s-israel-strike-isfahan-and-iSS_R6DqQ_C1h6GAXDo1aQ",
+      "title": "Stocks surge as Trump signals willingness to end Iran war",
+      "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
+      "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T14:44:22Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "US, Israel strike Isfahan and Tehran on Day 32 of Iran war",
+      "url": "https://www.perplexity.ai/page/us-israel-strike-isfahan-and-t-iSS_R6DqQ_C1h6GAXDo1aQ",
       "description": "Iran retaliated by hitting a Kuwaiti oil tanker off Dubai and striking Israel's Haifa refinery as diplomatic efforts stall.",
       "source": "Perplexity",
       "topic": "top",
@@ -71,15 +80,6 @@
       "topic": "top",
       "pubDate": "2026-03-31T04:38:00Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Gold climbs on report Trump may end Iran war",
-      "url": "https://www.perplexity.ai/page/gold-climbs-on-report-trump-ma-ZOMcZvXeScylAeP114WZeQ",
-      "description": "Prices rose after the WSJ reported the president is willing to conclude military operations even if the Strait of Hormuz remains closed.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T05:53:45Z",
-      "sourceCount": "65 sources"
     },
     {
       "title": "NYU closes Abu Dhabi campus after Iran threatens US universities",
@@ -1351,21 +1351,30 @@
       "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-03-31T14:49:25Z",
+  "cached_at": "2026-03-31T15:19:37Z",
   "topics": {
     "top": [
       {
-        "title": "Committee exempts Gulf oil drilling from Endangered Species Act",
-        "url": "https://www.perplexity.ai/page/committee-exempts-gulf-oil-dri-SnSLynaeSbC9.YB5Zthykw",
-        "description": "The rarely convened panel met Tuesday for the first time since 1992, granting a sweeping national security waiver sought by Defense Secretary Hegseth.",
+        "title": "Supreme Court strikes down Colorado conversion therapy ban in 8-1 ruling",
+        "url": "https://www.perplexity.ai/page/supreme-court-strikes-down-col-beD1Y1CkSeCPZPfAh4LBQw",
+        "description": "The decision in Chiles v. Salazar requires courts to apply heightened First Amendment scrutiny to laws restricting talk therapy for minors.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-31T14:37:49Z",
-        "sourceCount": "27 sources"
+        "pubDate": "2026-03-31T14:47:57Z",
+        "sourceCount": "33 sources"
       },
       {
-        "title": "U.S., Israel strike Isfahan and Tehran on Day 32 of Iran war",
-        "url": "https://www.perplexity.ai/page/u-s-israel-strike-isfahan-and-iSS_R6DqQ_C1h6GAXDo1aQ",
+        "title": "Stocks surge as Trump signals willingness to end Iran war",
+        "url": "https://www.perplexity.ai/page/stocks-surge-as-trump-signals-fBNatVPCTdWXrWzA4idXpw",
+        "description": "The Dow, S&P 500, and Nasdaq all rallied sharply after reports that the president is open to winding down the conflict without reopening the Strait of Hormuz.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T14:44:22Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "US, Israel strike Isfahan and Tehran on Day 32 of Iran war",
+        "url": "https://www.perplexity.ai/page/us-israel-strike-isfahan-and-t-iSS_R6DqQ_C1h6GAXDo1aQ",
         "description": "Iran retaliated by hitting a Kuwaiti oil tanker off Dubai and striking Israel's Haifa refinery as diplomatic efforts stall.",
         "source": "Perplexity",
         "topic": "top",
@@ -1425,15 +1434,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T04:38:00Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Gold climbs on report Trump may end Iran war",
-        "url": "https://www.perplexity.ai/page/gold-climbs-on-report-trump-ma-ZOMcZvXeScylAeP114WZeQ",
-        "description": "Prices rose after the WSJ reported the president is willing to conclude military operations even if the Strait of Hormuz remains closed.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T05:53:45Z",
-        "sourceCount": "65 sources"
       },
       {
         "title": "NYU closes Abu Dhabi campus after Iran threatens US universities",
