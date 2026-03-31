@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Judge blocks deal that would let churches endorse candidates",
+      "url": "https://www.perplexity.ai/page/judge-blocks-deal-that-would-l-dTpl3LK1QKy_9Jh.7gJXPA",
+      "description": "A federal judge in Texas rejected a proposed IRS settlement that would have exempted houses of worship from the Johnson Amendment's ban on political endorsements.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T21:59:14Z",
+      "sourceCount": "124 sources"
+    },
+    {
       "title": "Trump signs order restricting mail-in voting ahead of midterms",
       "url": "https://www.perplexity.ai/page/trump-signs-order-restricting-fOh.vviuQJa.3Ev8aTrpYw",
       "description": "The executive order directs federal agencies to limit absentee ballot access, building on prior election actions largely blocked by courts.",
@@ -10,15 +19,6 @@
       "sourceCount": "97 sources"
     },
     {
-      "title": "Judge orders UPenn to hand over Jewish employee records",
-      "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
-      "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T21:03:37Z",
-      "sourceCount": "64 sources"
-    },
-    {
       "title": "FDA moves to allow banned peptides backed by RFK Jr.",
       "url": "https://www.perplexity.ai/page/fda-moves-to-allow-banned-pept-GsBr3aSYQbKD0HQtiSNWfQ",
       "description": "The agency is expected to reclassify more than a dozen injectable peptides restricted in 2023, restoring access through compounding pharmacies.",
@@ -26,6 +26,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T20:03:29Z",
       "sourceCount": "33 sources"
+    },
+    {
+      "title": "Judge orders UPenn to hand over Jewish employee records",
+      "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
+      "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T21:03:37Z",
+      "sourceCount": "64 sources"
     },
     {
       "title": "Majority disapprove of Trump's signature on dollar bills, YouGov poll finds",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T17:19:27Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Researchers recover 95% of battery metals using plasma and citric acid",
-      "url": "https://www.perplexity.ai/page/researchers-recover-95-of-batt-U010ivklQUCv5KfRI2oQUw",
-      "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T09:25:14Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-03-31T22:05:11Z",
+  "cached_at": "2026-03-31T22:21:16Z",
   "topics": {
     "top": [
+      {
+        "title": "Judge blocks deal that would let churches endorse candidates",
+        "url": "https://www.perplexity.ai/page/judge-blocks-deal-that-would-l-dTpl3LK1QKy_9Jh.7gJXPA",
+        "description": "A federal judge in Texas rejected a proposed IRS settlement that would have exempted houses of worship from the Johnson Amendment's ban on political endorsements.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T21:59:14Z",
+        "sourceCount": "124 sources"
+      },
       {
         "title": "Trump signs order restricting mail-in voting ahead of midterms",
         "url": "https://www.perplexity.ai/page/trump-signs-order-restricting-fOh.vviuQJa.3Ev8aTrpYw",
@@ -1364,15 +1373,6 @@
         "sourceCount": "97 sources"
       },
       {
-        "title": "Judge orders UPenn to hand over Jewish employee records",
-        "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
-        "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T21:03:37Z",
-        "sourceCount": "64 sources"
-      },
-      {
         "title": "FDA moves to allow banned peptides backed by RFK Jr.",
         "url": "https://www.perplexity.ai/page/fda-moves-to-allow-banned-pept-GsBr3aSYQbKD0HQtiSNWfQ",
         "description": "The agency is expected to reclassify more than a dozen injectable peptides restricted in 2023, restoring access through compounding pharmacies.",
@@ -1380,6 +1380,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T20:03:29Z",
         "sourceCount": "33 sources"
+      },
+      {
+        "title": "Judge orders UPenn to hand over Jewish employee records",
+        "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
+        "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T21:03:37Z",
+        "sourceCount": "64 sources"
       },
       {
         "title": "Majority disapprove of Trump's signature on dollar bills, YouGov poll finds",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T17:19:27Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Researchers recover 95% of battery metals using plasma and citric acid",
-        "url": "https://www.perplexity.ai/page/researchers-recover-95-of-batt-U010ivklQUCv5KfRI2oQUw",
-        "description": "The patented method uses a 15-minute microwave plasma pretreatment and lemon-strength acid to extract valuable minerals from spent lithium-ion batteries.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T09:25:14Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
