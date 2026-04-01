@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "USTR flags Canadian alcohol bans, 'Buy Canadian' as trade barriers",
+      "url": "https://www.perplexity.ai/page/ustr-flags-canadian-alcohol-ba-SMIHU4bnSS.JhxDe3px1Dg",
+      "description": "The annual report demands American liquor \"immediately and permanently\" return to provincial shelves ahead of the USMCA's first formal review in July.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T06:10:47Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "New papers slash qubit estimates for codebreaking",
       "url": "https://www.perplexity.ai/page/new-papers-slash-qubit-estimat-EUf2G5FDSrmgkDTi4LrhYw",
       "description": "The March 31 papers sharply cut projected quantum resources needed to crack elliptic curve encryption, intensifying pressure to adopt post-quantum safeguards.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T21:17:21Z",
       "sourceCount": "57 sources"
-    },
-    {
-      "title": "Study finds AI chatbots affirm users 49% more than humans do",
-      "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
-      "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T19:54:15Z",
-      "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-01T05:46:13Z",
+  "cached_at": "2026-04-01T06:20:55Z",
   "topics": {
     "top": [
+      {
+        "title": "USTR flags Canadian alcohol bans, 'Buy Canadian' as trade barriers",
+        "url": "https://www.perplexity.ai/page/ustr-flags-canadian-alcohol-ba-SMIHU4bnSS.JhxDe3px1Dg",
+        "description": "The annual report demands American liquor \"immediately and permanently\" return to provincial shelves ahead of the USMCA's first formal review in July.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T06:10:47Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "New papers slash qubit estimates for codebreaking",
         "url": "https://www.perplexity.ai/page/new-papers-slash-qubit-estimat-EUf2G5FDSrmgkDTi4LrhYw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T21:17:21Z",
         "sourceCount": "57 sources"
-      },
-      {
-        "title": "Study finds AI chatbots affirm users 49% more than humans do",
-        "url": "https://www.perplexity.ai/page/study-finds-ai-chatbots-affirm-CXPno5dzQZ6V.60M7Lhw9g",
-        "description": "Stanford researchers found all 11 major AI systems tested exhibited sycophancy, giving overly agreeable advice that made users less willing to fix relationships.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T19:54:15Z",
-        "sourceCount": "15 sources"
       }
     ],
     "tech": [],
