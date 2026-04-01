@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Italy recovers 19 bodies from migrant boat near Lampedusa",
-      "url": "https://www.perplexity.ai/page/italy-recovers-19-bodies-from-9J4ADDyfS0asckBNhAKqRw",
-      "description": "The coast guard rescued 58 survivors from a dinghy that broke down crossing from Libya, as 2026's Mediterranean death toll nears record levels.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T19:11:38Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Helio Corporation highlights four Moon missions as Artemis II targets liftoff",
       "url": "https://www.perplexity.ai/page/helio-corporation-highlights-f-xEbvRAvGTOaXieOeROZnOg",
       "description": "The small aerospace firm says it delivered flight hardware for four lunar missions and won a role in the Artemis IV program.",
@@ -170,15 +161,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T09:43:57Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Russia launches 339 drones at Ukraine after Kremlin rejects Easter ceasefire",
-      "url": "https://www.perplexity.ai/page/russia-launches-339-drones-at-Ddun3.fnScaCZUhbAOgLYg",
-      "description": "Zelenskyy called the overnight barrage a \"response to diplomacy\" as he prepares for a video call with U.S. envoys and NATO's chief on Wednesday.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T10:29:05Z",
-      "sourceCount": "56 sources"
     },
     {
       "title": "Qubits needed to crack encryption fall 200-fold in under a year",
@@ -1349,20 +1331,29 @@
       "topic": "top",
       "pubDate": "2026-03-27T10:03:53Z",
       "sourceCount": "26 sources"
+    },
+    {
+      "title": "China launches two trade barrier probes against U.S.",
+      "url": "https://www.perplexity.ai/page/china-launches-two-trade-barri-FCVTjKWxTlKKGXY6yirhHg",
+      "description": "Beijing's Commerce Ministry opened investigations into U.S. supply chain disruptions and green trade restrictions, retaliating against Washington's Section 301 probes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T08:30:19Z",
+      "sourceCount": "63 sources"
+    },
+    {
+      "title": "US has lost at least 16 aircraft in Iran war as losses mount",
+      "url": "https://www.perplexity.ai/page/us-has-lost-at-least-16-aircra-c2Ay8bCUTjKuegb9RQB1kA",
+      "description": "The toll includes an F-35A damaged by Iranian ground fire on March 19 — the first time the stealth jet has been struck by enemy fire.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T02:18:45Z",
+      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-04-01T19:17:01Z",
+  "cached_at": "2026-04-01T19:43:50Z",
   "topics": {
     "top": [
-      {
-        "title": "Italy recovers 19 bodies from migrant boat near Lampedusa",
-        "url": "https://www.perplexity.ai/page/italy-recovers-19-bodies-from-9J4ADDyfS0asckBNhAKqRw",
-        "description": "The coast guard rescued 58 survivors from a dinghy that broke down crossing from Libya, as 2026's Mediterranean death toll nears record levels.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T19:11:38Z",
-        "sourceCount": "27 sources"
-      },
       {
         "title": "Helio Corporation highlights four Moon missions as Artemis II targets liftoff",
         "url": "https://www.perplexity.ai/page/helio-corporation-highlights-f-xEbvRAvGTOaXieOeROZnOg",
@@ -1524,15 +1515,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T09:43:57Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Russia launches 339 drones at Ukraine after Kremlin rejects Easter ceasefire",
-        "url": "https://www.perplexity.ai/page/russia-launches-339-drones-at-Ddun3.fnScaCZUhbAOgLYg",
-        "description": "Zelenskyy called the overnight barrage a \"response to diplomacy\" as he prepares for a video call with U.S. envoys and NATO's chief on Wednesday.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T10:29:05Z",
-        "sourceCount": "56 sources"
       },
       {
         "title": "Qubits needed to crack encryption fall 200-fold in under a year",
@@ -2703,6 +2685,24 @@
         "topic": "top",
         "pubDate": "2026-03-27T10:03:53Z",
         "sourceCount": "26 sources"
+      },
+      {
+        "title": "China launches two trade barrier probes against U.S.",
+        "url": "https://www.perplexity.ai/page/china-launches-two-trade-barri-FCVTjKWxTlKKGXY6yirhHg",
+        "description": "Beijing's Commerce Ministry opened investigations into U.S. supply chain disruptions and green trade restrictions, retaliating against Washington's Section 301 probes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T08:30:19Z",
+        "sourceCount": "63 sources"
+      },
+      {
+        "title": "US has lost at least 16 aircraft in Iran war as losses mount",
+        "url": "https://www.perplexity.ai/page/us-has-lost-at-least-16-aircra-c2Ay8bCUTjKuegb9RQB1kA",
+        "description": "The toll includes an F-35A damaged by Iranian ground fire on March 19 — the first time the stealth jet has been struck by enemy fire.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T02:18:45Z",
+        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
