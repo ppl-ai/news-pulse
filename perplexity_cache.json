@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "UMass Amherst develops fabric panels that slash building heating costs",
+      "url": "https://www.perplexity.ai/page/umass-amherst-develops-fabric-atj2O2VwQmS3QTFWYfxS8Q",
+      "description": "Removable panels coated with a photothermal dye can reduce heating energy use by up to 23%, far exceeding traditional renovations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T10:42:21Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
       "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
       "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T22:38:55Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Education Dept. to vacate headquarters for smaller office amid dismantling push",
-      "url": "https://www.perplexity.ai/page/education-dept-to-vacate-headq-tpQNGitoSC6S.CMu.5audA",
-      "description": "The move, planned for August, comes as the agency's building sits 70% vacant after more than a year of mass layoffs under the Trump administration.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T22:29:33Z",
-      "sourceCount": "75 sources"
     }
   ],
-  "cached_at": "2026-04-01T10:39:18Z",
+  "cached_at": "2026-04-01T11:07:07Z",
   "topics": {
     "top": [
+      {
+        "title": "UMass Amherst develops fabric panels that slash building heating costs",
+        "url": "https://www.perplexity.ai/page/umass-amherst-develops-fabric-atj2O2VwQmS3QTFWYfxS8Q",
+        "description": "Removable panels coated with a photothermal dye can reduce heating energy use by up to 23%, far exceeding traditional renovations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T10:42:21Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
         "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T22:38:55Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Education Dept. to vacate headquarters for smaller office amid dismantling push",
-        "url": "https://www.perplexity.ai/page/education-dept-to-vacate-headq-tpQNGitoSC6S.CMu.5audA",
-        "description": "The move, planned for August, comes as the agency's building sits 70% vacant after more than a year of mass layoffs under the Trump administration.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T22:29:33Z",
-        "sourceCount": "75 sources"
       }
     ],
     "tech": [],
