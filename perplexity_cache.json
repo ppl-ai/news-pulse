@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Thune and Johnson unveil two-track plan to end DHS shutdown",
+      "url": "https://www.perplexity.ai/page/thune-and-johnson-unveil-two-t-k2jHG4hDS3CUHC1e4SlTQQ",
+      "description": "The GOP leaders said they would pursue regular appropriations and budget reconciliation to fully fund the department on its 46th day without funding.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T19:28:34Z",
+      "sourceCount": "58 sources"
+    },
+    {
       "title": "Helio Corporation highlights four Moon missions as Artemis II targets liftoff",
       "url": "https://www.perplexity.ai/page/helio-corporation-highlights-f-xEbvRAvGTOaXieOeROZnOg",
       "description": "The small aerospace firm says it delivered flight hardware for four lunar missions and won a role in the Artemis IV program.",
@@ -512,15 +521,6 @@
       "topic": "top",
       "pubDate": "2026-03-30T21:34:00Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "White House urges Congress back from recess amid DHS shutdown",
-      "url": "https://www.perplexity.ai/page/white-house-urges-congress-bac-r7NUcyq9Tu.2VGSjBBAo.g",
-      "description": "Trump urged Congress to cancel Easter recess and return to Washington, offering to host lawmakers for dinner at the White House.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T22:04:55Z",
-      "sourceCount": "39 sources"
     },
     {
       "title": "Ukraine says Russia recruited 27,000 from 135 countries",
@@ -1351,9 +1351,18 @@
       "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-04-01T19:43:50Z",
+  "cached_at": "2026-04-01T20:04:26Z",
   "topics": {
     "top": [
+      {
+        "title": "Thune and Johnson unveil two-track plan to end DHS shutdown",
+        "url": "https://www.perplexity.ai/page/thune-and-johnson-unveil-two-t-k2jHG4hDS3CUHC1e4SlTQQ",
+        "description": "The GOP leaders said they would pursue regular appropriations and budget reconciliation to fully fund the department on its 46th day without funding.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T19:28:34Z",
+        "sourceCount": "58 sources"
+      },
       {
         "title": "Helio Corporation highlights four Moon missions as Artemis II targets liftoff",
         "url": "https://www.perplexity.ai/page/helio-corporation-highlights-f-xEbvRAvGTOaXieOeROZnOg",
@@ -1866,15 +1875,6 @@
         "topic": "top",
         "pubDate": "2026-03-30T21:34:00Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "White House urges Congress back from recess amid DHS shutdown",
-        "url": "https://www.perplexity.ai/page/white-house-urges-congress-bac-r7NUcyq9Tu.2VGSjBBAo.g",
-        "description": "Trump urged Congress to cancel Easter recess and return to Washington, offering to host lawmakers for dinner at the White House.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T22:04:55Z",
-        "sourceCount": "39 sources"
       },
       {
         "title": "Ukraine says Russia recruited 27,000 from 135 countries",
