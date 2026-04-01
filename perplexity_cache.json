@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "NASA chief says 90% chance of proving ancient life on Mars",
+      "url": "https://www.perplexity.ai/page/nasa-chief-says-90-chance-of-p-o1V9GAPaTCyKCaXUq1Eo2A",
+      "description": "Jared Isaacman pointed to the universe's scale and recent Perseverance rover findings as reasons for optimism about microbial evidence on Mars.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T13:59:53Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Trump claims Iran requested ceasefire; Tehran denies it",
+      "url": "https://www.perplexity.ai/page/trump-claims-iran-requested-ce-FvMYqIC2TtGb8tIR8sJqgw",
+      "description": "Hours before a planned primetime address on the war, Trump and Iran offered starkly conflicting accounts of ceasefire talks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T13:39:01Z",
+      "sourceCount": "79 sources"
+    },
+    {
       "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
       "url": "https://www.perplexity.ai/page/iran-hits-tanker-off-qatar-str-uXoBow6CQVW58f9z8IysSA",
       "description": "Qatar said it intercepted two of three cruise missiles from Iran, but a third struck a QatarEnergy-chartered tanker. No casualties were reported.",
@@ -10,15 +28,6 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "New studies reveal how DNA motion and cell mechanics drive cancer",
-      "url": "https://www.perplexity.ai/page/new-studies-reveal-how-dna-mot-g5brkuKcTuGXPZlKMfLzAg",
-      "description": "Multiple recent findings show that the physical behavior of DNA and internal cell currents play larger roles in cancer than previously understood.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T13:17:54Z",
-      "sourceCount": "43 sources"
-    },
-    {
       "title": "NASA set to launch Artemis II moon mission today",
       "url": "https://www.perplexity.ai/page/nasa-set-to-launch-artemis-ii-5D7Gob6tQTy33FhLgkYrxQ",
       "description": "The first crewed lunar voyage since 1972 is targeting liftoff at 6:24 p.m. EDT from Kennedy Space Center with four astronauts aboard.",
@@ -26,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T12:09:55Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Trump to address nation Wednesday on Iran war exit",
-      "url": "https://www.perplexity.ai/page/trump-to-address-nation-wednes-fkPy5RalR_yHefSMtBIBOg",
-      "description": "The president said Tuesday the U.S. could leave Iran in two to three weeks, with a national address set for Wednesday at 9 p.m. ET.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T11:31:53Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
@@ -154,31 +154,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-      "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-      "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
+      "title": "Trump says Strait of Hormuz will 'automatically' reopen when US exits Iran war",
+      "url": "https://www.perplexity.ai/page/trump-says-strait-of-hormuz-wi-e9np7TchR1i0FNVOE.64.g",
+      "description": "The president told the New York Post the war \"won't last much longer,\" but Iran denied any negotiations are underway to end the conflict.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-31T22:23:53Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Iran demands full end to war, rejects ceasefire talks",
-      "url": "https://www.perplexity.ai/page/iran-demands-full-end-to-war-r-j5LlBxD0ScqBvMjqsV.0.A",
-      "description": "Foreign Minister Araghchi confirmed direct contact with U.S. envoy Witkoff but said Tehran has \"zero\" trust in Washington and is not negotiating.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T23:34:44Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
-      "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
-      "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T23:18:14Z",
-      "sourceCount": "29 sources"
+      "pubDate": "2026-03-31T22:39:03Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Judge blocks deal that would let churches endorse candidates",
@@ -190,15 +172,6 @@
       "sourceCount": "124 sources"
     },
     {
-      "title": "Trump signs order restricting mail-in voting ahead of midterms",
-      "url": "https://www.perplexity.ai/page/trump-signs-order-restricting-fOh.vviuQJa.3Ev8aTrpYw",
-      "description": "The executive order directs federal agencies to limit absentee ballot access, building on prior election actions largely blocked by courts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T21:46:11Z",
-      "sourceCount": "97 sources"
-    },
-    {
       "title": "FDA moves to allow banned peptides backed by RFK Jr.",
       "url": "https://www.perplexity.ai/page/fda-moves-to-allow-banned-pept-GsBr3aSYQbKD0HQtiSNWfQ",
       "description": "The agency is expected to reclassify more than a dozen injectable peptides restricted in 2023, restoring access through compounding pharmacies.",
@@ -206,6 +179,24 @@
       "topic": "top",
       "pubDate": "2026-03-31T20:03:29Z",
       "sourceCount": "33 sources"
+    },
+    {
+      "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
+      "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
+      "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T23:18:14Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Rubio directs US embassies to use X and military psyops against propaganda",
+      "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
+      "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T22:23:53Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Judge orders UPenn to hand over Jewish employee records",
@@ -217,15 +208,6 @@
       "sourceCount": "64 sources"
     },
     {
-      "title": "Majority disapprove of Trump's signature on dollar bills, YouGov poll finds",
-      "url": "https://www.perplexity.ai/page/majority-disapprove-of-trump-s-_ieDpdWnSdKXYCRnYSCVyw",
-      "description": "The survey found 48% strongly oppose replacing the U.S. Treasurer's signature with the president's on new paper currency.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:45:31Z",
-      "sourceCount": "130 sources"
-    },
-    {
       "title": "Bipartisan senators introduce bill to boost Taiwan drone production",
       "url": "https://www.perplexity.ai/page/bipartisan-senators-introduce-.FoW0F5kToiE9FZtEI9hFA",
       "description": "The legislation would create a U.S.-Taiwan working group to co-produce drones and build supply chains independent from China.",
@@ -233,6 +215,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T19:28:24Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "Trump signs order restricting mail-in voting ahead of midterms",
+      "url": "https://www.perplexity.ai/page/trump-signs-order-restricting-fOh.vviuQJa.3Ev8aTrpYw",
+      "description": "The executive order directs federal agencies to limit absentee ballot access, building on prior election actions largely blocked by courts.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T21:46:11Z",
+      "sourceCount": "97 sources"
     },
     {
       "title": "Fourth Greek tanker crosses Hormuz despite Iran blockade",
@@ -244,15 +235,6 @@
       "sourceCount": "71 sources"
     },
     {
-      "title": "Judge halts Trump's White House ballroom construction",
-      "url": "https://www.perplexity.ai/page/judge-halts-trump-s-white-hous-Scx.Xf6_TtuBpQenEdQBug",
-      "description": "U.S. District Judge Richard Leon ruled that \"no statute\" authorizes the $400 million project, ordering work to stop unless Congress approves it.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:37:18Z",
-      "sourceCount": "28 sources"
-    },
-    {
       "title": "Pentagon says B-52s now flying over Iran after 11,000 strikes in 30 days",
       "url": "https://www.perplexity.ai/page/pentagon-says-b-52s-now-flying-Bpsi853jQRiWbiwQiX_oww",
       "description": "Defense Secretary Hegseth and Gen. Caine said near-total destruction of Iran's air defenses enabled the first overland bomber missions.",
@@ -262,22 +244,13 @@
       "sourceCount": "29 sources"
     },
     {
-      "title": "Vance to publish book on Catholic faith while in office",
-      "url": "https://www.perplexity.ai/page/vance-to-publish-book-on-catho-Icmp0ndtSEWr2rCm_btjxw",
-      "description": "\"Communion: Finding My Way Back to Faith,\" due June 16, traces the vice president's journey from atheism to Catholicism.",
+      "title": "Majority disapprove of Trump's signature on dollar bills, YouGov poll finds",
+      "url": "https://www.perplexity.ai/page/majority-disapprove-of-trump-s-_ieDpdWnSdKXYCRnYSCVyw",
+      "description": "The survey found 48% strongly oppose replacing the U.S. Treasurer's signature with the president's on new paper currency.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-31T16:22:40Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Judge permanently blocks Trump order defunding NPR, PBS",
-      "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
-      "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:22:53Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-03-31T19:45:31Z",
+      "sourceCount": "130 sources"
     },
     {
       "title": "Supreme Court strikes down Colorado conversion therapy ban in 8-1 ruling",
@@ -298,13 +271,22 @@
       "sourceCount": "71 sources"
     },
     {
-      "title": "Trump warns European allies after Italy, France block US military access",
-      "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
-      "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
+      "title": "Judge permanently blocks Trump order defunding NPR, PBS",
+      "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
+      "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-31T19:04:40Z",
-      "sourceCount": "44 sources"
+      "pubDate": "2026-03-31T19:22:53Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Vance to publish book on Catholic faith while in office",
+      "url": "https://www.perplexity.ai/page/vance-to-publish-book-on-catho-Icmp0ndtSEWr2rCm_btjxw",
+      "description": "\"Communion: Finding My Way Back to Faith,\" due June 16, traces the vice president's journey from atheism to Catholicism.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T16:22:40Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Global banks turn to Chinese stocks as Iran war roils markets",
@@ -316,6 +298,15 @@
       "sourceCount": "42 sources"
     },
     {
+      "title": "Judge halts Trump's White House ballroom construction",
+      "url": "https://www.perplexity.ai/page/judge-halts-trump-s-white-hous-Scx.Xf6_TtuBpQenEdQBug",
+      "description": "U.S. District Judge Richard Leon ruled that \"no statute\" authorizes the $400 million project, ordering work to stop unless Congress approves it.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T19:37:18Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Australia, Indonesia probe tech giants over under-16 bans",
       "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
       "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
@@ -323,15 +314,6 @@
       "topic": "top",
       "pubDate": "2026-03-31T07:57:23Z",
       "sourceCount": "32 sources"
-    },
-    {
-      "title": "Noem's final day at DHS arrives amid IG probe, spending scandal",
-      "url": "https://www.perplexity.ai/page/noem-s-final-day-at-dhs-arrive-oAamhQz0SFag_GS9nk682Q",
-      "description": "Markwayne Mullin takes over as secretary while investigators examine contracts and lavish ad spending tied to Noem and adviser Corey Lewandowski.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T18:12:10Z",
-      "sourceCount": "50 sources"
     },
     {
       "title": "Data centers warm nearby land by up to 16°F, Cambridge study finds",
@@ -343,6 +325,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Trump warns European allies after Italy, France block US military access",
+      "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
+      "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T19:04:40Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Pentagon denies Hegseth sought defense investments before Iran war",
       "url": "https://www.perplexity.ai/page/pentagon-denies-hegseth-sought-FMzd_FXsQTaFBkzgZkO0fg",
       "description": "The Financial Times reported that Hegseth's broker sought to invest millions in a defense ETF weeks before the Feb. 28 strike on Iran.",
@@ -350,15 +341,6 @@
       "topic": "top",
       "pubDate": "2026-03-31T04:38:00Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Trump unveils 47-story skyscraper design for Miami presidential library",
-      "url": "https://www.perplexity.ai/page/trump-unveils-47-story-skyscra-LSTajyQLT56q3Bsfd0n38A",
-      "description": "The towering glass tower would break sharply from the low-slung, campus-style buildings that have defined presidential libraries for decades.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T16:21:25Z",
-      "sourceCount": "23 sources"
     },
     {
       "title": "NYU closes Abu Dhabi campus after Iran threatens US universities",
@@ -370,6 +352,15 @@
       "sourceCount": "43 sources"
     },
     {
+      "title": "Noem's final day at DHS arrives amid IG probe, spending scandal",
+      "url": "https://www.perplexity.ai/page/noem-s-final-day-at-dhs-arrive-oAamhQz0SFag_GS9nk682Q",
+      "description": "Markwayne Mullin takes over as secretary while investigators examine contracts and lavish ad spending tied to Noem and adviser Corey Lewandowski.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T18:12:10Z",
+      "sourceCount": "50 sources"
+    },
+    {
       "title": "Health groups sue EPA over mercury rule rollback for coal plants",
       "url": "https://www.perplexity.ai/page/health-groups-sue-epa-over-mer-i54PI1KnTTG3cnnYRcuBDQ",
       "description": "A coalition of two dozen organizations filed suit in D.C. Circuit court, arguing the repeal of tighter emissions limits endangers children and communities.",
@@ -377,15 +368,6 @@
       "topic": "top",
       "pubDate": "2026-03-30T22:29:26Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "US struck Isfahan ammo depot with bunker busters",
-      "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
-      "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T02:55:43Z",
-      "sourceCount": "59 sources"
     },
     {
       "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
@@ -397,22 +379,13 @@
       "sourceCount": "52 sources"
     },
     {
-      "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
-      "url": "https://www.perplexity.ai/page/fbi-labels-temple-isreal-attac-hCIbqOQrS3qKi21OE0bD3g",
-      "description": "The bureau said Ayman Ghazali planned the March 12 ramming and shooting at Temple Israel to \"kill as many\" people as possible.",
+      "title": "Trump unveils 47-story skyscraper design for Miami presidential library",
+      "url": "https://www.perplexity.ai/page/trump-unveils-47-story-skyscra-LSTajyQLT56q3Bsfd0n38A",
+      "description": "The towering glass tower would break sharply from the low-slung, campus-style buildings that have defined presidential libraries for decades.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-30T22:08:45Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "White House urges Congress back from recess amid DHS shutdown",
-      "url": "https://www.perplexity.ai/page/white-house-urges-congress-bac-r7NUcyq9Tu.2VGSjBBAo.g",
-      "description": "Trump urged Congress to cancel Easter recess and return to Washington, offering to host lawmakers for dinner at the White House.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T22:04:55Z",
-      "sourceCount": "39 sources"
+      "pubDate": "2026-03-31T16:21:25Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Iran says ambassador will stay in Beirut despite Lebanon's expulsion order",
@@ -433,6 +406,24 @@
       "sourceCount": "49 sources"
     },
     {
+      "title": "US struck Isfahan ammo depot with bunker busters",
+      "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
+      "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T02:55:43Z",
+      "sourceCount": "59 sources"
+    },
+    {
+      "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
+      "url": "https://www.perplexity.ai/page/fbi-labels-temple-isreal-attac-hCIbqOQrS3qKi21OE0bD3g",
+      "description": "The bureau said Ayman Ghazali planned the March 12 ramming and shooting at Temple Israel to \"kill as many\" people as possible.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T22:08:45Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Manhattan prosecutors probe insider trading on prediction markets",
       "url": "https://www.perplexity.ai/page/manhattan-prosecutors-probe-in-1SvDSCXxTiuocCKHesc00w",
       "description": "The SDNY recently met with Polymarket to discuss how fraud and insider trading laws apply to suspicious bets on the fast-growing platforms.",
@@ -440,6 +431,15 @@
       "topic": "top",
       "pubDate": "2026-03-30T19:27:23Z",
       "sourceCount": "56 sources"
+    },
+    {
+      "title": "White House urges Congress back from recess amid DHS shutdown",
+      "url": "https://www.perplexity.ai/page/white-house-urges-congress-bac-r7NUcyq9Tu.2VGSjBBAo.g",
+      "description": "Trump urged Congress to cancel Easter recess and return to Washington, offering to host lawmakers for dinner at the White House.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T22:04:55Z",
+      "sourceCount": "39 sources"
     },
     {
       "title": "Israel Knesset passes death penalty law for Palestinians",
@@ -1351,9 +1351,27 @@
       "sourceCount": "57 sources"
     }
   ],
-  "cached_at": "2026-04-01T13:36:23Z",
+  "cached_at": "2026-04-01T14:13:56Z",
   "topics": {
     "top": [
+      {
+        "title": "NASA chief says 90% chance of proving ancient life on Mars",
+        "url": "https://www.perplexity.ai/page/nasa-chief-says-90-chance-of-p-o1V9GAPaTCyKCaXUq1Eo2A",
+        "description": "Jared Isaacman pointed to the universe's scale and recent Perseverance rover findings as reasons for optimism about microbial evidence on Mars.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T13:59:53Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Trump claims Iran requested ceasefire; Tehran denies it",
+        "url": "https://www.perplexity.ai/page/trump-claims-iran-requested-ce-FvMYqIC2TtGb8tIR8sJqgw",
+        "description": "Hours before a planned primetime address on the war, Trump and Iran offered starkly conflicting accounts of ceasefire talks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T13:39:01Z",
+        "sourceCount": "79 sources"
+      },
       {
         "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
         "url": "https://www.perplexity.ai/page/iran-hits-tanker-off-qatar-str-uXoBow6CQVW58f9z8IysSA",
@@ -1364,15 +1382,6 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "New studies reveal how DNA motion and cell mechanics drive cancer",
-        "url": "https://www.perplexity.ai/page/new-studies-reveal-how-dna-mot-g5brkuKcTuGXPZlKMfLzAg",
-        "description": "Multiple recent findings show that the physical behavior of DNA and internal cell currents play larger roles in cancer than previously understood.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T13:17:54Z",
-        "sourceCount": "43 sources"
-      },
-      {
         "title": "NASA set to launch Artemis II moon mission today",
         "url": "https://www.perplexity.ai/page/nasa-set-to-launch-artemis-ii-5D7Gob6tQTy33FhLgkYrxQ",
         "description": "The first crewed lunar voyage since 1972 is targeting liftoff at 6:24 p.m. EDT from Kennedy Space Center with four astronauts aboard.",
@@ -1380,15 +1389,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T12:09:55Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Trump to address nation Wednesday on Iran war exit",
-        "url": "https://www.perplexity.ai/page/trump-to-address-nation-wednes-fkPy5RalR_yHefSMtBIBOg",
-        "description": "The president said Tuesday the U.S. could leave Iran in two to three weeks, with a national address set for Wednesday at 9 p.m. ET.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T11:31:53Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
@@ -1508,31 +1508,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-        "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-        "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
+        "title": "Trump says Strait of Hormuz will 'automatically' reopen when US exits Iran war",
+        "url": "https://www.perplexity.ai/page/trump-says-strait-of-hormuz-wi-e9np7TchR1i0FNVOE.64.g",
+        "description": "The president told the New York Post the war \"won't last much longer,\" but Iran denied any negotiations are underway to end the conflict.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-31T22:23:53Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Iran demands full end to war, rejects ceasefire talks",
-        "url": "https://www.perplexity.ai/page/iran-demands-full-end-to-war-r-j5LlBxD0ScqBvMjqsV.0.A",
-        "description": "Foreign Minister Araghchi confirmed direct contact with U.S. envoy Witkoff but said Tehran has \"zero\" trust in Washington and is not negotiating.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T23:34:44Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
-        "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
-        "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T23:18:14Z",
-        "sourceCount": "29 sources"
+        "pubDate": "2026-03-31T22:39:03Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Judge blocks deal that would let churches endorse candidates",
@@ -1544,15 +1526,6 @@
         "sourceCount": "124 sources"
       },
       {
-        "title": "Trump signs order restricting mail-in voting ahead of midterms",
-        "url": "https://www.perplexity.ai/page/trump-signs-order-restricting-fOh.vviuQJa.3Ev8aTrpYw",
-        "description": "The executive order directs federal agencies to limit absentee ballot access, building on prior election actions largely blocked by courts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T21:46:11Z",
-        "sourceCount": "97 sources"
-      },
-      {
         "title": "FDA moves to allow banned peptides backed by RFK Jr.",
         "url": "https://www.perplexity.ai/page/fda-moves-to-allow-banned-pept-GsBr3aSYQbKD0HQtiSNWfQ",
         "description": "The agency is expected to reclassify more than a dozen injectable peptides restricted in 2023, restoring access through compounding pharmacies.",
@@ -1560,6 +1533,24 @@
         "topic": "top",
         "pubDate": "2026-03-31T20:03:29Z",
         "sourceCount": "33 sources"
+      },
+      {
+        "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
+        "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
+        "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T23:18:14Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Rubio directs US embassies to use X and military psyops against propaganda",
+        "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
+        "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T22:23:53Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Judge orders UPenn to hand over Jewish employee records",
@@ -1571,15 +1562,6 @@
         "sourceCount": "64 sources"
       },
       {
-        "title": "Majority disapprove of Trump's signature on dollar bills, YouGov poll finds",
-        "url": "https://www.perplexity.ai/page/majority-disapprove-of-trump-s-_ieDpdWnSdKXYCRnYSCVyw",
-        "description": "The survey found 48% strongly oppose replacing the U.S. Treasurer's signature with the president's on new paper currency.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:45:31Z",
-        "sourceCount": "130 sources"
-      },
-      {
         "title": "Bipartisan senators introduce bill to boost Taiwan drone production",
         "url": "https://www.perplexity.ai/page/bipartisan-senators-introduce-.FoW0F5kToiE9FZtEI9hFA",
         "description": "The legislation would create a U.S.-Taiwan working group to co-produce drones and build supply chains independent from China.",
@@ -1587,6 +1569,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T19:28:24Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "Trump signs order restricting mail-in voting ahead of midterms",
+        "url": "https://www.perplexity.ai/page/trump-signs-order-restricting-fOh.vviuQJa.3Ev8aTrpYw",
+        "description": "The executive order directs federal agencies to limit absentee ballot access, building on prior election actions largely blocked by courts.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T21:46:11Z",
+        "sourceCount": "97 sources"
       },
       {
         "title": "Fourth Greek tanker crosses Hormuz despite Iran blockade",
@@ -1598,15 +1589,6 @@
         "sourceCount": "71 sources"
       },
       {
-        "title": "Judge halts Trump's White House ballroom construction",
-        "url": "https://www.perplexity.ai/page/judge-halts-trump-s-white-hous-Scx.Xf6_TtuBpQenEdQBug",
-        "description": "U.S. District Judge Richard Leon ruled that \"no statute\" authorizes the $400 million project, ordering work to stop unless Congress approves it.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:37:18Z",
-        "sourceCount": "28 sources"
-      },
-      {
         "title": "Pentagon says B-52s now flying over Iran after 11,000 strikes in 30 days",
         "url": "https://www.perplexity.ai/page/pentagon-says-b-52s-now-flying-Bpsi853jQRiWbiwQiX_oww",
         "description": "Defense Secretary Hegseth and Gen. Caine said near-total destruction of Iran's air defenses enabled the first overland bomber missions.",
@@ -1616,22 +1598,13 @@
         "sourceCount": "29 sources"
       },
       {
-        "title": "Vance to publish book on Catholic faith while in office",
-        "url": "https://www.perplexity.ai/page/vance-to-publish-book-on-catho-Icmp0ndtSEWr2rCm_btjxw",
-        "description": "\"Communion: Finding My Way Back to Faith,\" due June 16, traces the vice president's journey from atheism to Catholicism.",
+        "title": "Majority disapprove of Trump's signature on dollar bills, YouGov poll finds",
+        "url": "https://www.perplexity.ai/page/majority-disapprove-of-trump-s-_ieDpdWnSdKXYCRnYSCVyw",
+        "description": "The survey found 48% strongly oppose replacing the U.S. Treasurer's signature with the president's on new paper currency.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-31T16:22:40Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Judge permanently blocks Trump order defunding NPR, PBS",
-        "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
-        "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:22:53Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-03-31T19:45:31Z",
+        "sourceCount": "130 sources"
       },
       {
         "title": "Supreme Court strikes down Colorado conversion therapy ban in 8-1 ruling",
@@ -1652,13 +1625,22 @@
         "sourceCount": "71 sources"
       },
       {
-        "title": "Trump warns European allies after Italy, France block US military access",
-        "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
-        "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
+        "title": "Judge permanently blocks Trump order defunding NPR, PBS",
+        "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
+        "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-31T19:04:40Z",
-        "sourceCount": "44 sources"
+        "pubDate": "2026-03-31T19:22:53Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Vance to publish book on Catholic faith while in office",
+        "url": "https://www.perplexity.ai/page/vance-to-publish-book-on-catho-Icmp0ndtSEWr2rCm_btjxw",
+        "description": "\"Communion: Finding My Way Back to Faith,\" due June 16, traces the vice president's journey from atheism to Catholicism.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T16:22:40Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Global banks turn to Chinese stocks as Iran war roils markets",
@@ -1670,6 +1652,15 @@
         "sourceCount": "42 sources"
       },
       {
+        "title": "Judge halts Trump's White House ballroom construction",
+        "url": "https://www.perplexity.ai/page/judge-halts-trump-s-white-hous-Scx.Xf6_TtuBpQenEdQBug",
+        "description": "U.S. District Judge Richard Leon ruled that \"no statute\" authorizes the $400 million project, ordering work to stop unless Congress approves it.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T19:37:18Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Australia, Indonesia probe tech giants over under-16 bans",
         "url": "https://www.perplexity.ai/page/australia-indonesia-probe-tech-wI.CsPBDQyS2tSZs3xsVAQ",
         "description": "Both countries are investigating major platforms for failing to enforce social media age restrictions, with fines and sanctions on the table.",
@@ -1677,15 +1668,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T07:57:23Z",
         "sourceCount": "32 sources"
-      },
-      {
-        "title": "Noem's final day at DHS arrives amid IG probe, spending scandal",
-        "url": "https://www.perplexity.ai/page/noem-s-final-day-at-dhs-arrive-oAamhQz0SFag_GS9nk682Q",
-        "description": "Markwayne Mullin takes over as secretary while investigators examine contracts and lavish ad spending tied to Noem and adviser Corey Lewandowski.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T18:12:10Z",
-        "sourceCount": "50 sources"
       },
       {
         "title": "Data centers warm nearby land by up to 16°F, Cambridge study finds",
@@ -1697,6 +1679,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Trump warns European allies after Italy, France block US military access",
+        "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
+        "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T19:04:40Z",
+        "sourceCount": "44 sources"
+      },
+      {
         "title": "Pentagon denies Hegseth sought defense investments before Iran war",
         "url": "https://www.perplexity.ai/page/pentagon-denies-hegseth-sought-FMzd_FXsQTaFBkzgZkO0fg",
         "description": "The Financial Times reported that Hegseth's broker sought to invest millions in a defense ETF weeks before the Feb. 28 strike on Iran.",
@@ -1704,15 +1695,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T04:38:00Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Trump unveils 47-story skyscraper design for Miami presidential library",
-        "url": "https://www.perplexity.ai/page/trump-unveils-47-story-skyscra-LSTajyQLT56q3Bsfd0n38A",
-        "description": "The towering glass tower would break sharply from the low-slung, campus-style buildings that have defined presidential libraries for decades.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T16:21:25Z",
-        "sourceCount": "23 sources"
       },
       {
         "title": "NYU closes Abu Dhabi campus after Iran threatens US universities",
@@ -1724,6 +1706,15 @@
         "sourceCount": "43 sources"
       },
       {
+        "title": "Noem's final day at DHS arrives amid IG probe, spending scandal",
+        "url": "https://www.perplexity.ai/page/noem-s-final-day-at-dhs-arrive-oAamhQz0SFag_GS9nk682Q",
+        "description": "Markwayne Mullin takes over as secretary while investigators examine contracts and lavish ad spending tied to Noem and adviser Corey Lewandowski.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T18:12:10Z",
+        "sourceCount": "50 sources"
+      },
+      {
         "title": "Health groups sue EPA over mercury rule rollback for coal plants",
         "url": "https://www.perplexity.ai/page/health-groups-sue-epa-over-mer-i54PI1KnTTG3cnnYRcuBDQ",
         "description": "A coalition of two dozen organizations filed suit in D.C. Circuit court, arguing the repeal of tighter emissions limits endangers children and communities.",
@@ -1731,15 +1722,6 @@
         "topic": "top",
         "pubDate": "2026-03-30T22:29:26Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "US struck Isfahan ammo depot with bunker busters",
-        "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
-        "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T02:55:43Z",
-        "sourceCount": "59 sources"
       },
       {
         "title": "Zelensky says Russia exploiting Iran war to fund its fight against Ukraine",
@@ -1751,22 +1733,13 @@
         "sourceCount": "52 sources"
       },
       {
-        "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
-        "url": "https://www.perplexity.ai/page/fbi-labels-temple-isreal-attac-hCIbqOQrS3qKi21OE0bD3g",
-        "description": "The bureau said Ayman Ghazali planned the March 12 ramming and shooting at Temple Israel to \"kill as many\" people as possible.",
+        "title": "Trump unveils 47-story skyscraper design for Miami presidential library",
+        "url": "https://www.perplexity.ai/page/trump-unveils-47-story-skyscra-LSTajyQLT56q3Bsfd0n38A",
+        "description": "The towering glass tower would break sharply from the low-slung, campus-style buildings that have defined presidential libraries for decades.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-30T22:08:45Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "White House urges Congress back from recess amid DHS shutdown",
-        "url": "https://www.perplexity.ai/page/white-house-urges-congress-bac-r7NUcyq9Tu.2VGSjBBAo.g",
-        "description": "Trump urged Congress to cancel Easter recess and return to Washington, offering to host lawmakers for dinner at the White House.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T22:04:55Z",
-        "sourceCount": "39 sources"
+        "pubDate": "2026-03-31T16:21:25Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Iran says ambassador will stay in Beirut despite Lebanon's expulsion order",
@@ -1787,6 +1760,24 @@
         "sourceCount": "49 sources"
       },
       {
+        "title": "US struck Isfahan ammo depot with bunker busters",
+        "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
+        "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T02:55:43Z",
+        "sourceCount": "59 sources"
+      },
+      {
+        "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
+        "url": "https://www.perplexity.ai/page/fbi-labels-temple-isreal-attac-hCIbqOQrS3qKi21OE0bD3g",
+        "description": "The bureau said Ayman Ghazali planned the March 12 ramming and shooting at Temple Israel to \"kill as many\" people as possible.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T22:08:45Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "Manhattan prosecutors probe insider trading on prediction markets",
         "url": "https://www.perplexity.ai/page/manhattan-prosecutors-probe-in-1SvDSCXxTiuocCKHesc00w",
         "description": "The SDNY recently met with Polymarket to discuss how fraud and insider trading laws apply to suspicious bets on the fast-growing platforms.",
@@ -1794,6 +1785,15 @@
         "topic": "top",
         "pubDate": "2026-03-30T19:27:23Z",
         "sourceCount": "56 sources"
+      },
+      {
+        "title": "White House urges Congress back from recess amid DHS shutdown",
+        "url": "https://www.perplexity.ai/page/white-house-urges-congress-bac-r7NUcyq9Tu.2VGSjBBAo.g",
+        "description": "Trump urged Congress to cancel Easter recess and return to Washington, offering to host lawmakers for dinner at the White House.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T22:04:55Z",
+        "sourceCount": "39 sources"
       },
       {
         "title": "Israel Knesset passes death penalty law for Palestinians",
