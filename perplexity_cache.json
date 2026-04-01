@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Global stocks surge as Trump signals end to Iran war",
+      "url": "https://www.perplexity.ai/page/global-stocks-surge-as-trump-s-Ad.fBSfATviqEZ4ggiacWw",
+      "description": "European and Indian markets rallied sharply on Wednesday after Trump said U.S. forces could withdraw from Iran within weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T08:55:48Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
       "url": "https://www.perplexity.ai/page/parker-solar-probe-data-challe-w3Ww_VRkQs2SKj.UROCZHA",
       "description": "Protons and heavy ions behave differently during solar magnetic reconnection, contradicting models that assumed uniform particle acceleration.",
@@ -26,15 +35,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T05:25:05Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "US stocks cap worst quarter since 2022 with huge rally on Iran peace hopes",
-      "url": "https://www.perplexity.ai/page/us-stocks-cap-worst-quarter-si-85tu3RyxRf2seDvS49GFEg",
-      "description": "The Dow surged over 1,100 points on Tuesday after reports Trump signaled willingness to end the Iran war without reopening the Strait of Hormuz.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T03:33:36Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "DHS pauses warehouse purchases for immigrant detention",
@@ -883,13 +883,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Poland's Tusk warns of imminent escalation in Iran war",
-      "url": "https://www.perplexity.ai/page/poland-s-tusk-warns-of-imminen-pazBpjNURZybfTYVRgJ5uQ",
-      "description": "The Polish prime minister cited allied intelligence suggesting the conflict will intensify, not stabilize, in the coming days.",
+      "title": "Medvedev warns nuclear conflict between Israel and Iran is now 'inevitable'",
+      "url": "https://www.perplexity.ai/page/medvedev-warns-nuclear-conflic-jGuUm0UyRxmlK91ccBFaAw",
+      "description": "Russia's deputy Security Council chairman blamed U.S. and Israeli military action for accelerating nuclear proliferation risks across the Middle East.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-28T00:36:52Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-03-28T00:39:42Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "DC airports grounded again after odor forces evacuation of air traffic facility",
@@ -908,6 +908,15 @@
       "topic": "top",
       "pubDate": "2026-03-28T00:15:56Z",
       "sourceCount": "50 sources"
+    },
+    {
+      "title": "Poland's Tusk warns of imminent escalation in Iran war",
+      "url": "https://www.perplexity.ai/page/poland-s-tusk-warns-of-imminen-pazBpjNURZybfTYVRgJ5uQ",
+      "description": "The Polish prime minister cited allied intelligence suggesting the conflict will intensify, not stabilize, in the coming days.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-28T00:36:52Z",
+      "sourceCount": "38 sources"
     },
     {
       "title": "Trump unveils farm aid at White House amid tariff, war pressures",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T22:29:33Z",
       "sourceCount": "75 sources"
-    },
-    {
-      "title": "Iran offers Spain Hormuz access in first such EU overture",
-      "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
-      "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T21:39:00Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-01T08:43:37Z",
+  "cached_at": "2026-04-01T09:14:05Z",
   "topics": {
     "top": [
+      {
+        "title": "Global stocks surge as Trump signals end to Iran war",
+        "url": "https://www.perplexity.ai/page/global-stocks-surge-as-trump-s-Ad.fBSfATviqEZ4ggiacWw",
+        "description": "European and Indian markets rallied sharply on Wednesday after Trump said U.S. forces could withdraw from Iran within weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T08:55:48Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
         "url": "https://www.perplexity.ai/page/parker-solar-probe-data-challe-w3Ww_VRkQs2SKj.UROCZHA",
@@ -1380,15 +1389,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T05:25:05Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "US stocks cap worst quarter since 2022 with huge rally on Iran peace hopes",
-        "url": "https://www.perplexity.ai/page/us-stocks-cap-worst-quarter-si-85tu3RyxRf2seDvS49GFEg",
-        "description": "The Dow surged over 1,100 points on Tuesday after reports Trump signaled willingness to end the Iran war without reopening the Strait of Hormuz.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T03:33:36Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "DHS pauses warehouse purchases for immigrant detention",
@@ -2237,13 +2237,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Poland's Tusk warns of imminent escalation in Iran war",
-        "url": "https://www.perplexity.ai/page/poland-s-tusk-warns-of-imminen-pazBpjNURZybfTYVRgJ5uQ",
-        "description": "The Polish prime minister cited allied intelligence suggesting the conflict will intensify, not stabilize, in the coming days.",
+        "title": "Medvedev warns nuclear conflict between Israel and Iran is now 'inevitable'",
+        "url": "https://www.perplexity.ai/page/medvedev-warns-nuclear-conflic-jGuUm0UyRxmlK91ccBFaAw",
+        "description": "Russia's deputy Security Council chairman blamed U.S. and Israeli military action for accelerating nuclear proliferation risks across the Middle East.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-28T00:36:52Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-03-28T00:39:42Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "DC airports grounded again after odor forces evacuation of air traffic facility",
@@ -2262,6 +2262,15 @@
         "topic": "top",
         "pubDate": "2026-03-28T00:15:56Z",
         "sourceCount": "50 sources"
+      },
+      {
+        "title": "Poland's Tusk warns of imminent escalation in Iran war",
+        "url": "https://www.perplexity.ai/page/poland-s-tusk-warns-of-imminen-pazBpjNURZybfTYVRgJ5uQ",
+        "description": "The Polish prime minister cited allied intelligence suggesting the conflict will intensify, not stabilize, in the coming days.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-28T00:36:52Z",
+        "sourceCount": "38 sources"
       },
       {
         "title": "Trump unveils farm aid at White House amid tariff, war pressures",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T22:29:33Z",
         "sourceCount": "75 sources"
-      },
-      {
-        "title": "Iran offers Spain Hormuz access in first such EU overture",
-        "url": "https://www.perplexity.ai/page/iran-offers-spain-hormuz-acces-1AL33XIgSgWc9.rv_..gJg",
-        "description": "Tehran cited Madrid's \"commitment to international law\" after Spain barred US forces from using its bases for strikes on Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T21:39:00Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
