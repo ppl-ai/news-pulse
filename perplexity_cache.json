@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Qubits needed to crack encryption fall 200-fold in under a year",
+      "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
+      "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T09:17:27Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Global stocks surge as Trump signals end to Iran war",
       "url": "https://www.perplexity.ai/page/global-stocks-surge-as-trump-s-Ad.fBSfATviqEZ4ggiacWw",
       "description": "European and Indian markets rallied sharply on Wednesday after Trump said U.S. forces could withdraw from Iran within weeks.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T22:38:55Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Education Dept. to vacate headquarters for smaller office amid dismantling push",
-      "url": "https://www.perplexity.ai/page/education-dept-to-vacate-headq-tpQNGitoSC6S.CMu.5audA",
-      "description": "The move, planned for August, comes as the agency's building sits 70% vacant after more than a year of mass layoffs under the Trump administration.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T22:29:33Z",
-      "sourceCount": "75 sources"
     }
   ],
-  "cached_at": "2026-04-01T09:14:05Z",
+  "cached_at": "2026-04-01T09:45:39Z",
   "topics": {
     "top": [
+      {
+        "title": "Qubits needed to crack encryption fall 200-fold in under a year",
+        "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
+        "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T09:17:27Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Global stocks surge as Trump signals end to Iran war",
         "url": "https://www.perplexity.ai/page/global-stocks-surge-as-trump-s-Ad.fBSfATviqEZ4ggiacWw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T22:38:55Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Education Dept. to vacate headquarters for smaller office amid dismantling push",
-        "url": "https://www.perplexity.ai/page/education-dept-to-vacate-headq-tpQNGitoSC6S.CMu.5audA",
-        "description": "The move, planned for August, comes as the agency's building sits 70% vacant after more than a year of mass layoffs under the Trump administration.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T22:29:33Z",
-        "sourceCount": "75 sources"
       }
     ],
     "tech": [],
