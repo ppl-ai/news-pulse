@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Seizing Iran's uranium by force would risk casualties, experts warn",
+      "url": "https://www.perplexity.ai/page/seizing-iran-s-uranium-by-forc-NaPLRVX2Q26jkmatnUdXUQ",
+      "description": "A military operation to secure Iran's 440.9 kg of near-weapons-grade uranium could require 1,000 troops and face radiation hazards, former officials say.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T18:25:15Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Trump ties ceasefire talks to reopening Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/trump-ties-ceasefire-talks-to-BoqixJIpQIO7t1scQOhoZA",
       "description": "Iran's IRGC vowed the strait will stay closed to \"enemies\" as Trump said any deal requires free passage through the critical oil chokepoint.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T00:24:35Z",
       "sourceCount": "53 sources"
-    },
-    {
-      "title": "Iran claims 1 million fighters ready for US ground invasion",
-      "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
-      "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T02:18:35Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-01T18:23:35Z",
+  "cached_at": "2026-04-01T18:46:37Z",
   "topics": {
     "top": [
+      {
+        "title": "Seizing Iran's uranium by force would risk casualties, experts warn",
+        "url": "https://www.perplexity.ai/page/seizing-iran-s-uranium-by-forc-NaPLRVX2Q26jkmatnUdXUQ",
+        "description": "A military operation to secure Iran's 440.9 kg of near-weapons-grade uranium could require 1,000 troops and face radiation hazards, former officials say.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T18:25:15Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Trump ties ceasefire talks to reopening Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/trump-ties-ceasefire-talks-to-BoqixJIpQIO7t1scQOhoZA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T00:24:35Z",
         "sourceCount": "53 sources"
-      },
-      {
-        "title": "Iran claims 1 million fighters ready for US ground invasion",
-        "url": "https://www.perplexity.ai/page/iran-claims-1-million-fighters-789XUDqLQQCmKSk3XwX9mw",
-        "description": "Tehran says volunteers are flooding Basij and IRGC centers as the U.S. sends 82nd Airborne paratroopers and Marines to the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T02:18:35Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
