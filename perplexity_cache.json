@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "New papers slash qubit estimates for codebreaking",
+      "url": "https://www.perplexity.ai/page/new-papers-slash-qubit-estimat-EUf2G5FDSrmgkDTi4LrhYw",
+      "description": "The March 31 papers sharply cut projected quantum resources needed to crack elliptic curve encryption, intensifying pressure to adopt post-quantum safeguards.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T05:25:05Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "US stocks cap worst quarter since 2022 with huge rally on Iran peace hopes",
       "url": "https://www.perplexity.ai/page/us-stocks-cap-worst-quarter-si-85tu3RyxRf2seDvS49GFEg",
       "description": "The Dow surged over 1,100 points on Tuesday after reports Trump signaled willingness to end the Iran war without reopening the Strait of Hormuz.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-26T19:54:15Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Senate Democrats block photo ID voting amendment on party-line vote",
-      "url": "https://www.perplexity.ai/page/senate-democrats-block-photo-i-SRvPXdygQfKTuXbze23VNQ",
-      "description": "All 47 Senate Democrats voted against a standalone photo ID requirement for federal elections, handing Republicans a midterm messaging win.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-26T19:31:27Z",
-      "sourceCount": "24 sources"
     }
   ],
-  "cached_at": "2026-04-01T04:58:14Z",
+  "cached_at": "2026-04-01T05:46:13Z",
   "topics": {
     "top": [
+      {
+        "title": "New papers slash qubit estimates for codebreaking",
+        "url": "https://www.perplexity.ai/page/new-papers-slash-qubit-estimat-EUf2G5FDSrmgkDTi4LrhYw",
+        "description": "The March 31 papers sharply cut projected quantum resources needed to crack elliptic curve encryption, intensifying pressure to adopt post-quantum safeguards.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T05:25:05Z",
+        "sourceCount": "14 sources"
+      },
       {
         "title": "US stocks cap worst quarter since 2022 with huge rally on Iran peace hopes",
         "url": "https://www.perplexity.ai/page/us-stocks-cap-worst-quarter-si-85tu3RyxRf2seDvS49GFEg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-26T19:54:15Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Senate Democrats block photo ID voting amendment on party-line vote",
-        "url": "https://www.perplexity.ai/page/senate-democrats-block-photo-i-SRvPXdygQfKTuXbze23VNQ",
-        "description": "All 47 Senate Democrats voted against a standalone photo ID requirement for federal elections, handing Republicans a midterm messaging win.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-26T19:31:27Z",
-        "sourceCount": "24 sources"
       }
     ],
     "tech": [],
