@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
+      "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
+      "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T09:43:57Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "Qubits needed to crack encryption fall 200-fold in under a year",
       "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
       "description": "Three papers have slashed the estimated quantum computing power needed to break RSA-2048 from 20 million qubits to under 100,000, accelerating the threat to modern encryption.",
@@ -1081,15 +1090,6 @@
       "sourceCount": "22 sources"
     },
     {
-      "title": "Idaho passes strictest transgender bathroom ban with felony penalties",
-      "url": "https://www.perplexity.ai/page/idaho-passes-strictest-transge-G_HisdIXSrOf0qBsoWuu7g",
-      "description": "The bill, which now heads to the governor's desk, criminalizes restroom use in both government buildings and private businesses.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T19:32:40Z",
-      "sourceCount": "37 sources"
-    },
-    {
       "title": "G7 agrees to multinational Hormuz escort mission after Iran war ends",
       "url": "https://www.perplexity.ai/page/g7-agrees-to-multinational-hor-MxrlYAyuSO.1FMgGcw0pDw",
       "description": "Foreign ministers meeting in France committed to restoring freedom of navigation in the strait, with over 30 nations signaling readiness to contribute.",
@@ -1351,9 +1351,18 @@
       "sourceCount": "30 sources"
     }
   ],
-  "cached_at": "2026-04-01T09:45:39Z",
+  "cached_at": "2026-04-01T10:14:00Z",
   "topics": {
     "top": [
+      {
+        "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
+        "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
+        "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T09:43:57Z",
+        "sourceCount": "43 sources"
+      },
       {
         "title": "Qubits needed to crack encryption fall 200-fold in under a year",
         "url": "https://www.perplexity.ai/page/qubits-needed-to-crack-encrypt-5vi2rZAuSv6Qc8My4nadCQ",
@@ -2433,15 +2442,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T19:39:43Z",
         "sourceCount": "22 sources"
-      },
-      {
-        "title": "Idaho passes strictest transgender bathroom ban with felony penalties",
-        "url": "https://www.perplexity.ai/page/idaho-passes-strictest-transge-G_HisdIXSrOf0qBsoWuu7g",
-        "description": "The bill, which now heads to the governor's desk, criminalizes restroom use in both government buildings and private businesses.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T19:32:40Z",
-        "sourceCount": "37 sources"
       },
       {
         "title": "G7 agrees to multinational Hormuz escort mission after Iran war ends",
