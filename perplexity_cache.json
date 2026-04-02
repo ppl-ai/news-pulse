@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Boeser's hat trick lifts last-place Canucks past Avalanche 8-6",
+      "url": "https://www.perplexity.ai/page/boeser-s-hat-trick-lifts-last-B3P_aMpWQ72a3sF3OGcFQQ",
+      "description": "Nathan MacKinnon scored his 50th goal of the season, but Vancouver rallied to snap a six-game skid in a wild game in Denver.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T19:40:56Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "OpenAI acquires TBPN, Silicon Valley's hit tech talk show",
       "url": "https://www.perplexity.ai/page/openai-acquires-tbpn-silicon-v-PMW9uy5YTlWPQ5XfxMRqzw",
       "description": "The deal extends OpenAI's reach into media, marking a departure from its recent string of developer-focused startup acquisitions.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T14:49:48Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran accuses US-Israel of genocide at UN Human Rights Council",
-      "url": "https://www.perplexity.ai/page/iran-accuses-us-israel-of-geno-3onSm93eQ8W3R1fgq3WO6g",
-      "description": "Foreign Minister Araghchi addressed an emergency session Friday, calling the Minab school airstrike the \"tip of a far larger iceberg\" of war crimes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T14:49:21Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-02T21:16:31Z",
+  "cached_at": "2026-04-02T21:34:52Z",
   "topics": {
     "top": [
+      {
+        "title": "Boeser's hat trick lifts last-place Canucks past Avalanche 8-6",
+        "url": "https://www.perplexity.ai/page/boeser-s-hat-trick-lifts-last-B3P_aMpWQ72a3sF3OGcFQQ",
+        "description": "Nathan MacKinnon scored his 50th goal of the season, but Vancouver rallied to snap a six-game skid in a wild game in Denver.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T19:40:56Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "OpenAI acquires TBPN, Silicon Valley's hit tech talk show",
         "url": "https://www.perplexity.ai/page/openai-acquires-tbpn-silicon-v-PMW9uy5YTlWPQ5XfxMRqzw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T14:49:48Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran accuses US-Israel of genocide at UN Human Rights Council",
-        "url": "https://www.perplexity.ai/page/iran-accuses-us-israel-of-geno-3onSm93eQ8W3R1fgq3WO6g",
-        "description": "Foreign Minister Araghchi addressed an emergency session Friday, calling the Minab school airstrike the \"tip of a far larger iceberg\" of war crimes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T14:49:21Z",
-        "sourceCount": "29 sources"
       }
     ],
     "tech": [],
