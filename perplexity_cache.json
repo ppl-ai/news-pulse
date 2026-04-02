@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US jobless claims fall to 202,000, defying Iran war headwinds",
+      "url": "https://www.perplexity.ai/page/us-jobless-claims-fall-to-2020-jw_S3yQ1QLW7GupMOQMDqQ",
+      "description": "Weekly filings dropped well below forecasts even as the conflict's energy shock weighs on the broader economy and hiring outlook.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T13:30:22Z",
+      "sourceCount": "59 sources"
+    },
+    {
       "title": "European stocks drop as Trump vows more strikes on Iran",
       "url": "https://www.perplexity.ai/page/european-stocks-drop-as-trump-DLNHGDuuTa2GIL1BnRNcbg",
       "description": "Oil surged past $107 a barrel and global markets sold off after the president pledged to escalate the five-week-old conflict.",
@@ -35,6 +44,15 @@
       "topic": "top",
       "pubDate": "2026-04-02T11:37:56Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "UK hosts 35-nation summit on reopening Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/uk-hosts-35-nation-summit-on-r-vsjDdYq7QO.OjJ9h83Kn1Q",
+      "description": "Foreign Secretary Yvette Cooper chairs Thursday's virtual meeting as maritime traffic through the critical waterway remains down roughly 90%.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T10:49:05Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Korean researchers achieve lithium-air battery breakthrough",
@@ -262,15 +280,6 @@
       "sourceCount": "55 sources"
     },
     {
-      "title": "UAE prepares to join coalition to reopen Strait of Hormuz by force",
-      "url": "https://www.perplexity.ai/page/uae-prepares-to-join-coalition-twU._PtqSu23UHCh5LQDXg",
-      "description": "The Gulf state is lobbying for a UN Security Council resolution authorizing military action and reviewing mine-clearing roles, according to The Wall Street Journal.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T10:43:39Z",
-      "sourceCount": "42 sources"
-    },
-    {
       "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
       "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
       "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
@@ -278,15 +287,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T09:43:57Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
-      "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
-      "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T17:58:47Z",
-      "sourceCount": "29 sources"
     },
     {
       "title": "Qubits needed to crack encryption fall 200-fold in under a year",
@@ -298,6 +298,15 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
+      "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
+      "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T17:58:47Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
       "url": "https://www.perplexity.ai/page/parker-solar-probe-data-challe-w3Ww_VRkQs2SKj.UROCZHA",
       "description": "Protons and heavy ions behave differently during solar magnetic reconnection, contradicting models that assumed uniform particle acceleration.",
@@ -305,15 +314,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T06:32:32Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "Conservative justices question Trump birthright order",
-      "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
-      "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T16:13:49Z",
-      "sourceCount": "80 sources"
     },
     {
       "title": "USTR flags Canadian alcohol bans, 'Buy Canadian' as trade barriers",
@@ -325,6 +325,15 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "Conservative justices question Trump birthright order",
+      "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
+      "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T16:13:49Z",
+      "sourceCount": "80 sources"
+    },
+    {
       "title": "New papers slash qubit estimates for codebreaking",
       "url": "https://www.perplexity.ai/page/new-papers-slash-qubit-estimat-EUf2G5FDSrmgkDTi4LrhYw",
       "description": "The March 31 papers sharply cut projected quantum resources needed to crack elliptic curve encryption, intensifying pressure to adopt post-quantum safeguards.",
@@ -332,15 +341,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T05:25:05Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "ICE agents to remain at airports indefinitely, Duffy says",
-      "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
-      "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T15:18:56Z",
-      "sourceCount": "96 sources"
     },
     {
       "title": "Forest Service to move headquarters to Salt Lake City in sweeping overhaul",
@@ -352,21 +352,21 @@
       "sourceCount": "29 sources"
     },
     {
+      "title": "ICE agents to remain at airports indefinitely, Duffy says",
+      "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
+      "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T15:18:56Z",
+      "sourceCount": "96 sources"
+    },
+    {
       "title": "China and Pakistan propose ceasefire as Chinese ships transit Hormuz",
       "url": "https://www.perplexity.ai/page/china-and-pakistan-propose-cea-jmlJgvJJRRmu11qpbjnBOA",
       "description": "Beijing confirmed three Chinese vessels crossed the strait after coordinating with Tehran, as China and Pakistan unveiled a five-point peace plan.",
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-01T02:43:35Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "DHS pauses warehouse purchases for immigrant detention",
-      "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
-      "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T02:58:18Z",
       "sourceCount": "30 sources"
     },
     {
@@ -377,6 +377,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T23:19:02Z",
       "sourceCount": "38 sources"
+    },
+    {
+      "title": "DHS pauses warehouse purchases for immigrant detention",
+      "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
+      "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T02:58:18Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Syria vows to stay out of US-Israeli war on Iran unless attacked",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T13:39:06Z",
       "sourceCount": "15 sources"
-    },
-    {
-      "title": "IRGC urges civilians to flee areas near US forces as Trump extends Hormuz deadline",
-      "url": "https://www.perplexity.ai/page/irgc-urges-civilians-to-flee-a-a8l__rlRQAGnAZa9PWXESg",
-      "description": "Iran's Revolutionary Guard declared the Strait of Hormuz closed and threatened US military positions as Trump pushed his strike deadline to April 6.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T13:04:05Z",
-      "sourceCount": "41 sources"
     }
   ],
-  "cached_at": "2026-04-02T13:19:54Z",
+  "cached_at": "2026-04-02T13:59:09Z",
   "topics": {
     "top": [
+      {
+        "title": "US jobless claims fall to 202,000, defying Iran war headwinds",
+        "url": "https://www.perplexity.ai/page/us-jobless-claims-fall-to-2020-jw_S3yQ1QLW7GupMOQMDqQ",
+        "description": "Weekly filings dropped well below forecasts even as the conflict's energy shock weighs on the broader economy and hiring outlook.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T13:30:22Z",
+        "sourceCount": "59 sources"
+      },
       {
         "title": "European stocks drop as Trump vows more strikes on Iran",
         "url": "https://www.perplexity.ai/page/european-stocks-drop-as-trump-DLNHGDuuTa2GIL1BnRNcbg",
@@ -1389,6 +1398,15 @@
         "topic": "top",
         "pubDate": "2026-04-02T11:37:56Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "UK hosts 35-nation summit on reopening Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/uk-hosts-35-nation-summit-on-r-vsjDdYq7QO.OjJ9h83Kn1Q",
+        "description": "Foreign Secretary Yvette Cooper chairs Thursday's virtual meeting as maritime traffic through the critical waterway remains down roughly 90%.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T10:49:05Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Korean researchers achieve lithium-air battery breakthrough",
@@ -1616,15 +1634,6 @@
         "sourceCount": "55 sources"
       },
       {
-        "title": "UAE prepares to join coalition to reopen Strait of Hormuz by force",
-        "url": "https://www.perplexity.ai/page/uae-prepares-to-join-coalition-twU._PtqSu23UHCh5LQDXg",
-        "description": "The Gulf state is lobbying for a UN Security Council resolution authorizing military action and reviewing mine-clearing roles, according to The Wall Street Journal.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T10:43:39Z",
-        "sourceCount": "42 sources"
-      },
-      {
         "title": "South Korea exports hit record $86B as global factories stockpile amid Iran war",
         "url": "https://www.perplexity.ai/page/south-korea-exports-hit-record-2k4tFLiMSf6oBxjOJRsBtw",
         "description": "Semiconductor shipments surged over 150%, while euro zone and U.S. factory activity beat forecasts as firms panic-bought materials ahead of further disruptions.",
@@ -1632,15 +1641,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T09:43:57Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
-        "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
-        "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T17:58:47Z",
-        "sourceCount": "29 sources"
       },
       {
         "title": "Qubits needed to crack encryption fall 200-fold in under a year",
@@ -1652,6 +1652,15 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "Macron warns U.S. exit from Iran without deal would be 'worst-case scenario'",
+        "url": "https://www.perplexity.ai/page/macron-warns-u-s-exit-from-ira-tmVTlUyVQcK4_MPg1voGFA",
+        "description": "The French president urged renewed diplomacy during a Tokyo visit, as Trump signaled the U.S. military could leave within weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T17:58:47Z",
+        "sourceCount": "29 sources"
+      },
+      {
         "title": "Parker Solar Probe data challenges models of Sun's magnetic engine",
         "url": "https://www.perplexity.ai/page/parker-solar-probe-data-challe-w3Ww_VRkQs2SKj.UROCZHA",
         "description": "Protons and heavy ions behave differently during solar magnetic reconnection, contradicting models that assumed uniform particle acceleration.",
@@ -1659,15 +1668,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T06:32:32Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "Conservative justices question Trump birthright order",
-        "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
-        "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T16:13:49Z",
-        "sourceCount": "80 sources"
       },
       {
         "title": "USTR flags Canadian alcohol bans, 'Buy Canadian' as trade barriers",
@@ -1679,6 +1679,15 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "Conservative justices question Trump birthright order",
+        "url": "https://www.perplexity.ai/page/conservative-justices-question-RIn8Gl2FRfyXaWiMPSK.Bw",
+        "description": "Trump became the first sitting president to attend Supreme Court oral arguments as justices from both wings challenged his executive order.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T16:13:49Z",
+        "sourceCount": "80 sources"
+      },
+      {
         "title": "New papers slash qubit estimates for codebreaking",
         "url": "https://www.perplexity.ai/page/new-papers-slash-qubit-estimat-EUf2G5FDSrmgkDTi4LrhYw",
         "description": "The March 31 papers sharply cut projected quantum resources needed to crack elliptic curve encryption, intensifying pressure to adopt post-quantum safeguards.",
@@ -1686,15 +1695,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T05:25:05Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "ICE agents to remain at airports indefinitely, Duffy says",
-        "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
-        "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T15:18:56Z",
-        "sourceCount": "96 sources"
       },
       {
         "title": "Forest Service to move headquarters to Salt Lake City in sweeping overhaul",
@@ -1706,21 +1706,21 @@
         "sourceCount": "29 sources"
       },
       {
+        "title": "ICE agents to remain at airports indefinitely, Duffy says",
+        "url": "https://www.perplexity.ai/page/ice-agents-to-remain-at-airpor-Cl._5i.tQCGeIFiPLWmbNA",
+        "description": "Transportation secretary says deployment will continue as TSA struggles to rebuild staffing after the DHS shutdown left officers unpaid for weeks.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T15:18:56Z",
+        "sourceCount": "96 sources"
+      },
+      {
         "title": "China and Pakistan propose ceasefire as Chinese ships transit Hormuz",
         "url": "https://www.perplexity.ai/page/china-and-pakistan-propose-cea-jmlJgvJJRRmu11qpbjnBOA",
         "description": "Beijing confirmed three Chinese vessels crossed the strait after coordinating with Tehran, as China and Pakistan unveiled a five-point peace plan.",
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-01T02:43:35Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "DHS pauses warehouse purchases for immigrant detention",
-        "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
-        "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T02:58:18Z",
         "sourceCount": "30 sources"
       },
       {
@@ -1731,6 +1731,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T23:19:02Z",
         "sourceCount": "38 sources"
+      },
+      {
+        "title": "DHS pauses warehouse purchases for immigrant detention",
+        "url": "https://www.perplexity.ai/page/dhs-pauses-warehouse-purchases-itBIpMWjTReQq165tlJ_Dg",
+        "description": "New Secretary Mullin is reviewing the $38.3 billion detention expansion program launched by his predecessor, Kristi Noem.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T02:58:18Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Syria vows to stay out of US-Israeli war on Iran unless attacked",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T13:39:06Z",
         "sourceCount": "15 sources"
-      },
-      {
-        "title": "IRGC urges civilians to flee areas near US forces as Trump extends Hormuz deadline",
-        "url": "https://www.perplexity.ai/page/irgc-urges-civilians-to-flee-a-a8l__rlRQAGnAZa9PWXESg",
-        "description": "Iran's Revolutionary Guard declared the Strait of Hormuz closed and threatened US military positions as Trump pushed his strike deadline to April 6.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T13:04:05Z",
-        "sourceCount": "41 sources"
       }
     ],
     "tech": [],
