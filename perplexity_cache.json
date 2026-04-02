@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Mangione's state and federal trials both delayed",
+      "url": "https://www.perplexity.ai/page/mangione-s-state-and-federal-t-Qz.R0jxnTx.obdcagtNEBw",
+      "description": "A New York judge pushed the state murder trial to September, hours after a federal judge moved jury selection to October, compressing an already tight timeline.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-02T00:21:31Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "DHS scraps Noem's $100K contract approval rule, unblocking FEMA relief",
       "url": "https://www.perplexity.ai/page/dhs-scraps-noem-s-100k-contrac-sWlY9946RLSTuBI4893FFg",
       "description": "Secretary Markwayne Mullin's first major action reverses a policy that delayed over 1,000 FEMA contracts and billions in disaster aid.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T11:37:20Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "US confirms killing of IRGC Navy chief Tangsiri in Bandar Abbas strike",
-      "url": "https://www.perplexity.ai/page/us-confirms-killing-of-irgc-na-kMUFgysbRbO4XuKNvrKcmA",
-      "description": "CENTCOM verified the death of the architect of Iran's Strait of Hormuz blockade, calling on remaining IRGC Navy members to abandon their posts.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T12:13:22Z",
-      "sourceCount": "26 sources"
     }
   ],
-  "cached_at": "2026-04-02T00:19:38Z",
+  "cached_at": "2026-04-02T00:56:12Z",
   "topics": {
     "top": [
+      {
+        "title": "Mangione's state and federal trials both delayed",
+        "url": "https://www.perplexity.ai/page/mangione-s-state-and-federal-t-Qz.R0jxnTx.obdcagtNEBw",
+        "description": "A New York judge pushed the state murder trial to September, hours after a federal judge moved jury selection to October, compressing an already tight timeline.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-02T00:21:31Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "DHS scraps Noem's $100K contract approval rule, unblocking FEMA relief",
         "url": "https://www.perplexity.ai/page/dhs-scraps-noem-s-100k-contrac-sWlY9946RLSTuBI4893FFg",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T11:37:20Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "US confirms killing of IRGC Navy chief Tangsiri in Bandar Abbas strike",
-        "url": "https://www.perplexity.ai/page/us-confirms-killing-of-irgc-na-kMUFgysbRbO4XuKNvrKcmA",
-        "description": "CENTCOM verified the death of the architect of Iran's Strait of Hormuz blockade, calling on remaining IRGC Navy members to abandon their posts.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T12:13:22Z",
-        "sourceCount": "26 sources"
       }
     ],
     "tech": [],
