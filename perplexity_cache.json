@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Whitmer declares energy emergency, eases fuel rules as gas prices surge",
-      "url": "https://www.perplexity.ai/page/whitmer-declares-energy-emerge-.l0Tk6j7RkqH3RX_DDePEg",
-      "description": "The executive order suspends costlier gasoline blend requirements in eight counties, saving nearly half the state's drivers 10 to 20 cents per gallon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-02T22:11:37Z",
-      "sourceCount": "15 sources"
-    },
-    {
       "title": "Hegseth asks Army Chief of Staff Gen. George to step down",
       "url": "https://www.perplexity.ai/page/hegseth-asks-army-chief-of-sta-wYF8d55fTmu5LEKYsbWxOg",
       "description": "The forced departure of the Army's top uniformed leader continues Hegseth's aggressive campaign to reshape the Pentagon's senior ranks.",
@@ -1349,20 +1340,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T16:08:39Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "US land mines found near Shiraz kill civilians in first such deployment in decades",
+      "url": "https://www.perplexity.ai/page/us-land-mines-found-near-shira-sVsOq0YHQOKYHAQlt1bFGQ",
+      "description": "Weapons experts identified American-made BLU-91/B anti-tank mines scattered near an Iranian missile base, drawing condemnation from human rights groups.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-27T17:25:54Z",
+      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-04-02T22:23:28Z",
+  "cached_at": "2026-04-02T22:42:30Z",
   "topics": {
     "top": [
-      {
-        "title": "Whitmer declares energy emergency, eases fuel rules as gas prices surge",
-        "url": "https://www.perplexity.ai/page/whitmer-declares-energy-emerge-.l0Tk6j7RkqH3RX_DDePEg",
-        "description": "The executive order suspends costlier gasoline blend requirements in eight counties, saving nearly half the state's drivers 10 to 20 cents per gallon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-02T22:11:37Z",
-        "sourceCount": "15 sources"
-      },
       {
         "title": "Hegseth asks Army Chief of Staff Gen. George to step down",
         "url": "https://www.perplexity.ai/page/hegseth-asks-army-chief-of-sta-wYF8d55fTmu5LEKYsbWxOg",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-27T16:08:39Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "US land mines found near Shiraz kill civilians in first such deployment in decades",
+        "url": "https://www.perplexity.ai/page/us-land-mines-found-near-shira-sVsOq0YHQOKYHAQlt1bFGQ",
+        "description": "Weapons experts identified American-made BLU-91/B anti-tank mines scattered near an Iranian missile base, drawing condemnation from human rights groups.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-27T17:25:54Z",
+        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
