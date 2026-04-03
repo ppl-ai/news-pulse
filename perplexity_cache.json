@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Judge reaffirms block on DOJ subpoenas targeting Fed's Powell",
+      "url": "https://www.perplexity.ai/page/judge-reaffirms-block-on-doj-s-pjU7CQcqSoiFmsPOlcNXIA",
+      "description": "The ruling sets up a likely appeal that could delay Trump's push to replace Powell with Kevin Warsh before Powell's term expires May 15.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T18:06:12Z",
+      "sourceCount": "143 sources"
+    },
+    {
       "title": "UN delays vote on Hormuz shipping resolution to Saturday",
       "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-xaklvTXsQtmeTnVuhXXMVA",
       "description": "The Security Council postponed Friday's vote on a Bahrain-led draft authorizing \"defensive\" force to protect Strait of Hormuz shipping amid veto threats.",
@@ -1279,9 +1288,18 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-03T19:07:37Z",
+  "cached_at": "2026-04-03T19:27:37Z",
   "topics": {
     "top": [
+      {
+        "title": "Judge reaffirms block on DOJ subpoenas targeting Fed's Powell",
+        "url": "https://www.perplexity.ai/page/judge-reaffirms-block-on-doj-s-pjU7CQcqSoiFmsPOlcNXIA",
+        "description": "The ruling sets up a likely appeal that could delay Trump's push to replace Powell with Kevin Warsh before Powell's term expires May 15.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T18:06:12Z",
+        "sourceCount": "143 sources"
+      },
       {
         "title": "UN delays vote on Hormuz shipping resolution to Saturday",
         "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-xaklvTXsQtmeTnVuhXXMVA",
