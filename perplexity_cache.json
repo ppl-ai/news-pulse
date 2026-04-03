@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "China's Tianlong-3 rocket fails on maiden flight",
+      "url": "https://www.perplexity.ai/page/china-s-tianlong-3-rocket-fail-ITjDtYHkSPyJa4Hfzsj6.A",
+      "description": "The privately built rocket, designed to rival SpaceX's Falcon 9, suffered a mid-flight anomaly launching from the Gobi Desert.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T11:56:43Z",
+      "sourceCount": "35 sources"
+    },
+    {
       "title": "CMA CGM ship becomes first Western European vessel to cross Hormuz since Iran war",
       "url": "https://www.perplexity.ai/page/cma-cgm-ship-becomes-first-wes-94NlcELKRDC.lJDujcboeg",
       "description": "The Maltese-flagged Kribi exited the strait Thursday, navigating an Iranian-approved corridor while broadcasting \"owner France\" on its transponder.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T21:10:14Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Gas prices near $4 as states split on tax holidays",
-      "url": "https://www.perplexity.ai/page/gas-prices-near-4-as-states-sp-CkOsc7NKQfGRtHjzBcQfZw",
-      "description": "The national average hit $3.98, up a dollar in one month, spurring federal and state gas tax suspension proposals with mixed results.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T20:13:40Z",
-      "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-03T12:01:48Z",
+  "cached_at": "2026-04-03T12:26:57Z",
   "topics": {
     "top": [
+      {
+        "title": "China's Tianlong-3 rocket fails on maiden flight",
+        "url": "https://www.perplexity.ai/page/china-s-tianlong-3-rocket-fail-ITjDtYHkSPyJa4Hfzsj6.A",
+        "description": "The privately built rocket, designed to rival SpaceX's Falcon 9, suffered a mid-flight anomaly launching from the Gobi Desert.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T11:56:43Z",
+        "sourceCount": "35 sources"
+      },
       {
         "title": "CMA CGM ship becomes first Western European vessel to cross Hormuz since Iran war",
         "url": "https://www.perplexity.ai/page/cma-cgm-ship-becomes-first-wes-94NlcELKRDC.lJDujcboeg",
@@ -2693,15 +2702,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-03-27T21:10:14Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Gas prices near $4 as states split on tax holidays",
-        "url": "https://www.perplexity.ai/page/gas-prices-near-4-as-states-sp-CkOsc7NKQfGRtHjzBcQfZw",
-        "description": "The national average hit $3.98, up a dollar in one month, spurring federal and state gas tax suspension proposals with mixed results.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T20:13:40Z",
         "sourceCount": "29 sources"
       }
     ],
