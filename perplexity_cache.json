@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iranian drones hit Kuwait's Mina al-Ahmadi refinery again, sparking fires",
+      "url": "https://www.perplexity.ai/page/iranian-drones-hit-kuwait-s-mi-fCOcC1f1R8S891e._Hj4ww",
+      "description": "The 346,000 barrel-per-day facility has been struck repeatedly since Iran began retaliatory attacks on Gulf energy infrastructure in late February.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T07:52:39Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Trump's April 6 deadline for Iran nears as 40 nations seek Hormuz deal",
+      "url": "https://www.perplexity.ai/page/trump-s-april-6-deadline-for-i-Z2ayhdGYSYmQgTkHFySMhw",
+      "description": "Foreign ministers from over 40 countries met this week to discuss reopening the Strait of Hormuz as the Iran war's economic toll widens.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T07:34:17Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "South Korea, France elevate ties to strategic partnership",
       "url": "https://www.perplexity.ai/page/south-korea-france-elevate-tie-RlnU0MFFSsuoj0J9VkqtYw",
       "description": "The two leaders signed 11 MOUs covering nuclear energy, critical minerals, and defense after summit talks in Seoul on Friday.",
@@ -262,12 +280,12 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "40 nations meet on Hormuz crisis as US refuses to join",
-      "url": "https://www.perplexity.ai/page/40-nations-meet-on-hormuz-cris-pkiPrP_LS6mh8djlqOXQzw",
-      "description": "UK Foreign Secretary Yvette Cooper convened allies to coordinate diplomatic pressure on Iran over its blockade, while Trump urged Europe to secure the strait alone.",
+      "title": "One year after Liberation Day, tariff refunds loom",
+      "url": "https://www.perplexity.ai/page/one-year-after-liberation-day-wQISoC73Rl6A1gAb4JK.og",
+      "description": "April 2 marks the anniversary of Trump's sweeping tariffs, most of which were struck down by the Supreme Court, with $165 billion in refunds still pending.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-02T14:15:44Z",
+      "pubDate": "2026-04-02T11:37:56Z",
       "sourceCount": "30 sources"
     },
     {
@@ -289,13 +307,13 @@
       "sourceCount": "14 sources"
     },
     {
-      "title": "One year after Liberation Day, tariff refunds loom",
-      "url": "https://www.perplexity.ai/page/one-year-after-liberation-day-wQISoC73Rl6A1gAb4JK.og",
-      "description": "April 2 marks the anniversary of Trump's sweeping tariffs, most of which were struck down by the Supreme Court, with $165 billion in refunds still pending.",
+      "title": "Trump leaves Supreme Court early, calls birthright citizenship 'stupid'",
+      "url": "https://www.perplexity.ai/page/trump-leaves-supreme-court-ear-Gy_D7Ag4ToGq0wy.pZqedA",
+      "description": "The president became the first to attend oral arguments, but justices signaled skepticism of his order to end birthright citizenship.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-02T11:37:56Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-04-02T10:04:18Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Russia vows continued aid to Cuba after first oil shipment in three months",
@@ -305,24 +323,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T23:54:12Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "ICE says it bought phone-hacking spyware to fight fentanyl",
-      "url": "https://www.perplexity.ai/page/ice-says-it-bought-phone-hacki-kZbr3xyZReCJKjAhK.Sofw",
-      "description": "The agency's disclosure to lawmakers is its first public justification for a controversial $2 million contract with Israeli spyware firm Paragon Solutions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T22:24:43Z",
-      "sourceCount": "146 sources"
-    },
-    {
-      "title": "DHS scraps Noem's $100K contract approval rule, unblocking FEMA relief",
-      "url": "https://www.perplexity.ai/page/dhs-scraps-noem-s-100k-contrac-sWlY9946RLSTuBI4893FFg",
-      "description": "Secretary Markwayne Mullin's first major action reverses a policy that delayed over 1,000 FEMA contracts and billions in disaster aid.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T23:54:33Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "US lifts sanctions on Venezuela's acting president Rodríguez",
@@ -343,13 +343,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Judge lets ABA lawsuit over Trump's law firm orders proceed",
-      "url": "https://www.perplexity.ai/page/judge-lets-aba-lawsuit-over-tr-EBiDKmLpTOm8BL7ATCXlqA",
-      "description": "A federal judge denied the DOJ's motion to dismiss, ruling the ABA plausibly showed Trump's executive orders suppressed free expression.",
+      "title": "DHS scraps Noem's $100K contract approval rule, unblocking FEMA relief",
+      "url": "https://www.perplexity.ai/page/dhs-scraps-noem-s-100k-contrac-sWlY9946RLSTuBI4893FFg",
+      "description": "Secretary Markwayne Mullin's first major action reverses a policy that delayed over 1,000 FEMA contracts and billions in disaster aid.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-01T20:44:56Z",
-      "sourceCount": "32 sources"
+      "pubDate": "2026-04-01T23:54:33Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Seizing Iran's uranium by force would risk casualties, experts warn",
@@ -361,6 +361,24 @@
       "sourceCount": "15 sources"
     },
     {
+      "title": "ICE says it bought phone-hacking spyware to fight fentanyl",
+      "url": "https://www.perplexity.ai/page/ice-says-it-bought-phone-hacki-kZbr3xyZReCJKjAhK.Sofw",
+      "description": "The agency's disclosure to lawmakers is its first public justification for a controversial $2 million contract with Israeli spyware firm Paragon Solutions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T22:24:43Z",
+      "sourceCount": "146 sources"
+    },
+    {
+      "title": "Appeals court blocks HUD from overhauling homelessness grants",
+      "url": "https://www.perplexity.ai/page/appeals-court-blocks-hud-from-58E2HTQ0QEO12ZMyeye_NA",
+      "description": "The 1st Circuit upheld an injunction preserving billions in permanent housing funds, rejecting the Trump administration's bid to impose new restrictions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-01T23:03:25Z",
+      "sourceCount": "14 sources"
+    },
+    {
       "title": "Shell in advanced talks to develop major gas fields in Venezuela",
       "url": "https://www.perplexity.ai/page/shell-in-advanced-talks-to-dev-vyI63f8CTvalfAXvFGRQVg",
       "description": "The energy giant is pursuing four offshore areas near Trinidad with combined reserves of roughly 20 trillion cubic feet, according to Reuters.",
@@ -368,15 +386,6 @@
       "topic": "top",
       "pubDate": "2026-04-01T16:28:20Z",
       "sourceCount": "31 sources"
-    },
-    {
-      "title": "Trump leaves Supreme Court early, calls birthright citizenship 'stupid'",
-      "url": "https://www.perplexity.ai/page/trump-leaves-supreme-court-ear-Gy_D7Ag4ToGq0wy.pZqedA",
-      "description": "The president became the first to attend oral arguments, but justices signaled skepticism of his order to end birthright citizenship.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-02T10:04:18Z",
-      "sourceCount": "27 sources"
     },
     {
       "title": "AOC pledges to oppose all U.S. arms funding for Israel",
@@ -388,22 +397,13 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
-      "url": "https://www.perplexity.ai/page/iran-hits-tanker-off-qatar-str-uXoBow6CQVW58f9z8IysSA",
-      "description": "Qatar said it intercepted two of three cruise missiles from Iran, but a third struck a QatarEnergy-chartered tanker. No casualties were reported.",
+      "title": "Judge lets ABA lawsuit over Trump's law firm orders proceed",
+      "url": "https://www.perplexity.ai/page/judge-lets-aba-lawsuit-over-tr-EBiDKmLpTOm8BL7ATCXlqA",
+      "description": "A federal judge denied the DOJ's motion to dismiss, ruling the ABA plausibly showed Trump's executive orders suppressed free expression.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-01T13:28:03Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Appeals court blocks HUD from overhauling homelessness grants",
-      "url": "https://www.perplexity.ai/page/appeals-court-blocks-hud-from-58E2HTQ0QEO12ZMyeye_NA",
-      "description": "The 1st Circuit upheld an injunction preserving billions in permanent housing funds, rejecting the Trump administration's bid to impose new restrictions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-01T23:03:25Z",
-      "sourceCount": "14 sources"
+      "pubDate": "2026-04-01T20:44:56Z",
+      "sourceCount": "32 sources"
     },
     {
       "title": "Israel kills Hezbollah's Southern Front commander in Beirut naval strike",
@@ -1351,9 +1351,27 @@
       "sourceCount": "29 sources"
     }
   ],
-  "cached_at": "2026-04-03T07:32:42Z",
+  "cached_at": "2026-04-03T07:59:37Z",
   "topics": {
     "top": [
+      {
+        "title": "Iranian drones hit Kuwait's Mina al-Ahmadi refinery again, sparking fires",
+        "url": "https://www.perplexity.ai/page/iranian-drones-hit-kuwait-s-mi-fCOcC1f1R8S891e._Hj4ww",
+        "description": "The 346,000 barrel-per-day facility has been struck repeatedly since Iran began retaliatory attacks on Gulf energy infrastructure in late February.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T07:52:39Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Trump's April 6 deadline for Iran nears as 40 nations seek Hormuz deal",
+        "url": "https://www.perplexity.ai/page/trump-s-april-6-deadline-for-i-Z2ayhdGYSYmQgTkHFySMhw",
+        "description": "Foreign ministers from over 40 countries met this week to discuss reopening the Strait of Hormuz as the Iran war's economic toll widens.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T07:34:17Z",
+        "sourceCount": "42 sources"
+      },
       {
         "title": "South Korea, France elevate ties to strategic partnership",
         "url": "https://www.perplexity.ai/page/south-korea-france-elevate-tie-RlnU0MFFSsuoj0J9VkqtYw",
@@ -1616,12 +1634,12 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "40 nations meet on Hormuz crisis as US refuses to join",
-        "url": "https://www.perplexity.ai/page/40-nations-meet-on-hormuz-cris-pkiPrP_LS6mh8djlqOXQzw",
-        "description": "UK Foreign Secretary Yvette Cooper convened allies to coordinate diplomatic pressure on Iran over its blockade, while Trump urged Europe to secure the strait alone.",
+        "title": "One year after Liberation Day, tariff refunds loom",
+        "url": "https://www.perplexity.ai/page/one-year-after-liberation-day-wQISoC73Rl6A1gAb4JK.og",
+        "description": "April 2 marks the anniversary of Trump's sweeping tariffs, most of which were struck down by the Supreme Court, with $165 billion in refunds still pending.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-02T14:15:44Z",
+        "pubDate": "2026-04-02T11:37:56Z",
         "sourceCount": "30 sources"
       },
       {
@@ -1643,13 +1661,13 @@
         "sourceCount": "14 sources"
       },
       {
-        "title": "One year after Liberation Day, tariff refunds loom",
-        "url": "https://www.perplexity.ai/page/one-year-after-liberation-day-wQISoC73Rl6A1gAb4JK.og",
-        "description": "April 2 marks the anniversary of Trump's sweeping tariffs, most of which were struck down by the Supreme Court, with $165 billion in refunds still pending.",
+        "title": "Trump leaves Supreme Court early, calls birthright citizenship 'stupid'",
+        "url": "https://www.perplexity.ai/page/trump-leaves-supreme-court-ear-Gy_D7Ag4ToGq0wy.pZqedA",
+        "description": "The president became the first to attend oral arguments, but justices signaled skepticism of his order to end birthright citizenship.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-02T11:37:56Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-04-02T10:04:18Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Russia vows continued aid to Cuba after first oil shipment in three months",
@@ -1659,24 +1677,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T23:54:12Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "ICE says it bought phone-hacking spyware to fight fentanyl",
-        "url": "https://www.perplexity.ai/page/ice-says-it-bought-phone-hacki-kZbr3xyZReCJKjAhK.Sofw",
-        "description": "The agency's disclosure to lawmakers is its first public justification for a controversial $2 million contract with Israeli spyware firm Paragon Solutions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T22:24:43Z",
-        "sourceCount": "146 sources"
-      },
-      {
-        "title": "DHS scraps Noem's $100K contract approval rule, unblocking FEMA relief",
-        "url": "https://www.perplexity.ai/page/dhs-scraps-noem-s-100k-contrac-sWlY9946RLSTuBI4893FFg",
-        "description": "Secretary Markwayne Mullin's first major action reverses a policy that delayed over 1,000 FEMA contracts and billions in disaster aid.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T23:54:33Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "US lifts sanctions on Venezuela's acting president Rodríguez",
@@ -1697,13 +1697,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Judge lets ABA lawsuit over Trump's law firm orders proceed",
-        "url": "https://www.perplexity.ai/page/judge-lets-aba-lawsuit-over-tr-EBiDKmLpTOm8BL7ATCXlqA",
-        "description": "A federal judge denied the DOJ's motion to dismiss, ruling the ABA plausibly showed Trump's executive orders suppressed free expression.",
+        "title": "DHS scraps Noem's $100K contract approval rule, unblocking FEMA relief",
+        "url": "https://www.perplexity.ai/page/dhs-scraps-noem-s-100k-contrac-sWlY9946RLSTuBI4893FFg",
+        "description": "Secretary Markwayne Mullin's first major action reverses a policy that delayed over 1,000 FEMA contracts and billions in disaster aid.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-01T20:44:56Z",
-        "sourceCount": "32 sources"
+        "pubDate": "2026-04-01T23:54:33Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Seizing Iran's uranium by force would risk casualties, experts warn",
@@ -1715,6 +1715,24 @@
         "sourceCount": "15 sources"
       },
       {
+        "title": "ICE says it bought phone-hacking spyware to fight fentanyl",
+        "url": "https://www.perplexity.ai/page/ice-says-it-bought-phone-hacki-kZbr3xyZReCJKjAhK.Sofw",
+        "description": "The agency's disclosure to lawmakers is its first public justification for a controversial $2 million contract with Israeli spyware firm Paragon Solutions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T22:24:43Z",
+        "sourceCount": "146 sources"
+      },
+      {
+        "title": "Appeals court blocks HUD from overhauling homelessness grants",
+        "url": "https://www.perplexity.ai/page/appeals-court-blocks-hud-from-58E2HTQ0QEO12ZMyeye_NA",
+        "description": "The 1st Circuit upheld an injunction preserving billions in permanent housing funds, rejecting the Trump administration's bid to impose new restrictions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-01T23:03:25Z",
+        "sourceCount": "14 sources"
+      },
+      {
         "title": "Shell in advanced talks to develop major gas fields in Venezuela",
         "url": "https://www.perplexity.ai/page/shell-in-advanced-talks-to-dev-vyI63f8CTvalfAXvFGRQVg",
         "description": "The energy giant is pursuing four offshore areas near Trinidad with combined reserves of roughly 20 trillion cubic feet, according to Reuters.",
@@ -1722,15 +1740,6 @@
         "topic": "top",
         "pubDate": "2026-04-01T16:28:20Z",
         "sourceCount": "31 sources"
-      },
-      {
-        "title": "Trump leaves Supreme Court early, calls birthright citizenship 'stupid'",
-        "url": "https://www.perplexity.ai/page/trump-leaves-supreme-court-ear-Gy_D7Ag4ToGq0wy.pZqedA",
-        "description": "The president became the first to attend oral arguments, but justices signaled skepticism of his order to end birthright citizenship.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-02T10:04:18Z",
-        "sourceCount": "27 sources"
       },
       {
         "title": "AOC pledges to oppose all U.S. arms funding for Israel",
@@ -1742,22 +1751,13 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Iran hits tanker off Qatar, strikes Kuwait airport as Gulf war widens",
-        "url": "https://www.perplexity.ai/page/iran-hits-tanker-off-qatar-str-uXoBow6CQVW58f9z8IysSA",
-        "description": "Qatar said it intercepted two of three cruise missiles from Iran, but a third struck a QatarEnergy-chartered tanker. No casualties were reported.",
+        "title": "Judge lets ABA lawsuit over Trump's law firm orders proceed",
+        "url": "https://www.perplexity.ai/page/judge-lets-aba-lawsuit-over-tr-EBiDKmLpTOm8BL7ATCXlqA",
+        "description": "A federal judge denied the DOJ's motion to dismiss, ruling the ABA plausibly showed Trump's executive orders suppressed free expression.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-01T13:28:03Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Appeals court blocks HUD from overhauling homelessness grants",
-        "url": "https://www.perplexity.ai/page/appeals-court-blocks-hud-from-58E2HTQ0QEO12ZMyeye_NA",
-        "description": "The 1st Circuit upheld an injunction preserving billions in permanent housing funds, rejecting the Trump administration's bid to impose new restrictions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-01T23:03:25Z",
-        "sourceCount": "14 sources"
+        "pubDate": "2026-04-01T20:44:56Z",
+        "sourceCount": "32 sources"
       },
       {
         "title": "Israel kills Hezbollah's Southern Front commander in Beirut naval strike",
