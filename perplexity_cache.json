@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Artemis II crew shares first photos of Earth from deep space",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-shares-first-p-iY3Ab8gYTV6lYVLxxAi8Fw",
+      "description": "The images, taken after Thursday's translunar injection burn, show the full globe in vivid blue — the first such human-captured view since Apollo.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T16:09:09Z",
+      "sourceCount": "58 sources"
+    },
+    {
       "title": "Rescue operation unfolds as debris in Iran identified as U.S. F-15E",
       "url": "https://www.perplexity.ai/page/rescue-operation-unfolds-as-de-o4239aMJSumpDRLI2N6yJQ",
       "description": "Analysts identified wreckage as a Strike Eagle from RAF Lakenheath's 494th Fighter Squadron, contradicting Iran's claim of downing an F-35.",
@@ -1250,56 +1259,20 @@
       "topic": "top",
       "pubDate": "2026-03-28T00:39:42Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "DC airports grounded again after odor forces evacuation of air traffic facility",
-      "url": "https://www.perplexity.ai/page/dc-airports-grounded-again-aft-BZUHSW5TRIeT.OZVGSIqQw",
-      "description": "The Potomac TRACON in Virginia was evacuated Friday evening for the second time in two weeks, halting flights at five airports.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T00:25:44Z",
-      "sourceCount": "56 sources"
-    },
-    {
-      "title": "Iran fires cluster munitions at Tel Aviv, killing one",
-      "url": "https://www.perplexity.ai/page/iran-fires-cluster-munitions-a-IQo2wwBjSPiZny0ILuNc5A",
-      "description": "A day of dramatic escalation saw Israel strike two Iranian nuclear facilities for the first time in the war, prompting retaliatory missile fire that killed a man in Tel Aviv.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T00:15:56Z",
-      "sourceCount": "50 sources"
-    },
-    {
-      "title": "Poland's Tusk warns of imminent escalation in Iran war",
-      "url": "https://www.perplexity.ai/page/poland-s-tusk-warns-of-imminen-pazBpjNURZybfTYVRgJ5uQ",
-      "description": "The Polish prime minister cited allied intelligence suggesting the conflict will intensify, not stabilize, in the coming days.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T00:36:52Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Trump unveils farm aid at White House amid tariff, war pressures",
-      "url": "https://www.perplexity.ai/page/trump-unveils-farm-aid-at-whit-cbtsjw.RRvSGjxoFeuZYAw",
-      "description": "The president announced new SBA loan guarantees and biofuel standards before more than 800 farmers as the sector struggles with rising costs.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T00:12:40Z",
-      "sourceCount": "38 sources"
-    },
-    {
-      "title": "Judge threatens VA with contempt over union contract defiance",
-      "url": "https://www.perplexity.ai/page/judge-threatens-va-with-contem-5UlV.SsxRNuYt2x0jndSmA",
-      "description": "The agency re-terminated a collective bargaining agreement covering 320,000 workers hours before a compliance hearing, the judge said.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T00:04:17Z",
-      "sourceCount": "23 sources"
     }
   ],
-  "cached_at": "2026-04-03T16:15:18Z",
+  "cached_at": "2026-04-03T16:33:31Z",
   "topics": {
     "top": [
+      {
+        "title": "Artemis II crew shares first photos of Earth from deep space",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-shares-first-p-iY3Ab8gYTV6lYVLxxAi8Fw",
+        "description": "The images, taken after Thursday's translunar injection burn, show the full globe in vivid blue — the first such human-captured view since Apollo.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T16:09:09Z",
+        "sourceCount": "58 sources"
+      },
       {
         "title": "Rescue operation unfolds as debris in Iran identified as U.S. F-15E",
         "url": "https://www.perplexity.ai/page/rescue-operation-unfolds-as-de-o4239aMJSumpDRLI2N6yJQ",
@@ -2550,51 +2523,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T00:39:42Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "DC airports grounded again after odor forces evacuation of air traffic facility",
-        "url": "https://www.perplexity.ai/page/dc-airports-grounded-again-aft-BZUHSW5TRIeT.OZVGSIqQw",
-        "description": "The Potomac TRACON in Virginia was evacuated Friday evening for the second time in two weeks, halting flights at five airports.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T00:25:44Z",
-        "sourceCount": "56 sources"
-      },
-      {
-        "title": "Iran fires cluster munitions at Tel Aviv, killing one",
-        "url": "https://www.perplexity.ai/page/iran-fires-cluster-munitions-a-IQo2wwBjSPiZny0ILuNc5A",
-        "description": "A day of dramatic escalation saw Israel strike two Iranian nuclear facilities for the first time in the war, prompting retaliatory missile fire that killed a man in Tel Aviv.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T00:15:56Z",
-        "sourceCount": "50 sources"
-      },
-      {
-        "title": "Poland's Tusk warns of imminent escalation in Iran war",
-        "url": "https://www.perplexity.ai/page/poland-s-tusk-warns-of-imminen-pazBpjNURZybfTYVRgJ5uQ",
-        "description": "The Polish prime minister cited allied intelligence suggesting the conflict will intensify, not stabilize, in the coming days.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T00:36:52Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Trump unveils farm aid at White House amid tariff, war pressures",
-        "url": "https://www.perplexity.ai/page/trump-unveils-farm-aid-at-whit-cbtsjw.RRvSGjxoFeuZYAw",
-        "description": "The president announced new SBA loan guarantees and biofuel standards before more than 800 farmers as the sector struggles with rising costs.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T00:12:40Z",
-        "sourceCount": "38 sources"
-      },
-      {
-        "title": "Judge threatens VA with contempt over union contract defiance",
-        "url": "https://www.perplexity.ai/page/judge-threatens-va-with-contem-5UlV.SsxRNuYt2x0jndSmA",
-        "description": "The agency re-terminated a collective bargaining agreement covering 320,000 workers hours before a compliance hearing, the judge said.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T00:04:17Z",
-        "sourceCount": "23 sources"
       }
     ],
     "tech": [],
