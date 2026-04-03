@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Pilot rescued after US A-10 Warthog crashes near Strait of Hormuz",
+      "url": "https://www.perplexity.ai/page/pilot-rescued-after-us-a-10-wa-5z1AWYt7SdWWYZKDM5gxPw",
+      "description": "An F-15E was shot down over Iran and an A-10 crashed near the Strait of Hormuz on Friday, marking the first U.S. aircraft losses of Operation Epic Fury.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T19:45:18Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Judge reaffirms block on DOJ subpoenas targeting Fed's Powell",
       "url": "https://www.perplexity.ai/page/judge-reaffirms-block-on-doj-s-pjU7CQcqSoiFmsPOlcNXIA",
       "description": "The ruling sets up a likely appeal that could delay Trump's push to replace Powell with Kevin Warsh before Powell's term expires May 15.",
@@ -35,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-04-03T17:41:35Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "U.S. F-15E shot down over Iran; one crew member rescued",
-      "url": "https://www.perplexity.ai/page/u-s-f-15e-shot-down-over-iran-mYJJ7PSnRPCZPZP89mBWYw",
-      "description": "Iran's IRGC downed a U.S. fighter jet Friday in the first confirmed shootdown of an American combat aircraft since the war began Feb. 28.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-03T16:32:06Z",
-      "sourceCount": "36 sources"
     },
     {
       "title": "Artemis II crew shares first photos of Earth from deep space",
@@ -1279,9 +1279,18 @@
       "sourceCount": "13 sources"
     }
   ],
-  "cached_at": "2026-04-03T19:48:25Z",
+  "cached_at": "2026-04-03T20:03:09Z",
   "topics": {
     "top": [
+      {
+        "title": "Pilot rescued after US A-10 Warthog crashes near Strait of Hormuz",
+        "url": "https://www.perplexity.ai/page/pilot-rescued-after-us-a-10-wa-5z1AWYt7SdWWYZKDM5gxPw",
+        "description": "An F-15E was shot down over Iran and an A-10 crashed near the Strait of Hormuz on Friday, marking the first U.S. aircraft losses of Operation Epic Fury.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T19:45:18Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Judge reaffirms block on DOJ subpoenas targeting Fed's Powell",
         "url": "https://www.perplexity.ai/page/judge-reaffirms-block-on-doj-s-pjU7CQcqSoiFmsPOlcNXIA",
@@ -1317,15 +1326,6 @@
         "topic": "top",
         "pubDate": "2026-04-03T17:41:35Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "U.S. F-15E shot down over Iran; one crew member rescued",
-        "url": "https://www.perplexity.ai/page/u-s-f-15e-shot-down-over-iran-mYJJ7PSnRPCZPZP89mBWYw",
-        "description": "Iran's IRGC downed a U.S. fighter jet Friday in the first confirmed shootdown of an American combat aircraft since the war began Feb. 28.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-03T16:32:06Z",
-        "sourceCount": "36 sources"
       },
       {
         "title": "Artemis II crew shares first photos of Earth from deep space",
