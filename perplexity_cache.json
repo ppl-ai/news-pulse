@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Shell, TotalEnergies and BP eye majority stake in Gulf deepwater field",
+      "url": "https://www.perplexity.ai/page/shell-totalenergies-and-bp-eye-ld6gWGsdTI2S5RNKcDbvdw",
+      "description": "Beacon Offshore Energy and HEQ Deepwater have launched a sale of their combined 51% stake in the Shenandoah ultra-deepwater project, sources say.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T05:21:36Z",
+      "sourceCount": "30 sources"
+    },
+    {
       "title": "Hegseth forces out Army chief of staff Gen. Randy George",
       "url": "https://www.perplexity.ai/page/hegseth-forces-out-army-chief-oqG0qI_dROWiGwAmrWg3PQ",
       "description": "The dismissal caps a turbulent week after Hegseth blocked promotions of Black and female officers, deepening rifts with Army leadership.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-27T19:54:15Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Iran-linked hackers breach FBI director's personal email",
-      "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-oYWQ.s1.S5SsENFXMVIYnQ",
-      "description": "The Handala Hack Team posted photos and documents from Kash Patel's Gmail account; the DOJ confirmed the materials appear authentic.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-27T19:39:43Z",
-      "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-04-03T04:35:42Z",
+  "cached_at": "2026-04-03T05:54:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Shell, TotalEnergies and BP eye majority stake in Gulf deepwater field",
+        "url": "https://www.perplexity.ai/page/shell-totalenergies-and-bp-eye-ld6gWGsdTI2S5RNKcDbvdw",
+        "description": "Beacon Offshore Energy and HEQ Deepwater have launched a sale of their combined 51% stake in the Shenandoah ultra-deepwater project, sources say.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T05:21:36Z",
+        "sourceCount": "30 sources"
+      },
       {
         "title": "Hegseth forces out Army chief of staff Gen. Randy George",
         "url": "https://www.perplexity.ai/page/hegseth-forces-out-army-chief-oqG0qI_dROWiGwAmrWg3PQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-27T19:54:15Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Iran-linked hackers breach FBI director's personal email",
-        "url": "https://www.perplexity.ai/page/iran-linked-hackers-breach-fbi-oYWQ.s1.S5SsENFXMVIYnQ",
-        "description": "The Handala Hack Team posted photos and documents from Kash Patel's Gmail account; the DOJ confirmed the materials appear authentic.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-27T19:39:43Z",
-        "sourceCount": "22 sources"
       }
     ],
     "tech": [],
