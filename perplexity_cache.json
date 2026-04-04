@@ -1,6 +1,42 @@
 {
   "stories": [
     {
+      "title": "Jordan says it downed 261 of 281 Iranian projectiles over five weeks",
+      "url": "https://www.perplexity.ai/page/jordan-says-it-downed-261-of-2-TpCQUPjSSOWeMrm4b4hQoQ",
+      "description": "The military disclosed it faced 161 missiles and 120 drones targeting vital sites, with 20 evading interception and debris damaging homes and infrastructure.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T17:03:56Z",
+      "sourceCount": "27 sources"
+    },
+    {
+      "title": "Petronas says shipping, insurance costs compound oil surge",
+      "url": "https://www.perplexity.ai/page/petronas-says-shipping-insuran-IANY8OwvTRadIU0wWdSwog",
+      "description": "The Malaysian state energy firm's CEO said transportation costs have risen up to 176% and insurance premiums up to 337% since the Hormuz crisis began.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T17:03:53Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "Iran exempts Iraq from Hormuz restrictions as passage policy expands",
+      "url": "https://www.perplexity.ai/page/iran-exempts-iraq-from-hormuz-Y0K9nZ3sR768l.0M.NM5OA",
+      "description": "Trump warned \"all hell will rain down\" on Iran if the strait is not reopened by Monday, as Tehran continues selectively granting transit to allied nations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T17:03:25Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Iranian missile heavily damages Israeli drone factory",
+      "url": "https://www.perplexity.ai/page/iranian-missile-heavily-damage-wxIQMlHEQiq0IKOEpLMzDA",
+      "description": "The strike hit AeroSentinel's Petah Tikva facility days after Veloryx acquired a controlling stake in the covert-drone manufacturer.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T17:03:04Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Iran restoring bombed missile bunkers within hours, U.S. intelligence finds",
       "url": "https://www.perplexity.ai/page/iran-restoring-bombed-missile-Xo0vPLMATVWYjESO.UBB8w",
       "description": "Half of Iran's ballistic missile launchers remain intact despite five weeks of strikes, according to U.S. intelligence, contradicting White House claims of near-total success.",
@@ -8,15 +44,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T16:49:00Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "Strait of Hormuz weekly transits hit highest since war began",
-      "url": "https://www.perplexity.ai/page/strait-of-hormuz-weekly-transi-oZzU81esTmSCBbOnWzfrww",
-      "description": "Vessel crossings are gradually recovering but remain about 95% below pre-war levels, with roughly 1,900 ships still stranded in the region.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:39:22Z",
-      "sourceCount": "53 sources"
     },
     {
       "title": "Witkoff and Kushner plan first visit to Kyiv after Easter",
@@ -28,15 +55,6 @@
       "sourceCount": "58 sources"
     },
     {
-      "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
-      "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
-      "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:41:20Z",
-      "sourceCount": "44 sources"
-    },
-    {
       "title": "Thailand probes fuel hoarding as Southeast Asia's energy crisis deepens",
       "url": "https://www.perplexity.ai/page/thailand-probes-fuel-hoarding-nIE28cvoRVKwzW1iWagq0g",
       "description": "Five weeks after Iran closed the Strait of Hormuz, Southeast Asian nations face mounting fuel shortages, soaring costs, and emergency rationing measures.",
@@ -44,6 +62,15 @@
       "topic": "top",
       "pubDate": "2026-04-04T16:36:37Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
+      "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
+      "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T16:41:20Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Trump budget cuts Head Start, eliminates preschool grants",
@@ -73,13 +100,13 @@
       "sourceCount": "39 sources"
     },
     {
-      "title": "Iran downs 2 US warplanes, undercutting Trump's victory claims",
-      "url": "https://www.perplexity.ai/page/iran-downs-2-us-warplanes-unde-72T1eOeNQTed0OdUtu04Bw",
-      "description": "The shootdowns mark the first time manned U.S. aircraft have been brought down since the war began, with one crew member still missing.",
+      "title": "US special forces reportedly enter Iran for first time since war began",
+      "url": "https://www.perplexity.ai/page/us-special-forces-reportedly-e-d3F6c7gEQJy8ctEwFsEEgA",
+      "description": "British media reported American troops crossed into Iranian territory on April 3 as Trump vows weeks more of strikes and oil prices surge.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T16:35:56Z",
-      "sourceCount": "45 sources"
+      "pubDate": "2026-04-04T16:25:29Z",
+      "sourceCount": "57 sources"
     },
     {
       "title": "Over 40 nations demand Iran reopen Strait of Hormuz",
@@ -100,13 +127,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "US special forces reportedly enter Iran for first time since war began",
-      "url": "https://www.perplexity.ai/page/us-special-forces-reportedly-e-d3F6c7gEQJy8ctEwFsEEgA",
-      "description": "British media reported American troops crossed into Iranian territory on April 3 as Trump vows weeks more of strikes and oil prices surge.",
+      "title": "Trump weighs more Cabinet changes amid Iran war crisis",
+      "url": "https://www.perplexity.ai/page/trump-weighs-more-cabinet-chan-NQ6wWCGDSX.zqbBqE4TMVQ",
+      "description": "The president is considering further leadership shakeups after firing Bondi, even as a missing crew member is sought in Iran.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T16:25:29Z",
-      "sourceCount": "57 sources"
+      "pubDate": "2026-04-04T16:18:47Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
@@ -127,13 +154,13 @@
       "sourceCount": "41 sources"
     },
     {
-      "title": "Trump weighs more Cabinet changes amid Iran war crisis",
-      "url": "https://www.perplexity.ai/page/trump-weighs-more-cabinet-chan-NQ6wWCGDSX.zqbBqE4TMVQ",
-      "description": "The president is considering further leadership shakeups after firing Bondi, even as a missing crew member is sought in Iran.",
+      "title": "Rubio revokes green cards of Soleimani's niece, ICE arrests both",
+      "url": "https://www.perplexity.ai/page/rubio-revokes-green-cards-of-s-jfbTlGvmTwCPMw4cwRIGCA",
+      "description": "Hamideh Soleimani Afshar and her daughter were detained Saturday after Rubio annulled their lawful permanent resident status.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T16:18:47Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-04-04T15:23:16Z",
+      "sourceCount": "114 sources"
     },
     {
       "title": "US doubles Hormuz insurance backstop to $40B but finds no takers",
@@ -152,15 +179,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T14:45:51Z",
       "sourceCount": "45 sources"
-    },
-    {
-      "title": "Rubio revokes green cards of Soleimani's niece, ICE arrests both",
-      "url": "https://www.perplexity.ai/page/rubio-revokes-green-cards-of-s-jfbTlGvmTwCPMw4cwRIGCA",
-      "description": "Hamideh Soleimani Afshar and her daughter were detained Saturday after Rubio annulled their lawful permanent resident status.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T15:23:16Z",
-      "sourceCount": "114 sources"
     },
     {
       "title": "Gaza ceasefire talks end in Cairo with plans to resume next week",
@@ -1331,29 +1349,47 @@
       "topic": "top",
       "pubDate": "2026-03-31T19:45:31Z",
       "sourceCount": "130 sources"
-    },
-    {
-      "title": "Bipartisan senators introduce bill to boost Taiwan drone production",
-      "url": "https://www.perplexity.ai/page/bipartisan-senators-introduce-.FoW0F5kToiE9FZtEI9hFA",
-      "description": "The legislation would create a U.S.-Taiwan working group to co-produce drones and build supply chains independent from China.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:28:24Z",
-      "sourceCount": "14 sources"
-    },
-    {
-      "title": "Supreme Court strikes down Colorado conversion therapy ban in 8-1 ruling",
-      "url": "https://www.perplexity.ai/page/supreme-court-strikes-down-col-beD1Y1CkSeCPZPfAh4LBQw",
-      "description": "The decision in Chiles v. Salazar requires courts to apply heightened First Amendment scrutiny to laws restricting talk therapy for minors.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T14:47:57Z",
-      "sourceCount": "33 sources"
     }
   ],
-  "cached_at": "2026-04-04T17:04:52Z",
+  "cached_at": "2026-04-04T17:18:53Z",
   "topics": {
     "top": [
+      {
+        "title": "Jordan says it downed 261 of 281 Iranian projectiles over five weeks",
+        "url": "https://www.perplexity.ai/page/jordan-says-it-downed-261-of-2-TpCQUPjSSOWeMrm4b4hQoQ",
+        "description": "The military disclosed it faced 161 missiles and 120 drones targeting vital sites, with 20 evading interception and debris damaging homes and infrastructure.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T17:03:56Z",
+        "sourceCount": "27 sources"
+      },
+      {
+        "title": "Petronas says shipping, insurance costs compound oil surge",
+        "url": "https://www.perplexity.ai/page/petronas-says-shipping-insuran-IANY8OwvTRadIU0wWdSwog",
+        "description": "The Malaysian state energy firm's CEO said transportation costs have risen up to 176% and insurance premiums up to 337% since the Hormuz crisis began.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T17:03:53Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "Iran exempts Iraq from Hormuz restrictions as passage policy expands",
+        "url": "https://www.perplexity.ai/page/iran-exempts-iraq-from-hormuz-Y0K9nZ3sR768l.0M.NM5OA",
+        "description": "Trump warned \"all hell will rain down\" on Iran if the strait is not reopened by Monday, as Tehran continues selectively granting transit to allied nations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T17:03:25Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Iranian missile heavily damages Israeli drone factory",
+        "url": "https://www.perplexity.ai/page/iranian-missile-heavily-damage-wxIQMlHEQiq0IKOEpLMzDA",
+        "description": "The strike hit AeroSentinel's Petah Tikva facility days after Veloryx acquired a controlling stake in the covert-drone manufacturer.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T17:03:04Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Iran restoring bombed missile bunkers within hours, U.S. intelligence finds",
         "url": "https://www.perplexity.ai/page/iran-restoring-bombed-missile-Xo0vPLMATVWYjESO.UBB8w",
@@ -1362,15 +1398,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T16:49:00Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "Strait of Hormuz weekly transits hit highest since war began",
-        "url": "https://www.perplexity.ai/page/strait-of-hormuz-weekly-transi-oZzU81esTmSCBbOnWzfrww",
-        "description": "Vessel crossings are gradually recovering but remain about 95% below pre-war levels, with roughly 1,900 ships still stranded in the region.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:39:22Z",
-        "sourceCount": "53 sources"
       },
       {
         "title": "Witkoff and Kushner plan first visit to Kyiv after Easter",
@@ -1382,15 +1409,6 @@
         "sourceCount": "58 sources"
       },
       {
-        "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
-        "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
-        "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:41:20Z",
-        "sourceCount": "44 sources"
-      },
-      {
         "title": "Thailand probes fuel hoarding as Southeast Asia's energy crisis deepens",
         "url": "https://www.perplexity.ai/page/thailand-probes-fuel-hoarding-nIE28cvoRVKwzW1iWagq0g",
         "description": "Five weeks after Iran closed the Strait of Hormuz, Southeast Asian nations face mounting fuel shortages, soaring costs, and emergency rationing measures.",
@@ -1398,6 +1416,15 @@
         "topic": "top",
         "pubDate": "2026-04-04T16:36:37Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
+        "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
+        "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T16:41:20Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Trump budget cuts Head Start, eliminates preschool grants",
@@ -1427,13 +1454,13 @@
         "sourceCount": "39 sources"
       },
       {
-        "title": "Iran downs 2 US warplanes, undercutting Trump's victory claims",
-        "url": "https://www.perplexity.ai/page/iran-downs-2-us-warplanes-unde-72T1eOeNQTed0OdUtu04Bw",
-        "description": "The shootdowns mark the first time manned U.S. aircraft have been brought down since the war began, with one crew member still missing.",
+        "title": "US special forces reportedly enter Iran for first time since war began",
+        "url": "https://www.perplexity.ai/page/us-special-forces-reportedly-e-d3F6c7gEQJy8ctEwFsEEgA",
+        "description": "British media reported American troops crossed into Iranian territory on April 3 as Trump vows weeks more of strikes and oil prices surge.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T16:35:56Z",
-        "sourceCount": "45 sources"
+        "pubDate": "2026-04-04T16:25:29Z",
+        "sourceCount": "57 sources"
       },
       {
         "title": "Over 40 nations demand Iran reopen Strait of Hormuz",
@@ -1454,13 +1481,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "US special forces reportedly enter Iran for first time since war began",
-        "url": "https://www.perplexity.ai/page/us-special-forces-reportedly-e-d3F6c7gEQJy8ctEwFsEEgA",
-        "description": "British media reported American troops crossed into Iranian territory on April 3 as Trump vows weeks more of strikes and oil prices surge.",
+        "title": "Trump weighs more Cabinet changes amid Iran war crisis",
+        "url": "https://www.perplexity.ai/page/trump-weighs-more-cabinet-chan-NQ6wWCGDSX.zqbBqE4TMVQ",
+        "description": "The president is considering further leadership shakeups after firing Bondi, even as a missing crew member is sought in Iran.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T16:25:29Z",
-        "sourceCount": "57 sources"
+        "pubDate": "2026-04-04T16:18:47Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
@@ -1481,13 +1508,13 @@
         "sourceCount": "41 sources"
       },
       {
-        "title": "Trump weighs more Cabinet changes amid Iran war crisis",
-        "url": "https://www.perplexity.ai/page/trump-weighs-more-cabinet-chan-NQ6wWCGDSX.zqbBqE4TMVQ",
-        "description": "The president is considering further leadership shakeups after firing Bondi, even as a missing crew member is sought in Iran.",
+        "title": "Rubio revokes green cards of Soleimani's niece, ICE arrests both",
+        "url": "https://www.perplexity.ai/page/rubio-revokes-green-cards-of-s-jfbTlGvmTwCPMw4cwRIGCA",
+        "description": "Hamideh Soleimani Afshar and her daughter were detained Saturday after Rubio annulled their lawful permanent resident status.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T16:18:47Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-04-04T15:23:16Z",
+        "sourceCount": "114 sources"
       },
       {
         "title": "US doubles Hormuz insurance backstop to $40B but finds no takers",
@@ -1506,15 +1533,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T14:45:51Z",
         "sourceCount": "45 sources"
-      },
-      {
-        "title": "Rubio revokes green cards of Soleimani's niece, ICE arrests both",
-        "url": "https://www.perplexity.ai/page/rubio-revokes-green-cards-of-s-jfbTlGvmTwCPMw4cwRIGCA",
-        "description": "Hamideh Soleimani Afshar and her daughter were detained Saturday after Rubio annulled their lawful permanent resident status.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T15:23:16Z",
-        "sourceCount": "114 sources"
       },
       {
         "title": "Gaza ceasefire talks end in Cairo with plans to resume next week",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T19:45:31Z",
         "sourceCount": "130 sources"
-      },
-      {
-        "title": "Bipartisan senators introduce bill to boost Taiwan drone production",
-        "url": "https://www.perplexity.ai/page/bipartisan-senators-introduce-.FoW0F5kToiE9FZtEI9hFA",
-        "description": "The legislation would create a U.S.-Taiwan working group to co-produce drones and build supply chains independent from China.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:28:24Z",
-        "sourceCount": "14 sources"
-      },
-      {
-        "title": "Supreme Court strikes down Colorado conversion therapy ban in 8-1 ruling",
-        "url": "https://www.perplexity.ai/page/supreme-court-strikes-down-col-beD1Y1CkSeCPZPfAh4LBQw",
-        "description": "The decision in Chiles v. Salazar requires courts to apply heightened First Amendment scrutiny to laws restricting talk therapy for minors.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T14:47:57Z",
-        "sourceCount": "33 sources"
       }
     ],
     "tech": [],
