@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "US-Israeli strikes hit Iran nuclear site, cement plant as war enters sixth week",
+      "url": "https://www.perplexity.ai/page/us-israeli-strikes-hit-iran-nu-z_2rnjcvR3Gn04ICeP.vVw",
+      "description": "Saturday's airstrikes targeted the Bushehr nuclear facility, a cement plant, and a border terminal as the conflict's toll surpasses 1,340 dead.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T11:33:22Z",
+      "sourceCount": "55 sources"
+    },
+    {
       "title": "Developing nations impose austerity as oil shock deepens",
       "url": "https://www.perplexity.ai/page/developing-nations-impose-aust-Zx5ad2LLQWyUsBfx.O56Wg",
       "description": "Bangladesh cut office hours and government spending while Senegal banned official travel as surging crude prices strain public finances.",
@@ -116,15 +125,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T10:22:38Z",
       "sourceCount": "13 sources"
-    },
-    {
-      "title": "U.S. F-15E shot down over Iran as IDF strikes Tehran",
-      "url": "https://www.perplexity.ai/page/u-s-f-15e-shot-down-over-iran-N7GsgODKSb6hcj8wc2bKXQ",
-      "description": "An American fighter jet was downed over central Iran on Friday, while Israel launched extensive airstrikes on Tehran military sites.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T10:43:02Z",
-      "sourceCount": "35 sources"
     },
     {
       "title": "TS Lombard maps three paths for U.S. economy amid Iran war chaos",
@@ -1351,9 +1351,18 @@
       "sourceCount": "43 sources"
     }
   ],
-  "cached_at": "2026-04-04T11:38:34Z",
+  "cached_at": "2026-04-04T11:52:18Z",
   "topics": {
     "top": [
+      {
+        "title": "US-Israeli strikes hit Iran nuclear site, cement plant as war enters sixth week",
+        "url": "https://www.perplexity.ai/page/us-israeli-strikes-hit-iran-nu-z_2rnjcvR3Gn04ICeP.vVw",
+        "description": "Saturday's airstrikes targeted the Bushehr nuclear facility, a cement plant, and a border terminal as the conflict's toll surpasses 1,340 dead.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T11:33:22Z",
+        "sourceCount": "55 sources"
+      },
       {
         "title": "Developing nations impose austerity as oil shock deepens",
         "url": "https://www.perplexity.ai/page/developing-nations-impose-aust-Zx5ad2LLQWyUsBfx.O56Wg",
@@ -1470,15 +1479,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T10:22:38Z",
         "sourceCount": "13 sources"
-      },
-      {
-        "title": "U.S. F-15E shot down over Iran as IDF strikes Tehran",
-        "url": "https://www.perplexity.ai/page/u-s-f-15e-shot-down-over-iran-N7GsgODKSb6hcj8wc2bKXQ",
-        "description": "An American fighter jet was downed over central Iran on Friday, while Israel launched extensive airstrikes on Tehran military sites.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T10:43:02Z",
-        "sourceCount": "35 sources"
       },
       {
         "title": "TS Lombard maps three paths for U.S. economy amid Iran war chaos",
