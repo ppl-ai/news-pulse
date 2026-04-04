@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "White House calls press lid as Trump health rumors spread online",
+      "url": "https://www.perplexity.ai/page/white-house-calls-press-lid-as-TIJwhRvaS9apB7cZjVPm_A",
+      "description": "Unverified speculation surged after the president's schedule showed only \"Executive Time\" and no briefing on the Iran military crisis.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T20:09:29Z",
+      "sourceCount": "41 sources"
+    },
+    {
       "title": "U.N. Security Council postpones vote on Strait of Hormuz resolution to next week",
       "url": "https://www.perplexity.ai/page/u-n-security-council-postpones-GVy6c.sGSQGP0tSkeznpCA",
       "description": "The Bahrain-backed measure was watered down to permit only defensive actions after Russia, China, and France opposed authorizing military force.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-30T18:10:45Z",
       "sourceCount": "101 sources"
-    },
-    {
-      "title": "Washington governor signs millionaires tax into law",
-      "url": "https://www.perplexity.ai/page/washington-governor-signs-mill-LDDWSwjySUWx2aNgOKNU3A",
-      "description": "The 9.9% levy on household income above $1 million is the state's first personal income tax in nearly a century.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T18:06:51Z",
-      "sourceCount": "45 sources"
     }
   ],
-  "cached_at": "2026-04-04T20:01:29Z",
+  "cached_at": "2026-04-04T20:15:16Z",
   "topics": {
     "top": [
+      {
+        "title": "White House calls press lid as Trump health rumors spread online",
+        "url": "https://www.perplexity.ai/page/white-house-calls-press-lid-as-TIJwhRvaS9apB7cZjVPm_A",
+        "description": "Unverified speculation surged after the president's schedule showed only \"Executive Time\" and no briefing on the Iran military crisis.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T20:09:29Z",
+        "sourceCount": "41 sources"
+      },
       {
         "title": "U.N. Security Council postpones vote on Strait of Hormuz resolution to next week",
         "url": "https://www.perplexity.ai/page/u-n-security-council-postpones-GVy6c.sGSQGP0tSkeznpCA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-30T18:10:45Z",
         "sourceCount": "101 sources"
-      },
-      {
-        "title": "Washington governor signs millionaires tax into law",
-        "url": "https://www.perplexity.ai/page/washington-governor-signs-mill-LDDWSwjySUWx2aNgOKNU3A",
-        "description": "The 9.9% levy on household income above $1 million is the state's first personal income tax in nearly a century.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T18:06:51Z",
-        "sourceCount": "45 sources"
       }
     ],
     "tech": [],
