@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Israel strikes over 200 targets across Iran, Lebanon",
-      "url": "https://www.perplexity.ai/page/israel-strikes-over-200-target-l3hVhSQqSI.ycfg.OEy3.g",
-      "description": "An 11th Israeli soldier was killed in southern Lebanon as the IDF carried out one of its most expansive weekends of strikes on multiple fronts.",
+      "title": "Iran cluster bombs wound 6 in central Israel as war enters sixth week",
+      "url": "https://www.perplexity.ai/page/iran-cluster-bombs-wound-6-in-T2.h2ZrDTHaaO2H6lUvL7g",
+      "description": "Missile barrages carrying cluster munitions damaged homes across the Tel Aviv metro area Saturday, as strikes also hit Gulf energy infrastructure.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T21:53:51Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-04-04T21:29:02Z",
+      "sourceCount": "55 sources"
     },
     {
       "title": "Artemis II crew prepares for Monday lunar flyby",
@@ -26,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T21:15:53Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Iran cluster bombs wound 6 in central Israel as war enters sixth week",
-      "url": "https://www.perplexity.ai/page/iran-cluster-bombs-wound-6-in-T2.h2ZrDTHaaO2H6lUvL7g",
-      "description": "Missile barrages carrying cluster munitions damaged homes across the Tel Aviv metro area Saturday, as strikes also hit Gulf energy infrastructure.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T21:29:02Z",
-      "sourceCount": "55 sources"
     },
     {
       "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
@@ -1349,19 +1340,28 @@
       "topic": "top",
       "pubDate": "2026-03-30T18:06:51Z",
       "sourceCount": "45 sources"
+    },
+    {
+      "title": "Renoir, Cezanne, Matisse paintings stolen in 3-minute Italian museum heist",
+      "url": "https://www.perplexity.ai/page/renoir-cezanne-matisse-paintin-paWrjbiVQFO4M5vP8f16pA",
+      "description": "Four masked thieves took three masterpieces worth an estimated €9 million from a private museum near Parma; investigators are reviewing surveillance footage.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T16:32:41Z",
+      "sourceCount": "22 sources"
     }
   ],
-  "cached_at": "2026-04-04T22:01:12Z",
+  "cached_at": "2026-04-04T22:14:33Z",
   "topics": {
     "top": [
       {
-        "title": "Israel strikes over 200 targets across Iran, Lebanon",
-        "url": "https://www.perplexity.ai/page/israel-strikes-over-200-target-l3hVhSQqSI.ycfg.OEy3.g",
-        "description": "An 11th Israeli soldier was killed in southern Lebanon as the IDF carried out one of its most expansive weekends of strikes on multiple fronts.",
+        "title": "Iran cluster bombs wound 6 in central Israel as war enters sixth week",
+        "url": "https://www.perplexity.ai/page/iran-cluster-bombs-wound-6-in-T2.h2ZrDTHaaO2H6lUvL7g",
+        "description": "Missile barrages carrying cluster munitions damaged homes across the Tel Aviv metro area Saturday, as strikes also hit Gulf energy infrastructure.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T21:53:51Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-04-04T21:29:02Z",
+        "sourceCount": "55 sources"
       },
       {
         "title": "Artemis II crew prepares for Monday lunar flyby",
@@ -1380,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T21:15:53Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Iran cluster bombs wound 6 in central Israel as war enters sixth week",
-        "url": "https://www.perplexity.ai/page/iran-cluster-bombs-wound-6-in-T2.h2ZrDTHaaO2H6lUvL7g",
-        "description": "Missile barrages carrying cluster munitions damaged homes across the Tel Aviv metro area Saturday, as strikes also hit Gulf energy infrastructure.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T21:29:02Z",
-        "sourceCount": "55 sources"
       },
       {
         "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-30T18:06:51Z",
         "sourceCount": "45 sources"
+      },
+      {
+        "title": "Renoir, Cezanne, Matisse paintings stolen in 3-minute Italian museum heist",
+        "url": "https://www.perplexity.ai/page/renoir-cezanne-matisse-paintin-paWrjbiVQFO4M5vP8f16pA",
+        "description": "Four masked thieves took three masterpieces worth an estimated €9 million from a private museum near Parma; investigators are reviewing surveillance footage.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T16:32:41Z",
+        "sourceCount": "22 sources"
       }
     ],
     "tech": [],
