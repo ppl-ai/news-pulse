@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Trump weighs broader cabinet shake-up as war frustration mounts",
+      "url": "https://www.perplexity.ai/page/trump-weighs-broader-cabinet-s-mWRxB_0PQ1OUP1T8Z.7vdg",
+      "description": "Lutnick, Gabbard, and Chavez-DeRemer are among those on thin ice as Trump's approval hits a term low amid the Iran conflict.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T11:11:25Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Rate hike odds climb as Fed officials warn oil shock threatens inflation",
+      "url": "https://www.perplexity.ai/page/rate-hike-odds-climb-as-fed-of-ZbaL9eVlTxKR0gOGkidNIg",
+      "description": "Markets now price out 2026 rate cuts entirely, with hike odds rising after a strong jobs report and Fed warnings about Iran war energy costs.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T11:10:17Z",
+      "sourceCount": "29 sources"
+    },
+    {
       "title": "Polymarket bets on $120 oil jump after Iran strikes Gulf",
       "url": "https://www.perplexity.ai/page/polymarket-bets-on-120-oil-jum-3IMkgu7WSg2TT3Duk8r2zw",
       "description": "Prediction market odds for WTI crude hitting $120 in April climbed sharply after Iranian drone attacks on Kuwait's largest refinery and Gulf energy sites.",
@@ -667,15 +685,6 @@
       "sourceCount": "51 sources"
     },
     {
-      "title": "Trump fires AG Pam Bondi over Epstein files fallout",
-      "url": "https://www.perplexity.ai/page/trump-fires-ag-pam-bondi-over-HdshmzWMS0Olf2uNkM3boA",
-      "description": "Bondi was dismissed Wednesday night after months of friction over the Epstein documents and stalled investigations into Trump's political rivals.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-02T17:28:36Z",
-      "sourceCount": "38 sources"
-    },
-    {
       "title": "US jobless claims fall to 202,000, defying Iran war headwinds",
       "url": "https://www.perplexity.ai/page/us-jobless-claims-fall-to-2020-jw_S3yQ1QLW7GupMOQMDqQ",
       "description": "Weekly filings dropped well below forecasts even as the conflict's energy shock weighs on the broader economy and hiring outlook.",
@@ -1340,20 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-29T21:28:06Z",
       "sourceCount": "46 sources"
-    },
-    {
-      "title": "Satellite images show 88 structures destroyed at key Iran missile site",
-      "url": "https://www.perplexity.ai/page/satellite-images-show-88-struc-vooYoV1nTciugKqxNxrozg",
-      "description": "A month into Operation Epic Fury, the U.S. has confirmed destroying only about a third of Iran's missile arsenal despite thousands of strikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-29T18:03:44Z",
-      "sourceCount": "47 sources"
     }
   ],
-  "cached_at": "2026-04-04T11:07:34Z",
+  "cached_at": "2026-04-04T11:22:24Z",
   "topics": {
     "top": [
+      {
+        "title": "Trump weighs broader cabinet shake-up as war frustration mounts",
+        "url": "https://www.perplexity.ai/page/trump-weighs-broader-cabinet-s-mWRxB_0PQ1OUP1T8Z.7vdg",
+        "description": "Lutnick, Gabbard, and Chavez-DeRemer are among those on thin ice as Trump's approval hits a term low amid the Iran conflict.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T11:11:25Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Rate hike odds climb as Fed officials warn oil shock threatens inflation",
+        "url": "https://www.perplexity.ai/page/rate-hike-odds-climb-as-fed-of-ZbaL9eVlTxKR0gOGkidNIg",
+        "description": "Markets now price out 2026 rate cuts entirely, with hike odds rising after a strong jobs report and Fed warnings about Iran war energy costs.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T11:10:17Z",
+        "sourceCount": "29 sources"
+      },
       {
         "title": "Polymarket bets on $120 oil jump after Iran strikes Gulf",
         "url": "https://www.perplexity.ai/page/polymarket-bets-on-120-oil-jum-3IMkgu7WSg2TT3Duk8r2zw",
@@ -2021,15 +2039,6 @@
         "sourceCount": "51 sources"
       },
       {
-        "title": "Trump fires AG Pam Bondi over Epstein files fallout",
-        "url": "https://www.perplexity.ai/page/trump-fires-ag-pam-bondi-over-HdshmzWMS0Olf2uNkM3boA",
-        "description": "Bondi was dismissed Wednesday night after months of friction over the Epstein documents and stalled investigations into Trump's political rivals.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-02T17:28:36Z",
-        "sourceCount": "38 sources"
-      },
-      {
         "title": "US jobless claims fall to 202,000, defying Iran war headwinds",
         "url": "https://www.perplexity.ai/page/us-jobless-claims-fall-to-2020-jw_S3yQ1QLW7GupMOQMDqQ",
         "description": "Weekly filings dropped well below forecasts even as the conflict's energy shock weighs on the broader economy and hiring outlook.",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-29T21:28:06Z",
         "sourceCount": "46 sources"
-      },
-      {
-        "title": "Satellite images show 88 structures destroyed at key Iran missile site",
-        "url": "https://www.perplexity.ai/page/satellite-images-show-88-struc-vooYoV1nTciugKqxNxrozg",
-        "description": "A month into Operation Epic Fury, the U.S. has confirmed destroying only about a third of Iran's missile arsenal despite thousands of strikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-29T18:03:44Z",
-        "sourceCount": "47 sources"
       }
     ],
     "tech": [],
