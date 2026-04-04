@@ -154,6 +154,15 @@
       "sourceCount": "39 sources"
     },
     {
+      "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
+      "url": "https://www.perplexity.ai/page/hamas-accuses-israel-of-fabric-CP_MjuD2TN.LEL17WdbJcQ",
+      "description": "Since the October ceasefire took effect, Israeli attacks have killed at least 713 Palestinians, according to Gaza's Health Ministry.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T15:43:48Z",
+      "sourceCount": "75 sources"
+    },
+    {
       "title": "Gaza ceasefire talks end in Cairo with plans to resume next week",
       "url": "https://www.perplexity.ai/page/gaza-ceasefire-talks-end-in-ca-DMtveThWTvKL4VqVCRaN_A",
       "description": "Hamas called for the immediate formation of a transitional committee to govern Gaza and oversee reconstruction under the ceasefire's second phase.",
@@ -1340,18 +1349,9 @@
       "topic": "top",
       "pubDate": "2026-03-30T16:32:41Z",
       "sourceCount": "22 sources"
-    },
-    {
-      "title": "Trump confirms US is negotiating with Iran's Ghalibaf",
-      "url": "https://www.perplexity.ai/page/trump-confirms-us-is-negotiati-_jcDh2c3Rzex2S0hmHvfdA",
-      "description": "The president identified Iran's parliament speaker as his counterpart in talks, while Ghalibaf denied any negotiations and threatened U.S. forces.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T17:44:22Z",
-      "sourceCount": "27 sources"
     }
   ],
-  "cached_at": "2026-04-04T19:01:04Z",
+  "cached_at": "2026-04-04T19:19:12Z",
   "topics": {
     "top": [
       {
@@ -1506,6 +1506,15 @@
         "topic": "top",
         "pubDate": "2026-04-04T16:18:44Z",
         "sourceCount": "39 sources"
+      },
+      {
+        "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
+        "url": "https://www.perplexity.ai/page/hamas-accuses-israel-of-fabric-CP_MjuD2TN.LEL17WdbJcQ",
+        "description": "Since the October ceasefire took effect, Israeli attacks have killed at least 713 Palestinians, according to Gaza's Health Ministry.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T15:43:48Z",
+        "sourceCount": "75 sources"
       },
       {
         "title": "Gaza ceasefire talks end in Cairo with plans to resume next week",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-30T16:32:41Z",
         "sourceCount": "22 sources"
-      },
-      {
-        "title": "Trump confirms US is negotiating with Iran's Ghalibaf",
-        "url": "https://www.perplexity.ai/page/trump-confirms-us-is-negotiati-_jcDh2c3Rzex2S0hmHvfdA",
-        "description": "The president identified Iran's parliament speaker as his counterpart in talks, while Ghalibaf denied any negotiations and threatened U.S. forces.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T17:44:22Z",
-        "sourceCount": "27 sources"
       }
     ],
     "tech": [],
