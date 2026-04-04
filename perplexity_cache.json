@@ -1,6 +1,51 @@
 {
   "stories": [
     {
+      "title": "Erdogan tells NATO chief Iran war has caused 'geostrategic impasse'",
+      "url": "https://www.perplexity.ai/page/erdogan-tells-nato-chief-iran-f9s1wgSyS4irxLlTmL47Uw",
+      "description": "The Turkish president urged the international community to intensify efforts to end the conflict during a Saturday phone call with Mark Rutte.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T16:23:45Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "Trump weighs more Cabinet changes amid Iran war crisis",
+      "url": "https://www.perplexity.ai/page/trump-weighs-more-cabinet-chan-NQ6wWCGDSX.zqbBqE4TMVQ",
+      "description": "The president is considering further leadership shakeups after firing Bondi, even as a missing crew member is sought in Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T16:18:47Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Slovak, Hungarian PMs demand EU lift Russia energy sanctions",
+      "url": "https://www.perplexity.ai/page/slovak-hungarian-pms-demand-eu-48olB3qNTNum7Nadp4DlQA",
+      "description": "The two leaders cited Europe's deepening energy crisis, driven by the Iran conflict, as reason to restore Russian oil and gas flows immediately.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T16:18:44Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "Iran strikes Ben Gurion Airport, Gulf states with fresh drone and missile barrages",
+      "url": "https://www.perplexity.ai/page/iran-strikes-ben-gurion-airpor-hyadD7lRRamItXZV48ocFA",
+      "description": "Saturday's attacks hit Israeli airport infrastructure, Iraqi oil fields, and triggered mass interceptions across the UAE and Jordan.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T16:16:49Z",
+      "sourceCount": "57 sources"
+    },
+    {
+      "title": "Experts put odds of US ground operation in Iran at 85%",
+      "url": "https://www.perplexity.ai/page/experts-put-odds-of-us-ground-AGvjc0wHRuGx3bsDoiWT.Q",
+      "description": "As the air campaign stretches past one month without toppling the regime, analysts warn a ground invasion would be catastrophic and unwinnable.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T16:14:23Z",
+      "sourceCount": "43 sources"
+    },
+    {
       "title": "Over 40 nations demand Iran reopen Strait of Hormuz",
       "url": "https://www.perplexity.ai/page/over-40-nations-demand-iran-re-3DBRztXgTKGf.7HvB7tZ9Q",
       "description": "The blockade has driven eurozone inflation above the ECB's target and is expected to freeze India's rate-cut cycle as oil prices remain elevated.",
@@ -28,15 +73,6 @@
       "sourceCount": "84 sources"
     },
     {
-      "title": "Iran seen winning energy war despite devastating U.S. airstrikes",
-      "url": "https://www.perplexity.ai/page/iran-seen-winning-energy-war-d-obIOHFJ6RK6kMF.SzzhucA",
-      "description": "Five weeks in, Tehran's Strait of Hormuz blockade and Gulf infrastructure attacks are raising costs faster than U.S. air power can deliver a strategic victory.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T15:49:50Z",
-      "sourceCount": "41 sources"
-    },
-    {
       "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
       "url": "https://www.perplexity.ai/page/hamas-accuses-israel-of-fabric-CP_MjuD2TN.LEL17WdbJcQ",
       "description": "Since the October ceasefire took effect, Israeli attacks have killed at least 713 Palestinians, according to Gaza's Health Ministry.",
@@ -44,15 +80,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T15:43:48Z",
       "sourceCount": "75 sources"
-    },
-    {
-      "title": "IDF hits Iranian air defenses, missile sites in Tehran",
-      "url": "https://www.perplexity.ai/page/idf-hits-iranian-air-defenses-1CGgZ3ZRT7GDmkWRTJ9uyQ",
-      "description": "Israel carried out over 70 strikes on IRGC air defense systems, missile launchers, and weapons facilities across Iran in a single day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T15:43:03Z",
-      "sourceCount": "39 sources"
     },
     {
       "title": "Meteor impacts may have created conditions for life, study finds",
@@ -1322,38 +1349,56 @@
       "topic": "top",
       "pubDate": "2026-03-31T19:22:53Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Vance to publish book on Catholic faith while in office",
-      "url": "https://www.perplexity.ai/page/vance-to-publish-book-on-catho-Icmp0ndtSEWr2rCm_btjxw",
-      "description": "\"Communion: Finding My Way Back to Faith,\" due June 16, traces the vice president's journey from atheism to Catholicism.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T16:22:40Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Hegseth calls upcoming days 'decisive' in Iran war",
-      "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
-      "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T13:13:53Z",
-      "sourceCount": "71 sources"
-    },
-    {
-      "title": "Trump warns European allies after Italy, France block US military access",
-      "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
-      "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:04:40Z",
-      "sourceCount": "44 sources"
     }
   ],
-  "cached_at": "2026-04-04T16:12:02Z",
+  "cached_at": "2026-04-04T16:28:39Z",
   "topics": {
     "top": [
+      {
+        "title": "Erdogan tells NATO chief Iran war has caused 'geostrategic impasse'",
+        "url": "https://www.perplexity.ai/page/erdogan-tells-nato-chief-iran-f9s1wgSyS4irxLlTmL47Uw",
+        "description": "The Turkish president urged the international community to intensify efforts to end the conflict during a Saturday phone call with Mark Rutte.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T16:23:45Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "Trump weighs more Cabinet changes amid Iran war crisis",
+        "url": "https://www.perplexity.ai/page/trump-weighs-more-cabinet-chan-NQ6wWCGDSX.zqbBqE4TMVQ",
+        "description": "The president is considering further leadership shakeups after firing Bondi, even as a missing crew member is sought in Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T16:18:47Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Slovak, Hungarian PMs demand EU lift Russia energy sanctions",
+        "url": "https://www.perplexity.ai/page/slovak-hungarian-pms-demand-eu-48olB3qNTNum7Nadp4DlQA",
+        "description": "The two leaders cited Europe's deepening energy crisis, driven by the Iran conflict, as reason to restore Russian oil and gas flows immediately.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T16:18:44Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "Iran strikes Ben Gurion Airport, Gulf states with fresh drone and missile barrages",
+        "url": "https://www.perplexity.ai/page/iran-strikes-ben-gurion-airpor-hyadD7lRRamItXZV48ocFA",
+        "description": "Saturday's attacks hit Israeli airport infrastructure, Iraqi oil fields, and triggered mass interceptions across the UAE and Jordan.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T16:16:49Z",
+        "sourceCount": "57 sources"
+      },
+      {
+        "title": "Experts put odds of US ground operation in Iran at 85%",
+        "url": "https://www.perplexity.ai/page/experts-put-odds-of-us-ground-AGvjc0wHRuGx3bsDoiWT.Q",
+        "description": "As the air campaign stretches past one month without toppling the regime, analysts warn a ground invasion would be catastrophic and unwinnable.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T16:14:23Z",
+        "sourceCount": "43 sources"
+      },
       {
         "title": "Over 40 nations demand Iran reopen Strait of Hormuz",
         "url": "https://www.perplexity.ai/page/over-40-nations-demand-iran-re-3DBRztXgTKGf.7HvB7tZ9Q",
@@ -1382,15 +1427,6 @@
         "sourceCount": "84 sources"
       },
       {
-        "title": "Iran seen winning energy war despite devastating U.S. airstrikes",
-        "url": "https://www.perplexity.ai/page/iran-seen-winning-energy-war-d-obIOHFJ6RK6kMF.SzzhucA",
-        "description": "Five weeks in, Tehran's Strait of Hormuz blockade and Gulf infrastructure attacks are raising costs faster than U.S. air power can deliver a strategic victory.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T15:49:50Z",
-        "sourceCount": "41 sources"
-      },
-      {
         "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
         "url": "https://www.perplexity.ai/page/hamas-accuses-israel-of-fabric-CP_MjuD2TN.LEL17WdbJcQ",
         "description": "Since the October ceasefire took effect, Israeli attacks have killed at least 713 Palestinians, according to Gaza's Health Ministry.",
@@ -1398,15 +1434,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T15:43:48Z",
         "sourceCount": "75 sources"
-      },
-      {
-        "title": "IDF hits Iranian air defenses, missile sites in Tehran",
-        "url": "https://www.perplexity.ai/page/idf-hits-iranian-air-defenses-1CGgZ3ZRT7GDmkWRTJ9uyQ",
-        "description": "Israel carried out over 70 strikes on IRGC air defense systems, missile launchers, and weapons facilities across Iran in a single day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T15:43:03Z",
-        "sourceCount": "39 sources"
       },
       {
         "title": "Meteor impacts may have created conditions for life, study finds",
@@ -2676,33 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T19:22:53Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Vance to publish book on Catholic faith while in office",
-        "url": "https://www.perplexity.ai/page/vance-to-publish-book-on-catho-Icmp0ndtSEWr2rCm_btjxw",
-        "description": "\"Communion: Finding My Way Back to Faith,\" due June 16, traces the vice president's journey from atheism to Catholicism.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T16:22:40Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Hegseth calls upcoming days 'decisive' in Iran war",
-        "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
-        "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T13:13:53Z",
-        "sourceCount": "71 sources"
-      },
-      {
-        "title": "Trump warns European allies after Italy, France block US military access",
-        "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
-        "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:04:40Z",
-        "sourceCount": "44 sources"
       }
     ],
     "tech": [],
