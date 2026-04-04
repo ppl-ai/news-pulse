@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "French, Japanese ships cross Hormuz in first Western transits since Iran war",
+      "url": "https://www.perplexity.ai/page/french-japanese-ships-cross-ho-qu.59syaTVe020Vwfz9keQ",
+      "description": "CMA CGM and Mitsui O.S.K. Lines vessels broke through Iran's selective blockade this week, though roughly 3,000 ships remain stranded globally.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T00:31:09Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Doctors Without Borders confirms Gaza supply shutdown since January",
+      "url": "https://www.perplexity.ai/page/doctors-without-borders-confir-v9XK9_bwR76LavaQRBQc7Q",
+      "description": "Doctors Without Borders warned that Israeli restrictions have left nearly half of essential chronic medications critically low across Gaza.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T00:08:33Z",
+      "sourceCount": "25 sources"
+    },
+    {
       "title": "Pentagon logs 365 troops wounded in Operation Epic Fury",
       "url": "https://www.perplexity.ai/page/pentagon-logs-365-troops-wound-D2hy32eFTO.uKisBQaqo.A",
       "description": "The Defense Department added the Iran campaign to its official casualty database on Friday, providing the most detailed public accounting of the war's toll.",
@@ -181,6 +199,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Satellite images confirm Iran damaged $136M US radar in Saudi Arabia",
+      "url": "https://www.perplexity.ai/page/satellite-images-confirm-iran-lp3.jtcsS42SCqNazBsddg",
+      "description": "New imagery shows charring and missing sections on a THAAD radar antenna struck at Prince Sultan Air Base on March 1.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-03T16:23:12Z",
+      "sourceCount": "33 sources"
+    },
+    {
       "title": "Trump names Vance 'fraud czar,' targeting Democratic states",
       "url": "https://www.perplexity.ai/page/trump-names-vance-fraud-czar-t-vpBpfBJESbK2avIvM.k.Xw",
       "description": "The announcement follows a major hospice fraud crackdown in Los Angeles that led to 11 charges and 221 provider suspensions.",
@@ -233,15 +260,6 @@
       "topic": "top",
       "pubDate": "2026-04-03T11:56:43Z",
       "sourceCount": "35 sources"
-    },
-    {
-      "title": "CMA CGM ship becomes first Western European vessel to cross Hormuz since Iran war",
-      "url": "https://www.perplexity.ai/page/cma-cgm-ship-becomes-first-wes-94NlcELKRDC.lJDujcboeg",
-      "description": "The Maltese-flagged Kribi exited the strait Thursday, navigating an Iranian-approved corridor while broadcasting \"owner France\" on its transponder.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-03T11:35:33Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Iran fires missiles at Israel and Gulf states as war enters sixth week",
@@ -1331,29 +1349,29 @@
       "topic": "top",
       "pubDate": "2026-03-28T11:53:47Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Law firms urge appeals court to block Trump orders",
-      "url": "https://www.perplexity.ai/page/law-firms-urge-appeals-court-t-5rVh7PZnTG2_lD0YEmjrlw",
-      "description": "Four major firms filed briefs Friday arguing executive orders punishing them for their legal work are unconstitutional retaliation.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T13:04:26Z",
-      "sourceCount": "71 sources"
-    },
-    {
-      "title": "Judge dismisses DOJ suit over Minnesota tuition for undocumented students",
-      "url": "https://www.perplexity.ai/page/judge-dismisses-doj-suit-over-A1Y2sX42SL.ppFa54mtwoA",
-      "description": "The ruling found the federal government misread a 1996 law and failed to prove the programs discriminated against U.S. citizens.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-28T13:08:47Z",
-      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-04-03T23:57:59Z",
+  "cached_at": "2026-04-04T00:49:38Z",
   "topics": {
     "top": [
+      {
+        "title": "French, Japanese ships cross Hormuz in first Western transits since Iran war",
+        "url": "https://www.perplexity.ai/page/french-japanese-ships-cross-ho-qu.59syaTVe020Vwfz9keQ",
+        "description": "CMA CGM and Mitsui O.S.K. Lines vessels broke through Iran's selective blockade this week, though roughly 3,000 ships remain stranded globally.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T00:31:09Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Doctors Without Borders confirms Gaza supply shutdown since January",
+        "url": "https://www.perplexity.ai/page/doctors-without-borders-confir-v9XK9_bwR76LavaQRBQc7Q",
+        "description": "Doctors Without Borders warned that Israeli restrictions have left nearly half of essential chronic medications critically low across Gaza.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T00:08:33Z",
+        "sourceCount": "25 sources"
+      },
       {
         "title": "Pentagon logs 365 troops wounded in Operation Epic Fury",
         "url": "https://www.perplexity.ai/page/pentagon-logs-365-troops-wound-D2hy32eFTO.uKisBQaqo.A",
@@ -1535,6 +1553,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Satellite images confirm Iran damaged $136M US radar in Saudi Arabia",
+        "url": "https://www.perplexity.ai/page/satellite-images-confirm-iran-lp3.jtcsS42SCqNazBsddg",
+        "description": "New imagery shows charring and missing sections on a THAAD radar antenna struck at Prince Sultan Air Base on March 1.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-03T16:23:12Z",
+        "sourceCount": "33 sources"
+      },
+      {
         "title": "Trump names Vance 'fraud czar,' targeting Democratic states",
         "url": "https://www.perplexity.ai/page/trump-names-vance-fraud-czar-t-vpBpfBJESbK2avIvM.k.Xw",
         "description": "The announcement follows a major hospice fraud crackdown in Los Angeles that led to 11 charges and 221 provider suspensions.",
@@ -1587,15 +1614,6 @@
         "topic": "top",
         "pubDate": "2026-04-03T11:56:43Z",
         "sourceCount": "35 sources"
-      },
-      {
-        "title": "CMA CGM ship becomes first Western European vessel to cross Hormuz since Iran war",
-        "url": "https://www.perplexity.ai/page/cma-cgm-ship-becomes-first-wes-94NlcELKRDC.lJDujcboeg",
-        "description": "The Maltese-flagged Kribi exited the strait Thursday, navigating an Iranian-approved corridor while broadcasting \"owner France\" on its transponder.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-03T11:35:33Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Iran fires missiles at Israel and Gulf states as war enters sixth week",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-28T11:53:47Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Law firms urge appeals court to block Trump orders",
-        "url": "https://www.perplexity.ai/page/law-firms-urge-appeals-court-t-5rVh7PZnTG2_lD0YEmjrlw",
-        "description": "Four major firms filed briefs Friday arguing executive orders punishing them for their legal work are unconstitutional retaliation.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T13:04:26Z",
-        "sourceCount": "71 sources"
-      },
-      {
-        "title": "Judge dismisses DOJ suit over Minnesota tuition for undocumented students",
-        "url": "https://www.perplexity.ai/page/judge-dismisses-doj-suit-over-A1Y2sX42SL.ppFa54mtwoA",
-        "description": "The ruling found the federal government misread a 1996 law and failed to prove the programs discriminated against U.S. citizens.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-28T13:08:47Z",
-        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
