@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
+      "url": "https://www.perplexity.ai/page/hamas-accuses-israel-of-fabric-CP_MjuD2TN.LEL17WdbJcQ",
+      "description": "Since the October ceasefire took effect, Israeli attacks have killed at least 713 Palestinians, according to Gaza's Health Ministry.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T15:43:48Z",
+      "sourceCount": "75 sources"
+    },
+    {
+      "title": "IDF hits Iranian air defenses, missile sites in Tehran",
+      "url": "https://www.perplexity.ai/page/idf-hits-iranian-air-defenses-1CGgZ3ZRT7GDmkWRTJ9uyQ",
+      "description": "Israel carried out over 70 strikes on IRGC air defense systems, missile launchers, and weapons facilities across Iran in a single day.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T15:43:03Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "Trump gives Iran 48-hour ultimatum as search for downed pilot continues",
+      "url": "https://www.perplexity.ai/page/trump-gives-iran-48-hour-ultim-b3SJSl41TEWDdT8XpHd7xg",
+      "description": "The president warned on Truth Social that \"all hell\" would descend on Iran by Monday unless it reopens the Strait of Hormuz or reaches a deal.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T15:39:08Z",
+      "sourceCount": "44 sources"
+    },
+    {
       "title": "Meteor impacts may have created conditions for life, study finds",
       "url": "https://www.perplexity.ai/page/meteor-impacts-may-have-create-lyabeuDFS9e4Ff0igk9KFg",
       "description": "A Rutgers-led review argues asteroid strikes formed hydrothermal systems where Earth's first living cells could have emerged.",
@@ -8,6 +35,15 @@
       "topic": "top",
       "pubDate": "2026-04-04T15:37:27Z",
       "sourceCount": "14 sources"
+    },
+    {
+      "title": "US doubles Hormuz insurance backstop to $40B but finds no takers",
+      "url": "https://www.perplexity.ai/page/us-doubles-hormuz-insurance-ba-tRc.M2SnRwSevslTcccZ4A",
+      "description": "The expanded reinsurance program adds six major insurers, yet no shipowners have signed up as tanker traffic remains down over 90%.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T15:08:22Z",
+      "sourceCount": "41 sources"
     },
     {
       "title": "Rubio revokes green cards of Soleimani's niece, ICE arrests both",
@@ -25,15 +61,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-04T15:13:31Z",
-      "sourceCount": "41 sources"
-    },
-    {
-      "title": "US doubles Hormuz insurance backstop to $40B but finds no takers",
-      "url": "https://www.perplexity.ai/page/us-doubles-hormuz-insurance-ba-tRc.M2SnRwSevslTcccZ4A",
-      "description": "The expanded reinsurance program adds six major insurers, yet no shipowners have signed up as tanker traffic remains down over 90%.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T15:08:22Z",
       "sourceCount": "41 sources"
     },
     {
@@ -64,12 +91,12 @@
       "sourceCount": "58 sources"
     },
     {
-      "title": "U.S. intelligence warns Iran won't reopen Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/u-s-intelligence-warns-iran-wo-7c9Ojl46Qle3S_2fPA7j5g",
-      "description": "Tehran views its stranglehold on the world's most critical oil chokepoint as its only leverage over Washington in the five-week-old war, sources say.",
+      "title": "Iran's Ghalibaf taunts US after F-15E downed over Iran",
+      "url": "https://www.perplexity.ai/page/iran-s-ghalibaf-taunts-us-afte-sQEV6lvGTOOdnBvgAPGRKA",
+      "description": "Iran's parliament speaker mocked Trump's victory claims as a search for a missing crew member from a downed F-15E stretched into a second day.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T15:09:49Z",
+      "pubDate": "2026-04-04T14:35:19Z",
       "sourceCount": "29 sources"
     },
     {
@@ -82,15 +109,6 @@
       "sourceCount": "36 sources"
     },
     {
-      "title": "Bangladesh, Thailand impose emergency measures as energy crisis deepens",
-      "url": "https://www.perplexity.ai/page/bangladesh-thailand-impose-eme-kWEkAAiZQD6WU_6ZZlBkeg",
-      "description": "Dhaka slashed office hours and banned decorative lighting, while Bangkok faces potential fuel subsidy collapse as diesel prices nearly triple.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T13:29:16Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Iran allows humanitarian ships through Hormuz but vows to keep control",
       "url": "https://www.perplexity.ai/page/iran-allows-humanitarian-ships-dI4gJ_tQTWWE9O9UxsOxoQ",
       "description": "Tehran approved passage for vessels carrying essential goods and livestock feed while declaring the strait a permanent \"strategic advantage.\"",
@@ -98,33 +116,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T14:53:39Z",
       "sourceCount": "42 sources"
-    },
-    {
-      "title": "Iran's Ghalibaf taunts US after F-15E downed over Iran",
-      "url": "https://www.perplexity.ai/page/iran-s-ghalibaf-taunts-us-afte-sQEV6lvGTOOdnBvgAPGRKA",
-      "description": "Iran's parliament speaker mocked Trump's victory claims as a search for a missing crew member from a downed F-15E stretched into a second day.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T14:35:19Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Global services sector contracts for first time in 3 years amid Iran war oil shock",
-      "url": "https://www.perplexity.ai/page/global-services-sector-contrac-3iN.bd4NQoKkabJYHF0CqA",
-      "description": "The S&P Global Services PMI fell to 49.8 in March as Strait of Hormuz closure choked off a fifth of the world's oil supply.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T13:24:22Z",
-      "sourceCount": "60 sources"
-    },
-    {
-      "title": "Iran rejects U.S. ceasefire proposal, launches new strikes on Israel",
-      "url": "https://www.perplexity.ai/page/iran-rejects-u-s-ceasefire-pro-edeiQIkYQr6.brXQJ468TQ",
-      "description": "Tehran rebuffed a 48-hour truce offer delivered through a third country and instead intensified military operations on Day 35 of the conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T14:38:48Z",
-      "sourceCount": "44 sources"
     },
     {
       "title": "IRGC claims strikes on U.S. Patriot system, bases in 95th attack wave",
@@ -136,22 +127,40 @@
       "sourceCount": "44 sources"
     },
     {
-      "title": "Consumer sentiment hits third-lowest level ever as Iran conflict rattles markets",
-      "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-third-KJRBK.doQNu2sPtFzt0vdQ",
-      "description": "The University of Michigan index fell to 53.3 as surging oil prices and the ongoing Strait of Hormuz blockade weigh on households and stocks alike.",
+      "title": "Bangladesh, Thailand impose emergency measures as energy crisis deepens",
+      "url": "https://www.perplexity.ai/page/bangladesh-thailand-impose-eme-kWEkAAiZQD6WU_6ZZlBkeg",
+      "description": "Dhaka slashed office hours and banned decorative lighting, while Bangkok faces potential fuel subsidy collapse as diesel prices nearly triple.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T13:23:43Z",
-      "sourceCount": "43 sources"
+      "pubDate": "2026-04-04T13:29:16Z",
+      "sourceCount": "27 sources"
     },
     {
-      "title": "China pushes five-point peace plan as Iran war nears fifth week",
-      "url": "https://www.perplexity.ai/page/china-pushes-five-point-peace-g7eQJtoxQtytL.Kv52a6jw",
-      "description": "Beijing and Islamabad propose a ceasefire and reopening the Strait of Hormuz, but the U.S. has shown little interest in the mediation effort.",
+      "title": "Iran rejects U.S. ceasefire proposal, launches new strikes on Israel",
+      "url": "https://www.perplexity.ai/page/iran-rejects-u-s-ceasefire-pro-edeiQIkYQr6.brXQJ468TQ",
+      "description": "Tehran rebuffed a 48-hour truce offer delivered through a third country and instead intensified military operations on Day 35 of the conflict.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T13:24:05Z",
-      "sourceCount": "45 sources"
+      "pubDate": "2026-04-04T14:38:48Z",
+      "sourceCount": "44 sources"
+    },
+    {
+      "title": "Global services sector contracts for first time in 3 years amid Iran war oil shock",
+      "url": "https://www.perplexity.ai/page/global-services-sector-contrac-3iN.bd4NQoKkabJYHF0CqA",
+      "description": "The S&P Global Services PMI fell to 49.8 in March as Strait of Hormuz closure choked off a fifth of the world's oil supply.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:24:22Z",
+      "sourceCount": "60 sources"
+    },
+    {
+      "title": "U.S. Dollar Index hits highest level since May 2025",
+      "url": "https://www.perplexity.ai/page/u-s-dollar-index-hits-highest-FZp53GttTPGCSXxANrVrvw",
+      "description": "Safe-haven demand from the Strait of Hormuz crisis and the expected Fed leadership shift under nominee Kevin Warsh are driving the greenback's surge.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:22:49Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "UAE intercepts 79 Iranian projectiles as strikes batter Gulf infrastructure",
@@ -163,13 +172,22 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "U.S. Dollar Index hits highest level since May 2025",
-      "url": "https://www.perplexity.ai/page/u-s-dollar-index-hits-highest-FZp53GttTPGCSXxANrVrvw",
-      "description": "Safe-haven demand from the Strait of Hormuz crisis and the expected Fed leadership shift under nominee Kevin Warsh are driving the greenback's surge.",
+      "title": "China pushes five-point peace plan as Iran war nears fifth week",
+      "url": "https://www.perplexity.ai/page/china-pushes-five-point-peace-g7eQJtoxQtytL.Kv52a6jw",
+      "description": "Beijing and Islamabad propose a ceasefire and reopening the Strait of Hormuz, but the U.S. has shown little interest in the mediation effort.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T13:22:49Z",
-      "sourceCount": "30 sources"
+      "pubDate": "2026-04-04T13:24:05Z",
+      "sourceCount": "45 sources"
+    },
+    {
+      "title": "Consumer sentiment hits third-lowest level ever as Iran conflict rattles markets",
+      "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-third-KJRBK.doQNu2sPtFzt0vdQ",
+      "description": "The University of Michigan index fell to 53.3 as surging oil prices and the ongoing Strait of Hormuz blockade weigh on households and stocks alike.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T13:23:43Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Five EU nations push windfall tax on energy firms amid oil surge",
@@ -224,15 +242,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T13:13:11Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Iran claims downing 160-plus drones, multiple US jets",
-      "url": "https://www.perplexity.ai/page/iran-claims-downing-160-plus-d-uvsKgNeGSYWnbwjzKLRDaA",
-      "description": "Air defense commander says domestically built systems can now target fifth-generation stealth fighters as the US-Iran conflict enters its fifth week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T13:08:54Z",
-      "sourceCount": "25 sources"
     },
     {
       "title": "Analyst raises Nvidia target to $220 amid $1T order pipeline",
@@ -1207,13 +1216,13 @@
       "sourceCount": "30 sources"
     },
     {
-      "title": "Netanyahu says Israel destroying Iran's weapons capability",
-      "url": "https://www.perplexity.ai/page/netanyahu-says-israel-destroyi-Iio7M69vSfiN4rPYv2FRGQ",
-      "description": "In a Passover eve address, the prime minister said Israel had inflicted \"10 plagues\" on Iran and its regional proxy networks.",
+      "title": "Rubio directs US embassies to use X and military psyops against propaganda",
+      "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
+      "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-03-31T23:19:02Z",
-      "sourceCount": "38 sources"
+      "pubDate": "2026-03-31T22:23:53Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "Syria vows to stay out of US-Israeli war on Iran unless attacked",
@@ -1222,15 +1231,6 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-01T00:13:12Z",
-      "sourceCount": "30 sources"
-    },
-    {
-      "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-      "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-      "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T22:23:53Z",
       "sourceCount": "30 sources"
     },
     {
@@ -1243,15 +1243,6 @@
       "sourceCount": "124 sources"
     },
     {
-      "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
-      "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
-      "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T23:18:14Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "FDA moves to allow banned peptides backed by RFK Jr.",
       "url": "https://www.perplexity.ai/page/fda-moves-to-allow-banned-pept-GsBr3aSYQbKD0HQtiSNWfQ",
       "description": "The agency is expected to reclassify more than a dozen injectable peptides restricted in 2023, restoring access through compounding pharmacies.",
@@ -1259,6 +1250,15 @@
       "topic": "top",
       "pubDate": "2026-03-31T20:03:29Z",
       "sourceCount": "33 sources"
+    },
+    {
+      "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
+      "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
+      "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T23:18:14Z",
+      "sourceCount": "29 sources"
     },
     {
       "title": "Judge orders UPenn to hand over Jewish employee records",
@@ -1351,9 +1351,36 @@
       "sourceCount": "15 sources"
     }
   ],
-  "cached_at": "2026-04-04T15:41:49Z",
+  "cached_at": "2026-04-04T15:55:44Z",
   "topics": {
     "top": [
+      {
+        "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
+        "url": "https://www.perplexity.ai/page/hamas-accuses-israel-of-fabric-CP_MjuD2TN.LEL17WdbJcQ",
+        "description": "Since the October ceasefire took effect, Israeli attacks have killed at least 713 Palestinians, according to Gaza's Health Ministry.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T15:43:48Z",
+        "sourceCount": "75 sources"
+      },
+      {
+        "title": "IDF hits Iranian air defenses, missile sites in Tehran",
+        "url": "https://www.perplexity.ai/page/idf-hits-iranian-air-defenses-1CGgZ3ZRT7GDmkWRTJ9uyQ",
+        "description": "Israel carried out over 70 strikes on IRGC air defense systems, missile launchers, and weapons facilities across Iran in a single day.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T15:43:03Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "Trump gives Iran 48-hour ultimatum as search for downed pilot continues",
+        "url": "https://www.perplexity.ai/page/trump-gives-iran-48-hour-ultim-b3SJSl41TEWDdT8XpHd7xg",
+        "description": "The president warned on Truth Social that \"all hell\" would descend on Iran by Monday unless it reopens the Strait of Hormuz or reaches a deal.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T15:39:08Z",
+        "sourceCount": "44 sources"
+      },
       {
         "title": "Meteor impacts may have created conditions for life, study finds",
         "url": "https://www.perplexity.ai/page/meteor-impacts-may-have-create-lyabeuDFS9e4Ff0igk9KFg",
@@ -1362,6 +1389,15 @@
         "topic": "top",
         "pubDate": "2026-04-04T15:37:27Z",
         "sourceCount": "14 sources"
+      },
+      {
+        "title": "US doubles Hormuz insurance backstop to $40B but finds no takers",
+        "url": "https://www.perplexity.ai/page/us-doubles-hormuz-insurance-ba-tRc.M2SnRwSevslTcccZ4A",
+        "description": "The expanded reinsurance program adds six major insurers, yet no shipowners have signed up as tanker traffic remains down over 90%.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T15:08:22Z",
+        "sourceCount": "41 sources"
       },
       {
         "title": "Rubio revokes green cards of Soleimani's niece, ICE arrests both",
@@ -1379,15 +1415,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-04T15:13:31Z",
-        "sourceCount": "41 sources"
-      },
-      {
-        "title": "US doubles Hormuz insurance backstop to $40B but finds no takers",
-        "url": "https://www.perplexity.ai/page/us-doubles-hormuz-insurance-ba-tRc.M2SnRwSevslTcccZ4A",
-        "description": "The expanded reinsurance program adds six major insurers, yet no shipowners have signed up as tanker traffic remains down over 90%.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T15:08:22Z",
         "sourceCount": "41 sources"
       },
       {
@@ -1418,12 +1445,12 @@
         "sourceCount": "58 sources"
       },
       {
-        "title": "U.S. intelligence warns Iran won't reopen Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/u-s-intelligence-warns-iran-wo-7c9Ojl46Qle3S_2fPA7j5g",
-        "description": "Tehran views its stranglehold on the world's most critical oil chokepoint as its only leverage over Washington in the five-week-old war, sources say.",
+        "title": "Iran's Ghalibaf taunts US after F-15E downed over Iran",
+        "url": "https://www.perplexity.ai/page/iran-s-ghalibaf-taunts-us-afte-sQEV6lvGTOOdnBvgAPGRKA",
+        "description": "Iran's parliament speaker mocked Trump's victory claims as a search for a missing crew member from a downed F-15E stretched into a second day.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T15:09:49Z",
+        "pubDate": "2026-04-04T14:35:19Z",
         "sourceCount": "29 sources"
       },
       {
@@ -1436,15 +1463,6 @@
         "sourceCount": "36 sources"
       },
       {
-        "title": "Bangladesh, Thailand impose emergency measures as energy crisis deepens",
-        "url": "https://www.perplexity.ai/page/bangladesh-thailand-impose-eme-kWEkAAiZQD6WU_6ZZlBkeg",
-        "description": "Dhaka slashed office hours and banned decorative lighting, while Bangkok faces potential fuel subsidy collapse as diesel prices nearly triple.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T13:29:16Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Iran allows humanitarian ships through Hormuz but vows to keep control",
         "url": "https://www.perplexity.ai/page/iran-allows-humanitarian-ships-dI4gJ_tQTWWE9O9UxsOxoQ",
         "description": "Tehran approved passage for vessels carrying essential goods and livestock feed while declaring the strait a permanent \"strategic advantage.\"",
@@ -1452,33 +1470,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T14:53:39Z",
         "sourceCount": "42 sources"
-      },
-      {
-        "title": "Iran's Ghalibaf taunts US after F-15E downed over Iran",
-        "url": "https://www.perplexity.ai/page/iran-s-ghalibaf-taunts-us-afte-sQEV6lvGTOOdnBvgAPGRKA",
-        "description": "Iran's parliament speaker mocked Trump's victory claims as a search for a missing crew member from a downed F-15E stretched into a second day.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T14:35:19Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Global services sector contracts for first time in 3 years amid Iran war oil shock",
-        "url": "https://www.perplexity.ai/page/global-services-sector-contrac-3iN.bd4NQoKkabJYHF0CqA",
-        "description": "The S&P Global Services PMI fell to 49.8 in March as Strait of Hormuz closure choked off a fifth of the world's oil supply.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T13:24:22Z",
-        "sourceCount": "60 sources"
-      },
-      {
-        "title": "Iran rejects U.S. ceasefire proposal, launches new strikes on Israel",
-        "url": "https://www.perplexity.ai/page/iran-rejects-u-s-ceasefire-pro-edeiQIkYQr6.brXQJ468TQ",
-        "description": "Tehran rebuffed a 48-hour truce offer delivered through a third country and instead intensified military operations on Day 35 of the conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T14:38:48Z",
-        "sourceCount": "44 sources"
       },
       {
         "title": "IRGC claims strikes on U.S. Patriot system, bases in 95th attack wave",
@@ -1490,22 +1481,40 @@
         "sourceCount": "44 sources"
       },
       {
-        "title": "Consumer sentiment hits third-lowest level ever as Iran conflict rattles markets",
-        "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-third-KJRBK.doQNu2sPtFzt0vdQ",
-        "description": "The University of Michigan index fell to 53.3 as surging oil prices and the ongoing Strait of Hormuz blockade weigh on households and stocks alike.",
+        "title": "Bangladesh, Thailand impose emergency measures as energy crisis deepens",
+        "url": "https://www.perplexity.ai/page/bangladesh-thailand-impose-eme-kWEkAAiZQD6WU_6ZZlBkeg",
+        "description": "Dhaka slashed office hours and banned decorative lighting, while Bangkok faces potential fuel subsidy collapse as diesel prices nearly triple.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T13:23:43Z",
-        "sourceCount": "43 sources"
+        "pubDate": "2026-04-04T13:29:16Z",
+        "sourceCount": "27 sources"
       },
       {
-        "title": "China pushes five-point peace plan as Iran war nears fifth week",
-        "url": "https://www.perplexity.ai/page/china-pushes-five-point-peace-g7eQJtoxQtytL.Kv52a6jw",
-        "description": "Beijing and Islamabad propose a ceasefire and reopening the Strait of Hormuz, but the U.S. has shown little interest in the mediation effort.",
+        "title": "Iran rejects U.S. ceasefire proposal, launches new strikes on Israel",
+        "url": "https://www.perplexity.ai/page/iran-rejects-u-s-ceasefire-pro-edeiQIkYQr6.brXQJ468TQ",
+        "description": "Tehran rebuffed a 48-hour truce offer delivered through a third country and instead intensified military operations on Day 35 of the conflict.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T13:24:05Z",
-        "sourceCount": "45 sources"
+        "pubDate": "2026-04-04T14:38:48Z",
+        "sourceCount": "44 sources"
+      },
+      {
+        "title": "Global services sector contracts for first time in 3 years amid Iran war oil shock",
+        "url": "https://www.perplexity.ai/page/global-services-sector-contrac-3iN.bd4NQoKkabJYHF0CqA",
+        "description": "The S&P Global Services PMI fell to 49.8 in March as Strait of Hormuz closure choked off a fifth of the world's oil supply.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:24:22Z",
+        "sourceCount": "60 sources"
+      },
+      {
+        "title": "U.S. Dollar Index hits highest level since May 2025",
+        "url": "https://www.perplexity.ai/page/u-s-dollar-index-hits-highest-FZp53GttTPGCSXxANrVrvw",
+        "description": "Safe-haven demand from the Strait of Hormuz crisis and the expected Fed leadership shift under nominee Kevin Warsh are driving the greenback's surge.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:22:49Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "UAE intercepts 79 Iranian projectiles as strikes batter Gulf infrastructure",
@@ -1517,13 +1526,22 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "U.S. Dollar Index hits highest level since May 2025",
-        "url": "https://www.perplexity.ai/page/u-s-dollar-index-hits-highest-FZp53GttTPGCSXxANrVrvw",
-        "description": "Safe-haven demand from the Strait of Hormuz crisis and the expected Fed leadership shift under nominee Kevin Warsh are driving the greenback's surge.",
+        "title": "China pushes five-point peace plan as Iran war nears fifth week",
+        "url": "https://www.perplexity.ai/page/china-pushes-five-point-peace-g7eQJtoxQtytL.Kv52a6jw",
+        "description": "Beijing and Islamabad propose a ceasefire and reopening the Strait of Hormuz, but the U.S. has shown little interest in the mediation effort.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T13:22:49Z",
-        "sourceCount": "30 sources"
+        "pubDate": "2026-04-04T13:24:05Z",
+        "sourceCount": "45 sources"
+      },
+      {
+        "title": "Consumer sentiment hits third-lowest level ever as Iran conflict rattles markets",
+        "url": "https://www.perplexity.ai/page/consumer-sentiment-hits-third-KJRBK.doQNu2sPtFzt0vdQ",
+        "description": "The University of Michigan index fell to 53.3 as surging oil prices and the ongoing Strait of Hormuz blockade weigh on households and stocks alike.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T13:23:43Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Five EU nations push windfall tax on energy firms amid oil surge",
@@ -1578,15 +1596,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T13:13:11Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Iran claims downing 160-plus drones, multiple US jets",
-        "url": "https://www.perplexity.ai/page/iran-claims-downing-160-plus-d-uvsKgNeGSYWnbwjzKLRDaA",
-        "description": "Air defense commander says domestically built systems can now target fifth-generation stealth fighters as the US-Iran conflict enters its fifth week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T13:08:54Z",
-        "sourceCount": "25 sources"
       },
       {
         "title": "Analyst raises Nvidia target to $220 amid $1T order pipeline",
@@ -2561,13 +2570,13 @@
         "sourceCount": "30 sources"
       },
       {
-        "title": "Netanyahu says Israel destroying Iran's weapons capability",
-        "url": "https://www.perplexity.ai/page/netanyahu-says-israel-destroyi-Iio7M69vSfiN4rPYv2FRGQ",
-        "description": "In a Passover eve address, the prime minister said Israel had inflicted \"10 plagues\" on Iran and its regional proxy networks.",
+        "title": "Rubio directs US embassies to use X and military psyops against propaganda",
+        "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
+        "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-03-31T23:19:02Z",
-        "sourceCount": "38 sources"
+        "pubDate": "2026-03-31T22:23:53Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "Syria vows to stay out of US-Israeli war on Iran unless attacked",
@@ -2576,15 +2585,6 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-01T00:13:12Z",
-        "sourceCount": "30 sources"
-      },
-      {
-        "title": "Rubio directs US embassies to use X and military psyops against propaganda",
-        "url": "https://www.perplexity.ai/page/rubio-directs-us-embassies-to-Woo0IGyaQDKj0P0ufTPwOg",
-        "description": "The diplomatic cable instructs staff worldwide to coordinate with Pentagon psychological operations and leverage Elon Musk's platform.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T22:23:53Z",
         "sourceCount": "30 sources"
       },
       {
@@ -2597,15 +2597,6 @@
         "sourceCount": "124 sources"
       },
       {
-        "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
-        "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
-        "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T23:18:14Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "FDA moves to allow banned peptides backed by RFK Jr.",
         "url": "https://www.perplexity.ai/page/fda-moves-to-allow-banned-pept-GsBr3aSYQbKD0HQtiSNWfQ",
         "description": "The agency is expected to reclassify more than a dozen injectable peptides restricted in 2023, restoring access through compounding pharmacies.",
@@ -2613,6 +2604,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T20:03:29Z",
         "sourceCount": "33 sources"
+      },
+      {
+        "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
+        "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
+        "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T23:18:14Z",
+        "sourceCount": "29 sources"
       },
       {
         "title": "Judge orders UPenn to hand over Jewish employee records",
