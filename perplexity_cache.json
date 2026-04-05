@@ -1,13 +1,22 @@
 {
   "stories": [
     {
-      "title": "Zelenskyy says Russia gave Iran intel on 50 Israeli energy sites",
-      "url": "https://www.perplexity.ai/page/zelenskyy-says-russia-gave-ira-LSevTulsQa6QI95ejtKGMw",
-      "description": "Ukraine's president accused Moscow of sharing satellite data on civilian Israeli infrastructure to help Tehran carry out strikes.",
+      "title": "Nepal shifts to two-day weekend as energy crisis grips Asia",
+      "url": "https://www.perplexity.ai/page/nepal-shifts-to-two-day-weeken-AY_cO9cXT6i6AbF.Hk7XzQ",
+      "description": "Countries across Asia are imposing austerity measures — from shortened workdays to billboard blackouts — as the Middle East war disrupts global fuel supplies.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T13:23:04Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-04-05T13:35:46Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Ex-IAEA chief urges Gulf nations to stop Trump's Iran war",
+      "url": "https://www.perplexity.ai/page/ex-iaea-chief-urges-gulf-natio-nG0IuaQJSC.LFUFWTC2vtg",
+      "description": "Mohamed ElBaradei called Trump a \"madman\" and warned the U.S. bombing campaign risks turning the Middle East into \"a ball of fire.\"",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T13:33:40Z",
+      "sourceCount": "23 sources"
     },
     {
       "title": "Krugman calls private credit turmoil a 'slow-motion bank run'",
@@ -25,6 +34,15 @@
       "source": "Perplexity",
       "topic": "top",
       "pubDate": "2026-04-05T13:18:39Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Zelenskyy says Russia gave Iran intel on 50 Israeli energy sites",
+      "url": "https://www.perplexity.ai/page/zelenskyy-says-russia-gave-ira-LSevTulsQa6QI95ejtKGMw",
+      "description": "Ukraine's president accused Moscow of sharing satellite data on civilian Israeli infrastructure to help Tehran carry out strikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T13:23:04Z",
       "sourceCount": "28 sources"
     },
     {
@@ -1331,37 +1349,28 @@
       "topic": "top",
       "pubDate": "2026-03-31T22:23:53Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
-      "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
-      "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T23:18:14Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Judge blocks deal that would let churches endorse candidates",
-      "url": "https://www.perplexity.ai/page/judge-blocks-deal-that-would-l-dTpl3LK1QKy_9Jh.7gJXPA",
-      "description": "A federal judge in Texas rejected a proposed IRS settlement that would have exempted houses of worship from the Johnson Amendment's ban on political endorsements.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T21:59:14Z",
-      "sourceCount": "124 sources"
     }
   ],
-  "cached_at": "2026-04-05T13:31:35Z",
+  "cached_at": "2026-04-05T13:56:05Z",
   "topics": {
     "top": [
       {
-        "title": "Zelenskyy says Russia gave Iran intel on 50 Israeli energy sites",
-        "url": "https://www.perplexity.ai/page/zelenskyy-says-russia-gave-ira-LSevTulsQa6QI95ejtKGMw",
-        "description": "Ukraine's president accused Moscow of sharing satellite data on civilian Israeli infrastructure to help Tehran carry out strikes.",
+        "title": "Nepal shifts to two-day weekend as energy crisis grips Asia",
+        "url": "https://www.perplexity.ai/page/nepal-shifts-to-two-day-weeken-AY_cO9cXT6i6AbF.Hk7XzQ",
+        "description": "Countries across Asia are imposing austerity measures — from shortened workdays to billboard blackouts — as the Middle East war disrupts global fuel supplies.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T13:23:04Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-04-05T13:35:46Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Ex-IAEA chief urges Gulf nations to stop Trump's Iran war",
+        "url": "https://www.perplexity.ai/page/ex-iaea-chief-urges-gulf-natio-nG0IuaQJSC.LFUFWTC2vtg",
+        "description": "Mohamed ElBaradei called Trump a \"madman\" and warned the U.S. bombing campaign risks turning the Middle East into \"a ball of fire.\"",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T13:33:40Z",
+        "sourceCount": "23 sources"
       },
       {
         "title": "Krugman calls private credit turmoil a 'slow-motion bank run'",
@@ -1379,6 +1388,15 @@
         "source": "Perplexity",
         "topic": "top",
         "pubDate": "2026-04-05T13:18:39Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Zelenskyy says Russia gave Iran intel on 50 Israeli energy sites",
+        "url": "https://www.perplexity.ai/page/zelenskyy-says-russia-gave-ira-LSevTulsQa6QI95ejtKGMw",
+        "description": "Ukraine's president accused Moscow of sharing satellite data on civilian Israeli infrastructure to help Tehran carry out strikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T13:23:04Z",
         "sourceCount": "28 sources"
       },
       {
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T22:23:53Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Explosions rock Damascus as Israel intercepts Iranian missiles over Syria",
-        "url": "https://www.perplexity.ai/page/explosions-rock-damascus-as-is-J6c1Bj9TQHKo0kAkRopUlw",
-        "description": "Syrian state TV reported blasts across the capital on Tuesday as Israeli air defenses shot down Iranian projectiles crossing Syrian airspace.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T23:18:14Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Judge blocks deal that would let churches endorse candidates",
-        "url": "https://www.perplexity.ai/page/judge-blocks-deal-that-would-l-dTpl3LK1QKy_9Jh.7gJXPA",
-        "description": "A federal judge in Texas rejected a proposed IRS settlement that would have exempted houses of worship from the Johnson Amendment's ban on political endorsements.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T21:59:14Z",
-        "sourceCount": "124 sources"
       }
     ],
     "tech": [],
