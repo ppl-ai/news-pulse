@@ -1,6 +1,51 @@
 {
   "stories": [
     {
+      "title": "U.S. destroyed own aircraft in Iran during rescue of downed F-15E crew member",
+      "url": "https://www.perplexity.ai/page/u-s-destroyed-own-aircraft-in-wGv01v4oThWuURP4nTz8ZQ",
+      "description": "Special Operations forces rescued a colonel who evaded Iranian forces for over 24 hours, but two MC-130J planes had to be blown up after getting stuck.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:28:15Z",
+      "sourceCount": "25 sources"
+    },
+    {
+      "title": "White House denies Trump was hospitalized amid viral Walter Reed rumors",
+      "url": "https://www.perplexity.ai/page/white-house-denies-trump-was-h-CaCJEisZT4mNDMXgaFXHWA",
+      "description": "Unverified social media claims that Trump was rushed to Walter Reed spread Saturday after a press \"lid\" and unconfirmed road closures near the facility.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:25:14Z",
+      "sourceCount": "26 sources"
+    },
+    {
+      "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
+      "url": "https://www.perplexity.ai/page/gulf-nations-mobilize-to-secur-faSfpKwMRqWSXyxA5bi3Cw",
+      "description": "The UAE, Qatar, and Jordan are deploying inspections, strategic reserves, and emergency financing to counter Strait of Hormuz disruptions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:20:07Z",
+      "sourceCount": "38 sources"
+    },
+    {
+      "title": "Ousted Army chief's farewell urges 'leaders of character'",
+      "url": "https://www.perplexity.ai/page/ousted-army-chief-s-farewell-u-Xk7kYaakSNOPWXZFUkVdIg",
+      "description": "Gen. Randy George sent a pointed farewell letter days after Defense Secretary Hegseth forced him into immediate retirement during the Iran war.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:23:16Z",
+      "sourceCount": "39 sources"
+    },
+    {
+      "title": "Zelenskyy warns prolonged Iran war is eroding US support for Ukraine",
+      "url": "https://www.perplexity.ai/page/zelenskyy-warns-prolonged-iran-q6dHl354RD6Ztwp.N75geg",
+      "description": "In an AP interview in Istanbul, the Ukrainian president said Patriot missile deliveries are shrinking as Washington's focus shifts to the Middle East.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:15:21Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "OPEC+ meets as oil tops $109 amid Iran war supply crisis",
       "url": "https://www.perplexity.ai/page/opec-meets-as-oil-tops-109-ami-EtYV8owER_efNd5JL8LNHA",
       "description": "The group is set to review its planned output increase Sunday as the Strait of Hormuz blockade slashes global crude shipments.",
@@ -217,15 +262,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "White House calls press lid as Trump health rumors spread online",
-      "url": "https://www.perplexity.ai/page/white-house-calls-press-lid-as-TIJwhRvaS9apB7cZjVPm_A",
-      "description": "Unverified speculation surged after the president's schedule showed only \"Executive Time\" and no briefing on the Iran military crisis.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T20:09:29Z",
-      "sourceCount": "41 sources"
-    },
-    {
       "title": "Meloni offers to help rebuild Qatar's war-damaged gas infrastructure",
       "url": "https://www.perplexity.ai/page/meloni-offers-to-help-rebuild-EBZLZJ0NTw.2cBcBA5eHpQ",
       "description": "Italy's PM became the first EU and NATO leader to visit the Gulf since the Iran war began, meeting Qatar's emir to address the energy crisis.",
@@ -233,15 +269,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T19:36:09Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Russia, Ukraine trade deadly strikes as Zelenskyy meets Erdogan",
-      "url": "https://www.perplexity.ai/page/russia-ukraine-trade-deadly-st-x.z.zViEQoWmfR6eH5_CJQ",
-      "description": "Five people were killed and dozens wounded in a Russian drone strike on a market in Nikopol as Zelenskyy held peace-focused talks in Istanbul.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T19:28:26Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "Trump proposes slashing science, education in $6.7T budget",
@@ -253,6 +280,15 @@
       "sourceCount": "38 sources"
     },
     {
+      "title": "Russia, Ukraine trade deadly strikes as Zelenskyy meets Erdogan",
+      "url": "https://www.perplexity.ai/page/russia-ukraine-trade-deadly-st-x.z.zViEQoWmfR6eH5_CJQ",
+      "description": "Five people were killed and dozens wounded in a Russian drone strike on a market in Nikopol as Zelenskyy held peace-focused talks in Istanbul.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T19:28:26Z",
+      "sourceCount": "42 sources"
+    },
+    {
       "title": "Zelenskyy, Erdogan agree on new security steps at Istanbul talks",
       "url": "https://www.perplexity.ai/page/zelenskyy-erdogan-agree-on-new-CtFKOwDmT.uIdpJZV_S3yg",
       "description": "Ukraine will share wartime expertise and technology with Turkey as part of a broader cooperation deal reached Saturday.",
@@ -260,15 +296,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T18:58:11Z",
       "sourceCount": "29 sources"
-    },
-    {
-      "title": "Displaced Lebanese Shiites face sectarian hostility amid war",
-      "url": "https://www.perplexity.ai/page/displaced-lebanese-shiites-fac-lx4x9a6DTeiU4lZeN0JU9A",
-      "description": "Over 1.1 million people have fled Israeli strikes, but many Shiite families encounter discrimination, inflated rents, and eviction demands in host communities.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T18:13:35Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Trump administration appeals to resume White House ballroom work",
@@ -280,6 +307,15 @@
       "sourceCount": "59 sources"
     },
     {
+      "title": "Displaced Lebanese Shiites face sectarian hostility amid war",
+      "url": "https://www.perplexity.ai/page/displaced-lebanese-shiites-fac-lx4x9a6DTeiU4lZeN0JU9A",
+      "description": "Over 1.1 million people have fled Israeli strikes, but many Shiite families encounter discrimination, inflated rents, and eviction demands in host communities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T18:13:35Z",
+      "sourceCount": "28 sources"
+    },
+    {
       "title": "Israel hits Beirut, Tyre as Lebanon war enters second month",
       "url": "https://www.perplexity.ai/page/israel-hits-beirut-tyre-as-leb-ssX_edMFSx67F.bpssqpQg",
       "description": "Strikes damaged a hospital in Tyre and targeted Iranian Quds Force positions in Beirut as the conflict's death toll surpasses 1,368.",
@@ -287,15 +323,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T18:00:04Z",
       "sourceCount": "26 sources"
-    },
-    {
-      "title": "UN delays vote on Hormuz shipping resolution as Gulf states seek bypass routes",
-      "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-dnBPyrMbQsOjXHrFm1eXtQ",
-      "description": "A Bahrain-drafted Security Council resolution to authorize defensive measures protecting strait passage has been postponed until next week with no date set.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:42Z",
-      "sourceCount": "40 sources"
     },
     {
       "title": "Trump's $1.5T defense budget draws fire from both parties",
@@ -307,6 +334,15 @@
       "sourceCount": "31 sources"
     },
     {
+      "title": "UN delays vote on Hormuz shipping resolution as Gulf states seek bypass routes",
+      "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-dnBPyrMbQsOjXHrFm1eXtQ",
+      "description": "A Bahrain-drafted Security Council resolution to authorize defensive measures protecting strait passage has been postponed until next week with no date set.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T17:58:42Z",
+      "sourceCount": "40 sources"
+    },
+    {
       "title": "India confirms Iranian oil purchases amid Hormuz crisis",
       "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
       "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
@@ -316,15 +352,6 @@
       "sourceCount": "67 sources"
     },
     {
-      "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
-      "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
-      "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:13Z",
-      "sourceCount": "27 sources"
-    },
-    {
       "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
       "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
       "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
@@ -332,6 +359,15 @@
       "topic": "top",
       "pubDate": "2026-04-04T17:58:47Z",
       "sourceCount": "30 sources"
+    },
+    {
+      "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
+      "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
+      "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T17:58:13Z",
+      "sourceCount": "27 sources"
     },
     {
       "title": "Iran authorizes humanitarian ships through Strait of Hormuz",
@@ -1313,47 +1349,56 @@
       "topic": "top",
       "pubDate": "2026-03-31T19:22:53Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Vance to publish book on Catholic faith while in office",
-      "url": "https://www.perplexity.ai/page/vance-to-publish-book-on-catho-Icmp0ndtSEWr2rCm_btjxw",
-      "description": "\"Communion: Finding My Way Back to Faith,\" due June 16, traces the vice president's journey from atheism to Catholicism.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T16:22:40Z",
-      "sourceCount": "29 sources"
-    },
-    {
-      "title": "Hegseth calls upcoming days 'decisive' in Iran war",
-      "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
-      "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T13:13:53Z",
-      "sourceCount": "71 sources"
-    },
-    {
-      "title": "Trump warns European allies after Italy, France block US military access",
-      "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
-      "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:04:40Z",
-      "sourceCount": "44 sources"
-    },
-    {
-      "title": "Global banks turn to Chinese stocks as Iran war roils markets",
-      "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
-      "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T11:35:46Z",
-      "sourceCount": "42 sources"
     }
   ],
-  "cached_at": "2026-04-05T10:17:22Z",
+  "cached_at": "2026-04-05T10:35:33Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. destroyed own aircraft in Iran during rescue of downed F-15E crew member",
+        "url": "https://www.perplexity.ai/page/u-s-destroyed-own-aircraft-in-wGv01v4oThWuURP4nTz8ZQ",
+        "description": "Special Operations forces rescued a colonel who evaded Iranian forces for over 24 hours, but two MC-130J planes had to be blown up after getting stuck.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:28:15Z",
+        "sourceCount": "25 sources"
+      },
+      {
+        "title": "White House denies Trump was hospitalized amid viral Walter Reed rumors",
+        "url": "https://www.perplexity.ai/page/white-house-denies-trump-was-h-CaCJEisZT4mNDMXgaFXHWA",
+        "description": "Unverified social media claims that Trump was rushed to Walter Reed spread Saturday after a press \"lid\" and unconfirmed road closures near the facility.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:25:14Z",
+        "sourceCount": "26 sources"
+      },
+      {
+        "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
+        "url": "https://www.perplexity.ai/page/gulf-nations-mobilize-to-secur-faSfpKwMRqWSXyxA5bi3Cw",
+        "description": "The UAE, Qatar, and Jordan are deploying inspections, strategic reserves, and emergency financing to counter Strait of Hormuz disruptions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:20:07Z",
+        "sourceCount": "38 sources"
+      },
+      {
+        "title": "Ousted Army chief's farewell urges 'leaders of character'",
+        "url": "https://www.perplexity.ai/page/ousted-army-chief-s-farewell-u-Xk7kYaakSNOPWXZFUkVdIg",
+        "description": "Gen. Randy George sent a pointed farewell letter days after Defense Secretary Hegseth forced him into immediate retirement during the Iran war.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:23:16Z",
+        "sourceCount": "39 sources"
+      },
+      {
+        "title": "Zelenskyy warns prolonged Iran war is eroding US support for Ukraine",
+        "url": "https://www.perplexity.ai/page/zelenskyy-warns-prolonged-iran-q6dHl354RD6Ztwp.N75geg",
+        "description": "In an AP interview in Istanbul, the Ukrainian president said Patriot missile deliveries are shrinking as Washington's focus shifts to the Middle East.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:15:21Z",
+        "sourceCount": "28 sources"
+      },
       {
         "title": "OPEC+ meets as oil tops $109 amid Iran war supply crisis",
         "url": "https://www.perplexity.ai/page/opec-meets-as-oil-tops-109-ami-EtYV8owER_efNd5JL8LNHA",
@@ -1571,15 +1616,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "White House calls press lid as Trump health rumors spread online",
-        "url": "https://www.perplexity.ai/page/white-house-calls-press-lid-as-TIJwhRvaS9apB7cZjVPm_A",
-        "description": "Unverified speculation surged after the president's schedule showed only \"Executive Time\" and no briefing on the Iran military crisis.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T20:09:29Z",
-        "sourceCount": "41 sources"
-      },
-      {
         "title": "Meloni offers to help rebuild Qatar's war-damaged gas infrastructure",
         "url": "https://www.perplexity.ai/page/meloni-offers-to-help-rebuild-EBZLZJ0NTw.2cBcBA5eHpQ",
         "description": "Italy's PM became the first EU and NATO leader to visit the Gulf since the Iran war began, meeting Qatar's emir to address the energy crisis.",
@@ -1587,15 +1623,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T19:36:09Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Russia, Ukraine trade deadly strikes as Zelenskyy meets Erdogan",
-        "url": "https://www.perplexity.ai/page/russia-ukraine-trade-deadly-st-x.z.zViEQoWmfR6eH5_CJQ",
-        "description": "Five people were killed and dozens wounded in a Russian drone strike on a market in Nikopol as Zelenskyy held peace-focused talks in Istanbul.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T19:28:26Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "Trump proposes slashing science, education in $6.7T budget",
@@ -1607,6 +1634,15 @@
         "sourceCount": "38 sources"
       },
       {
+        "title": "Russia, Ukraine trade deadly strikes as Zelenskyy meets Erdogan",
+        "url": "https://www.perplexity.ai/page/russia-ukraine-trade-deadly-st-x.z.zViEQoWmfR6eH5_CJQ",
+        "description": "Five people were killed and dozens wounded in a Russian drone strike on a market in Nikopol as Zelenskyy held peace-focused talks in Istanbul.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T19:28:26Z",
+        "sourceCount": "42 sources"
+      },
+      {
         "title": "Zelenskyy, Erdogan agree on new security steps at Istanbul talks",
         "url": "https://www.perplexity.ai/page/zelenskyy-erdogan-agree-on-new-CtFKOwDmT.uIdpJZV_S3yg",
         "description": "Ukraine will share wartime expertise and technology with Turkey as part of a broader cooperation deal reached Saturday.",
@@ -1614,15 +1650,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T18:58:11Z",
         "sourceCount": "29 sources"
-      },
-      {
-        "title": "Displaced Lebanese Shiites face sectarian hostility amid war",
-        "url": "https://www.perplexity.ai/page/displaced-lebanese-shiites-fac-lx4x9a6DTeiU4lZeN0JU9A",
-        "description": "Over 1.1 million people have fled Israeli strikes, but many Shiite families encounter discrimination, inflated rents, and eviction demands in host communities.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T18:13:35Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Trump administration appeals to resume White House ballroom work",
@@ -1634,6 +1661,15 @@
         "sourceCount": "59 sources"
       },
       {
+        "title": "Displaced Lebanese Shiites face sectarian hostility amid war",
+        "url": "https://www.perplexity.ai/page/displaced-lebanese-shiites-fac-lx4x9a6DTeiU4lZeN0JU9A",
+        "description": "Over 1.1 million people have fled Israeli strikes, but many Shiite families encounter discrimination, inflated rents, and eviction demands in host communities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T18:13:35Z",
+        "sourceCount": "28 sources"
+      },
+      {
         "title": "Israel hits Beirut, Tyre as Lebanon war enters second month",
         "url": "https://www.perplexity.ai/page/israel-hits-beirut-tyre-as-leb-ssX_edMFSx67F.bpssqpQg",
         "description": "Strikes damaged a hospital in Tyre and targeted Iranian Quds Force positions in Beirut as the conflict's death toll surpasses 1,368.",
@@ -1641,15 +1677,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T18:00:04Z",
         "sourceCount": "26 sources"
-      },
-      {
-        "title": "UN delays vote on Hormuz shipping resolution as Gulf states seek bypass routes",
-        "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-dnBPyrMbQsOjXHrFm1eXtQ",
-        "description": "A Bahrain-drafted Security Council resolution to authorize defensive measures protecting strait passage has been postponed until next week with no date set.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:42Z",
-        "sourceCount": "40 sources"
       },
       {
         "title": "Trump's $1.5T defense budget draws fire from both parties",
@@ -1661,6 +1688,15 @@
         "sourceCount": "31 sources"
       },
       {
+        "title": "UN delays vote on Hormuz shipping resolution as Gulf states seek bypass routes",
+        "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-dnBPyrMbQsOjXHrFm1eXtQ",
+        "description": "A Bahrain-drafted Security Council resolution to authorize defensive measures protecting strait passage has been postponed until next week with no date set.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T17:58:42Z",
+        "sourceCount": "40 sources"
+      },
+      {
         "title": "India confirms Iranian oil purchases amid Hormuz crisis",
         "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
         "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
@@ -1670,15 +1706,6 @@
         "sourceCount": "67 sources"
       },
       {
-        "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
-        "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
-        "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:13Z",
-        "sourceCount": "27 sources"
-      },
-      {
         "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
         "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
         "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
@@ -1686,6 +1713,15 @@
         "topic": "top",
         "pubDate": "2026-04-04T17:58:47Z",
         "sourceCount": "30 sources"
+      },
+      {
+        "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
+        "url": "https://www.perplexity.ai/page/ice-arrests-soleimani-s-niece-R2I0_xg6Snqwp.eEHO2piA",
+        "description": "Federal agents detained Hamideh Soleimani Afshar and her daughter in Los Angeles after the secretary of state terminated their permanent resident status.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T17:58:13Z",
+        "sourceCount": "27 sources"
       },
       {
         "title": "Iran authorizes humanitarian ships through Strait of Hormuz",
@@ -2667,42 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T19:22:53Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Vance to publish book on Catholic faith while in office",
-        "url": "https://www.perplexity.ai/page/vance-to-publish-book-on-catho-Icmp0ndtSEWr2rCm_btjxw",
-        "description": "\"Communion: Finding My Way Back to Faith,\" due June 16, traces the vice president's journey from atheism to Catholicism.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T16:22:40Z",
-        "sourceCount": "29 sources"
-      },
-      {
-        "title": "Hegseth calls upcoming days 'decisive' in Iran war",
-        "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
-        "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T13:13:53Z",
-        "sourceCount": "71 sources"
-      },
-      {
-        "title": "Trump warns European allies after Italy, France block US military access",
-        "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
-        "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:04:40Z",
-        "sourceCount": "44 sources"
-      },
-      {
-        "title": "Global banks turn to Chinese stocks as Iran war roils markets",
-        "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
-        "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T11:35:46Z",
-        "sourceCount": "42 sources"
       }
     ],
     "tech": [],
