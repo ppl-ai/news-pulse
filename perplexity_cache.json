@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Pope Leo celebrates first Easter with call to 'lay down' weapons",
+      "url": "https://www.perplexity.ai/page/pope-leo-celebrates-first-east-WXojw2sPSvSZjLfeOCulTg",
+      "description": "The pontiff urged world leaders to choose peace \"through dialogue\" in his inaugural Urbi et Orbi address before 50,000 people in St. Peter's Square.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T11:32:29Z",
+      "sourceCount": "15 sources"
+    },
+    {
       "title": "Israel halted strikes, shared intel to aid US airman rescue in Iran",
       "url": "https://www.perplexity.ai/page/israel-halted-strikes-shared-i-qu5AOlNSTfWXqXOnPRuWuw",
       "description": "An Israeli military official confirmed that Israel suspended airstrikes and provided intelligence to support the rescue of a downed F-15E crew member.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-31T14:47:57Z",
       "sourceCount": "33 sources"
-    },
-    {
-      "title": "Judge permanently blocks Trump order defunding NPR, PBS",
-      "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
-      "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:22:53Z",
-      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-05T11:25:51Z",
+  "cached_at": "2026-04-05T11:42:36Z",
   "topics": {
     "top": [
+      {
+        "title": "Pope Leo celebrates first Easter with call to 'lay down' weapons",
+        "url": "https://www.perplexity.ai/page/pope-leo-celebrates-first-east-WXojw2sPSvSZjLfeOCulTg",
+        "description": "The pontiff urged world leaders to choose peace \"through dialogue\" in his inaugural Urbi et Orbi address before 50,000 people in St. Peter's Square.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T11:32:29Z",
+        "sourceCount": "15 sources"
+      },
       {
         "title": "Israel halted strikes, shared intel to aid US airman rescue in Iran",
         "url": "https://www.perplexity.ai/page/israel-halted-strikes-shared-i-qu5AOlNSTfWXqXOnPRuWuw",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T14:47:57Z",
         "sourceCount": "33 sources"
-      },
-      {
-        "title": "Judge permanently blocks Trump order defunding NPR, PBS",
-        "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
-        "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:22:53Z",
-        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
