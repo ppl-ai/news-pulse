@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Pakistan presses Iran, Egypt, Bahrain on ceasefire amid US-Iran war",
+      "url": "https://www.perplexity.ai/page/pakistan-presses-iran-egypt-ba-kTSuy6N4TKmO3laHT65Vxg",
+      "description": "Islamabad's foreign minister held calls Saturday promoting the China-Pakistan five-point peace plan as Tehran continues to reject temporary truces.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T07:35:56Z",
+      "sourceCount": "53 sources"
+    },
+    {
       "title": "Fires hit Abu Dhabi's Borouge plant after Iranian attack",
       "url": "https://www.perplexity.ai/page/fires-hit-abu-dhabi-s-borouge-pPlTqAtjQiW6DksHKaux5g",
       "description": "Production halted at the Ruwais petrochemicals facility after air defence debris sparked multiple fires, with no injuries reported.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-30T22:29:26Z",
       "sourceCount": "25 sources"
-    },
-    {
-      "title": "US struck Isfahan ammo depot with bunker busters",
-      "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
-      "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T02:55:43Z",
-      "sourceCount": "59 sources"
     }
   ],
-  "cached_at": "2026-04-05T07:35:17Z",
+  "cached_at": "2026-04-05T07:59:14Z",
   "topics": {
     "top": [
+      {
+        "title": "Pakistan presses Iran, Egypt, Bahrain on ceasefire amid US-Iran war",
+        "url": "https://www.perplexity.ai/page/pakistan-presses-iran-egypt-ba-kTSuy6N4TKmO3laHT65Vxg",
+        "description": "Islamabad's foreign minister held calls Saturday promoting the China-Pakistan five-point peace plan as Tehran continues to reject temporary truces.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T07:35:56Z",
+        "sourceCount": "53 sources"
+      },
       {
         "title": "Fires hit Abu Dhabi's Borouge plant after Iranian attack",
         "url": "https://www.perplexity.ai/page/fires-hit-abu-dhabi-s-borouge-pPlTqAtjQiW6DksHKaux5g",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-30T22:29:26Z",
         "sourceCount": "25 sources"
-      },
-      {
-        "title": "US struck Isfahan ammo depot with bunker busters",
-        "url": "https://www.perplexity.ai/page/us-struck-isfahan-ammo-depot-w-HDHnZ2qkQeCpbs4Fj7G2QQ",
-        "description": "Trump shared footage of the massive secondary explosions on Truth Social as the month-old U.S.-Israeli campaign surpasses 15,000 targets struck.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T02:55:43Z",
-        "sourceCount": "59 sources"
       }
     ],
     "tech": [],
