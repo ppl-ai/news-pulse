@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Israel halted strikes, shared intel to aid US airman rescue in Iran",
+      "url": "https://www.perplexity.ai/page/israel-halted-strikes-shared-i-qu5AOlNSTfWXqXOnPRuWuw",
+      "description": "An Israeli military official confirmed that Israel suspended airstrikes and provided intelligence to support the rescue of a downed F-15E crew member.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T11:18:03Z",
+      "sourceCount": "51 sources"
+    },
+    {
       "title": "Trump's 48-hour Iran ultimatum expires Monday as strikes hit Mahshahr",
       "url": "https://www.perplexity.ai/page/trump-s-48-hour-iran-ultimatum-UmiqFqlVQ1SYQ6qbn766DQ",
       "description": "Ceasefire diplomacy has collapsed and Israeli strikes shut down Iran's largest petrochemical complex as Trump's April 6 deadline approaches.",
@@ -8,15 +17,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T10:43:43Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "Navy SEALs rescue downed F-15E airman from Iran",
-      "url": "https://www.perplexity.ai/page/navy-seals-rescue-downed-f-15e-SRemzwGYToqgA.pQTEvf9Q",
-      "description": "SEAL Team 6 extracted a wounded Air Force colonel who evaded Iranian forces for over 24 hours in mountainous terrain after his jet was shot down.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T10:42:51Z",
-      "sourceCount": "20 sources"
     },
     {
       "title": "Artemis II crew sees far side of the Moon",
@@ -440,15 +440,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T16:18:44Z",
       "sourceCount": "39 sources"
-    },
-    {
-      "title": "Iran downs 2 US warplanes, undercutting Trump's victory claims",
-      "url": "https://www.perplexity.ai/page/iran-downs-2-us-warplanes-unde-72T1eOeNQTed0OdUtu04Bw",
-      "description": "The shootdowns mark the first time manned U.S. aircraft have been brought down since the war began, with one crew member still missing.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:35:56Z",
-      "sourceCount": "45 sources"
     },
     {
       "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
@@ -1349,11 +1340,29 @@
       "topic": "top",
       "pubDate": "2026-03-31T14:47:57Z",
       "sourceCount": "33 sources"
+    },
+    {
+      "title": "Judge permanently blocks Trump order defunding NPR, PBS",
+      "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
+      "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T19:22:53Z",
+      "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-05T11:10:24Z",
+  "cached_at": "2026-04-05T11:25:51Z",
   "topics": {
     "top": [
+      {
+        "title": "Israel halted strikes, shared intel to aid US airman rescue in Iran",
+        "url": "https://www.perplexity.ai/page/israel-halted-strikes-shared-i-qu5AOlNSTfWXqXOnPRuWuw",
+        "description": "An Israeli military official confirmed that Israel suspended airstrikes and provided intelligence to support the rescue of a downed F-15E crew member.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T11:18:03Z",
+        "sourceCount": "51 sources"
+      },
       {
         "title": "Trump's 48-hour Iran ultimatum expires Monday as strikes hit Mahshahr",
         "url": "https://www.perplexity.ai/page/trump-s-48-hour-iran-ultimatum-UmiqFqlVQ1SYQ6qbn766DQ",
@@ -1362,15 +1371,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T10:43:43Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "Navy SEALs rescue downed F-15E airman from Iran",
-        "url": "https://www.perplexity.ai/page/navy-seals-rescue-downed-f-15e-SRemzwGYToqgA.pQTEvf9Q",
-        "description": "SEAL Team 6 extracted a wounded Air Force colonel who evaded Iranian forces for over 24 hours in mountainous terrain after his jet was shot down.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T10:42:51Z",
-        "sourceCount": "20 sources"
       },
       {
         "title": "Artemis II crew sees far side of the Moon",
@@ -1794,15 +1794,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T16:18:44Z",
         "sourceCount": "39 sources"
-      },
-      {
-        "title": "Iran downs 2 US warplanes, undercutting Trump's victory claims",
-        "url": "https://www.perplexity.ai/page/iran-downs-2-us-warplanes-unde-72T1eOeNQTed0OdUtu04Bw",
-        "description": "The shootdowns mark the first time manned U.S. aircraft have been brought down since the war began, with one crew member still missing.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:35:56Z",
-        "sourceCount": "45 sources"
       },
       {
         "title": "Hamas accuses Israel of fabricating threats to justify Gaza ceasefire violations",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T14:47:57Z",
         "sourceCount": "33 sources"
+      },
+      {
+        "title": "Judge permanently blocks Trump order defunding NPR, PBS",
+        "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
+        "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T19:22:53Z",
+        "sourceCount": "28 sources"
       }
     ],
     "tech": [],
