@@ -1,6 +1,33 @@
 {
   "stories": [
     {
+      "title": "Iran launches Wave 96 strikes on Israel and Gulf energy sites",
+      "url": "https://www.perplexity.ai/page/iran-launches-wave-96-strikes-azmfVs_3S.Owz1zzp6uhsw",
+      "description": "The IRGC said Sunday's missile and drone barrage targeted a Haifa building and oil facilities in the UAE, Bahrain, and Kuwait.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T17:38:47Z",
+      "sourceCount": "57 sources"
+    },
+    {
+      "title": "Kaine warns Congress won't 'write a blank check' for $1.5T defense budget",
+      "url": "https://www.perplexity.ai/page/kaine-warns-congress-won-t-wri-5JjqkB5BThSnspRnCmGcNw",
+      "description": "The Virginia senator cited recent Pentagon firings and the Iran war as reasons to scrutinize the record military spending request.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T17:28:43Z",
+      "sourceCount": "30 sources"
+    },
+    {
+      "title": "Iran surpasses 500 ballistic missiles fired at Israel in five-week war",
+      "url": "https://www.perplexity.ai/page/iran-surpasses-500-ballistic-m-jBqutH7fQkuE0hR5uSJijg",
+      "description": "Half of the missiles have carried cluster munitions, which scatter dozens of bomblets that overwhelm Israel's air defenses, killing at least four civilians.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T17:28:34Z",
+      "sourceCount": "54 sources"
+    },
+    {
       "title": "Putin's approval hits lowest point since Ukraine invasion",
       "url": "https://www.perplexity.ai/page/putin-s-approval-hits-lowest-p-v4Dhlz_PT9KurlsHDS8Beg",
       "description": "Russia's Telegram ban triggered a banking outage and a sharp drop in public trust, with approval falling to pre-invasion levels.",
@@ -307,13 +334,13 @@
       "sourceCount": "40 sources"
     },
     {
-      "title": "Trump's $1.5T defense budget draws fire from both parties",
-      "url": "https://www.perplexity.ai/page/trump-s-1-5t-defense-budget-dr-s21n.gc.SCSBQmplUNh8pg",
-      "description": "Sen. Collins joined Democrats in criticizing the proposal, citing insufficient Navy funding and cuts to domestic programs she called \"proven.\"",
+      "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
+      "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
+      "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T19:18:05Z",
-      "sourceCount": "31 sources"
+      "pubDate": "2026-04-04T17:58:47Z",
+      "sourceCount": "30 sources"
     },
     {
       "title": "India confirms Iranian oil purchases amid Hormuz crisis",
@@ -332,15 +359,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T17:58:13Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
-      "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
-      "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:47Z",
-      "sourceCount": "30 sources"
     },
     {
       "title": "Iran authorizes humanitarian ships through Strait of Hormuz",
@@ -1331,29 +1349,38 @@
       "topic": "top",
       "pubDate": "2026-03-31T14:47:57Z",
       "sourceCount": "33 sources"
-    },
-    {
-      "title": "Judge permanently blocks Trump order defunding NPR, PBS",
-      "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
-      "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:22:53Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Hegseth calls upcoming days 'decisive' in Iran war",
-      "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
-      "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T13:13:53Z",
-      "sourceCount": "71 sources"
     }
   ],
-  "cached_at": "2026-04-05T17:24:57Z",
+  "cached_at": "2026-04-05T17:44:17Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran launches Wave 96 strikes on Israel and Gulf energy sites",
+        "url": "https://www.perplexity.ai/page/iran-launches-wave-96-strikes-azmfVs_3S.Owz1zzp6uhsw",
+        "description": "The IRGC said Sunday's missile and drone barrage targeted a Haifa building and oil facilities in the UAE, Bahrain, and Kuwait.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T17:38:47Z",
+        "sourceCount": "57 sources"
+      },
+      {
+        "title": "Kaine warns Congress won't 'write a blank check' for $1.5T defense budget",
+        "url": "https://www.perplexity.ai/page/kaine-warns-congress-won-t-wri-5JjqkB5BThSnspRnCmGcNw",
+        "description": "The Virginia senator cited recent Pentagon firings and the Iran war as reasons to scrutinize the record military spending request.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T17:28:43Z",
+        "sourceCount": "30 sources"
+      },
+      {
+        "title": "Iran surpasses 500 ballistic missiles fired at Israel in five-week war",
+        "url": "https://www.perplexity.ai/page/iran-surpasses-500-ballistic-m-jBqutH7fQkuE0hR5uSJijg",
+        "description": "Half of the missiles have carried cluster munitions, which scatter dozens of bomblets that overwhelm Israel's air defenses, killing at least four civilians.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T17:28:34Z",
+        "sourceCount": "54 sources"
+      },
       {
         "title": "Putin's approval hits lowest point since Ukraine invasion",
         "url": "https://www.perplexity.ai/page/putin-s-approval-hits-lowest-p-v4Dhlz_PT9KurlsHDS8Beg",
@@ -1661,13 +1688,13 @@
         "sourceCount": "40 sources"
       },
       {
-        "title": "Trump's $1.5T defense budget draws fire from both parties",
-        "url": "https://www.perplexity.ai/page/trump-s-1-5t-defense-budget-dr-s21n.gc.SCSBQmplUNh8pg",
-        "description": "Sen. Collins joined Democrats in criticizing the proposal, citing insufficient Navy funding and cuts to domestic programs she called \"proven.\"",
+        "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
+        "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
+        "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T19:18:05Z",
-        "sourceCount": "31 sources"
+        "pubDate": "2026-04-04T17:58:47Z",
+        "sourceCount": "30 sources"
       },
       {
         "title": "India confirms Iranian oil purchases amid Hormuz crisis",
@@ -1686,15 +1713,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T17:58:13Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
-        "url": "https://www.perplexity.ai/page/iran-rapidly-repairing-bombed-vT.D9TeUS3i8KqZSNX01Dg",
-        "description": "Intelligence assessments show Iranian forces restoring struck bunkers within hours, even as Trump projects the war will end in weeks.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:47Z",
-        "sourceCount": "30 sources"
       },
       {
         "title": "Iran authorizes humanitarian ships through Strait of Hormuz",
@@ -2685,24 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T14:47:57Z",
         "sourceCount": "33 sources"
-      },
-      {
-        "title": "Judge permanently blocks Trump order defunding NPR, PBS",
-        "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
-        "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:22:53Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Hegseth calls upcoming days 'decisive' in Iran war",
-        "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
-        "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T13:13:53Z",
-        "sourceCount": "71 sources"
       }
     ],
     "tech": [],
