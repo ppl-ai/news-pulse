@@ -1,13 +1,58 @@
 {
   "stories": [
     {
-      "title": "U.S. destroyed own aircraft in Iran during rescue of downed F-15E crew member",
-      "url": "https://www.perplexity.ai/page/u-s-destroyed-own-aircraft-in-wGv01v4oThWuURP4nTz8ZQ",
-      "description": "Special Operations forces rescued a colonel who evaded Iranian forces for over 24 hours, but two MC-130J planes had to be blown up after getting stuck.",
+      "title": "Trump's 48-hour Iran ultimatum expires Monday as strikes hit Mahshahr",
+      "url": "https://www.perplexity.ai/page/trump-s-48-hour-iran-ultimatum-UmiqFqlVQ1SYQ6qbn766DQ",
+      "description": "Ceasefire diplomacy has collapsed and Israeli strikes shut down Iran's largest petrochemical complex as Trump's April 6 deadline approaches.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T10:28:15Z",
-      "sourceCount": "25 sources"
+      "pubDate": "2026-04-05T10:43:43Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Navy SEALs rescue downed F-15E airman from Iran",
+      "url": "https://www.perplexity.ai/page/navy-seals-rescue-downed-f-15e-SRemzwGYToqgA.pQTEvf9Q",
+      "description": "SEAL Team 6 extracted a wounded Air Force colonel who evaded Iranian forces for over 24 hours in mountainous terrain after his jet was shot down.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:42:51Z",
+      "sourceCount": "20 sources"
+    },
+    {
+      "title": "Artemis II crew sees far side of the Moon",
+      "url": "https://www.perplexity.ai/page/artemis-ii-crew-sees-far-side-HkwdiiNjSqaY8DXeVirDEA",
+      "description": "The four astronauts aboard the Orion spacecraft shared their observations of the lunar far side in a BBC interview on Saturday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:33:11Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Iran war oil shock fuels stagflation warnings worldwide",
+      "url": "https://www.perplexity.ai/page/iran-war-oil-shock-fuels-stagf-IieOhmT2RiSH8kclSFLYlw",
+      "description": "Crude prices have surged past $110 a barrel since Iran's full blockade of the Strait of Hormuz, prompting central banks to pause rate cuts and economists to warn of stagflation.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:29:32Z",
+      "sourceCount": "43 sources"
+    },
+    {
+      "title": "Israeli drone strike kills 4 in Gaza City amid fragile ceasefire",
+      "url": "https://www.perplexity.ai/page/israeli-drone-strike-kills-4-i-bbXXg9vvSFGbpAbjlnXMyA",
+      "description": "Gaza's health ministry says more than 700 Palestinians have been killed by Israeli fire since the U.S.-brokered truce began in October.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:28:22Z",
+      "sourceCount": "51 sources"
+    },
+    {
+      "title": "Saudi Arabia deploys first Arab satellite on Artemis II mission",
+      "url": "https://www.perplexity.ai/page/saudi-arabia-deploys-first-ara-RIPTwYArSx.vE.Y_rspj0w",
+      "description": "The Shams CubeSat, built domestically under Vision 2030, is now studying space weather from a high elliptical orbit after Saturday's deployment.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:32:53Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "White House denies Trump was hospitalized amid viral Walter Reed rumors",
@@ -19,15 +64,6 @@
       "sourceCount": "26 sources"
     },
     {
-      "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
-      "url": "https://www.perplexity.ai/page/gulf-nations-mobilize-to-secur-faSfpKwMRqWSXyxA5bi3Cw",
-      "description": "The UAE, Qatar, and Jordan are deploying inspections, strategic reserves, and emergency financing to counter Strait of Hormuz disruptions.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T10:20:07Z",
-      "sourceCount": "38 sources"
-    },
-    {
       "title": "Ousted Army chief's farewell urges 'leaders of character'",
       "url": "https://www.perplexity.ai/page/ousted-army-chief-s-farewell-u-Xk7kYaakSNOPWXZFUkVdIg",
       "description": "Gen. Randy George sent a pointed farewell letter days after Defense Secretary Hegseth forced him into immediate retirement during the Iran war.",
@@ -37,6 +73,15 @@
       "sourceCount": "39 sources"
     },
     {
+      "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
+      "url": "https://www.perplexity.ai/page/gulf-nations-mobilize-to-secur-faSfpKwMRqWSXyxA5bi3Cw",
+      "description": "The UAE, Qatar, and Jordan are deploying inspections, strategic reserves, and emergency financing to counter Strait of Hormuz disruptions.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T10:20:07Z",
+      "sourceCount": "38 sources"
+    },
+    {
       "title": "Zelenskyy warns prolonged Iran war is eroding US support for Ukraine",
       "url": "https://www.perplexity.ai/page/zelenskyy-warns-prolonged-iran-q6dHl354RD6Ztwp.N75geg",
       "description": "In an AP interview in Istanbul, the Ukrainian president said Patriot missile deliveries are shrinking as Washington's focus shifts to the Middle East.",
@@ -44,15 +89,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T10:15:21Z",
       "sourceCount": "28 sources"
-    },
-    {
-      "title": "OPEC+ meets as oil tops $109 amid Iran war supply crisis",
-      "url": "https://www.perplexity.ai/page/opec-meets-as-oil-tops-109-ami-EtYV8owER_efNd5JL8LNHA",
-      "description": "The group is set to review its planned output increase Sunday as the Strait of Hormuz blockade slashes global crude shipments.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T10:11:03Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "UN says regional tensions divert focus from Gaza crisis",
@@ -80,15 +116,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T10:07:50Z",
       "sourceCount": "41 sources"
-    },
-    {
-      "title": "Israel strikes over 120 targets in Iran in 24 hours",
-      "url": "https://www.perplexity.ai/page/israel-strikes-over-120-target-xa323AkZQOi_iPcdCXVUpQ",
-      "description": "The IDF says it hit IRGC missile sites, drone facilities, and air defenses as the U.S. rescued a downed F-15E crew member from the Zagros Mountains.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T10:05:25Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "Explosives found near Serbia-Hungary gas pipeline; Orban convenes emergency defense council",
@@ -163,15 +190,6 @@
       "sourceCount": "42 sources"
     },
     {
-      "title": "U.S. forces rescue second F-15E crew member from Iran after firefight",
-      "url": "https://www.perplexity.ai/page/u-s-forces-rescue-second-f-15e-bu38FtdqS_.v8J7mjHt2RQ",
-      "description": "Special operations teams extracted the weapons systems officer who had been evading capture for over 24 hours in southwestern Iran.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T04:14:51Z",
-      "sourceCount": "36 sources"
-    },
-    {
       "title": "JBS workers end three-week strike, will return Tuesday without a new contract",
       "url": "https://www.perplexity.ai/page/jbs-workers-end-three-week-str-RBsrhkd6RdOgKes1pGUO.g",
       "description": "About 3,800 meatpacking workers at the Greeley, Colorado, plant will resume work as negotiations are set for April 9 and 10.",
@@ -208,13 +226,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Artemis II crew prepares for Monday lunar flyby",
-      "url": "https://www.perplexity.ai/page/artemis-ii-crew-prepares-for-m-iIOU9pArRKSHsMFy.kk39A",
-      "description": "On their fourth day in space, the four astronauts are more than halfway to the Moon and readying for a record-breaking flyby.",
+      "title": "US wage growth hits slowest pace since 2021 as Iran war stokes inflation fears",
+      "url": "https://www.perplexity.ai/page/us-wage-growth-hits-slowest-pa-PX9OI_ehSJOVDJiW4IWZfQ",
+      "description": "Annual earnings growth for production workers fell to 3.4% in March, well below the 4.2% inflation rate the OECD projects for 2026.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T21:18:01Z",
-      "sourceCount": "28 sources"
+      "pubDate": "2026-04-04T21:15:53Z",
+      "sourceCount": "42 sources"
     },
     {
       "title": "Israel warns it will strike Lebanon-Syria border crossing",
@@ -235,13 +253,13 @@
       "sourceCount": "37 sources"
     },
     {
-      "title": "US wage growth hits slowest pace since 2021 as Iran war stokes inflation fears",
-      "url": "https://www.perplexity.ai/page/us-wage-growth-hits-slowest-pa-PX9OI_ehSJOVDJiW4IWZfQ",
-      "description": "Annual earnings growth for production workers fell to 3.4% in March, well below the 4.2% inflation rate the OECD projects for 2026.",
+      "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
+      "url": "https://www.perplexity.ai/page/who-warns-of-humanitarian-cris-PypgU3yqRhGJNaVctLRVnQ",
+      "description": "WHO has verified over 20 attacks on healthcare in Iran since March 1, as strikes continue to cripple medical infrastructure across the country.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T21:15:53Z",
-      "sourceCount": "42 sources"
+      "pubDate": "2026-04-04T21:03:31Z",
+      "sourceCount": "26 sources"
     },
     {
       "title": "IAEA confirms strike near Bushehr nuclear plant kills guard no leak",
@@ -251,15 +269,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T00:07:46Z",
       "sourceCount": "27 sources"
-    },
-    {
-      "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
-      "url": "https://www.perplexity.ai/page/who-warns-of-humanitarian-cris-PypgU3yqRhGJNaVctLRVnQ",
-      "description": "WHO has verified over 20 attacks on healthcare in Iran since March 1, as strikes continue to cripple medical infrastructure across the country.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T21:03:31Z",
-      "sourceCount": "26 sources"
     },
     {
       "title": "Meloni offers to help rebuild Qatar's war-damaged gas infrastructure",
@@ -458,15 +467,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T14:38:03Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "UAE intercepts 79 Iranian projectiles as strikes batter Gulf infrastructure",
-      "url": "https://www.perplexity.ai/page/uae-intercepts-79-iranian-proj-llVn9jYER3GOKQPAxgzC6Q",
-      "description": "Saturday's wave brought total interceptions since Feb. 28 to nearly 2,700, as key energy and industrial sites sustain growing damage.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T14:13:57Z",
-      "sourceCount": "42 sources"
     },
     {
       "title": "Interception debris strikes Oracle building in Dubai amid Iran conflict",
@@ -1351,17 +1351,62 @@
       "sourceCount": "28 sources"
     }
   ],
-  "cached_at": "2026-04-05T10:35:33Z",
+  "cached_at": "2026-04-05T10:54:55Z",
   "topics": {
     "top": [
       {
-        "title": "U.S. destroyed own aircraft in Iran during rescue of downed F-15E crew member",
-        "url": "https://www.perplexity.ai/page/u-s-destroyed-own-aircraft-in-wGv01v4oThWuURP4nTz8ZQ",
-        "description": "Special Operations forces rescued a colonel who evaded Iranian forces for over 24 hours, but two MC-130J planes had to be blown up after getting stuck.",
+        "title": "Trump's 48-hour Iran ultimatum expires Monday as strikes hit Mahshahr",
+        "url": "https://www.perplexity.ai/page/trump-s-48-hour-iran-ultimatum-UmiqFqlVQ1SYQ6qbn766DQ",
+        "description": "Ceasefire diplomacy has collapsed and Israeli strikes shut down Iran's largest petrochemical complex as Trump's April 6 deadline approaches.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T10:28:15Z",
-        "sourceCount": "25 sources"
+        "pubDate": "2026-04-05T10:43:43Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Navy SEALs rescue downed F-15E airman from Iran",
+        "url": "https://www.perplexity.ai/page/navy-seals-rescue-downed-f-15e-SRemzwGYToqgA.pQTEvf9Q",
+        "description": "SEAL Team 6 extracted a wounded Air Force colonel who evaded Iranian forces for over 24 hours in mountainous terrain after his jet was shot down.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:42:51Z",
+        "sourceCount": "20 sources"
+      },
+      {
+        "title": "Artemis II crew sees far side of the Moon",
+        "url": "https://www.perplexity.ai/page/artemis-ii-crew-sees-far-side-HkwdiiNjSqaY8DXeVirDEA",
+        "description": "The four astronauts aboard the Orion spacecraft shared their observations of the lunar far side in a BBC interview on Saturday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:33:11Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Iran war oil shock fuels stagflation warnings worldwide",
+        "url": "https://www.perplexity.ai/page/iran-war-oil-shock-fuels-stagf-IieOhmT2RiSH8kclSFLYlw",
+        "description": "Crude prices have surged past $110 a barrel since Iran's full blockade of the Strait of Hormuz, prompting central banks to pause rate cuts and economists to warn of stagflation.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:29:32Z",
+        "sourceCount": "43 sources"
+      },
+      {
+        "title": "Israeli drone strike kills 4 in Gaza City amid fragile ceasefire",
+        "url": "https://www.perplexity.ai/page/israeli-drone-strike-kills-4-i-bbXXg9vvSFGbpAbjlnXMyA",
+        "description": "Gaza's health ministry says more than 700 Palestinians have been killed by Israeli fire since the U.S.-brokered truce began in October.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:28:22Z",
+        "sourceCount": "51 sources"
+      },
+      {
+        "title": "Saudi Arabia deploys first Arab satellite on Artemis II mission",
+        "url": "https://www.perplexity.ai/page/saudi-arabia-deploys-first-ara-RIPTwYArSx.vE.Y_rspj0w",
+        "description": "The Shams CubeSat, built domestically under Vision 2030, is now studying space weather from a high elliptical orbit after Saturday's deployment.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:32:53Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "White House denies Trump was hospitalized amid viral Walter Reed rumors",
@@ -1373,15 +1418,6 @@
         "sourceCount": "26 sources"
       },
       {
-        "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
-        "url": "https://www.perplexity.ai/page/gulf-nations-mobilize-to-secur-faSfpKwMRqWSXyxA5bi3Cw",
-        "description": "The UAE, Qatar, and Jordan are deploying inspections, strategic reserves, and emergency financing to counter Strait of Hormuz disruptions.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T10:20:07Z",
-        "sourceCount": "38 sources"
-      },
-      {
         "title": "Ousted Army chief's farewell urges 'leaders of character'",
         "url": "https://www.perplexity.ai/page/ousted-army-chief-s-farewell-u-Xk7kYaakSNOPWXZFUkVdIg",
         "description": "Gen. Randy George sent a pointed farewell letter days after Defense Secretary Hegseth forced him into immediate retirement during the Iran war.",
@@ -1391,6 +1427,15 @@
         "sourceCount": "39 sources"
       },
       {
+        "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
+        "url": "https://www.perplexity.ai/page/gulf-nations-mobilize-to-secur-faSfpKwMRqWSXyxA5bi3Cw",
+        "description": "The UAE, Qatar, and Jordan are deploying inspections, strategic reserves, and emergency financing to counter Strait of Hormuz disruptions.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T10:20:07Z",
+        "sourceCount": "38 sources"
+      },
+      {
         "title": "Zelenskyy warns prolonged Iran war is eroding US support for Ukraine",
         "url": "https://www.perplexity.ai/page/zelenskyy-warns-prolonged-iran-q6dHl354RD6Ztwp.N75geg",
         "description": "In an AP interview in Istanbul, the Ukrainian president said Patriot missile deliveries are shrinking as Washington's focus shifts to the Middle East.",
@@ -1398,15 +1443,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T10:15:21Z",
         "sourceCount": "28 sources"
-      },
-      {
-        "title": "OPEC+ meets as oil tops $109 amid Iran war supply crisis",
-        "url": "https://www.perplexity.ai/page/opec-meets-as-oil-tops-109-ami-EtYV8owER_efNd5JL8LNHA",
-        "description": "The group is set to review its planned output increase Sunday as the Strait of Hormuz blockade slashes global crude shipments.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T10:11:03Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "UN says regional tensions divert focus from Gaza crisis",
@@ -1434,15 +1470,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T10:07:50Z",
         "sourceCount": "41 sources"
-      },
-      {
-        "title": "Israel strikes over 120 targets in Iran in 24 hours",
-        "url": "https://www.perplexity.ai/page/israel-strikes-over-120-target-xa323AkZQOi_iPcdCXVUpQ",
-        "description": "The IDF says it hit IRGC missile sites, drone facilities, and air defenses as the U.S. rescued a downed F-15E crew member from the Zagros Mountains.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T10:05:25Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "Explosives found near Serbia-Hungary gas pipeline; Orban convenes emergency defense council",
@@ -1517,15 +1544,6 @@
         "sourceCount": "42 sources"
       },
       {
-        "title": "U.S. forces rescue second F-15E crew member from Iran after firefight",
-        "url": "https://www.perplexity.ai/page/u-s-forces-rescue-second-f-15e-bu38FtdqS_.v8J7mjHt2RQ",
-        "description": "Special operations teams extracted the weapons systems officer who had been evading capture for over 24 hours in southwestern Iran.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T04:14:51Z",
-        "sourceCount": "36 sources"
-      },
-      {
         "title": "JBS workers end three-week strike, will return Tuesday without a new contract",
         "url": "https://www.perplexity.ai/page/jbs-workers-end-three-week-str-RBsrhkd6RdOgKes1pGUO.g",
         "description": "About 3,800 meatpacking workers at the Greeley, Colorado, plant will resume work as negotiations are set for April 9 and 10.",
@@ -1562,13 +1580,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Artemis II crew prepares for Monday lunar flyby",
-        "url": "https://www.perplexity.ai/page/artemis-ii-crew-prepares-for-m-iIOU9pArRKSHsMFy.kk39A",
-        "description": "On their fourth day in space, the four astronauts are more than halfway to the Moon and readying for a record-breaking flyby.",
+        "title": "US wage growth hits slowest pace since 2021 as Iran war stokes inflation fears",
+        "url": "https://www.perplexity.ai/page/us-wage-growth-hits-slowest-pa-PX9OI_ehSJOVDJiW4IWZfQ",
+        "description": "Annual earnings growth for production workers fell to 3.4% in March, well below the 4.2% inflation rate the OECD projects for 2026.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T21:18:01Z",
-        "sourceCount": "28 sources"
+        "pubDate": "2026-04-04T21:15:53Z",
+        "sourceCount": "42 sources"
       },
       {
         "title": "Israel warns it will strike Lebanon-Syria border crossing",
@@ -1589,13 +1607,13 @@
         "sourceCount": "37 sources"
       },
       {
-        "title": "US wage growth hits slowest pace since 2021 as Iran war stokes inflation fears",
-        "url": "https://www.perplexity.ai/page/us-wage-growth-hits-slowest-pa-PX9OI_ehSJOVDJiW4IWZfQ",
-        "description": "Annual earnings growth for production workers fell to 3.4% in March, well below the 4.2% inflation rate the OECD projects for 2026.",
+        "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
+        "url": "https://www.perplexity.ai/page/who-warns-of-humanitarian-cris-PypgU3yqRhGJNaVctLRVnQ",
+        "description": "WHO has verified over 20 attacks on healthcare in Iran since March 1, as strikes continue to cripple medical infrastructure across the country.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T21:15:53Z",
-        "sourceCount": "42 sources"
+        "pubDate": "2026-04-04T21:03:31Z",
+        "sourceCount": "26 sources"
       },
       {
         "title": "IAEA confirms strike near Bushehr nuclear plant kills guard no leak",
@@ -1605,15 +1623,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T00:07:46Z",
         "sourceCount": "27 sources"
-      },
-      {
-        "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
-        "url": "https://www.perplexity.ai/page/who-warns-of-humanitarian-cris-PypgU3yqRhGJNaVctLRVnQ",
-        "description": "WHO has verified over 20 attacks on healthcare in Iran since March 1, as strikes continue to cripple medical infrastructure across the country.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T21:03:31Z",
-        "sourceCount": "26 sources"
       },
       {
         "title": "Meloni offers to help rebuild Qatar's war-damaged gas infrastructure",
@@ -1812,15 +1821,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T14:38:03Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "UAE intercepts 79 Iranian projectiles as strikes batter Gulf infrastructure",
-        "url": "https://www.perplexity.ai/page/uae-intercepts-79-iranian-proj-llVn9jYER3GOKQPAxgzC6Q",
-        "description": "Saturday's wave brought total interceptions since Feb. 28 to nearly 2,700, as key energy and industrial sites sustain growing damage.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T14:13:57Z",
-        "sourceCount": "42 sources"
       },
       {
         "title": "Interception debris strikes Oracle building in Dubai amid Iran conflict",
