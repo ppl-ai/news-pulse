@@ -1,15 +1,6 @@
 {
   "stories": [
     {
-      "title": "Iran launches Wave 96 strikes on Israel and Gulf energy sites",
-      "url": "https://www.perplexity.ai/page/iran-launches-wave-96-strikes-azmfVs_3S.Owz1zzp6uhsw",
-      "description": "The IRGC said Sunday's missile and drone barrage targeted a Haifa building and oil facilities in the UAE, Bahrain, and Kuwait.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T17:38:47Z",
-      "sourceCount": "57 sources"
-    },
-    {
       "title": "Kaine warns Congress won't 'write a blank check' for $1.5T defense budget",
       "url": "https://www.perplexity.ai/page/kaine-warns-congress-won-t-wri-5JjqkB5BThSnspRnCmGcNw",
       "description": "The Virginia senator cited recent Pentagon firings and the Iran war as reasons to scrutinize the record military spending request.",
@@ -17,15 +8,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T17:28:43Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "Iran surpasses 500 ballistic missiles fired at Israel in five-week war",
-      "url": "https://www.perplexity.ai/page/iran-surpasses-500-ballistic-m-jBqutH7fQkuE0hR5uSJijg",
-      "description": "Half of the missiles have carried cluster munitions, which scatter dozens of bomblets that overwhelm Israel's air defenses, killing at least four civilians.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T17:28:34Z",
-      "sourceCount": "54 sources"
     },
     {
       "title": "Putin's approval hits lowest point since Ukraine invasion",
@@ -109,15 +91,6 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "Zelenskyy makes first visit to Syria for defense talks",
-      "url": "https://www.perplexity.ai/page/zelenskyy-makes-first-visit-to-oM1glYVQQq6J4LGraV.wWA",
-      "description": "The trip follows a Gulf tour and Istanbul stop as Ukraine leverages its drone expertise to build alliances amid escalating Middle East conflict.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T13:06:53Z",
-      "sourceCount": "109 sources"
-    },
-    {
       "title": "Pope Leo celebrates first Easter with call to 'lay down' weapons",
       "url": "https://www.perplexity.ai/page/pope-leo-celebrates-first-east-WXojw2sPSvSZjLfeOCulTg",
       "description": "The pontiff urged world leaders to choose peace \"through dialogue\" in his inaugural Urbi et Orbi address before 50,000 people in St. Peter's Square.",
@@ -127,13 +100,13 @@
       "sourceCount": "15 sources"
     },
     {
-      "title": "Trump aides push legal case for striking Iran's civilian infrastructure",
-      "url": "https://www.perplexity.ai/page/trump-aides-push-legal-case-fo-yYTM3TccQ8mdy3e6rm9QTg",
-      "description": "Defense Secretary Hegseth and senior advisors argued that bridges and power plants are legitimate military targets, but legal experts warn strikes could violate international law.",
+      "title": "US has lost at least 7 aircraft in Iran war, CNN reports",
+      "url": "https://www.perplexity.ai/page/us-has-lost-at-least-7-aircraf-aXjyEobWTSK_zSUlVurTeA",
+      "description": "Two fighter jets downed Friday brought the total manned aircraft lost in Operation Epic Fury to seven, undercutting claims of air dominance.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T14:14:20Z",
-      "sourceCount": "35 sources"
+      "pubDate": "2026-04-05T11:11:06Z",
+      "sourceCount": "43 sources"
     },
     {
       "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
@@ -154,13 +127,13 @@
       "sourceCount": "64 sources"
     },
     {
-      "title": "Trump vows to hit Iran's power plants, bridges Tuesday",
-      "url": "https://www.perplexity.ai/page/trump-vows-to-hit-iran-s-power-wyyRYh4rTPGS3x6S3ZFf0Q",
-      "description": "The president escalated his ultimatum Sunday, demanding Iran reopen the Strait of Hormuz in a profanity-laced Truth Social post.",
+      "title": "Trump aides push legal case for striking Iran's civilian infrastructure",
+      "url": "https://www.perplexity.ai/page/trump-aides-push-legal-case-fo-yYTM3TccQ8mdy3e6rm9QTg",
+      "description": "Defense Secretary Hegseth and senior advisors argued that bridges and power plants are legitimate military targets, but legal experts warn strikes could violate international law.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T12:42:34Z",
-      "sourceCount": "94 sources"
+      "pubDate": "2026-04-05T14:14:20Z",
+      "sourceCount": "35 sources"
     },
     {
       "title": "Iran hangs two more protesters as execution wave accelerates",
@@ -181,13 +154,13 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "US has lost at least 7 aircraft in Iran war, CNN reports",
-      "url": "https://www.perplexity.ai/page/us-has-lost-at-least-7-aircraf-aXjyEobWTSK_zSUlVurTeA",
-      "description": "Two fighter jets downed Friday brought the total manned aircraft lost in Operation Epic Fury to seven, undercutting claims of air dominance.",
+      "title": "Trump vows to hit Iran's power plants, bridges Tuesday",
+      "url": "https://www.perplexity.ai/page/trump-vows-to-hit-iran-s-power-wyyRYh4rTPGS3x6S3ZFf0Q",
+      "description": "The president escalated his ultimatum Sunday, demanding Iran reopen the Strait of Hormuz in a profanity-laced Truth Social post.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T11:11:06Z",
-      "sourceCount": "43 sources"
+      "pubDate": "2026-04-05T12:42:34Z",
+      "sourceCount": "94 sources"
     },
     {
       "title": "Iran's grip on Strait of Hormuz fuels growing recession fears worldwide",
@@ -197,33 +170,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T01:28:12Z",
       "sourceCount": "43 sources"
-    },
-    {
-      "title": "Israel warns it will strike Lebanon-Syria border crossing",
-      "url": "https://www.perplexity.ai/page/israel-warns-it-will-strike-le-kd58mvyGSZWVOIL2Yn0KZQ",
-      "description": "The IDF said Saturday it plans to hit the Masnaa crossing, accusing Hezbollah of using it for weapons smuggling, as strikes expand across Iran and Lebanon.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T01:13:35Z",
-      "sourceCount": "36 sources"
-    },
-    {
-      "title": "US commits nearly all JASSM-ER cruise missiles to Iran war",
-      "url": "https://www.perplexity.ai/page/us-commits-nearly-all-jassm-er-.9k3oNNiSXi8NwACmPe6_w",
-      "description": "Only 425 of the stealth weapons remain available globally after the Pentagon ordered transfers from Pacific and domestic stockpiles, Bloomberg reported.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T00:28:31Z",
-      "sourceCount": "28 sources"
-    },
-    {
-      "title": "Trump eyes promoting Dhillon, demoting Woodward at DOJ",
-      "url": "https://www.perplexity.ai/page/trump-eyes-promoting-dhillon-d-WHviHYOcSfqeJCEL9c8xFw",
-      "description": "Days after firing Attorney General Pam Bondi, the president is weighing further leadership changes at the Justice Department, according to CBS News.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T22:13:31Z",
-      "sourceCount": "37 sources"
     },
     {
       "title": "IAEA confirms strike near Bushehr nuclear plant kills guard no leak",
@@ -244,6 +190,15 @@
       "sourceCount": "28 sources"
     },
     {
+      "title": "Trump eyes promoting Dhillon, demoting Woodward at DOJ",
+      "url": "https://www.perplexity.ai/page/trump-eyes-promoting-dhillon-d-WHviHYOcSfqeJCEL9c8xFw",
+      "description": "Days after firing Attorney General Pam Bondi, the president is weighing further leadership changes at the Justice Department, according to CBS News.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T22:13:31Z",
+      "sourceCount": "37 sources"
+    },
+    {
       "title": "US wage growth hits slowest pace since 2021 as Iran war stokes inflation fears",
       "url": "https://www.perplexity.ai/page/us-wage-growth-hits-slowest-pa-PX9OI_ehSJOVDJiW4IWZfQ",
       "description": "Annual earnings growth for production workers fell to 3.4% in March, well below the 4.2% inflation rate the OECD projects for 2026.",
@@ -251,6 +206,24 @@
       "topic": "top",
       "pubDate": "2026-04-04T21:15:53Z",
       "sourceCount": "42 sources"
+    },
+    {
+      "title": "Israel warns it will strike Lebanon-Syria border crossing",
+      "url": "https://www.perplexity.ai/page/israel-warns-it-will-strike-le-kd58mvyGSZWVOIL2Yn0KZQ",
+      "description": "The IDF said Saturday it plans to hit the Masnaa crossing, accusing Hezbollah of using it for weapons smuggling, as strikes expand across Iran and Lebanon.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T01:13:35Z",
+      "sourceCount": "36 sources"
+    },
+    {
+      "title": "US commits nearly all JASSM-ER cruise missiles to Iran war",
+      "url": "https://www.perplexity.ai/page/us-commits-nearly-all-jassm-er-.9k3oNNiSXi8NwACmPe6_w",
+      "description": "Only 425 of the stealth weapons remain available globally after the Pentagon ordered transfers from Pacific and domestic stockpiles, Bloomberg reported.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T00:28:31Z",
+      "sourceCount": "28 sources"
     },
     {
       "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
@@ -494,15 +467,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T12:13:16Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "US-Israeli strikes hit Iran nuclear site, cement plant as war enters sixth week",
-      "url": "https://www.perplexity.ai/page/us-israeli-strikes-hit-iran-nu-z_2rnjcvR3Gn04ICeP.vVw",
-      "description": "Saturday's airstrikes targeted the Bushehr nuclear facility, a cement plant, and a border terminal as the conflict's toll surpasses 1,340 dead.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T11:33:22Z",
-      "sourceCount": "55 sources"
     },
     {
       "title": "Trump weighs broader cabinet shake-up as war frustration mounts",
@@ -1349,20 +1313,47 @@
       "topic": "top",
       "pubDate": "2026-03-31T14:47:57Z",
       "sourceCount": "33 sources"
+    },
+    {
+      "title": "Judge permanently blocks Trump order defunding NPR, PBS",
+      "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
+      "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T19:22:53Z",
+      "sourceCount": "28 sources"
+    },
+    {
+      "title": "Hegseth calls upcoming days 'decisive' in Iran war",
+      "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
+      "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T13:13:53Z",
+      "sourceCount": "71 sources"
+    },
+    {
+      "title": "Global banks turn to Chinese stocks as Iran war roils markets",
+      "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
+      "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T11:35:46Z",
+      "sourceCount": "42 sources"
+    },
+    {
+      "title": "Noem's final day at DHS arrives amid IG probe, spending scandal",
+      "url": "https://www.perplexity.ai/page/noem-s-final-day-at-dhs-arrive-oAamhQz0SFag_GS9nk682Q",
+      "description": "Markwayne Mullin takes over as secretary while investigators examine contracts and lavish ad spending tied to Noem and adviser Corey Lewandowski.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T18:12:10Z",
+      "sourceCount": "50 sources"
     }
   ],
-  "cached_at": "2026-04-05T17:44:17Z",
+  "cached_at": "2026-04-05T17:59:13Z",
   "topics": {
     "top": [
-      {
-        "title": "Iran launches Wave 96 strikes on Israel and Gulf energy sites",
-        "url": "https://www.perplexity.ai/page/iran-launches-wave-96-strikes-azmfVs_3S.Owz1zzp6uhsw",
-        "description": "The IRGC said Sunday's missile and drone barrage targeted a Haifa building and oil facilities in the UAE, Bahrain, and Kuwait.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T17:38:47Z",
-        "sourceCount": "57 sources"
-      },
       {
         "title": "Kaine warns Congress won't 'write a blank check' for $1.5T defense budget",
         "url": "https://www.perplexity.ai/page/kaine-warns-congress-won-t-wri-5JjqkB5BThSnspRnCmGcNw",
@@ -1371,15 +1362,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T17:28:43Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "Iran surpasses 500 ballistic missiles fired at Israel in five-week war",
-        "url": "https://www.perplexity.ai/page/iran-surpasses-500-ballistic-m-jBqutH7fQkuE0hR5uSJijg",
-        "description": "Half of the missiles have carried cluster munitions, which scatter dozens of bomblets that overwhelm Israel's air defenses, killing at least four civilians.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T17:28:34Z",
-        "sourceCount": "54 sources"
       },
       {
         "title": "Putin's approval hits lowest point since Ukraine invasion",
@@ -1463,15 +1445,6 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "Zelenskyy makes first visit to Syria for defense talks",
-        "url": "https://www.perplexity.ai/page/zelenskyy-makes-first-visit-to-oM1glYVQQq6J4LGraV.wWA",
-        "description": "The trip follows a Gulf tour and Istanbul stop as Ukraine leverages its drone expertise to build alliances amid escalating Middle East conflict.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T13:06:53Z",
-        "sourceCount": "109 sources"
-      },
-      {
         "title": "Pope Leo celebrates first Easter with call to 'lay down' weapons",
         "url": "https://www.perplexity.ai/page/pope-leo-celebrates-first-east-WXojw2sPSvSZjLfeOCulTg",
         "description": "The pontiff urged world leaders to choose peace \"through dialogue\" in his inaugural Urbi et Orbi address before 50,000 people in St. Peter's Square.",
@@ -1481,13 +1454,13 @@
         "sourceCount": "15 sources"
       },
       {
-        "title": "Trump aides push legal case for striking Iran's civilian infrastructure",
-        "url": "https://www.perplexity.ai/page/trump-aides-push-legal-case-fo-yYTM3TccQ8mdy3e6rm9QTg",
-        "description": "Defense Secretary Hegseth and senior advisors argued that bridges and power plants are legitimate military targets, but legal experts warn strikes could violate international law.",
+        "title": "US has lost at least 7 aircraft in Iran war, CNN reports",
+        "url": "https://www.perplexity.ai/page/us-has-lost-at-least-7-aircraf-aXjyEobWTSK_zSUlVurTeA",
+        "description": "Two fighter jets downed Friday brought the total manned aircraft lost in Operation Epic Fury to seven, undercutting claims of air dominance.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T14:14:20Z",
-        "sourceCount": "35 sources"
+        "pubDate": "2026-04-05T11:11:06Z",
+        "sourceCount": "43 sources"
       },
       {
         "title": "Gulf nations mobilize to secure food as Iran war chokes imports",
@@ -1508,13 +1481,13 @@
         "sourceCount": "64 sources"
       },
       {
-        "title": "Trump vows to hit Iran's power plants, bridges Tuesday",
-        "url": "https://www.perplexity.ai/page/trump-vows-to-hit-iran-s-power-wyyRYh4rTPGS3x6S3ZFf0Q",
-        "description": "The president escalated his ultimatum Sunday, demanding Iran reopen the Strait of Hormuz in a profanity-laced Truth Social post.",
+        "title": "Trump aides push legal case for striking Iran's civilian infrastructure",
+        "url": "https://www.perplexity.ai/page/trump-aides-push-legal-case-fo-yYTM3TccQ8mdy3e6rm9QTg",
+        "description": "Defense Secretary Hegseth and senior advisors argued that bridges and power plants are legitimate military targets, but legal experts warn strikes could violate international law.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T12:42:34Z",
-        "sourceCount": "94 sources"
+        "pubDate": "2026-04-05T14:14:20Z",
+        "sourceCount": "35 sources"
       },
       {
         "title": "Iran hangs two more protesters as execution wave accelerates",
@@ -1535,13 +1508,13 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "US has lost at least 7 aircraft in Iran war, CNN reports",
-        "url": "https://www.perplexity.ai/page/us-has-lost-at-least-7-aircraf-aXjyEobWTSK_zSUlVurTeA",
-        "description": "Two fighter jets downed Friday brought the total manned aircraft lost in Operation Epic Fury to seven, undercutting claims of air dominance.",
+        "title": "Trump vows to hit Iran's power plants, bridges Tuesday",
+        "url": "https://www.perplexity.ai/page/trump-vows-to-hit-iran-s-power-wyyRYh4rTPGS3x6S3ZFf0Q",
+        "description": "The president escalated his ultimatum Sunday, demanding Iran reopen the Strait of Hormuz in a profanity-laced Truth Social post.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T11:11:06Z",
-        "sourceCount": "43 sources"
+        "pubDate": "2026-04-05T12:42:34Z",
+        "sourceCount": "94 sources"
       },
       {
         "title": "Iran's grip on Strait of Hormuz fuels growing recession fears worldwide",
@@ -1551,33 +1524,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T01:28:12Z",
         "sourceCount": "43 sources"
-      },
-      {
-        "title": "Israel warns it will strike Lebanon-Syria border crossing",
-        "url": "https://www.perplexity.ai/page/israel-warns-it-will-strike-le-kd58mvyGSZWVOIL2Yn0KZQ",
-        "description": "The IDF said Saturday it plans to hit the Masnaa crossing, accusing Hezbollah of using it for weapons smuggling, as strikes expand across Iran and Lebanon.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T01:13:35Z",
-        "sourceCount": "36 sources"
-      },
-      {
-        "title": "US commits nearly all JASSM-ER cruise missiles to Iran war",
-        "url": "https://www.perplexity.ai/page/us-commits-nearly-all-jassm-er-.9k3oNNiSXi8NwACmPe6_w",
-        "description": "Only 425 of the stealth weapons remain available globally after the Pentagon ordered transfers from Pacific and domestic stockpiles, Bloomberg reported.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T00:28:31Z",
-        "sourceCount": "28 sources"
-      },
-      {
-        "title": "Trump eyes promoting Dhillon, demoting Woodward at DOJ",
-        "url": "https://www.perplexity.ai/page/trump-eyes-promoting-dhillon-d-WHviHYOcSfqeJCEL9c8xFw",
-        "description": "Days after firing Attorney General Pam Bondi, the president is weighing further leadership changes at the Justice Department, according to CBS News.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T22:13:31Z",
-        "sourceCount": "37 sources"
       },
       {
         "title": "IAEA confirms strike near Bushehr nuclear plant kills guard no leak",
@@ -1598,6 +1544,15 @@
         "sourceCount": "28 sources"
       },
       {
+        "title": "Trump eyes promoting Dhillon, demoting Woodward at DOJ",
+        "url": "https://www.perplexity.ai/page/trump-eyes-promoting-dhillon-d-WHviHYOcSfqeJCEL9c8xFw",
+        "description": "Days after firing Attorney General Pam Bondi, the president is weighing further leadership changes at the Justice Department, according to CBS News.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T22:13:31Z",
+        "sourceCount": "37 sources"
+      },
+      {
         "title": "US wage growth hits slowest pace since 2021 as Iran war stokes inflation fears",
         "url": "https://www.perplexity.ai/page/us-wage-growth-hits-slowest-pa-PX9OI_ehSJOVDJiW4IWZfQ",
         "description": "Annual earnings growth for production workers fell to 3.4% in March, well below the 4.2% inflation rate the OECD projects for 2026.",
@@ -1605,6 +1560,24 @@
         "topic": "top",
         "pubDate": "2026-04-04T21:15:53Z",
         "sourceCount": "42 sources"
+      },
+      {
+        "title": "Israel warns it will strike Lebanon-Syria border crossing",
+        "url": "https://www.perplexity.ai/page/israel-warns-it-will-strike-le-kd58mvyGSZWVOIL2Yn0KZQ",
+        "description": "The IDF said Saturday it plans to hit the Masnaa crossing, accusing Hezbollah of using it for weapons smuggling, as strikes expand across Iran and Lebanon.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T01:13:35Z",
+        "sourceCount": "36 sources"
+      },
+      {
+        "title": "US commits nearly all JASSM-ER cruise missiles to Iran war",
+        "url": "https://www.perplexity.ai/page/us-commits-nearly-all-jassm-er-.9k3oNNiSXi8NwACmPe6_w",
+        "description": "Only 425 of the stealth weapons remain available globally after the Pentagon ordered transfers from Pacific and domestic stockpiles, Bloomberg reported.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T00:28:31Z",
+        "sourceCount": "28 sources"
       },
       {
         "title": "WHO warns of humanitarian crisis as Iran hospitals come under attack",
@@ -1848,15 +1821,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T12:13:16Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "US-Israeli strikes hit Iran nuclear site, cement plant as war enters sixth week",
-        "url": "https://www.perplexity.ai/page/us-israeli-strikes-hit-iran-nu-z_2rnjcvR3Gn04ICeP.vVw",
-        "description": "Saturday's airstrikes targeted the Bushehr nuclear facility, a cement plant, and a border terminal as the conflict's toll surpasses 1,340 dead.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T11:33:22Z",
-        "sourceCount": "55 sources"
       },
       {
         "title": "Trump weighs broader cabinet shake-up as war frustration mounts",
@@ -2703,6 +2667,42 @@
         "topic": "top",
         "pubDate": "2026-03-31T14:47:57Z",
         "sourceCount": "33 sources"
+      },
+      {
+        "title": "Judge permanently blocks Trump order defunding NPR, PBS",
+        "url": "https://www.perplexity.ai/page/judge-permanently-blocks-trump-LFY3AhNUREqIttlPxc91Vw",
+        "description": "U.S. District Judge Randolph Moss ruled the executive order violated the First Amendment by punishing the outlets over speech the president dislikes.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T19:22:53Z",
+        "sourceCount": "28 sources"
+      },
+      {
+        "title": "Hegseth calls upcoming days 'decisive' in Iran war",
+        "url": "https://www.perplexity.ai/page/hegseth-calls-upcoming-days-de-A6SywxnGTaeJusUuePdCBw",
+        "description": "The defense secretary pointed to mass desertions and degraded Iranian military capabilities as signs the conflict is nearing a turning point.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T13:13:53Z",
+        "sourceCount": "71 sources"
+      },
+      {
+        "title": "Global banks turn to Chinese stocks as Iran war roils markets",
+        "url": "https://www.perplexity.ai/page/global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
+        "description": "Reuters reports major banks are treating Chinese equities as a safe haven, with renewable energy stocks surging even as global indexes tumble.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T11:35:46Z",
+        "sourceCount": "42 sources"
+      },
+      {
+        "title": "Noem's final day at DHS arrives amid IG probe, spending scandal",
+        "url": "https://www.perplexity.ai/page/noem-s-final-day-at-dhs-arrive-oAamhQz0SFag_GS9nk682Q",
+        "description": "Markwayne Mullin takes over as secretary while investigators examine contracts and lavish ad spending tied to Noem and adviser Corey Lewandowski.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T18:12:10Z",
+        "sourceCount": "50 sources"
       }
     ],
     "tech": [],
