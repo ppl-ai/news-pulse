@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Hezbollah rocket hits Kiryat Shmona without warning sirens as Lebanon war intensifies",
+      "url": "https://www.perplexity.ai/page/hezbollah-rocket-hits-kiryat-s-3liqlg4eSNegEeh4ddFPig",
+      "description": "Israeli strikes killed two girls in southern Lebanon on Saturday as cross-border fighting escalated on multiple fronts.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T23:53:52Z",
+      "sourceCount": "53 sources"
+    },
+    {
       "title": "Pope Leo urges world not to 'grow numb' to war at Easter vigil",
       "url": "https://www.perplexity.ai/page/pope-leo-urges-world-not-to-gr-Gkif76KPRbekPlptPSGHiA",
       "description": "The first American pope led his first Easter Vigil at St. Peter's Basilica, calling on Catholics to resist paralysis and work for peace.",
@@ -17,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T22:13:31Z",
       "sourceCount": "37 sources"
-    },
-    {
-      "title": "Iran cluster bombs wound 6 in central Israel as war enters sixth week",
-      "url": "https://www.perplexity.ai/page/iran-cluster-bombs-wound-6-in-T2.h2ZrDTHaaO2H6lUvL7g",
-      "description": "Missile barrages carrying cluster munitions damaged homes across the Tel Aviv metro area Saturday, as strikes also hit Gulf energy infrastructure.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T21:29:02Z",
-      "sourceCount": "55 sources"
     },
     {
       "title": "Artemis II crew prepares for Monday lunar flyby",
@@ -1351,9 +1351,18 @@
       "sourceCount": "45 sources"
     }
   ],
-  "cached_at": "2026-04-04T23:50:07Z",
+  "cached_at": "2026-04-05T00:01:57Z",
   "topics": {
     "top": [
+      {
+        "title": "Hezbollah rocket hits Kiryat Shmona without warning sirens as Lebanon war intensifies",
+        "url": "https://www.perplexity.ai/page/hezbollah-rocket-hits-kiryat-s-3liqlg4eSNegEeh4ddFPig",
+        "description": "Israeli strikes killed two girls in southern Lebanon on Saturday as cross-border fighting escalated on multiple fronts.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T23:53:52Z",
+        "sourceCount": "53 sources"
+      },
       {
         "title": "Pope Leo urges world not to 'grow numb' to war at Easter vigil",
         "url": "https://www.perplexity.ai/page/pope-leo-urges-world-not-to-gr-Gkif76KPRbekPlptPSGHiA",
@@ -1371,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T22:13:31Z",
         "sourceCount": "37 sources"
-      },
-      {
-        "title": "Iran cluster bombs wound 6 in central Israel as war enters sixth week",
-        "url": "https://www.perplexity.ai/page/iran-cluster-bombs-wound-6-in-T2.h2ZrDTHaaO2H6lUvL7g",
-        "description": "Missile barrages carrying cluster munitions damaged homes across the Tel Aviv metro area Saturday, as strikes also hit Gulf energy infrastructure.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T21:29:02Z",
-        "sourceCount": "55 sources"
       },
       {
         "title": "Artemis II crew prepares for Monday lunar flyby",
