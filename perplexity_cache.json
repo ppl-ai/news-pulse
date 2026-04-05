@@ -1,13 +1,13 @@
 {
   "stories": [
     {
-      "title": "Pope Leo XIV celebrates Easter Mass at the Vatican",
-      "url": "https://www.perplexity.ai/page/pope-leo-xiv-celebrates-easter-MmfuTbJOTi.oH5zHzGx2uQ",
-      "description": "The pontiff's Urbi et Orbi blessing follows a vigil homily urging the world's 1.4 billion Catholics not to grow numb to war.",
+      "title": "Pope Leo XIV leads first Easter Vigil with plea for peace",
+      "url": "https://www.perplexity.ai/page/pope-leo-xiv-leads-first-easte-Hc9sah8LSlG9MtBkCCC3Ow",
+      "description": "The pontiff baptized 10 adults and urged the world not to grow numb to war during the Saturday evening ceremony at St. Peter's Basilica.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-05T05:53:18Z",
-      "sourceCount": "51 sources"
+      "pubDate": "2026-04-05T06:02:14Z",
+      "sourceCount": "15 sources"
     },
     {
       "title": "Western carriers seize routes as Iran war guts Gulf aviation hubs",
@@ -26,15 +26,6 @@
       "topic": "top",
       "pubDate": "2026-04-05T04:14:51Z",
       "sourceCount": "36 sources"
-    },
-    {
-      "title": "Pope Leo XIV to deliver first Urbi et Orbi amid war critique",
-      "url": "https://www.perplexity.ai/page/pope-leo-xiv-to-deliver-first-l873QGhnRoaHgJA5NtExsA",
-      "description": "The pope used Holy Week to condemn invoking Christianity to justify military action, contrasting sharply with Defense Secretary Hegseth's religious war rhetoric.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-05T05:53:10Z",
-      "sourceCount": "28 sources"
     },
     {
       "title": "Iran rejects Trump's 48-hour ultimatum as Gulf strikes widen",
@@ -1349,19 +1340,28 @@
       "topic": "top",
       "pubDate": "2026-03-31T00:41:39Z",
       "sourceCount": "43 sources"
+    },
+    {
+      "title": "Health groups sue EPA over mercury rule rollback for coal plants",
+      "url": "https://www.perplexity.ai/page/health-groups-sue-epa-over-mer-i54PI1KnTTG3cnnYRcuBDQ",
+      "description": "A coalition of two dozen organizations filed suit in D.C. Circuit court, arguing the repeal of tighter emissions limits endangers children and communities.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-30T22:29:26Z",
+      "sourceCount": "25 sources"
     }
   ],
-  "cached_at": "2026-04-05T06:02:50Z",
+  "cached_at": "2026-04-05T06:37:36Z",
   "topics": {
     "top": [
       {
-        "title": "Pope Leo XIV celebrates Easter Mass at the Vatican",
-        "url": "https://www.perplexity.ai/page/pope-leo-xiv-celebrates-easter-MmfuTbJOTi.oH5zHzGx2uQ",
-        "description": "The pontiff's Urbi et Orbi blessing follows a vigil homily urging the world's 1.4 billion Catholics not to grow numb to war.",
+        "title": "Pope Leo XIV leads first Easter Vigil with plea for peace",
+        "url": "https://www.perplexity.ai/page/pope-leo-xiv-leads-first-easte-Hc9sah8LSlG9MtBkCCC3Ow",
+        "description": "The pontiff baptized 10 adults and urged the world not to grow numb to war during the Saturday evening ceremony at St. Peter's Basilica.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-05T05:53:18Z",
-        "sourceCount": "51 sources"
+        "pubDate": "2026-04-05T06:02:14Z",
+        "sourceCount": "15 sources"
       },
       {
         "title": "Western carriers seize routes as Iran war guts Gulf aviation hubs",
@@ -1380,15 +1380,6 @@
         "topic": "top",
         "pubDate": "2026-04-05T04:14:51Z",
         "sourceCount": "36 sources"
-      },
-      {
-        "title": "Pope Leo XIV to deliver first Urbi et Orbi amid war critique",
-        "url": "https://www.perplexity.ai/page/pope-leo-xiv-to-deliver-first-l873QGhnRoaHgJA5NtExsA",
-        "description": "The pope used Holy Week to condemn invoking Christianity to justify military action, contrasting sharply with Defense Secretary Hegseth's religious war rhetoric.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-05T05:53:10Z",
-        "sourceCount": "28 sources"
       },
       {
         "title": "Iran rejects Trump's 48-hour ultimatum as Gulf strikes widen",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T00:41:39Z",
         "sourceCount": "43 sources"
+      },
+      {
+        "title": "Health groups sue EPA over mercury rule rollback for coal plants",
+        "url": "https://www.perplexity.ai/page/health-groups-sue-epa-over-mer-i54PI1KnTTG3cnnYRcuBDQ",
+        "description": "A coalition of two dozen organizations filed suit in D.C. Circuit court, arguing the repeal of tighter emissions limits endangers children and communities.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-30T22:29:26Z",
+        "sourceCount": "25 sources"
       }
     ],
     "tech": [],
