@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "Indonesia receives slain UN peacekeepers as UNIFIL threats mount",
+      "url": "https://www.perplexity.ai/page/indonesia-receives-slain-un-pe-3gc7uOElTvaPzCkVDzQkJw",
+      "description": "President Prabowo led a ceremony for three soldiers killed in Lebanon as Israel destroyed surveillance cameras at UN headquarters in Naqura.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T12:14:03Z",
+      "sourceCount": "27 sources"
+    },
+    {
       "title": "Iran detains dissidents' families, seizes property to silence exiled opposition",
       "url": "https://www.perplexity.ai/page/iran-detains-dissidents-famili-YrnRbBlvTha3XwVz3q6cEQ",
       "description": "Intelligence agents have arrested relatives and confiscated assets of critics abroad, according to the AP, as conflict-era crackdowns intensify.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-31T19:28:24Z",
       "sourceCount": "14 sources"
-    },
-    {
-      "title": "Trump warns European allies after Italy, France block US military access",
-      "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
-      "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-31T19:04:40Z",
-      "sourceCount": "44 sources"
     }
   ],
-  "cached_at": "2026-04-05T12:15:36Z",
+  "cached_at": "2026-04-05T12:34:33Z",
   "topics": {
     "top": [
+      {
+        "title": "Indonesia receives slain UN peacekeepers as UNIFIL threats mount",
+        "url": "https://www.perplexity.ai/page/indonesia-receives-slain-un-pe-3gc7uOElTvaPzCkVDzQkJw",
+        "description": "President Prabowo led a ceremony for three soldiers killed in Lebanon as Israel destroyed surveillance cameras at UN headquarters in Naqura.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T12:14:03Z",
+        "sourceCount": "27 sources"
+      },
       {
         "title": "Iran detains dissidents' families, seizes property to silence exiled opposition",
         "url": "https://www.perplexity.ai/page/iran-detains-dissidents-famili-YrnRbBlvTha3XwVz3q6cEQ",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-31T19:28:24Z",
         "sourceCount": "14 sources"
-      },
-      {
-        "title": "Trump warns European allies after Italy, France block US military access",
-        "url": "https://www.perplexity.ai/page/trump-warns-european-allies-af-PBFFRtqrSlSd6Y_CDg7dZA",
-        "description": "Italy denied US bombers use of a Sicilian base, and France blocked Israeli overflights carrying American weapons, deepening a NATO rift over the Iran war.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-31T19:04:40Z",
-        "sourceCount": "44 sources"
       }
     ],
     "tech": [],
