@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "title": "U.S. forces rescue second F-15E crew member from Iran after firefight",
+      "url": "https://www.perplexity.ai/page/u-s-forces-rescue-second-f-15e-bu38FtdqS_.v8J7mjHt2RQ",
+      "description": "Special operations teams extracted the weapons systems officer who had been evading capture for over 24 hours in southwestern Iran.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-05T04:14:51Z",
+      "sourceCount": "36 sources"
+    },
+    {
       "title": "Iran rejects Trump's 48-hour ultimatum as Gulf strikes widen",
       "url": "https://www.perplexity.ai/page/iran-rejects-trump-s-48-hour-u-n7zuJoIQQD26a1lppPP8YA",
       "description": "Tehran called the threat \"helpless\" and \"stupid\" as drone and missile attacks continued hitting energy infrastructure across the Gulf and Israel.",
@@ -1340,20 +1349,20 @@
       "topic": "top",
       "pubDate": "2026-03-30T23:49:06Z",
       "sourceCount": "52 sources"
-    },
-    {
-      "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
-      "url": "https://www.perplexity.ai/page/fbi-labels-temple-isreal-attac-hCIbqOQrS3qKi21OE0bD3g",
-      "description": "The bureau said Ayman Ghazali planned the March 12 ramming and shooting at Temple Israel to \"kill as many\" people as possible.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-03-30T22:08:45Z",
-      "sourceCount": "14 sources"
     }
   ],
-  "cached_at": "2026-04-05T03:47:42Z",
+  "cached_at": "2026-04-05T04:44:45Z",
   "topics": {
     "top": [
+      {
+        "title": "U.S. forces rescue second F-15E crew member from Iran after firefight",
+        "url": "https://www.perplexity.ai/page/u-s-forces-rescue-second-f-15e-bu38FtdqS_.v8J7mjHt2RQ",
+        "description": "Special operations teams extracted the weapons systems officer who had been evading capture for over 24 hours in southwestern Iran.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-05T04:14:51Z",
+        "sourceCount": "36 sources"
+      },
       {
         "title": "Iran rejects Trump's 48-hour ultimatum as Gulf strikes widen",
         "url": "https://www.perplexity.ai/page/iran-rejects-trump-s-48-hour-u-n7zuJoIQQD26a1lppPP8YA",
@@ -2694,15 +2703,6 @@
         "topic": "top",
         "pubDate": "2026-03-30T23:49:06Z",
         "sourceCount": "52 sources"
-      },
-      {
-        "title": "FBI labels Temple Isreal attack Hezbollah-inspired terrorism",
-        "url": "https://www.perplexity.ai/page/fbi-labels-temple-isreal-attac-hCIbqOQrS3qKi21OE0bD3g",
-        "description": "The bureau said Ayman Ghazali planned the March 12 ramming and shooting at Temple Israel to \"kill as many\" people as possible.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-03-30T22:08:45Z",
-        "sourceCount": "14 sources"
       }
     ],
     "tech": [],
