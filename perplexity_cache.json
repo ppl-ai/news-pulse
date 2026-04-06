@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "title": "Iran allows 15 ships through Hormuz in highest daily count since blockade",
+      "url": "https://www.perplexity.ai/page/iran-allows-15-ships-through-h-G3cC6gltSEuhhxk_OSZLVQ",
+      "description": "The IRGC Navy declared the strait will \"never revert to its former state,\" as Tehran finalizes a new Persian Gulf security framework.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-06T00:33:57Z",
+      "sourceCount": "29 sources"
+    },
+    {
+      "title": "Gulf funds near $24B deal to back Paramount's Warner takeover",
+      "url": "https://www.perplexity.ai/page/gulf-funds-near-24b-deal-to-ba-3JGjjEV8TI6VLWl1LmJDJQ",
+      "description": "Saudi Arabia's PIF, Qatar, and Abu Dhabi locked in equity stakes to back the $81 billion acquisition, the Wall Street Journal reported Sunday.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-06T00:28:40Z",
+      "sourceCount": "58 sources"
+    },
+    {
       "title": "Mullin moves fast at DHS: ends Noem policy, plans NC disaster visit",
       "url": "https://www.perplexity.ai/page/mullin-moves-fast-at-dhs-ends-DV7RKNunQfScstgIOuAnPw",
       "description": "Secretary Mullin has moved swiftly to undo Noem-era policies, rescinding a contract approval rule and pausing immigrant warehouse purchases amid an IG probe.",
@@ -397,15 +415,6 @@
       "sourceCount": "27 sources"
     },
     {
-      "title": "Iran authorizes humanitarian ships through Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/iran-authorizes-humanitarian-s-YLVahVyZTDmQQK.qxQv2jw",
-      "description": "The directive permits vessels carrying essential goods and livestock feed to reach Iranian ports, over five weeks into an effective blockade of the critical waterway.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:47:56Z",
-      "sourceCount": "29 sources"
-    },
-    {
       "title": "Witkoff and Kushner plan first visit to Kyiv after Easter",
       "url": "https://www.perplexity.ai/page/witkoff-and-kushner-plan-first-KVUKa1nIRAqKwHPbSqiO5g",
       "description": "Ukraine's Budanov says the U.S. envoys are expected to travel to Kyiv after Orthodox Easter on April 12, their first trip to the capital.",
@@ -415,15 +424,6 @@
       "sourceCount": "58 sources"
     },
     {
-      "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
-      "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
-      "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T16:41:20Z",
-      "sourceCount": "44 sources"
-    },
-    {
       "title": "Thailand probes fuel hoarding as Southeast Asia's energy crisis deepens",
       "url": "https://www.perplexity.ai/page/thailand-probes-fuel-hoarding-nIE28cvoRVKwzW1iWagq0g",
       "description": "Five weeks after Iran closed the Strait of Hormuz, Southeast Asian nations face mounting fuel shortages, soaring costs, and emergency rationing measures.",
@@ -431,6 +431,15 @@
       "topic": "top",
       "pubDate": "2026-04-04T16:36:37Z",
       "sourceCount": "28 sources"
+    },
+    {
+      "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
+      "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
+      "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-04-04T16:41:20Z",
+      "sourceCount": "44 sources"
     },
     {
       "title": "Judge blocks Trump push for race data from colleges in 17 states",
@@ -521,15 +530,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T12:13:16Z",
       "sourceCount": "24 sources"
-    },
-    {
-      "title": "Turkey confirms second ship crosses Strait of Hormuz",
-      "url": "https://www.perplexity.ai/page/turkey-confirms-second-ship-cr-6zT184NrRqOwXTX7nJeE4Q",
-      "description": "Omani tankers also charted a new southern route bypassing Iran's controlled corridor as transit volumes inch up from wartime lows.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T11:18:21Z",
-      "sourceCount": "48 sources"
     },
     {
       "title": "Trump weighs broader cabinet shake-up as war frustration mounts",
@@ -1351,9 +1351,27 @@
       "sourceCount": "33 sources"
     }
   ],
-  "cached_at": "2026-04-06T01:03:46Z",
+  "cached_at": "2026-04-06T01:46:42Z",
   "topics": {
     "top": [
+      {
+        "title": "Iran allows 15 ships through Hormuz in highest daily count since blockade",
+        "url": "https://www.perplexity.ai/page/iran-allows-15-ships-through-h-G3cC6gltSEuhhxk_OSZLVQ",
+        "description": "The IRGC Navy declared the strait will \"never revert to its former state,\" as Tehran finalizes a new Persian Gulf security framework.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-06T00:33:57Z",
+        "sourceCount": "29 sources"
+      },
+      {
+        "title": "Gulf funds near $24B deal to back Paramount's Warner takeover",
+        "url": "https://www.perplexity.ai/page/gulf-funds-near-24b-deal-to-ba-3JGjjEV8TI6VLWl1LmJDJQ",
+        "description": "Saudi Arabia's PIF, Qatar, and Abu Dhabi locked in equity stakes to back the $81 billion acquisition, the Wall Street Journal reported Sunday.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-06T00:28:40Z",
+        "sourceCount": "58 sources"
+      },
       {
         "title": "Mullin moves fast at DHS: ends Noem policy, plans NC disaster visit",
         "url": "https://www.perplexity.ai/page/mullin-moves-fast-at-dhs-ends-DV7RKNunQfScstgIOuAnPw",
@@ -1751,15 +1769,6 @@
         "sourceCount": "27 sources"
       },
       {
-        "title": "Iran authorizes humanitarian ships through Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/iran-authorizes-humanitarian-s-YLVahVyZTDmQQK.qxQv2jw",
-        "description": "The directive permits vessels carrying essential goods and livestock feed to reach Iranian ports, over five weeks into an effective blockade of the critical waterway.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:47:56Z",
-        "sourceCount": "29 sources"
-      },
-      {
         "title": "Witkoff and Kushner plan first visit to Kyiv after Easter",
         "url": "https://www.perplexity.ai/page/witkoff-and-kushner-plan-first-KVUKa1nIRAqKwHPbSqiO5g",
         "description": "Ukraine's Budanov says the U.S. envoys are expected to travel to Kyiv after Orthodox Easter on April 12, their first trip to the capital.",
@@ -1769,15 +1778,6 @@
         "sourceCount": "58 sources"
       },
       {
-        "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
-        "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
-        "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T16:41:20Z",
-        "sourceCount": "44 sources"
-      },
-      {
         "title": "Thailand probes fuel hoarding as Southeast Asia's energy crisis deepens",
         "url": "https://www.perplexity.ai/page/thailand-probes-fuel-hoarding-nIE28cvoRVKwzW1iWagq0g",
         "description": "Five weeks after Iran closed the Strait of Hormuz, Southeast Asian nations face mounting fuel shortages, soaring costs, and emergency rationing measures.",
@@ -1785,6 +1785,15 @@
         "topic": "top",
         "pubDate": "2026-04-04T16:36:37Z",
         "sourceCount": "28 sources"
+      },
+      {
+        "title": "Former Carter aide calls US a 'rogue nation' over Iran war",
+        "url": "https://www.perplexity.ai/page/former-carter-aide-calls-us-a-65KM8qPmQE2MIJ1PXBg6yg",
+        "description": "Gary Sick, who served on the National Security Council under three presidents, warned the US is \"flouting the laws of war\" as the conflict enters its sixth week.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-04-04T16:41:20Z",
+        "sourceCount": "44 sources"
       },
       {
         "title": "Judge blocks Trump push for race data from colleges in 17 states",
@@ -1875,15 +1884,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T12:13:16Z",
         "sourceCount": "24 sources"
-      },
-      {
-        "title": "Turkey confirms second ship crosses Strait of Hormuz",
-        "url": "https://www.perplexity.ai/page/turkey-confirms-second-ship-cr-6zT184NrRqOwXTX7nJeE4Q",
-        "description": "Omani tankers also charted a new southern route bypassing Iran's controlled corridor as transit volumes inch up from wartime lows.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T11:18:21Z",
-        "sourceCount": "48 sources"
       },
       {
         "title": "Trump weighs broader cabinet shake-up as war frustration mounts",
