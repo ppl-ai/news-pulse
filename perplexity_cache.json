@@ -397,13 +397,13 @@
       "sourceCount": "28 sources"
     },
     {
-      "title": "UN delays vote on Hormuz shipping resolution as Gulf states seek bypass routes",
-      "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-dnBPyrMbQsOjXHrFm1eXtQ",
-      "description": "A Bahrain-drafted Security Council resolution to authorize defensive measures protecting strait passage has been postponed until next week with no date set.",
+      "title": "India confirms Iranian oil purchases amid Hormuz crisis",
+      "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
+      "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
       "source": "Perplexity",
       "topic": "top",
-      "pubDate": "2026-04-04T17:58:42Z",
-      "sourceCount": "40 sources"
+      "pubDate": "2026-04-04T17:58:37Z",
+      "sourceCount": "67 sources"
     },
     {
       "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
@@ -413,15 +413,6 @@
       "topic": "top",
       "pubDate": "2026-04-04T17:58:47Z",
       "sourceCount": "30 sources"
-    },
-    {
-      "title": "India confirms Iranian oil purchases amid Hormuz crisis",
-      "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
-      "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
-      "source": "Perplexity",
-      "topic": "top",
-      "pubDate": "2026-04-04T17:58:37Z",
-      "sourceCount": "67 sources"
     },
     {
       "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
@@ -1349,9 +1340,18 @@
       "topic": "top",
       "pubDate": "2026-03-31T19:45:31Z",
       "sourceCount": "130 sources"
+    },
+    {
+      "title": "Judge orders UPenn to hand over Jewish employee records",
+      "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
+      "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
+      "source": "Perplexity",
+      "topic": "top",
+      "pubDate": "2026-03-31T21:03:37Z",
+      "sourceCount": "64 sources"
     }
   ],
-  "cached_at": "2026-04-06T10:24:25Z",
+  "cached_at": "2026-04-06T10:47:51Z",
   "topics": {
     "top": [
       {
@@ -1751,13 +1751,13 @@
         "sourceCount": "28 sources"
       },
       {
-        "title": "UN delays vote on Hormuz shipping resolution as Gulf states seek bypass routes",
-        "url": "https://www.perplexity.ai/page/un-delays-vote-on-hormuz-shipp-dnBPyrMbQsOjXHrFm1eXtQ",
-        "description": "A Bahrain-drafted Security Council resolution to authorize defensive measures protecting strait passage has been postponed until next week with no date set.",
+        "title": "India confirms Iranian oil purchases amid Hormuz crisis",
+        "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
+        "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
         "source": "Perplexity",
         "topic": "top",
-        "pubDate": "2026-04-04T17:58:42Z",
-        "sourceCount": "40 sources"
+        "pubDate": "2026-04-04T17:58:37Z",
+        "sourceCount": "67 sources"
       },
       {
         "title": "Iran rapidly repairing bombed missile sites, U.S. intel says",
@@ -1767,15 +1767,6 @@
         "topic": "top",
         "pubDate": "2026-04-04T17:58:47Z",
         "sourceCount": "30 sources"
-      },
-      {
-        "title": "India confirms Iranian oil purchases amid Hormuz crisis",
-        "url": "https://www.perplexity.ai/page/india-confirms-iranian-oil-pur-2Rsv.pmsR.GtmiiO2AMEgA",
-        "description": "The petroleum ministry said refiners have secured crude and LPG supplies, marking India's first Iranian oil shipment since 2019.",
-        "source": "Perplexity",
-        "topic": "top",
-        "pubDate": "2026-04-04T17:58:37Z",
-        "sourceCount": "67 sources"
       },
       {
         "title": "ICE arrests Soleimani's niece after Rubio revokes green cards",
@@ -2703,6 +2694,15 @@
         "topic": "top",
         "pubDate": "2026-03-31T19:45:31Z",
         "sourceCount": "130 sources"
+      },
+      {
+        "title": "Judge orders UPenn to hand over Jewish employee records",
+        "url": "https://www.perplexity.ai/page/judge-orders-upenn-to-hand-ove-l1_mNPmES8S.gDW4tH6ZDA",
+        "description": "The ruling gives Penn until May 1 to comply with the subpoena but bars disclosure of individuals' ties to specific Jewish organizations.",
+        "source": "Perplexity",
+        "topic": "top",
+        "pubDate": "2026-03-31T21:03:37Z",
+        "sourceCount": "64 sources"
       }
     ],
     "tech": [],
